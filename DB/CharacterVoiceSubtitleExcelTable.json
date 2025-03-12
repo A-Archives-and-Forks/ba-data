@@ -46751,6 +46751,126 @@
       "Separate": false,
       "LocalizeKR": "찾아 주셔서 감사합니다. 다음에도 부탁드리겠습니다.",
       "LocalizeJP": "ふふっ、ご来店、ありがとうございました！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이건 어때?",
+      "LocalizeJP": "味見していく？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "냠냠. 우~웅. 이쪽이야!",
+      "LocalizeJP": "はむ、もぐもぐ……\nんん……？\nはいどーぞ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우물우물. \n그러면…\n이건 어때?",
+      "LocalizeJP": "あむ……\nあ……\nこれ食べる？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "음. 음음… \n어디…\n이거 줄게!",
+      "LocalizeJP": "はむはむ……\nあ、ごめん！\nこっちあげるね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이즈미, 등장!\n맛있게 먹어!",
+      "LocalizeJP": "じゃじゃーん！\n美味しく召し上がれ～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "배고프지?\n이거야!",
+      "LocalizeJP": "お腹空いてない？\nはい、食べて！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "야호-!\n어디… 찾았다!",
+      "LocalizeJP": "やっほ～！\nこれどうぞ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어!? 이렇게나 많이? 괜찮아?\n에헤헤, 잘 먹겠습니다~!",
+      "LocalizeJP": "えっ！？こんなに？いいの？\nえへへ、いっただきま～す！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님이 준 건 전부 맛있으니까!",
+      "LocalizeJP": "どれも美味しい！ありがと、先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이렇게 받기만 해도 괜찮을까!?\n이번에, 맛집 안내해 줄게!",
+      "LocalizeJP": "こんなにもらっちゃっていいの！？\n今度、オススメのお店に連れてったげるね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "신기한 맛이었어!\n아, 이거 먹는 거 맞았지?",
+      "LocalizeJP": "不思議な味～！\nあ、これ食べ物だよね？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "올해 소원은 뭐였어, 선생님?\n나는 선생님이랑 더 오래 같이 있고 싶다고 했어!",
+      "LocalizeJP": "お参りでなにお願いした～？\n私はね、先生ともっと一緒にいれますように～ってお願いしたよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님과 같이 있으면 마음이 편안해져.\n이즈미 특제 소스를 만들었을 때보다 더!",
+      "LocalizeJP": "先生と一緒にいるとすっごくドキドキするんだ！\n私特製・秘伝ソースを作ったとき以上に、すっごく！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님, 손, 잡아도 돼?\n에헤헷! 모처럼이니, 팔짱도 낄래!",
+      "LocalizeJP": "先生、手、つないでもいいー？\nえへへっ！せっかくだから、腕組んじゃお！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님을 만나면, 왠지 모르게 행복해져.\n맛있는 것을 먹었을 때보다도,\n그리고 새로운 맛을 느꼈을 때보다도…",
+      "LocalizeJP": "先生の顔を見てると、なんだかぽかぽかするんだ……\n美味しいものを食べたときよりも、\n新しい味を見つけたときよりも。すっごく幸せ～って感じ！"
     }
   ]
 }

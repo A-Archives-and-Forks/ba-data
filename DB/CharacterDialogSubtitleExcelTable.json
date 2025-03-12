@@ -15225,6 +15225,70 @@
       "LocalizeJP": "キヴォトスでは当たり前ですが\nウェイトレスも、銃を携帯すべきだと思うんです！\n無茶なオーダーをするお客様の対応や、\n暴れ始めた食材を鎮めるための――え、違うんですか？"
     },
     {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루, 아카이브!",
+      "LocalizeJP": "ブル～アーカイブ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "새해야, 선생님! 미식 모험, 떠나지 않을래?",
+      "LocalizeJP": "あけましておめでとうー！先生！\n今年も美食の冒険へ、いざゆかーん！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "올해의 새로운\n음식에는\n뭐가 있을까?",
+      "LocalizeJP": "今年はどんな味に出会えるんだろう～？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "미~식~탐~험~\n신나는 세계!",
+      "LocalizeJP": "び～しょくの～ぼ～けん\n楽しみだなぁ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "여기에 어울리는\n음식은 어떤 걸까?",
+      "LocalizeJP": "ここだと……アレ食べたいかも！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우선 내가 만든\n특제 소스를\n가져와야지!",
+      "LocalizeJP": "まずは私特製・秘伝ソースを持ってこなきゃ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "정어리 민트 타코야키\n좋아하는 사람?",
+      "LocalizeJP": "イワシミントたこ焼き、食べない？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "미식 모험에는 어떤 위험이\n기다리고 있을지 몰라.\n그러니까 내가 이걸로\n선생님을 지켜 줄게!",
+      "LocalizeJP": "美食の冒険はときに危険が伴うもの……\nだから、私が先生を守ってあげるね！"
+    },
+    {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
       "CharacterId": 10014,
       "Duration": 0,
@@ -24447,6 +24511,110 @@
       "Separate": false,
       "LocalizeKR": "네, 잡았어요★ 이제 놓치지 않을 거예요~",
       "LocalizeJP": "はいっ、捕まえました★\nもう離しませんよ～"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자 선생님! 새해야~!",
+      "LocalizeJP": "さあ先生！新年だよ～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "미식 모험을\n시작해 볼까!",
+      "LocalizeJP": "美食を求める冒険をはじめよっか！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭔가 먹고 싶은 거 있어,\n선생님?",
+      "LocalizeJP": "食べたいものとかある？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나는 아주 많아!",
+      "LocalizeJP": "私はね、あれもこれも、ぜーんぶ食べたい！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나는 말이야.\n선생님이 맛있게\n먹고 있는 걸 그냥\n바라만 보고 있어도,",
+      "LocalizeJP": "美味しそう～に食べる先生を見ているだけで、"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "충분히 행복해!",
+      "LocalizeJP": "すっごく幸せな気持ちになるんだ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님과 있는 시간은\n모든 게 새로워.",
+      "LocalizeJP": "先生と一緒にいると、発見がいっぱい！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "새로운 맛을\n찾았을 때처럼, 말이지.",
+      "LocalizeJP": "新しい味に出会ったときみたいに、ドキドキする！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어딘가에서 들었는데,\n모험은 같이\n떠나는 게 좋대.",
+      "LocalizeJP": "冒険は仲間と行くものなんだって！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그러니까 미식 모험을\n떠날 때에는,\n선생님도 함께야!",
+      "LocalizeJP": "美食の冒険に出る時は、先生も一緒に行こ～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나도 미식연구회의\n일원이라구!",
+      "LocalizeJP": "私も美食研究会の一員だもん！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "새로운 맛을 찾는\n모험은 멈추지 않아!",
+      "LocalizeJP": "新しい味を探す冒険はやめないよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20043,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그것이 나의 미식도!",
+      "LocalizeJP": "それが私の、美食道！"
     },
     {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
