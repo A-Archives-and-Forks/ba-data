@@ -79,9 +79,11 @@
         "Operator": 0,
         "Conditions": [
           {
-            "$type": "MX.Logic.Battles.GroundConditionEndWave, BlueArchive",
+            "$type": "MX.Logic.Battles.GroundConditionClearedWaves, BlueArchive",
             "UniqueName": "Wave6",
-            "Step": 6,
+            "Waves": [
+              6
+            ],
             "ConditionID": ""
           },
           {
@@ -176,7 +178,7 @@
             {
               "$type": "MX.Logic.Battles.GroundCommandWave, BlueArchive",
               "UniqueId": "Wave1",
-              "ClearCondition": 0,
+              "ClearCondition": 1,
               "Waves": [
                 {
                   "SpawnPointCommandId": "CommandSpawn2-1",
@@ -242,7 +244,7 @@
             {
               "$type": "MX.Logic.Battles.GroundCommandWave, BlueArchive",
               "UniqueId": "",
-              "ClearCondition": 0,
+              "ClearCondition": 1,
               "Waves": [
                 {
                   "SpawnPointCommandId": "CommandSpawn2-2",
@@ -308,7 +310,7 @@
             {
               "$type": "MX.Logic.Battles.GroundCommandWave, BlueArchive",
               "UniqueId": "",
-              "ClearCondition": 0,
+              "ClearCondition": 1,
               "Waves": [
                 {
                   "SpawnPointCommandId": "CommandSpawn2-3",
@@ -374,7 +376,7 @@
             {
               "$type": "MX.Logic.Battles.GroundCommandWave, BlueArchive",
               "UniqueId": "",
-              "ClearCondition": 0,
+              "ClearCondition": 1,
               "Waves": [
                 {
                   "SpawnPointCommandId": "CommandSpawn2-4",
@@ -440,7 +442,7 @@
             {
               "$type": "MX.Logic.Battles.GroundCommandWave, BlueArchive",
               "UniqueId": "",
-              "ClearCondition": 0,
+              "ClearCondition": 1,
               "Waves": [
                 {
                   "SpawnPointCommandId": "CommandSpawn2-5",
@@ -506,7 +508,7 @@
             {
               "$type": "MX.Logic.Battles.GroundCommandWave, BlueArchive",
               "UniqueId": "Wave6",
-              "ClearCondition": 0,
+              "ClearCondition": 1,
               "Waves": [
                 {
                   "SpawnPointCommandId": "CommandSpawn2-6",

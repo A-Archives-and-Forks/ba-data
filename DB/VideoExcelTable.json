@@ -2836,6 +2836,36 @@
       ]
     },
     {
+      "Id": 6162,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_250326_1"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 6163,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_250326_2"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
       "Id": 10000,
       "Nation": [
         "All"
@@ -3415,6 +3445,21 @@
       ],
       "SoundPath": [
         "Scenario/Event/10042_Title_Sound"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 10043,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Scenario/Event/10043_Title_Video"
+      ],
+      "SoundPath": [
+        "Scenario/Event/10043_Title_Sound"
       ],
       "SoundVolume": [
         1.0

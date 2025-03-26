@@ -108496,6 +108496,3327 @@
       "IsDisplayed": true
     },
     {
+      "GroupId": 8451301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451301,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451302,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451303,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451304,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451305,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451306,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451307,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451308,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8451309,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451309,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8451309,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 150,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 220,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452301,
+      "RewardTag": "Default",
+      "RewardProb": 1500,
+      "RewardParcelType": "Item",
+      "RewardId": 221,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 150,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 400,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 9,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 3,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 150,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452302,
+      "RewardTag": "Default",
+      "RewardProb": 1500,
+      "RewardParcelType": "Item",
+      "RewardId": 151,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 150,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 400,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 3,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 9,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 130,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452303,
+      "RewardTag": "Default",
+      "RewardProb": 1500,
+      "RewardParcelType": "Item",
+      "RewardId": 131,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452304,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 300,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452304,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 8,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452304,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452304,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452304,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 160,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452304,
+      "RewardTag": "Default",
+      "RewardProb": 1500,
+      "RewardParcelType": "Item",
+      "RewardId": 161,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 150,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 11,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 11,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 221,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452305,
+      "RewardTag": "Rare",
+      "RewardProb": 800,
+      "RewardParcelType": "Item",
+      "RewardId": 222,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 150,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 500,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 300,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 17,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 151,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452306,
+      "RewardTag": "Rare",
+      "RewardProb": 800,
+      "RewardParcelType": "Item",
+      "RewardId": 152,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 150,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 300,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 500,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 17,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 131,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452307,
+      "RewardTag": "Rare",
+      "RewardProb": 800,
+      "RewardParcelType": "Item",
+      "RewardId": 132,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452308,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 400,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452308,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 16,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452308,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452308,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452308,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 161,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452308,
+      "RewardTag": "Rare",
+      "RewardProb": 800,
+      "RewardParcelType": "Item",
+      "RewardId": 162,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 150,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 16,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 16,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 221,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "Default",
+      "RewardProb": 1200,
+      "RewardParcelType": "Item",
+      "RewardId": 222,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452309,
+      "RewardTag": "Rare",
+      "RewardProb": 210,
+      "RewardParcelType": "Item",
+      "RewardId": 223,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 150,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 500,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 300,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 32,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 151,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "Default",
+      "RewardProb": 1200,
+      "RewardParcelType": "Item",
+      "RewardId": 152,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452310,
+      "RewardTag": "Rare",
+      "RewardProb": 210,
+      "RewardParcelType": "Item",
+      "RewardId": 153,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 150,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80591,
+      "RewardAmount": 300,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 500,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80592,
+      "RewardAmount": 32,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 131,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "Default",
+      "RewardProb": 1200,
+      "RewardParcelType": "Item",
+      "RewardId": 132,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452311,
+      "RewardTag": "Rare",
+      "RewardProb": 210,
+      "RewardParcelType": "Item",
+      "RewardId": 133,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452312,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452312,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 500,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452312,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452312,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 8452312,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80590,
+      "RewardAmount": 32,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452312,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 161,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452312,
+      "RewardTag": "Default",
+      "RewardProb": 1200,
+      "RewardParcelType": "Item",
+      "RewardId": 162,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8452312,
+      "RewardTag": "Rare",
+      "RewardProb": 210,
+      "RewardParcelType": "Item",
+      "RewardId": 163,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8453301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8453301,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8453302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8453302,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8453303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8453303,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8453304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 9998,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8453304,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 9998,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341301,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341302,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341303,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341304,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341305,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341306,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341307,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108341308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108341308,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 150,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342301,
+      "RewardTag": "Default",
+      "RewardProb": 1500,
+      "RewardParcelType": "Item",
+      "RewardId": 151,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 190,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342302,
+      "RewardTag": "Default",
+      "RewardProb": 1500,
+      "RewardParcelType": "Item",
+      "RewardId": 191,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 200,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342303,
+      "RewardTag": "Default",
+      "RewardProb": 1500,
+      "RewardParcelType": "Item",
+      "RewardId": 201,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 200,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 8,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 100,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342304,
+      "RewardTag": "Default",
+      "RewardProb": 1500,
+      "RewardParcelType": "Item",
+      "RewardId": 101,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 250,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 7,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 7,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 151,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342305,
+      "RewardTag": "Rare",
+      "RewardProb": 800,
+      "RewardParcelType": "Item",
+      "RewardId": 152,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 250,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 16,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 191,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342306,
+      "RewardTag": "Rare",
+      "RewardProb": 800,
+      "RewardParcelType": "Item",
+      "RewardId": 192,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 250,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 4,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 16,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 201,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342307,
+      "RewardTag": "Rare",
+      "RewardProb": 800,
+      "RewardParcelType": "Item",
+      "RewardId": 202,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 350,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 18,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 3,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 3,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 101,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342308,
+      "RewardTag": "Rare",
+      "RewardProb": 800,
+      "RewardParcelType": "Item",
+      "RewardId": 102,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 400,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 100,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 6,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 151,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "Default",
+      "RewardProb": 1200,
+      "RewardParcelType": "Item",
+      "RewardId": 152,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342309,
+      "RewardTag": "Rare",
+      "RewardProb": 210,
+      "RewardParcelType": "Item",
+      "RewardId": 153,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342310,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342310,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 600,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342310,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342310,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342310,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85291,
+      "RewardAmount": 32,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342310,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 191,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342310,
+      "RewardTag": "Default",
+      "RewardProb": 1200,
+      "RewardParcelType": "Item",
+      "RewardId": 192,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342310,
+      "RewardTag": "Rare",
+      "RewardProb": 210,
+      "RewardParcelType": "Item",
+      "RewardId": 193,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342311,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342311,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 600,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342311,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342311,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342311,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85292,
+      "RewardAmount": 32,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342311,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 201,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342311,
+      "RewardTag": "Default",
+      "RewardProb": 1200,
+      "RewardParcelType": "Item",
+      "RewardId": 202,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342311,
+      "RewardTag": "Rare",
+      "RewardProb": 210,
+      "RewardParcelType": "Item",
+      "RewardId": 203,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342312,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342312,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 600,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342312,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342312,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 108342312,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 85290,
+      "RewardAmount": 32,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342312,
+      "RewardTag": "Default",
+      "RewardProb": 2500,
+      "RewardParcelType": "Item",
+      "RewardId": 101,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342312,
+      "RewardTag": "Default",
+      "RewardProb": 1200,
+      "RewardParcelType": "Item",
+      "RewardId": 102,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108342312,
+      "RewardTag": "Rare",
+      "RewardProb": 210,
+      "RewardParcelType": "Item",
+      "RewardId": 103,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108343301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108343301,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108343302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108343302,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108343303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108343303,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108343304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 9998,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 108343304,
+      "RewardTag": "ThreeStar",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 9998,
+      "RewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
       "GroupId": 9008011301,
       "RewardTag": "FirstClear",
       "RewardProb": 10000,
@@ -114680,6 +118001,276 @@
     },
     {
       "GroupId": 9008201310,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261301,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261301,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261302,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261302,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261303,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261303,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261304,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261304,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261305,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261305,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261306,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261306,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261307,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261307,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261308,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261308,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261309,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261309,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261309,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500100,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261310,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 23,
+      "RewardAmount": 2,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008261310,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "GachaGroup",
+      "RewardId": 500000,
+      "RewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 9008261310,
       "RewardTag": "Default",
       "RewardProb": 10000,
       "RewardParcelType": "GachaGroup",

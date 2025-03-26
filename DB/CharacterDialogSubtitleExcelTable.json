@@ -13773,7 +13773,7 @@
       "CharacterId": 10100,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이곳은… 나쁘지 않네….",
+      "LocalizeKR": "이곳은…… 나쁘지 않네…….",
       "LocalizeJP": "ここは……悪くない……。"
     },
     {
@@ -13797,7 +13797,7 @@
       "CharacterId": 10100,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이건… 뭐지? 뜯어봐도 되나…?",
+      "LocalizeKR": "이건…… 뭐지? 뜯어봐도 되나……?",
       "LocalizeJP": "これは……なに？\n開けてみていいの……？"
     },
     {
@@ -13805,7 +13805,7 @@
       "CharacterId": 10100,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "(이 가구는, 선생님 취향일까….)",
+      "LocalizeKR": "(이 가구는, 선생님 취향일까…….)",
       "LocalizeJP": "（この家具……先生の好みなのかな……）"
     },
     {
@@ -13813,7 +13813,7 @@
       "CharacterId": 10100,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "나에게, 이렇게까지 해주는 거구나.\n아, 아니, 불만이 아니라, 조금 놀라서….",
+      "LocalizeKR": "나에게, 이렇게까지 해주는 거구나.\n아, 아니, 불만이 아니라, 조금 놀라서…….",
       "LocalizeJP": "私に、ここまでしてくれるんだ。\nう、ううん。不満とかじゃなくて。\nただ、ちょっと驚いただけ……。"
     },
     {
@@ -15287,6 +15287,134 @@
       "Separate": false,
       "LocalizeKR": "미식 모험에는 어떤 위험이\n기다리고 있을지 몰라.\n그러니까 내가 이걸로\n선생님을 지켜 줄게!",
       "LocalizeJP": "美食の冒険はときに危険が伴うもの……\nだから、私が先生を守ってあげるね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루 아카이브",
+      "LocalizeJP": "ブルー、アーカイブ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "안녕하십니까. 트레이너.\n목이 마르시다면, 언제든 말씀해 주세요.",
+      "LocalizeJP": "いらしていたのですね、トレーナー。\n喉が渇いた時は、遠慮なく声をかけてください。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "조용히 운동할 곳을\n찾아볼까요……",
+      "LocalizeJP": "運動に集中できそうな場所は……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "카페는 음료를\n제공하는 곳이죠.\n그렇다면 저도……",
+      "LocalizeJP": "カフェはドリンクを提供する場所……\nそれなら、私も……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "특별 메뉴로\n단백질 드링크를\n추가해 보는 것은……",
+      "LocalizeJP": "スペシャルメニューに、プロテインドリンクを追加して……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "음료수 필요하신 분,\n없으신가요?",
+      "LocalizeJP": "よろしければいかがですか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "편안하고, 재미있는\n장소네요.",
+      "LocalizeJP": "ここなら、筋トレも捗りそうです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "여기까지 신경 써 주셔서 감사합니다. 트레이너.\n트레이닝부의 코치로서, 한층 정진하겠습니다.\n그러면 가시죠, 회원님! 한 세트 더!",
+      "LocalizeJP": "細やかなご指導、感謝します。\nこれに満足せず、これからも精進していきます。\nさあトレーナー、もうワンセットいきましょう！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루, 아카이브!",
+      "LocalizeJP": "ブルー、アーカイブ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "밀레니엄의 4번 타자, 노마사 레이입니다. 선생님.\n……지금의 목표는, 1할입니다.",
+      "LocalizeJP": "ミレニアムサイエンススクール、\n4番バッター、野正レイです。\n目指すは……打率1割、です！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……스미레 선배,\n여기까지 쫓아온 건\n아니겠지?",
+      "LocalizeJP": "スミレ先輩……さすがにここにはいませんよね……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "연습도 훈련도\n중요하지만,\n적당한 휴식도 역시……",
+      "LocalizeJP": "効率的な練習のためには休息も大事……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "적당한 카페인은,\n훈련 효과를\n높인다고 하니까……",
+      "LocalizeJP": "カフェインは運動効果を上げてくれるんでしたっけ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(오늘 하루만……\n훈련, 땡땡이칠까……)",
+      "LocalizeJP": "（今日の練習、サボっちゃ……ダメだよなぁ）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저 휘핑크림\n맛있겠지……\n아냐. 참아야 해.",
+      "LocalizeJP": "あのホイップクリーム、美味しそう……いや、我慢我慢。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "감사합니다, 선생님.\n저를 위해서 이런 것까지……\n선생님께 보답하기 위해서라도,\n반드시 3할 이상을 치고 말겠어요!\n……지금은 1할부터 달성해야 하겠지만요……",
+      "LocalizeJP": "ここまで丁寧にご指導くださり、ありがとうございます！\n早く3割打者になって、先生に恩返ししますね！\n……\n……えっと、1割からでいいですか？"
     },
     {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
@@ -38167,6 +38295,710 @@
       "Separate": false,
       "LocalizeKR": "선생님을 도울 수 있어서, 기뻤어요!",
       "LocalizeJP": "先生のお手伝いができて、嬉しかったです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "야구 경기의 규칙은\n정확히 모릅니다만……",
+      "LocalizeJP": "野球のルールに詳しくはありませんが……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "전해지는 열기만으로,\n저까지 가슴이 뛰네요.",
+      "LocalizeJP": "この盛り上がり……私まで胸が高鳴ってきました。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "엄청난 분위기로군요.\n트레이너.",
+      "LocalizeJP": "……凄まじい熱気ですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "탈수 현상에는\n조심해 주세요.",
+      "LocalizeJP": "脱水症状に気をつけないと。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아무리 봐도\n스포츠 정신과는,\n거리가 먼 일이 벌어지고 \n있는 것 같습니다.",
+      "LocalizeJP": "スポーツマンシップとは程遠い――\n何か良からぬことが起きているようです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "무언가 해야 합니다,\n트레이너!",
+      "LocalizeJP": "行きましょう、トレーナー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이기고 싶다는 열망은\n중요한 것입니다만,",
+      "LocalizeJP": "勝利への執着が度を過ぎると、"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그것이 지나치면\n또 다른 문제를\n일으키고 마는군요.",
+      "LocalizeJP": "予期せぬ問題を引き起こしてしまうのですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "한 가지\n배운 것 같습니다.",
+      "LocalizeJP": "新たな学びです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "모든 것이 무사히\n종료된 것 같습니다.",
+      "LocalizeJP": "それではトレーナー、\n事態も収束したことですし、"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그렇다면 그 기념으로,\n함께 트레이닝이라도\n어떠십니까?",
+      "LocalizeJP": "今からトレーニングにいくとしましょう。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "일단은 눈에 띄지 않기 위해\n입은 복장입니다만……\n기능적인 측면에서도,\n괜찮네요.",
+      "LocalizeJP": "この制服……\n機能性を兼ね備えていて、いいですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "부르셨나요, 트레이너?\n시원한 것이\n필요하신가요?",
+      "LocalizeJP": "トレーナー？\nお呼びでしょうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "트레이너? 왜 그러시나요?\n제 다리 근육을 확인하고\n싶으신 건가요?",
+      "LocalizeJP": "……私の足の筋肉を確かめたいんですか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그렇다면 얼마든지\n만져 보셔도 좋습니다.\n후후.",
+      "LocalizeJP": "ふふ、そういうことでしたら、好きなだけどうぞ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이 드링크 장비 무게요?",
+      "LocalizeJP": "このドリンクサーバー？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "체감상 25kg 정도\n되는 것 같습니다.",
+      "LocalizeJP": "25kgくらいでしょうか。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저중량 고반복 운동을\n지속하기에는, 딱\n좋다고도 할 수 있겠죠.",
+      "LocalizeJP": "低負荷のトレーニングにちょうど良いです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "야구 좋아하시나요,\n선생님?",
+      "LocalizeJP": "先生！野球はお好きですか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저는, 정말로 좋아해요!",
+      "LocalizeJP": "私は、大好きです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오늘 경기는 중요합니다!",
+      "LocalizeJP": "今日は重要な試合ですよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "사실 중요하지 않은\n경기는 없지만요!",
+      "LocalizeJP": "いえ、そうでない試合などありませんが！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "경기 흐름이 미묘하지만……",
+      "LocalizeJP": "不穏な空気……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저는 역전할 수\n있을 거라고 믿어요!",
+      "LocalizeJP": "でも、私は信じてます！今からでも逆転劇を起こしてやりましょう！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "야구는 9회 말\n투아웃부터라고 하죠!",
+      "LocalizeJP": "野球は9回裏2アウトからが本番ですよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "준비하고 있지 않으면,\n기회는 오지 않으니까요!",
+      "LocalizeJP": "準備を怠らない者に、チャンスの女神がほほ笑むんですから！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아직도 믿기지 않아요.",
+      "LocalizeJP": "信じられません……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제가 홈런을 치다니……\n그 타구, 그 궤적……",
+      "LocalizeJP": "私が……ホームランを……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "야구는 정말로 좋네요!",
+      "LocalizeJP": "野球って……本当に最高ですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "왜 그러세요, 선생님?\n혹시 야구 규칙에 대해,\n알고 싶은 것이 있으세요?",
+      "LocalizeJP": "ルールのことでしたらなんでも私に聞いてください！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "경기 기록을\n찾아보고 있었어요.",
+      "LocalizeJP": "……試合記録を見ていました。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "지금은 인터넷에\n정리되어 있어서 편한데.",
+      "LocalizeJP": "この膨大な記録を、昔は紙で管理していたんだそうです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "예전에는 자료들을\n하나하나 찾아야\n했다고 하네요.",
+      "LocalizeJP": "……今では考えられないですよね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "여, 옆구리는 안 돼요,",
+      "LocalizeJP": "わわっ、くすぐったい！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님!\n겨드랑이도요……!",
+      "LocalizeJP": "先生！変なところ触らないでください！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "일단은 경기 중이고,\n사람도 많으니까요……",
+      "LocalizeJP": "もう……試合中ですよ……！？\n人目もありますからね？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭔가 주문할까요?",
+      "LocalizeJP": "球場飯！これがまた絶品なんですよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "야구장 음식이\n또 별미거든요!",
+      "LocalizeJP": "先生、何か食べましょう！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "가격은…… 조금\n잊어버리도록 하죠. 네.",
+      "LocalizeJP": "値段は……気にしたら負けです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오셨군요. 트레이너.",
+      "LocalizeJP": "どうぞ、ゆっくりご覧ください。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "마음에 드는 물건이 있으실지,\n보고 가시죠.",
+      "LocalizeJP": "お気に入りの品が見つかると良いですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter2",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "트레이닝 비품 관리를 하다 보니,",
+      "LocalizeJP": "棚だし、想定より早く終えることができました。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter2",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이런 일에도 그럭저럭\n빠르게 적응할 수 있더군요.",
+      "LocalizeJP": "トレーニング部の備品管理に少し似ていたので。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "혹시 잊어버린 것이 있으신가요?\n전부 교환하는 겁니다.\n후회하지 않도록 말이죠.",
+      "LocalizeJP": "買い逃しがないか、もう一度確認してみてください。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "트레이닝 용품도 그렇습니다만.\n품질, 개수, 신속한 진열……",
+      "LocalizeJP": "品数を把握し、素早く提供する……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "모든 요소가 중요하더군요.",
+      "LocalizeJP": "瞬発力が鍛えられそうです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "누가 뭐라고 해도 저는 밀레니엄\n트레이닝 클럽의 리더입니다.",
+      "LocalizeJP": "仕事中も、正しい姿勢を意識しています。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "지금은 임시 아르바이트\n체험 중이지만요.",
+      "LocalizeJP": "私はトレーニング部の部長ですから。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy1",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "네. 여기 있습니다.",
+      "LocalizeJP": "はい、お受け取りください。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy2",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "더 필요한 것은 없으신가요,\n트레이너?",
+      "LocalizeJP": "他に必要なものはありませんか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy3",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "알겠습니다. 잠시만요.",
+      "LocalizeJP": "かしこまりました、少々お待ちください。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy4",
+      "CharacterId": 20044,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "덤으로 음료수도 한 잔 드릴까요?",
+      "LocalizeJP": "ドリンクをサービスさせていただいてますが、どうでしょう？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Enter1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "경기장에서 경품\n추첨을 한다고 해요!",
+      "LocalizeJP": "先生！スタジアムで抽選会をやってます！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Enter1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어쩌다가 제가 도우미까지\n하게 된 건지는\n모르겠지만요……",
+      "LocalizeJP": "実は私、その手伝いをすることになりまして……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Enter2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어서 오세요!",
+      "LocalizeJP": "ただいま、抽選会開催中です！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Enter2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "행운을 시험해\n보시겠어요?",
+      "LocalizeJP": "どうぞお立ち寄りください！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Enter2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어때요, 선생님?\n조금 프로 같아 보였나요?",
+      "LocalizeJP": "どうでした？スタッフっぽかったですか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Enter3",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "안녕하세요, 선생님. 혹시\n남은 추첨권이 있으시다면,\n전부 사용하고 가시면\n좋을 것 같아요!",
+      "LocalizeJP": "余ってる抽選券、全部使ってってくださいね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "일일 경품 추첨\n도우미지만,\n아르바이트비도\n확실히 준대요!",
+      "LocalizeJP": "ちゃんとバイト代も出るみたいです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "일단 글러브를\n새것으로 바꾸려고요.",
+      "LocalizeJP": "へへ、グローブ、買い替えよっかな！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "야구는 기술도\n중요하지만,\n운도 따라 줘야 하죠.",
+      "LocalizeJP": "選手に求められるのは、テクニックと、運です。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……제가 홈런을\n못 치는 것은, 운이\n없기 때문 아닐까요?!",
+      "LocalizeJP": "……ホームランが打てなかったのは、運が悪かったからかも！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Luck5",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "1등상! 1등상이에요,\n선생님! 우와, 대단해요!",
+      "LocalizeJP": "うわあ！1等賞！\n1等賞ですよ！すごいです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Luck4",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이건 2등상이네요!\n1등이 아닌 것은\n아쉽지만, 그래도\n이게 어딘가요!",
+      "LocalizeJP": "2等賞ですね！さすがです、先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Luck3",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "행운상이군요.",
+      "LocalizeJP": "ラッキー賞だそうです！先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Luck3",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어떻게 보면\n이 상이야말로,\n경품 추첨의 본질이라고\n볼 수도 있지 않을까요?",
+      "LocalizeJP": "なんだか今ならホームランが打てそうな気がします！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Luck2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "장려상…… 인가요.",
+      "LocalizeJP": "3等賞ですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Luck2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "에이, 뭐 어때요.\n이것도 충분히\n좋잖아요?",
+      "LocalizeJP": "賞があるのは良いことです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Luck1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "참가상……",
+      "LocalizeJP": "参加賞かぁ……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Luck1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "괜찮아요, 선생님!\n참가하는 것에 의의가\n있다는 말도 있고요! 네!",
+      "LocalizeJP": "大丈夫ですよ、先生！\n参加することに意義がある、って言うじゃないですか！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Garapon_Luck0",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "…………자,\n아무 일도 없었어요!\n……그렇죠, 선생님?",
+      "LocalizeJP": "…………\nいま、何も起きませんでした。ね？先生？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이런 일에서 중요한 것은,\n같은 분량을, 매일 꾸준히\n계속하는 것이라고 생각해요.",
+      "LocalizeJP": "大切なのは……毎日コツコツ続けること！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "훈련과 마찬가지네요!",
+      "LocalizeJP": "練習と同じですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "반복되는 일은\n지루할지도 모르지만……",
+      "LocalizeJP": "ルーティンも、慣れれば大丈夫です！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "거기에서 얻을 수 있는 것도,\n분명히 있을 테니까요.",
+      "LocalizeJP": "毎日の積み重ねで苦にならなくなりますよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "위대한 선수들은, 매일 같은 것만 먹고,\n같은 시간에 자고.",
+      "LocalizeJP": "偉大な選手は起床時間から訓練メニュー、\n果ては献立一つに至るまで全てスケジュールし、"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "훈련도 정확히 기준을\n지켜 가면서 한다죠……",
+      "LocalizeJP": "その通りにこなすそうです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저는…… 그 정도로는\n힘들어서 못 할 것 같아요……",
+      "LocalizeJP": "私には……できる気がしません……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "새삼 선생님도\n대단하시다는 생각이 들어요.",
+      "LocalizeJP": "今更ですけど……先生ってすごいんですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "매일 출근하시고……\n업무에 치여 지내시고……",
+      "LocalizeJP": "朝出勤して、一日中お仕事して……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "네? 저도 학교에\n매일 가지 않냐고요?",
+      "LocalizeJP": "毎日登校するのと一緒……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "하지만 학교보다 직장이 훨씬\n힘들다고 들었는데, 아닌가요?",
+      "LocalizeJP": "でも大人は学校の何倍も大変って聞きますよ？違うんですか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "훈련의 성과……\n같은 것이네요!",
+      "LocalizeJP": "努力が実を結んだ、ってことですよね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "축하드려요, 선생님!",
+      "LocalizeJP": "おめでとうございます、先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "해내셨네요, 선생님!",
+      "LocalizeJP": "やりましたね、先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy2",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저도 열심히 하겠습니다.\n지켜봐 주세요!",
+      "LocalizeJP": "私も負けないよう、気合入れていきます！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Interaction1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오늘 일정은 이것으로 끝!",
+      "LocalizeJP": "今日はここまで！お疲れさまでした！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Interaction1",
+      "CharacterId": 10115,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그래서 말인데요.\n이다음에 시간 되시나요?",
+      "LocalizeJP": "先生！このあとお時間、ありますか？"
     }
   ]
 }

@@ -103,7 +103,7 @@
           "Commands": [
             {
               "$type": "GroundCommandShowBattleUI, BlueArchive",
-              "DisappearInstantly": false,
+              "DisappearInstantly": true,
               "IsShowBattleUI": false,
               "IsShowEmoji": false,
               "IsShowSpeechBubble": false,
