@@ -15417,6 +15417,70 @@
       "LocalizeJP": "ここまで丁寧にご指導くださり、ありがとうございます！\n早く3割打者になって、先生に恩返ししますね！\n……\n……えっと、1割からでいいですか？"
     },
     {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "브, 블루 아카이브.",
+      "LocalizeJP": "ブ、ブルー、アーカイブ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아리우스 스쿼드의 사오리다…\n이건, 임무를 위해 입은 것이다… 정말이다.",
+      "LocalizeJP": "アリウススクワッドのサオリだ……\nこれは、任務のために着ている。\n……本当だ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흠, 위장 업무를\n배우기 좋은 장소군.",
+      "LocalizeJP": "潜入作戦の練習にちょうど良さそうだ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "언젠가, 그 아이들에게도…\n드레스를.",
+      "LocalizeJP": "いつか、あの子たちにも……ドレスを。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "일 외에도 이런 드레스를\n입는 날이…… 나에게도 올까?",
+      "LocalizeJP": "任務以外でこれを着る機会があるのだろうか……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "내가 눈에 띄는 건가?\n주변의 시선이 느껴지는군.",
+      "LocalizeJP": "視線を感じる……\nもしかして、目立っているのか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흥신소 68……\n역시 대단한 자들이다.",
+      "LocalizeJP": "便利屋68……\nやはり、只者ではないな……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좀 더 다양한 업무를 할 수 있겠군.\n필요한 건 뭐든 말해라.",
+      "LocalizeJP": "おかげで遂行できる仕事の幅が増えた。\n依頼でもなんでも、応えてみせよう。"
+    },
+    {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
       "CharacterId": 10014,
       "Duration": 0,
@@ -31543,6 +31607,102 @@
       "Separate": false,
       "LocalizeKR": "오늘 일은 이걸로 끝.",
       "LocalizeJP": "今日の仕事は終わり。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "특별 임무의 시간이군.",
+      "LocalizeJP": "特殊任務の時間だ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그럼 시작하지.",
+      "LocalizeJP": "では、はじめよう。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생과 함께라면\n이번 일도 문제없어.",
+      "LocalizeJP": "先生がいるのなら、問題ないな。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아직까진 여유롭군.\n이후의 지휘도 잘 부탁하지.",
+      "LocalizeJP": "順調だな。\nこのあとの指揮も、よろしく頼む。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이제 마무리 단계인가.",
+      "LocalizeJP": "作戦は終盤に差しかかっている。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "시간 분배에\n주의해 주길 바란다.",
+      "LocalizeJP": "時間配分に注意してくれ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "임무는 끝났지만,\n이 드레스는 계속\n입어봤으면 좋겠군.",
+      "LocalizeJP": "この後も……ずっとこれを着ていたいのだが。\n難しいのだろうか。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "음?\n지시 사항이 있나?",
+      "LocalizeJP": "どうかしたのか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그냥…… 불러본\n거였다고? 어째서?",
+      "LocalizeJP": "何も無いのか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "내가, 예쁘다고…?",
+      "LocalizeJP": "私が、きれい……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생은…\n이상한 농담을 하는군.",
+      "LocalizeJP": "先生は……変な冗談を言うんだな。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10116,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "읏, 그런 말을 그렇게\n쉽게 하지 말아줘.",
+      "LocalizeJP": "っ、そういうことを軽々しく言うな。"
     },
     {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",

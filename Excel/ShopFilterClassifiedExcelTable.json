@@ -4633,6 +4633,14 @@
       "GoodsId": 20215
     },
     {
+      "Id": 20216,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Arius",
+      "GoodsId": 20216
+    },
+    {
       "Id": 50000,
       "CategoryType": "SecretStoneGrowth",
       "ConsumeParcelType": "Item",
