@@ -2332,7 +2332,7 @@
       "ViewFlag": true,
       "Limit": false,
       "StartDate": "2024-04-24 04:00:00",
-      "EndDate": "",
+      "EndDate": "2025-04-23 03:59:59",
       "EndDay": 0,
       "StartableEndDate": "",
       "DateAutoRefer": "None",
@@ -2368,7 +2368,7 @@
       "ViewFlag": true,
       "Limit": false,
       "StartDate": "2024-04-24 04:00:00",
-      "EndDate": "",
+      "EndDate": "2025-04-23 03:59:59",
       "EndDay": 0,
       "StartableEndDate": "",
       "DateAutoRefer": "None",
@@ -2749,7 +2749,7 @@
       "ViewFlag": true,
       "Limit": false,
       "StartDate": "2024-04-24 04:00:00",
-      "EndDate": "",
+      "EndDate": "2025-04-23 03:59:59",
       "EndDay": 0,
       "StartableEndDate": "",
       "DateAutoRefer": "None",
@@ -2836,6 +2836,102 @@
       ],
       "MissionRewardAmount": [
         4
+      ]
+    },
+    {
+      "Id": 1513,
+      "Category": "Daily",
+      "Description": 2893671424,
+      "ResetType": "Daily",
+      "ToastDisplayType": "Always",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "2025-04-23 04:00:00",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 110,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_DailyLogin",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        5
+      ],
+      "MissionRewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 1514,
+      "Category": "Daily",
+      "Description": 11787445,
+      "ResetType": "Daily",
+      "ToastDisplayType": "Always",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "2025-04-23 04:00:00",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 220,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_CompleteMission",
+      "CompleteConditionCount": 5,
+      "CompleteConditionParameter": [
+        1502,
+        1503,
+        1504,
+        1505,
+        1507,
+        1508,
+        1509,
+        1510,
+        1512,
+        1513,
+        1600,
+        1601,
+        1602,
+        1603,
+        1604,
+        1605,
+        1606,
+        1607,
+        1608,
+        1609,
+        1610,
+        400006,
+        400007
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        18
+      ],
+      "MissionRewardAmount": [
+        100
       ]
     },
     {
@@ -3300,7 +3396,7 @@
       "ViewFlag": true,
       "Limit": false,
       "StartDate": "2024-04-24 04:00:00",
-      "EndDate": "",
+      "EndDate": "2025-04-23 03:59:59",
       "EndDay": 0,
       "StartableEndDate": "",
       "DateAutoRefer": "None",
@@ -3313,6 +3409,42 @@
       "ChallengeStageShortcut": 0,
       "CompleteConditionType": "Reset_DailyMissionFulfill",
       "CompleteConditionCount": 9,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 1701,
+      "Category": "DailyFixed",
+      "Description": 11787445,
+      "ResetType": "Daily",
+      "ToastDisplayType": "Always",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "2025-04-23 04:00:00",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 230,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_DailyMissionFulfill",
+      "CompleteConditionCount": 8,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -82321,6 +82453,49 @@
       ]
     },
     {
+      "Id": 101222,
+      "Category": "Achievement",
+      "Description": 2552244703,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 101000,
+      "PreMissionId": [
+        101184
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIRaidLobby",
+        "UIEliminateRaidLobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        88
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        100
+      ]
+    },
+    {
       "Id": 101187,
       "Category": "Achievement",
       "Description": 844528951,
@@ -89018,6 +89193,48 @@
       ]
     },
     {
+      "Id": 121013,
+      "Category": "Achievement",
+      "Description": 4187819492,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 121000,
+      "PreMissionId": [
+        121012
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIWeekDungeonStageSelect|31114"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearSpecificFindGiftAndBloodDungeonCount",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        31114
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        10
+      ]
+    },
+    {
       "Id": 121100,
       "Category": "Achievement",
       "Description": 4187819492,
@@ -89548,6 +89765,48 @@
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
         32113
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        10
+      ]
+    },
+    {
+      "Id": 121113,
+      "Category": "Achievement",
+      "Description": 4187819492,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 121100,
+      "PreMissionId": [
+        121112
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIWeekDungeonStageSelect|32114"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearSpecificFindGiftAndBloodDungeonCount",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        32114
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -91856,6 +92115,48 @@
       ]
     },
     {
+      "Id": 131009,
+      "Category": "Achievement",
+      "Description": 1859421411,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 131000,
+      "PreMissionId": [
+        131008
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIWeekDungeonStageSelect|30110"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearSpecificChaserDungeonCount",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        30110
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        10
+      ]
+    },
+    {
       "Id": 131100,
       "Category": "Achievement",
       "Description": 1859421411,
@@ -92232,6 +92533,48 @@
       ]
     },
     {
+      "Id": 131109,
+      "Category": "Achievement",
+      "Description": 1859421411,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 131100,
+      "PreMissionId": [
+        131108
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIWeekDungeonStageSelect|30210"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearSpecificChaserDungeonCount",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        30210
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        10
+      ]
+    },
+    {
       "Id": 131200,
       "Category": "Achievement",
       "Description": 1859421411,
@@ -92594,6 +92937,48 @@
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
         30309
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        10
+      ]
+    },
+    {
+      "Id": 131209,
+      "Category": "Achievement",
+      "Description": 1859421411,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 131200,
+      "PreMissionId": [
+        131208
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIWeekDungeonStageSelect|30310"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearSpecificChaserDungeonCount",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        30310
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -96893,6 +97278,477 @@
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
         702220105,
+        100
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150080,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150080,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240101,
+        1
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150081,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150081,
+      "PreMissionId": [
+        150080
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240101,
+        10
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150082,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150082,
+      "PreMissionId": [
+        150081
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240101,
+        20
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150083,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150083,
+      "PreMissionId": [
+        150082
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240102,
+        30
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150084,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150084,
+      "PreMissionId": [
+        150083
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240102,
+        40
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150085,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150085,
+      "PreMissionId": [
+        150084
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240103,
+        50
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150086,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150086,
+      "PreMissionId": [
+        150085
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240103,
+        60
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150087,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150087,
+      "PreMissionId": [
+        150086
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240103,
+        70
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150088,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150088,
+      "PreMissionId": [
+        150087
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240104,
+        80
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150089,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150089,
+      "PreMissionId": [
+        150088
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240104,
+        90
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        30
+      ]
+    },
+    {
+      "Id": 150090,
+      "Category": "Achievement",
+      "Description": 3619181689,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 150090,
+      "PreMissionId": [
+        150089
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIMultiFloorRaid_Lobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_ClearMultiFloorRaidStage",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        704240105,
         100
       ],
       "CompleteConditionParameterTag": [],

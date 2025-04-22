@@ -95,13 +95,6 @@
         ],
         "Commands": [
           {
-            "$type": "MX.Logic.Battles.GroundCommandSetStatus, BlueArchive",
-            "heroStatus": "Dead",
-            "isAdd": true,
-            "CommandID": "WavePoint1",
-            "WaitExecuteEnd": false
-          },
-          {
             "$type": "MX.Logic.Battles.GroundCommandEndBattle, BlueArchive",
             "BattleEndType": 4,
             "CommandID": "",
@@ -594,7 +587,7 @@
                     "y": 35.7797928
                   },
                   "Direction": {
-                    "x": 0.015485255,
+                    "x": 0.0154852541,
                     "y": -0.9998801
                   },
                   "ConditionIdList": [],
@@ -613,7 +606,7 @@
                 "y": 37.920002
               },
               "Direction": {
-                "x": 0.015485255,
+                "x": 0.0154852541,
                 "y": -0.9998801
               },
               "ConditionIdList": [],
@@ -946,7 +939,7 @@
                     "y": 24.3322887
                   },
                   "Direction": {
-                    "x": 0.015485255,
+                    "x": 0.0154852541,
                     "y": -0.9998801
                   },
                   "ConditionIdList": [],
@@ -965,7 +958,7 @@
                 "y": 4.67
               },
               "Direction": {
-                "x": 0.015485255,
+                "x": 0.0154852541,
                 "y": -0.9998801
               },
               "ConditionIdList": [],

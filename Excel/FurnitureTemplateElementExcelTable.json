@@ -11231,6 +11231,465 @@
       "PositionY": 14,
       "Rotation": 90,
       "Order": 65
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20213,
+      "Location": "Floor",
+      "PositionX": -0,
+      "PositionY": -0,
+      "Rotation": -0,
+      "Order": 1
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20212,
+      "Location": "WallRight",
+      "PositionX": -0,
+      "PositionY": -0,
+      "Rotation": -0,
+      "Order": 2
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20214,
+      "Location": "WallLeft",
+      "PositionX": -0,
+      "PositionY": -0,
+      "Rotation": -0,
+      "Order": 3
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20306,
+      "Location": "WallRight",
+      "PositionX": 15.5,
+      "PositionY": 3.5,
+      "Rotation": -0,
+      "Order": 4
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20211,
+      "Location": "WallRight",
+      "PositionX": 4,
+      "PositionY": 3.5,
+      "Rotation": -0,
+      "Order": 5
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20100,
+      "Location": "WallRight",
+      "PositionX": 9.5,
+      "PositionY": 4.5,
+      "Rotation": -0,
+      "Order": 6
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20105,
+      "Location": "Floor",
+      "PositionX": 2.5,
+      "PositionY": 3,
+      "Rotation": 180,
+      "Order": 7
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20203,
+      "Location": "Floor",
+      "PositionX": 3.5,
+      "PositionY": 2.5,
+      "Rotation": -0,
+      "Order": 8
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20303,
+      "Location": "Floor",
+      "PositionX": 3.5,
+      "PositionY": 5.5,
+      "Rotation": 270,
+      "Order": 9
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20205,
+      "Location": "Floor",
+      "PositionX": 2.5,
+      "PositionY": 0.5,
+      "Rotation": 270,
+      "Order": 10
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20205,
+      "Location": "Floor",
+      "PositionX": 1.5,
+      "PositionY": 1.5,
+      "Rotation": 270,
+      "Order": 11
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20205,
+      "Location": "Floor",
+      "PositionX": 1.5,
+      "PositionY": 4.5,
+      "Rotation": 270,
+      "Order": 12
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20202,
+      "Location": "Floor",
+      "PositionX": 1.5,
+      "PositionY": 6,
+      "Rotation": -0,
+      "Order": 13
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20105,
+      "Location": "Floor",
+      "PositionX": 5.5,
+      "PositionY": 3,
+      "Rotation": -0,
+      "Order": 14
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20208,
+      "Location": "Floor",
+      "PositionX": 5,
+      "PositionY": 1.5,
+      "Rotation": -0,
+      "Order": 15
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20208,
+      "Location": "Floor",
+      "PositionX": 5,
+      "PositionY": 4.5,
+      "Rotation": -0,
+      "Order": 16
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20111,
+      "Location": "Floor",
+      "PositionX": 7.5,
+      "PositionY": 2.5,
+      "Rotation": -0,
+      "Order": 17
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20106,
+      "Location": "Floor",
+      "PositionX": 9,
+      "PositionY": 4.5,
+      "Rotation": 90,
+      "Order": 18
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20112,
+      "Location": "Floor",
+      "PositionX": 8.5,
+      "PositionY": 3.5,
+      "Rotation": 270,
+      "Order": 19
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20112,
+      "Location": "Floor",
+      "PositionX": 9.5,
+      "PositionY": 3.5,
+      "Rotation": 270,
+      "Order": 20
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20112,
+      "Location": "Floor",
+      "PositionX": 8.5,
+      "PositionY": 1.5,
+      "Rotation": 270,
+      "Order": 21
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20112,
+      "Location": "Floor",
+      "PositionX": 9.5,
+      "PositionY": 1.5,
+      "Rotation": 270,
+      "Order": 22
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20111,
+      "Location": "Floor",
+      "PositionX": 11.5,
+      "PositionY": 2.5,
+      "Rotation": -0,
+      "Order": 23
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20302,
+      "Location": "Floor",
+      "PositionX": 11.5,
+      "PositionY": 5.5,
+      "Rotation": 270,
+      "Order": 24
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20209,
+      "Location": "Floor",
+      "PositionX": 10.5,
+      "PositionY": 5,
+      "Rotation": -0,
+      "Order": 25
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20210,
+      "Location": "Floor",
+      "PositionX": 19.5,
+      "PositionY": 1,
+      "Rotation": -0,
+      "Order": 26
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20104,
+      "Location": "Floor",
+      "PositionX": 19.5,
+      "PositionY": 3,
+      "Rotation": -0,
+      "Order": 27
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20103,
+      "Location": "Floor",
+      "PositionX": 19.5,
+      "PositionY": 5,
+      "Rotation": -0,
+      "Order": 28
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20107,
+      "Location": "Floor",
+      "PositionX": 18,
+      "PositionY": 5.5,
+      "Rotation": 90,
+      "Order": 29
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20110,
+      "Location": "WallLeft",
+      "PositionX": 5.5,
+      "PositionY": 2.5,
+      "Rotation": -0,
+      "Order": 30
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20110,
+      "Location": "WallLeft",
+      "PositionX": 10.5,
+      "PositionY": 2.5,
+      "Rotation": -0,
+      "Order": 31
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20110,
+      "Location": "WallLeft",
+      "PositionX": 17.5,
+      "PositionY": 2.5,
+      "Rotation": -0,
+      "Order": 32
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20201,
+      "Location": "Floor",
+      "PositionX": 15,
+      "PositionY": 1.5,
+      "Rotation": 270,
+      "Order": 33
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20115,
+      "Location": "Floor",
+      "PositionX": 16,
+      "PositionY": 5,
+      "Rotation": -0,
+      "Order": 34
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20115,
+      "Location": "Floor",
+      "PositionX": 13,
+      "PositionY": 5,
+      "Rotation": -0,
+      "Order": 35
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20114,
+      "Location": "WallLeft",
+      "PositionX": 14,
+      "PositionY": 2,
+      "Rotation": -0,
+      "Order": 36
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20116,
+      "Location": "WallLeft",
+      "PositionX": 11,
+      "PositionY": 6.5,
+      "Rotation": -0,
+      "Order": 37
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20307,
+      "Location": "Floor",
+      "PositionX": 17,
+      "PositionY": 13,
+      "Rotation": -0,
+      "Order": 38
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20113,
+      "Location": "Floor",
+      "PositionX": 13.5,
+      "PositionY": 9.5,
+      "Rotation": -0,
+      "Order": 39
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20109,
+      "Location": "Floor",
+      "PositionX": 13.5,
+      "PositionY": 8.5,
+      "Rotation": 180,
+      "Order": 40
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20301,
+      "Location": "Floor",
+      "PositionX": 11,
+      "PositionY": 12,
+      "Rotation": -0,
+      "Order": 41
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20207,
+      "Location": "Floor",
+      "PositionX": 13,
+      "PositionY": 16,
+      "Rotation": -0,
+      "Order": 42
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20308,
+      "Location": "Floor",
+      "PositionX": 11.5,
+      "PositionY": 18.5,
+      "Rotation": 90,
+      "Order": 43
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20101,
+      "Location": "Floor",
+      "PositionX": 8,
+      "PositionY": 12.5,
+      "Rotation": -0,
+      "Order": 44
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20305,
+      "Location": "Floor",
+      "PositionX": 4.5,
+      "PositionY": 12,
+      "Rotation": -0,
+      "Order": 45
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20304,
+      "Location": "Floor",
+      "PositionX": 4.5,
+      "PositionY": 16,
+      "Rotation": -0,
+      "Order": 46
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20206,
+      "Location": "Floor",
+      "PositionX": 2,
+      "PositionY": 11,
+      "Rotation": -0,
+      "Order": 47
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20204,
+      "Location": "Floor",
+      "PositionX": 5.5,
+      "PositionY": 19,
+      "Rotation": -0,
+      "Order": 48
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20204,
+      "Location": "Floor",
+      "PositionX": 2.5,
+      "PositionY": 19,
+      "Rotation": -0,
+      "Order": 49
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20108,
+      "Location": "Floor",
+      "PositionX": 8.5,
+      "PositionY": 19.5,
+      "Rotation": 270,
+      "Order": 50
+    },
+    {
+      "FurnitureTemplateId": 20,
+      "FurnitureId": 20102,
+      "Location": "Floor",
+      "PositionX": 6.5,
+      "PositionY": 16.5,
+      "Rotation": -0,
+      "Order": 51
     }
   ]
 }

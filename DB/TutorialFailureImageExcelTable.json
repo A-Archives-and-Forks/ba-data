@@ -2318,6 +2318,20 @@
       "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0009_02_Jp"
     },
     {
+      "Id": 1120300,
+      "Contents": "MultiFloorRaid",
+      "Type": "EN0011",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_01_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_01_Jp"
+    },
+    {
+      "Id": 1120301,
+      "Contents": "MultiFloorRaid",
+      "Type": "EN0011",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_02_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_02_Jp"
+    },
+    {
       "Id": 1122100,
       "Contents": "Raid",
       "Type": "EN0010",

@@ -43245,7 +43245,7 @@
       "CharacterVoiceGroupId": 10105,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "숨습니다!",
+      "LocalizeKR": "숨을게요!",
       "LocalizeJP": "隠れます！"
     },
     {
@@ -43285,7 +43285,7 @@
       "CharacterVoiceGroupId": 10105,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "노래는, 아직 끝나지 않았어요!",
+      "LocalizeKR": "아직 노래는 끝나지 않았어요!",
       "LocalizeJP": "まだ歌は終わっておりません。"
     },
     {
@@ -43461,7 +43461,7 @@
       "CharacterVoiceGroupId": 10105,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이런 생각을 하는 건, 죄일지도 모릅니다..\n하지만, 지금만은…… 저를 봐주세요, 선생님.",
+      "LocalizeKR": "이런 생각을 하는 건, 죄일지도 모릅니다……\n하지만, 지금만은…… 저를 봐주세요, 선생님.",
       "LocalizeJP": "こんなことを思うのは、罪かもしれません……\nですが、今だけは……私を見ていてください、先生。"
     },
     {
@@ -43661,7 +43661,7 @@
       "CharacterVoiceGroupId": 10106,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "후후후, 기대하셔도 좋습니다. ……고, 공연. 공연 이야기……입니다…….",
+      "LocalizeKR": "기대하셔도 좋습니다. ……고, 공연. 공연 이야기……입니다…….",
       "LocalizeJP": "期待していてくださいね。\n……あっ……こ、公演の……話です……。"
     },
     {
@@ -43709,7 +43709,7 @@
       "CharacterVoiceGroupId": 10106,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어떻게 전하면 모두에게 오해가 생기지 않을까요?……?",
+      "LocalizeKR": "어떻게 전하면 모두에게 오해가 생기지 않을까요……?",
       "LocalizeJP": "どのように伝えれば\n皆様に誤解を与えずに済むのでしょう……？"
     },
     {
@@ -45201,68 +45201,12 @@
       "LocalizeJP": "わっ！今のどうやったのー！？"
     },
     {
-      "LocalizeCVGroup": "CVGroup_Battle_BuffSelf_1",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "아하핫! 즐거워!",
-      "LocalizeJP": "あははっ！楽しいね！"
-    },
-    {
       "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
       "CharacterVoiceGroupId": 10112,
       "Duration": 0,
       "Separate": false,
       "LocalizeKR": "여유, 여유!",
       "LocalizeJP": "余裕余裕～"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Damage_1",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "꺅!",
-      "LocalizeJP": "ひゃっ！"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Damage_1",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "꺅!",
-      "LocalizeJP": "ひゃっ！"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Damage_2",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "아얏!",
-      "LocalizeJP": "痛っ！"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Damage_2",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "아얏!",
-      "LocalizeJP": "痛っ！"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Damage_3",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "윽!",
-      "LocalizeJP": "きゃっ！"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Damage_3",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "윽!",
-      "LocalizeJP": "きゃっ！"
     },
     {
       "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
@@ -45311,38 +45255,6 @@
       "Separate": false,
       "LocalizeKR": "고마워~! 하핫!",
       "LocalizeJP": "ありがと！"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Retire",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "아앗, 실수……",
-      "LocalizeJP": "わっ……ごめん……"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Shout_1",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "얍!",
-      "LocalizeJP": "やっ！"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Shout_2",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "이얏~!",
-      "LocalizeJP": "いやっ！"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Battle_Shout_3",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "하하!",
-      "LocalizeJP": "あはっ！"
     },
     {
       "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
@@ -45511,22 +45423,6 @@
       "Separate": false,
       "LocalizeKR": "아스나 행복해~\n선생님과 함께할 수 있어서!\n앞으로도 계속 옆에 있을게~!",
       "LocalizeJP": "先生の傍にいられて、\n私いますっごく幸せなんだ！\nこれからもず～っと、一緒にいようね！"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Tactic_Defeat_1",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "으으, 조금 실수해 버렸을지도……",
-      "LocalizeJP": "うう、ちょっと失敗しちゃったかも……"
-    },
-    {
-      "LocalizeCVGroup": "CVGroup_Tactic_Defeat_2",
-      "CharacterVoiceGroupId": 10112,
-      "Duration": 0,
-      "Separate": false,
-      "LocalizeKR": "조금 어려웠을지도……",
-      "LocalizeJP": "ちょっと難しかったかも……"
     },
     {
       "LocalizeCVGroup": "CVGroup_Tactic_In_1",
@@ -46701,7 +46597,7 @@
       "CharacterVoiceGroupId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "지금은 할 수 있는 일에 최선을 다하려고 해요.\n선생님께서 같이 있어 주신다면…… 더 잘 할 수 있을지도요?",
+      "LocalizeKR": "지금은 할 수 있는 일에 최선을 다하려고 해요.\n선생님께서 같이 있어 주신다면…… 더 잘할 수 있을지도요?",
       "LocalizeJP": "今は自分にできることを一生懸命、頑張りたいと思います。\n先生と一緒ならきっと……うまくやれる気がするんです。"
     },
     {
@@ -46717,7 +46613,7 @@
       "CharacterVoiceGroupId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "다른 요리들은…… 어…… 여러가지, 있었습니다만……\n이 파르페는 어떻게든 성공한 것 같아요!\n맛있게 드셔 주신다면 감사하겠습니다!",
+      "LocalizeKR": "다른 요리들은…… 어…… 여러 가지, 있었습니다만……\n이 파르페는 어떻게든 성공한 것 같아요!\n맛있게 드셔 주신다면 감사하겠습니다!",
       "LocalizeJP": "先生、よかったらこのパフェ、召し上がってください！\nその……ちゃんと上手に作れたんです！"
     },
     {
@@ -47511,6 +47407,790 @@
       "Separate": false,
       "LocalizeKR": "좋은 경험이 되었다.",
       "LocalizeJP": "良い経験になった。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "파워- 차-지-!",
+      "LocalizeJP": "ぱわーちゃーじ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "위험해위험해-",
+      "LocalizeJP": "あぶないあぶない。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "튕겨냈-어-",
+      "LocalizeJP": "ぺいっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "입장- 전투 모드-",
+      "LocalizeJP": "戦闘モード、いこー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "고- 고-",
+      "LocalizeJP": "ゴーゴー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "폭렬 대시-",
+      "LocalizeJP": "全力だーっしゅ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "슈웅- 빠른 이동-",
+      "LocalizeJP": "バビューン！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋- 아-",
+      "LocalizeJP": "うぉー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "슈슉- 슈슉-",
+      "LocalizeJP": "シュッシュッポッポーッ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "낙승- 브이브이-",
+      "LocalizeJP": "らくしょーぶいぶいっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "힘냈어- 잘했지- 칭찬해 줘-",
+      "LocalizeJP": "頑張ったよーほめてほめてっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "호이 호-이",
+      "LocalizeJP": "ほいほーい。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "슈바바바바-\n멋-지지-?",
+      "LocalizeJP": "しゅばばばー\nカッコいいでしょ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "예-스\n찰칵찰칵찰칵\n자, 여기-",
+      "LocalizeJP": "イエース\nパチパチ\nはい、どうぞー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "잠시-\n슈슈슈슈슈-\n컴플리-트-",
+      "LocalizeJP": "失礼しまーす\nシュパパパ\nこんぷりーと！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "필살! 고속 검표-",
+      "LocalizeJP": "必殺！高速にゅうきょうー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "예쁘게- 꾸며줄게-",
+      "LocalizeJP": "可愛くしてあげるねー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "티켓 확인- 완료-",
+      "LocalizeJP": "確認かんりょー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "출- 동-",
+      "LocalizeJP": "しゅつどー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "히카리 합- 류-",
+      "LocalizeJP": "ヒカリ、ごうりゅー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "히카리 선수 비행 모드-\n부우웅-",
+      "LocalizeJP": "ヒカリ選手の飛行モード移行ー\nブゥーン。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "히카리- 진화-",
+      "LocalizeJP": "ヒカリ、進化中ー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우왓- 히카리 아직도 성장 중-",
+      "LocalizeJP": "うぉー成長している……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어쩌-지-? 히카리- 너무 강해져 버리면-?",
+      "LocalizeJP": "ヒカリが最強になったらどーするー？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "지금이라면- 뭐든- 할 수 있을 것 같은 기분-",
+      "LocalizeJP": "今なら何でもできそー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님- 불렀어-? 놀자-",
+      "LocalizeJP": "先生、呼んだ？あそぼー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님- 히카리한테 바라는 거 있어-?",
+      "LocalizeJP": "やってほしいことあるー？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님- 앞으로도 히카리랑 계속 놀자- 알았지-?",
+      "LocalizeJP": "これからもずっと遊んでー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "항상 놀아줘서 고마워- 선생님- 엄청 좋아-",
+      "LocalizeJP": "いつも遊んでくれてありがとー\n先生だーいすき。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "와아- 전진~",
+      "LocalizeJP": "ぜんそくぜんしーん。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "히어로- 등장-",
+      "LocalizeJP": "ヒーローさんじょー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "빅토리- 칭찬해 줘-",
+      "LocalizeJP": "びくとりー。称えるがよいー。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 10117,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "승리의- 포즈-",
+      "LocalizeJP": "しょーりのポーズ、ぶいぶいっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아하하! 힘이 날지도?",
+      "LocalizeJP": "あははっ！元気出てきたかも？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "숨어숨어~!",
+      "LocalizeJP": "隠れちゃお。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "피했지롱~!",
+      "LocalizeJP": "効かないよっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "빨리 끝내버리자고~!",
+      "LocalizeJP": "早く終わらせよっか！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "대충 이기고 오자~ 파햐햐~",
+      "LocalizeJP": "ちゃちゃっと勝つよ、あははっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앞으로~",
+      "LocalizeJP": "はいはい、いくよ～"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다음으로~",
+      "LocalizeJP": "はい次～"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋았어~!",
+      "LocalizeJP": "良いね良いねぇ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저쪽이다!",
+      "LocalizeJP": "あっちだね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이거지, 이거지~!",
+      "LocalizeJP": "これこれぇ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "낙~ 승! 어때? 봤어?",
+      "LocalizeJP": "楽勝楽勝～っ！見てた？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "전방 확인 완료~!",
+      "LocalizeJP": "前方よし！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "파-햐햐햣!! 가보자고!\n전속 전진~!!",
+      "LocalizeJP": "パヒャヒャヒャッ！いけいけ！\n全速前進ーっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "부스터 온~!!\n파-이어~!!",
+      "LocalizeJP": "ブースターオン！\nファイアーっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "더 빠르게! 더!\n파~햐햐햐햐~!!",
+      "LocalizeJP": "もっともーっと！\nあはははっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "돌진~!! 파햐햐!",
+      "LocalizeJP": "とつげーき！パヒャヒャッ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "목표 지점으로~ 발진!",
+      "LocalizeJP": "目標地点に向かって、はっしーん！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어떻게 돼도 몰라~!",
+      "LocalizeJP": "どうなっても知らないよ♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "임무? 좋아! 맡겨줘!",
+      "LocalizeJP": "任務？いいよ！まっかせて！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오케이! 어떻게든 되겠지~!",
+      "LocalizeJP": "オッケー、なんとかなるって。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오오~ 뭐야? 더 해줘! 파햐햣!",
+      "LocalizeJP": "うひゃっ！なになに～？もっとやって！パヒャヒャッ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오오~ 뭐야, 이거?",
+      "LocalizeJP": "え、なにこれ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "파햐햐! 막 기운이 나는데?",
+      "LocalizeJP": "なんか力湧いてきたんだけど？パヒャッ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭔가 근질근질해졌어! 달리고 와볼까나!",
+      "LocalizeJP": "なんかムズムズしてきた！走ってこようかな！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "지금이라면 평소보다 3배 빠르게 운전할 수 있을 것 같아! 파햐햐~!",
+      "LocalizeJP": "今なら普段の3倍速で運転できそう。あははっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "왜 챙겨주는 거야? 고맙게시리~ 파햐햣!",
+      "LocalizeJP": "なんかすっごく気にかけてくれてない？ありがとね。あははっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "받는 건 좋지만… 나중에 돌려달라고 할 거야?",
+      "LocalizeJP": "もらうのはいいけどさぁ……後で返してって言わないよね？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나도 슬슬 보답을 해야 되겠는데… 필요한 거라도 있어?",
+      "LocalizeJP": "そろそろお返ししないとだよね……なんかほしいものある？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님, 나 너무 좋아하는 거 아냐? 파햐햐! 농담이야.",
+      "LocalizeJP": "先生、私のこと好きすぎじゃん？あははっ！冗談だって。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "파햐햐~! 가볼까!",
+      "LocalizeJP": "パヒャヒャッ、いっくよ～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "시원시원하게 하자구~!",
+      "LocalizeJP": "ちゃちゃっと終わらせよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "대승리~! 이거지! 햐햣!",
+      "LocalizeJP": "大勝利！やっぱこういうのだよね、パヒャッ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 10118,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이렇게 이겼다고? 좋은데~?",
+      "LocalizeJP": "へー？勝ったんだ？いいんじゃない？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "고, 고마워요……!",
+      "LocalizeJP": "あ、ありがとうございます……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "피, 피했다…… 헤헷.",
+      "LocalizeJP": "よ、避けられた……えへへっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "하, 할 수 있어요…… 아냐, 안 될 거예요……!",
+      "LocalizeJP": "で、でき……いえ、できないですけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "기, 기계나 사람이나 똑같으니까…… 때리면 되는 거예요……!",
+      "LocalizeJP": "た、叩いたら直ると思ってますけど……だめですか、そうですか……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이, 이동……!",
+      "LocalizeJP": "い、移動しますけど……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다음은 어, 어디일까요?",
+      "LocalizeJP": "つ、次はどうすれば……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "가, 감사해요……!",
+      "LocalizeJP": "あ、ありがとうございます……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저, 저기로!",
+      "LocalizeJP": "あ、あっちへ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이겼다고요……? 왜……?",
+      "LocalizeJP": "勝った……？な、なんで……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저, 저는 딱히 별거 안 했는데……",
+      "LocalizeJP": "と、特に……私は何もしてないんですけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "주, 준비 완료……!",
+      "LocalizeJP": "じゅ、準備完了……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이익……!\n에? 에에에엑~~~!!",
+      "LocalizeJP": "やっ……！\nど、どうしてぇ！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저, 쪽으로...\n으, 으아아앙~~!!",
+      "LocalizeJP": "んしょ、っと……\nう、うわあああん！！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "에잇……\n어, 어으아으아아!!",
+      "LocalizeJP": "えいっ……\nわっ、ひゃああああ！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "으아아!!\n휴우…",
+      "LocalizeJP": "わっ、わああ～～！！あうぅ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "비, 비켜주세요~~!!\n사, 살았다…",
+      "LocalizeJP": "ど、退いてほしいんですけど～～！！む、無理……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "위, 위험해요~~!!\n히, 힘들어…",
+      "LocalizeJP": "あ、あぶないですけど～～！！しんどいんですけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "하, 하는 거군요…… 알고는 있지만……",
+      "LocalizeJP": "や、やるんですね……分かりましたけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자, 잘할 수 있을까……",
+      "LocalizeJP": "う、うまくできるかな……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "에엣……! 으, 으아……",
+      "LocalizeJP": "ひゃっ……！わ、わあっ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저, 정말요? 제게요……?",
+      "LocalizeJP": "えっ！こ、これを？私に……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자, 자꾸 이러시면…… 곤란한데……",
+      "LocalizeJP": "そ、そんなにもらっても……困っちゃうんですけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "왜, 왜…… 이렇게…… 잘해주시는 건가요……?",
+      "LocalizeJP": "な、なんで……そんなに……優しくしてくれるんですか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "가, 감사해요…… 진심으로요……",
+      "LocalizeJP": "あ、ありがとうございます……ほ、本当に嬉しいですけど。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아…… 이러셔도 따, 딱히 돌아오는 건 없을 걸요……?",
+      "LocalizeJP": "こんなことしてもらっても……何も出ませんけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "감사하고…… 기, 기쁘긴 한데요……\n으음…… 아, 아니에요……",
+      "LocalizeJP": "う、嬉しいし、ありがたいですけど……\nんん……な、なんでもないです……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "또, 또 이러시네요…… 안 그러셔도 되는데……\n나중에 실망하기 싫은데……",
+      "LocalizeJP": "あ、あんまりこういうこと……しないでほしいんですけど。\n後で、空しくなっちゃうので……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "계, 계속 상냥하게 대해주시면……\n또 기대하게 되잖아요……",
+      "LocalizeJP": "や、優しくしないでほしいんですけど……。\n期待、しちゃうので……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "예?! 제가요? 진짜요?!",
+      "LocalizeJP": "わ、私がやるんです！？本当に！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "기, 기대는 하지 마세요……",
+      "LocalizeJP": "き、期待しないでほしいんですけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이겼…… 다고요……?",
+      "LocalizeJP": "勝ったん……ですか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 16017,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "에? 에에…… ?",
+      "LocalizeJP": "えっ？えええっ……？"
     }
   ]
 }

@@ -2140,6 +2140,46 @@
       "ZoneWhiteListTags": []
     },
     {
+      "Id": 10117,
+      "FavorTags": [
+        "gY",
+        "aC"
+      ],
+      "FavorItemTags": [
+        "aJ",
+        "aR"
+      ],
+      "FavorItemUniqueTags": [
+        "gY",
+        "gy"
+      ],
+      "ForbiddenTags": [
+        "V",
+        "f"
+      ],
+      "ZoneWhiteListTags": []
+    },
+    {
+      "Id": 10118,
+      "FavorTags": [
+        "gZ",
+        "aC"
+      ],
+      "FavorItemTags": [
+        "al",
+        "ak"
+      ],
+      "FavorItemUniqueTags": [
+        "gZ",
+        "gz"
+      ],
+      "ForbiddenTags": [
+        "V",
+        "f"
+      ],
+      "ZoneWhiteListTags": []
+    },
+    {
       "Id": 13000,
       "FavorTags": [
         "BK",
@@ -2706,6 +2746,23 @@
       "ForbiddenTags": [
         "p"
       ],
+      "ZoneWhiteListTags": []
+    },
+    {
+      "Id": 16017,
+      "FavorTags": [
+        "HA"
+      ],
+      "FavorItemTags": [
+        "aM",
+        "am",
+        "aO"
+      ],
+      "FavorItemUniqueTags": [
+        "HA",
+        "Ha"
+      ],
+      "ForbiddenTags": [],
       "ZoneWhiteListTags": []
     },
     {

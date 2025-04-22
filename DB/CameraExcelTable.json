@@ -1026,6 +1026,19 @@
       "BottomMargin": 0.05000000074505806,
       "IgnoreEnemies": true,
       "UseRailPointCompensation": true
+    },
+    {
+      "UniqueId": 115,
+      "MinDistance": 30.0,
+      "MaxDistance": 60.0,
+      "RotationX": 25.253129959106445,
+      "RotationY": -62.668548583984375,
+      "MoveInstantly": false,
+      "MoveInstantlyRotationSave": true,
+      "LeftMargin": 0.10000000149011612,
+      "BottomMargin": 0.05000000074505806,
+      "IgnoreEnemies": true,
+      "UseRailPointCompensation": true
     }
   ]
 }
