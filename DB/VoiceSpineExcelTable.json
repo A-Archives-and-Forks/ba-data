@@ -27533,6 +27533,123 @@
       "SoundVolume": [
         1.0
       ]
+    },
+    {
+      "UniqueId": 2119,
+      "Id": 633552595,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0257/CH0257_MemorialLobby_1_1"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2120,
+      "Id": 3181456839,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0257/CH0257_MemorialLobby_1_2"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2121,
+      "Id": 1413824250,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0257/CH0257_MemorialLobby_1_3"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2122,
+      "Id": 3384162130,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0257/CH0257_MemorialLobby_2_1"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2123,
+      "Id": 1975993214,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0257/CH0257_MemorialLobby_2_2"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2124,
+      "Id": 3105419363,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0257/CH0257_MemorialLobby_3"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2125,
+      "Id": 2749084435,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0257/CH0257_MemorialLobby_4_1"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2126,
+      "Id": 2733820916,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0257/CH0257_MemorialLobby_4_2"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2127,
+      "Id": 2881784819,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0257/CH0257_MemorialLobby_5"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
     }
   ]
 }

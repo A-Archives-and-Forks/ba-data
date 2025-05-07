@@ -3604,6 +3604,25 @@
       "ZoneWhiteListTags": []
     },
     {
+      "Id": 20045,
+      "FavorTags": [
+        "HB",
+        "a",
+        "R"
+      ],
+      "FavorItemTags": [
+        "aX",
+        "BB",
+        "aM"
+      ],
+      "FavorItemUniqueTags": [
+        "HB",
+        "Hb"
+      ],
+      "ForbiddenTags": [],
+      "ZoneWhiteListTags": []
+    },
+    {
       "Id": 23000,
       "FavorTags": [
         "By",
