@@ -29,6 +29,27 @@
       "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp"
     },
     {
+      "Id": 10005,
+      "Contents": "Campaign",
+      "Type": "Lowlevel",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Lowlevel_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Lowlevel_jp"
+    },
+    {
+      "Id": 10006,
+      "Contents": "Campaign",
+      "Type": "LowEquipment",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowEquipment_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowEquipment_jp"
+    },
+    {
+      "Id": 10007,
+      "Contents": "Campaign",
+      "Type": "LowSkill",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowSkill_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowSkill_jp"
+    },
+    {
       "Id": 20101,
       "Contents": "WeekDungeon",
       "Type": "Chaser",

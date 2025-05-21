@@ -3466,6 +3466,69 @@
       "DialogOffsetY": 1
     },
     {
+      "EventContentId": 10836,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900925201,
+      "SpineOffsetX": 1.12,
+      "SpineOffsetY": -0.6,
+      "DialogOffsetX": 50,
+      "DialogOffsetY": 2
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900925301,
+      "SpineOffsetX": 1.2,
+      "SpineOffsetY": -0.7799,
+      "DialogOffsetX": 38,
+      "DialogOffsetY": 2
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900925001,
+      "SpineOffsetX": 1.2,
+      "SpineOffsetY": -0,
+      "DialogOffsetX": 40,
+      "DialogOffsetY": -12
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900925101,
+      "SpineOffsetX": 1.6,
+      "SpineOffsetY": -0.29,
+      "DialogOffsetX": 45,
+      "DialogOffsetY": -34
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900925001,
+      "SpineOffsetX": -0.75,
+      "SpineOffsetY": -0,
+      "DialogOffsetX": -0,
+      "DialogOffsetY": -0
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900925201,
+      "SpineOffsetX": -0.42,
+      "SpineOffsetY": -0.12,
+      "DialogOffsetX": -0,
+      "DialogOffsetY": 10
+    },
+    {
+      "EventContentId": 10836,
+      "EventContentType": "MinigameDreamMaker",
+      "CostumeUniqueId": 1900925301,
+      "SpineOffsetX": -0.51,
+      "SpineOffsetY": -0.32,
+      "DialogOffsetX": -0,
+      "DialogOffsetY": 10
+    },
+    {
       "EventContentId": 50822,
       "EventContentType": "Stage",
       "CostumeUniqueId": 1900911001,
@@ -3734,6 +3797,24 @@
       "SpineOffsetY": -0.29,
       "DialogOffsetX": 26,
       "DialogOffsetY": 10
+    },
+    {
+      "EventContentId": 60013,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900914001,
+      "SpineOffsetX": 0.98,
+      "SpineOffsetY": -1.38,
+      "DialogOffsetX": 50,
+      "DialogOffsetY": -17
+    },
+    {
+      "EventContentId": 60013,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900914001,
+      "SpineOffsetX": -0.25,
+      "SpineOffsetY": -1.51,
+      "DialogOffsetX": -0,
+      "DialogOffsetY": -0
     },
     {
       "EventContentId": 70000,

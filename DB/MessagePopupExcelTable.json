@@ -1311,6 +1311,25 @@
       ],
       "ButtonCommand": [],
       "ButtonParameter": []
+    },
+    {
+      "StringId": 99229275,
+      "MessagePopupLayout": "TextOnly",
+      "OrderType": "ImageFirst",
+      "Image": "",
+      "TitleText": 1739509789,
+      "SubTitleText": 0,
+      "MessageText": 3962177504,
+      "ConditionText": [],
+      "DisplayXButton": true,
+      "Button": [
+        "Accept"
+      ],
+      "ButtonText": [
+        475331399
+      ],
+      "ButtonCommand": [],
+      "ButtonParameter": []
     }
   ]
 }
