@@ -16433,6 +16433,70 @@
       "LocalizeJP": "……お気持ちはありがたいのですが。いやはや、私に何を求めていらっしゃるのやら。\nんふふ……ですが、先生のご期待を裏切るわけにもいきませんし？\n困ってしまいますねぇ……本当に♪"
     },
     {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루…… 아카이브!",
+      "LocalizeJP": "ブルー……アーカイブ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나의 무대에 온 걸 환영해, 선생님.\n후후, 나의 박자만 따라오라고.",
+      "LocalizeJP": "やあやあ、先生。私のステージへようこそ。\n……このリズムについて来れるかな？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "울림이 좋은 공간이네.",
+      "LocalizeJP": "美しい響きが奏でられそうな場所だ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "사람이 많군……\n나의 연주를 들려줄 때인가?",
+      "LocalizeJP": "私の演奏を披露するときが……ついに！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "드럼은 어디에 둘까……",
+      "LocalizeJP": "どこにドラムを置こう……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "단 것은 어디에 있는가……!",
+      "LocalizeJP": "甘いもの……どこだ……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "조금 있으면 선생님도 오려나…….",
+      "LocalizeJP": "先生も来るのだろうか……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "손에 딱 맞는 스틱을 쥔 기분이야……\n선생님의 센스는 늘 놀랍다니까.",
+      "LocalizeJP": "おぉー……まるで指先と一心同体のスティックを手に入れたような気持ち……。\n先生のセンスに惚れ惚れしてしまうな。"
+    },
+    {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
       "CharacterId": 10014,
       "Duration": 0,
@@ -33951,6 +34015,110 @@
       "Separate": false,
       "LocalizeKR": "오늘 체크는 이걸로 끝이네요! 수고하셨어요!",
       "LocalizeJP": "本日のチェックはこれで終わりですね！\nお疲れ様でした！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후, 어서 오라고,\n선생님.",
+      "LocalizeJP": "ふふ、よくぞ来てくれた、先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "편한 곳에 앉아.",
+      "LocalizeJP": "楽にしていてくれて構わない。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "곧 연주가시작될 테니.",
+      "LocalizeJP": "もうすぐ演奏が始まるよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좀 더 과자가……",
+      "LocalizeJP": "もっとお菓子が……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아니 연습이 필요해……!",
+      "LocalizeJP": "いや、練習が必要だ……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자, 피날레까지\n이제 한 걸음……!",
+      "LocalizeJP": "さあ、フィナーレまであと一歩……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……아아, 굉장했지.\n수고했어, 선생님.",
+      "LocalizeJP": "……あぁ、すごかったよ。\nお疲れ様、先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "응? 무슨 일이야, 선생님?",
+      "LocalizeJP": "ん？どうしたの、先生？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "찌를 거라면\n어깨를 찔러 줘……",
+      "LocalizeJP": "つつくなら、こっちもお願い……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "드럼을 치다 보니\n어깨가 뻐근하네……",
+      "LocalizeJP": "練習で肩がひどく凝っててね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아무리 찔러도 마카롱은\n안 나온다고, 선생님.",
+      "LocalizeJP": "そんなにつついても、マカロンは出ないよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앉아 봐, 선생님.",
+      "LocalizeJP": "そこ座って、先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10120,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "드럼이 무엇인지\n알려주지……!",
+      "LocalizeJP": "ドラムの真髄、見せてあげようじゃないか……！"
     },
     {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",

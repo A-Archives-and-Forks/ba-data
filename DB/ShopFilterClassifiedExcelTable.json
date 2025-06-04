@@ -4953,6 +4953,14 @@
       "GoodsId": 20222
     },
     {
+      "Id": 20223,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Trinity",
+      "GoodsId": 20223
+    },
+    {
       "Id": 50000,
       "CategoryType": "SecretStoneGrowth",
       "ConsumeParcelType": "Item",
