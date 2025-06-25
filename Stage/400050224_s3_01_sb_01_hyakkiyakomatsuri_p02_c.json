@@ -403,9 +403,9 @@
             "z": 19.415
           },
           "Forward": {
-            "x": 0.455515146,
+            "x": 0.4555162,
             "y": 0,
-            "z": -0.890228033
+            "z": -0.8902275
           },
           "ActiveEnemyPointIndices": [
             0
@@ -1140,6 +1140,12 @@
               "FadeInWhenStart": false,
               "FadeOutInWhenEnd": false,
               "FadeInWhenEnd": false,
+              "CommandID": "",
+              "WaitExecuteEnd": false
+            },
+            {
+              "$type": "GroundCommandShowEnemyCountUI, BlueArchive",
+              "Show": true,
               "CommandID": "",
               "WaitExecuteEnd": false
             },
@@ -2204,7 +2210,7 @@
             "z": 57.6946259
           },
           "Forward": {
-            "x": -0.0107159046,
+            "x": -0.0107159065,
             "y": 0,
             "z": 0.9999426
           },
@@ -2227,7 +2233,7 @@
             "z": 57.69
           },
           "Forward": {
-            "x": -0.0107159046,
+            "x": -0.0107159065,
             "y": 0,
             "z": 0.9999426
           },
@@ -2250,7 +2256,7 @@
             "z": 57.6986771
           },
           "Forward": {
-            "x": -0.0107159046,
+            "x": -0.0107159065,
             "y": 0,
             "z": 0.9999426
           },
@@ -2296,9 +2302,9 @@
             "z": 63.8799973
           },
           "Forward": {
-            "x": 0.101619333,
+            "x": 0.101620518,
             "y": 0,
-            "z": -0.994823337
+            "z": -0.9948232
           },
           "ActiveEnemyPointIndices": [
             0

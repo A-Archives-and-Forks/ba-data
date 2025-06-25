@@ -3975,7 +3975,7 @@
         1.3480000495910645
       ],
       "LoopEndTime": [
-        130.78599548339844
+        98.11299896240234
       ],
       "LoopTranstionTime": [
         0.20000000298023224
@@ -6040,6 +6040,30 @@
       ],
       "LoopEndTime": [
         129.14199829101562
+      ],
+      "LoopTranstionTime": [
+        0.20000000298023224
+      ],
+      "LoopOffsetTime": [
+        0.0
+      ]
+    },
+    {
+      "Id": 289,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/BGM/Theme_289"
+      ],
+      "Volume": [
+        1.0
+      ],
+      "LoopStartTime": [
+        3.302000045776367
+      ],
+      "LoopEndTime": [
+        122.20099639892578
       ],
       "LoopTranstionTime": [
         0.20000000298023224

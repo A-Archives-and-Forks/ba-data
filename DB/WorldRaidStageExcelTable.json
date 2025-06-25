@@ -254,7 +254,7 @@
       "BattleReadyTimelinePhaseEnd": [
         100
       ],
-      "VictoryTimelinePath": "Timeline/Timeline_Victory_Binah",
+      "VictoryTimelinePath": "Timeline/Timeline_Victory",
       "PhaseChangeTimelinePath": "Timeline/Timeline_PhaseChange_Binah",
       "TimeLinePhase": 2,
       "EnterScenarioKey": 0,
@@ -299,7 +299,7 @@
       "BattleReadyTimelinePhaseEnd": [
         100
       ],
-      "VictoryTimelinePath": "Timeline/Timeline_Victory_Binah",
+      "VictoryTimelinePath": "Timeline/Timeline_Victory",
       "PhaseChangeTimelinePath": "Timeline/Timeline_PhaseChange_Binah",
       "TimeLinePhase": 2,
       "EnterScenarioKey": 0,

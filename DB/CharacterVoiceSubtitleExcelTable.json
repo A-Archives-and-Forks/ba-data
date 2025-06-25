@@ -34865,6 +34865,22 @@
       "LocalizeJP": "どうぞ、ごゆるりとお楽しみください！"
     },
     {
+      "LocalizeCVGroup": "CVGroup_Summon_Retreat_01",
+      "CharacterVoiceGroupId": 20010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오늘의 영업은 이것으로 종료입니다!",
+      "LocalizeJP": "本日の営業はこれにて終了です！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Summon_Retreat_02",
+      "CharacterVoiceGroupId": 20010,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "죄, 죄송합니다! 재료가 모두 떨어졌어요!",
+      "LocalizeJP": "す、すみません！材料切れです！"
+    },
+    {
       "LocalizeCVGroup": "CVGroup_Growup_1",
       "CharacterVoiceGroupId": 20010,
       "Duration": 0,
@@ -45102,7 +45118,7 @@
       "Duration": 0,
       "Separate": false,
       "LocalizeKR": "성장, 입니까. 회복과는 또 다르네요. 지향성을 가진 변화, 라고 할까요.",
-      "LocalizeJP": "成長……回復とは異を成す、\n指向性のある変容か。"
+      "LocalizeJP": "成長……回復とは異にする、\n指向性のある変容か。"
     },
     {
       "LocalizeCVGroup": "CVGroup_Growup_2",
@@ -48951,6 +48967,654 @@
       "Separate": false,
       "LocalizeKR": "연습은 배신하지 않지.",
       "LocalizeJP": "練習は、裏切らない。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "여름의 기책이야.",
+      "LocalizeJP": "夏だからこその策を。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "누가 물을 무서워해?",
+      "LocalizeJP": "私が水を怖がるとでも？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후, 이 정도야….",
+      "LocalizeJP": "ふふ、この程度……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "내 영법을 눈에 잘 새겨둬.",
+      "LocalizeJP": "私の泳ぎを目に焼き付けて。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흠냐…… 문제없어……",
+      "LocalizeJP": "んん……順調……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "으음…… 이대로만…… 쭉……",
+      "LocalizeJP": "ん……このまま……まっすぐ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "들이쉬고…… 내뱉고…… 우음……",
+      "LocalizeJP": "吸って……吐いて……ううん……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "교학상장. 성장은 끊임없는 배움 중에 있지.\n당신과는 그런 관계로 있고 싶네.",
+      "LocalizeJP": "教学相長ず。成長は弛まぬ学びの中にある。\nあんたとは、そんな関係でいたいね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "당신은 여러 가지를 깨닫게 해줘……\n역시, 우수하군.",
+      "LocalizeJP": "あんたは色々なことを気づかせてくれる……。\nやっぱり、優秀なんだね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……나는 아직 배울 게 많아.\n두고 봐. 더 완벽해질 테니까.",
+      "LocalizeJP": "私はまだ、学びの最中にいる。\n完璧になるまで、そばで見ていて。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나는 계속 성장할 거야.\n나는 물론, 당신과 모두를 위해서.",
+      "LocalizeJP": "この先も成長し続けるから……\nみんなと……あんたのために。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나에게 이렇게까지…… 대체 뭘 시키고 싶어서?\n흐음…… 알았다.\n그럼, 수영을 가르칠 기회를 줄게.",
+      "LocalizeJP": "こんなに私に構って……一体何をさせたいの？\nふぅん……分かった。\nじゃあ、泳ぎを教えるチャンスをあげる。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "거리낌 없이 다가오네……\n……뭐, 싫진 않지만.",
+      "LocalizeJP": "ずいぶん積極的なんだね……\nそういうの……嫌いじゃないかも。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭐, 이런 것도…… 나쁘지 않을지도.",
+      "LocalizeJP": "まぁ、こういうのも……悪くないかもね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 20047,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "특별한 인연이란, 그리 멀지 않은 곳에 있다고 해.\n뭐, 그냥 그렇다는 이야기야.",
+      "LocalizeJP": "「特別な縁」って、意外と身近に転がってるものだと言うよね。\n……別に？そういう話を聞いただけ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "음! 딱 좋은 타이밍!",
+      "LocalizeJP": "うん！タイミングばっちり！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어딜 노려!",
+      "LocalizeJP": "当たらないよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "핫하! 느려!",
+      "LocalizeJP": "遅い遅い！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자, 모두 청춘하자!",
+      "LocalizeJP": "青春活動の時間だよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "물놀이 시작할게!",
+      "LocalizeJP": "水遊びを始めるよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다음은 저쪽인가?",
+      "LocalizeJP": "次はあっち？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "날 따라와!",
+      "LocalizeJP": "アタシに続いて！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오, 기운이 솟아!",
+      "LocalizeJP": "力が湧いてくる！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이동할게!",
+      "LocalizeJP": "移動するよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후, 이게 청춘의 힘이야!",
+      "LocalizeJP": "これぞ青春パワー！だな！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다음에도 내게 맡겨 달라고!",
+      "LocalizeJP": "次もアタシに任せてくれよな！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "청춘 주입!",
+      "LocalizeJP": "青春注入！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "청춘의 파도여, 가라!",
+      "LocalizeJP": "青春の波よ、行け！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "여름을 즐길 준비는 됐어?",
+      "LocalizeJP": "夏を楽しむ準備はいいか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "비켜 비켜 비켜!",
+      "LocalizeJP": "どいたどいた～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "하핫, 받아라!",
+      "LocalizeJP": "ははっ、くらいな！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "휩쓸려라!",
+      "LocalizeJP": "巻き込まれろ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "청춘포, 발사!",
+      "LocalizeJP": "青春砲、発射！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "응! 내 차례네!",
+      "LocalizeJP": "おっ！アタシの出番だね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "청춘의 힘을 보여줄게!",
+      "LocalizeJP": "青春の力、みせてやる！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋아! 어디든 맡겨줘!",
+      "LocalizeJP": "いいよ！どこでも任せてくれ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "고, 고마워 스승님.\n덕분에 나도 성장하고 있어. 헤헷.",
+      "LocalizeJP": "あ、ありがとう、へへっ。\n師匠のおかげで、成長できたんだ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이걸로 청춘력이 더 강해졌어!\n스승님도 같이 청춘하자!",
+      "LocalizeJP": "青春力アーップ！\nこれでもっと青春活動ができるな！\n師匠も一緒に！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오오, 뭔가 강해졌어!\n모두 스승님과의 수련 덕분이야!",
+      "LocalizeJP": "お、強くなったよ！\n師匠との鍛錬の成果だね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "인생의 파도를 헤치고 한층 성장한 기분……\n이것도 청춘인 거지?",
+      "LocalizeJP": "荒波を乗り越えた先にこそ成長がある……\nこれも青春なのかな！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "으으, 이 고마움을 어떻게 표현하지?\n항상 받기만 해서는 미안한데.",
+      "LocalizeJP": "いつももらってばっかだし……\nうぅ～「ありがとう」だけじゃ足りない気がする！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "스, 스승님과 있으면 묘하게 가슴이 뛰어.\n이 감정은…… 아아 모르겠다!",
+      "LocalizeJP": "し、師匠といると……ドキドキする。\nこの気持ちは……もうちょっとで分かりそうなのに！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이것이 스승님의 마음……\n언젠가, 나의 마음도……!",
+      "LocalizeJP": "これが師匠の想い……\nいつか、アタシの想いだって……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "청춘하고 싶다고 생각해 주는 거야…?\n나, 나도, 스승님과…!",
+      "LocalizeJP": "青春したいって思ってくれてるのか……？\nあ、アタシだって、師匠と……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "승리의 길을 보여줄게!",
+      "LocalizeJP": "勝利の道に連れてくよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오늘의 나는 평소보다 강하다고!",
+      "LocalizeJP": "今日のアタシは一味違うんだ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아아. 훌륭한 지휘였어, 스승님!",
+      "LocalizeJP": "ああ、いい指揮だったよ、師匠！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 13014,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "응? 벌써 끝이야? 난 더 할 수 있는데!",
+      "LocalizeJP": "もう終わり？ちょっと物足りないな！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "반드시 부응해 보이겠사와요!",
+      "LocalizeJP": "必ずご期待にお答えしてみせますの！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "숨었사와요!",
+      "LocalizeJP": "ささ！隠れましたの！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흐흥! 무릅니다!",
+      "LocalizeJP": "ふっふん！甘いですわ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "소녀가 앞장서겠사와요!",
+      "LocalizeJP": "身共の後についてきてくださいませ！参りますわ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "엘리~트의 실력을 보여 드리겠사와요!",
+      "LocalizeJP": "えりーとの実力、お見せいたしますの！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이대로 쭉쭉 가겠사와요!",
+      "LocalizeJP": "この勢いで参りましょう！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이 흐름을 타고 가는 것이어요!",
+      "LocalizeJP": "流れに乗っていきますの～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "땡큐 베리 머치와요!",
+      "LocalizeJP": "さんきゅーべりいまっち、ですわ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "두고 가지 마시어요!",
+      "LocalizeJP": "置いていかないでくださいまし！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "소녀의 멋진 활약, 보셨을까요!",
+      "LocalizeJP": "身共の華麗なる快進撃、ご覧になりましたの？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후! 유카리 불패 전설의 새로운 페이~지여요!",
+      "LocalizeJP": "ふふっ！ユカリ伝説の始まりに過ぎませんわ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "유니쿠~한 맛이어요!",
+      "LocalizeJP": "ゆに～くなお味ですの！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "눈이 빙글빙글 돌아……\n……가네요?!",
+      "LocalizeJP": "どれも素敵で目が回って……\nしまいますの！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "페스티~발이어요!\n……어라라? 꺄앙?!",
+      "LocalizeJP": "ふぇすてぃばる～ですわ！\nあら……？きゃぁっ！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이것이 여름 축제……!\n……조, 조금 과격하네요!",
+      "LocalizeJP": "これが夏祭りなのですね……！\n……しょ、少々過激ですわ！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "데인저러수~! 이와요!",
+      "LocalizeJP": "で、でんじゃらすですの～！！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "꺄아앙!",
+      "LocalizeJP": "きゃああぁっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "소녀, 핀~치여요!",
+      "LocalizeJP": "身共、ぴんちですの！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "네! 소녀가 무엇을 하면 될까요!",
+      "LocalizeJP": "はい！身共におまかせくださいませ、ですの！\n何をいたしましょう？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "움직이기 편한 복장이네요!",
+      "LocalizeJP": "身体が軽い……\nこの装束、本当に動きやすいですの！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어디든, 진격이어요!",
+      "LocalizeJP": "どこへでもなんなりと！\nお供いたしますわ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "소녀에게 걸어주신 기대…… 결코 그르치지 않겠사와요!",
+      "LocalizeJP": "先生からいただいた身共への期待……決して裏切りませんわ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아직 한참 미숙한 몸입니다만, 저 유카리, 선생님의 신뢰에 부응하도록 정진하겠사와요!",
+      "LocalizeJP": "身共はまだまだ未熟者ですが……\n先生のご期待に沿えるよう、これからも精進してまいりますの！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "정말, 배움에는 끝이 없네요. 인생만사가 배움이라, 하듯이.\n선생님께서는 항상 모르는 세상을 보여주십니다.\n정말로, 감사드립니다.",
+      "LocalizeJP": "学びに終わりはありません……人生全てが学びである、と。\n先生は、いつも身共に知らない世界を見せてくださる……\n本当に、感謝しております。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "소녀, 더욱 강해져서…… 선생님께 힘이 되고 싶습니다.\n지금보다…… 더욱더!",
+      "LocalizeJP": "身共、もっと強くなって……先生のお力になりたいのです。\nこれまで以上に……もっと！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "함께하는 매 순간이 저에게는 크나큰 선물과 같은데.\n선생님께서는 자꾸만 더 주시려 하네요.",
+      "LocalizeJP": "この一瞬一瞬が、身共にとっては贈り物のようなものです。\nなのに……先生はまた、こうして与えてくださるのですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "소녀의 내면에서, 따뜻한 감정이 벅차오릅니다.\n이 주체할 수 없는 마음을 소녀는 어떻게 해야 할까요?",
+      "LocalizeJP": "胸の内側から、とてもあたたかな感情がこみ上げてくるのです。\nこの気持ち、身共はよく分かりません……先生は、ご存知ですの？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "꽃은 반드시 지나, 피어남을 후회하지 않을 겁니다.\n선생님께서 바라시니, 저 역시 기꺼이 만개하겠사와요.\n부디 곁에서 지켜봐 주시길.",
+      "LocalizeJP": "花はいつか枯れてしまいますが、決して芽吹いたことを後悔しないでしょう。\nええ……先生が望むのであれば、身共は咲き誇ってみせます。そばで見ていてくださいね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "정말, 감사합니다.\n소녀는 이 순간을 결코 잊지 못할 겁니다.",
+      "LocalizeJP": "本当に、心より感謝いたします。\n身共は決してこの瞬間を忘れませんわ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "백화요란에는 유카리가 있다는걸, 온 세상에 알려주겠사와요!",
+      "LocalizeJP": "百花繚乱に身共あり！\nと、キヴォトス中に知らしめてみせますわ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "소녀의 무적 전설, 쭉쭉 이어 나가는 것이어요!",
+      "LocalizeJP": "身共、勘解由小路ユカリの無敵伝説を始めていきますの！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후! 백화요란이 나선 이상, 당연한 결과입니다!",
+      "LocalizeJP": "ふふっ！これが百花繚乱の力、ですの！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 10121,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "퍼어~펙투한 승리였사와요!\n다들 수고하셨사와요!",
+      "LocalizeJP": "ぱ～ふぇくとな勝利ですの！\nお疲れ様でございました、皆様！"
     }
   ]
 }

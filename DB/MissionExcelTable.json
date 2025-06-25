@@ -81256,7 +81256,8 @@
         41,
         2052101,
         2052201,
-        2052301
+        2052301,
+        2052401
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81300,7 +81301,8 @@
         42,
         2052102,
         2052202,
-        2052302
+        2052302,
+        2052402
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81344,7 +81346,8 @@
         43,
         2052103,
         2052203,
-        2052303
+        2052303,
+        2052403
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81388,7 +81391,8 @@
         44,
         2052104,
         2052204,
-        2052304
+        2052304,
+        2052404
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81432,7 +81436,8 @@
         45,
         2052105,
         2052205,
-        2052305
+        2052305,
+        2052405
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81476,7 +81481,8 @@
         46,
         2052106,
         2052206,
-        2052306
+        2052306,
+        2052406
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81520,7 +81526,8 @@
         47,
         2052107,
         2052207,
-        2052307
+        2052307,
+        2052407
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81564,7 +81571,8 @@
         1031,
         2041101,
         2041201,
-        2041301
+        2041301,
+        2041401
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81608,7 +81616,8 @@
         1032,
         2041102,
         2041202,
-        2041302
+        2041302,
+        2041402
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81652,7 +81661,8 @@
         1033,
         2041103,
         2041203,
-        2041303
+        2041303,
+        2041403
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81696,7 +81706,8 @@
         1034,
         2041104,
         2041204,
-        2041304
+        2041304,
+        2041404
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81740,7 +81751,8 @@
         1035,
         2041105,
         2041205,
-        2041305
+        2041305,
+        2041405
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81784,7 +81796,8 @@
         1036,
         2041106,
         2041206,
-        2041306
+        2041306,
+        2041406
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -81828,7 +81841,8 @@
         1037,
         2041107,
         2041207,
-        2041307
+        2041307,
+        2041407
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",
@@ -83379,6 +83393,49 @@
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
         77
+      ],
+      "CompleteConditionParameterTag": [],
+      "RewardIcon": "",
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 101223,
+      "Category": "Achievement",
+      "Description": 2232952983,
+      "ResetType": "None",
+      "ToastDisplayType": "Complete",
+      "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "ViewFlag": true,
+      "Limit": false,
+      "StartDate": "",
+      "EndDate": "",
+      "EndDay": 0,
+      "StartableEndDate": "",
+      "DateAutoRefer": "None",
+      "DisplayOrder": 101000,
+      "PreMissionId": [
+        101166
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ContentTags": [],
+      "ShortcutUI": [
+        "UIRaidLobby",
+        "UIEliminateRaidLobby"
+      ],
+      "ChallengeStageShortcut": 0,
+      "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+      "CompleteConditionCount": 1,
+      "CompleteConditionParameter": [
+        78
       ],
       "CompleteConditionParameterTag": [],
       "RewardIcon": "",

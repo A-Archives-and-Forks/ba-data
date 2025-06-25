@@ -4787,6 +4787,132 @@
         4021057143,
         3048997368
       ]
+    },
+    {
+      "Id": 42001,
+      "TimeAttackDungeonType": "Destruction",
+      "LocalizeEtcKey": 3848197905,
+      "BattleDuration": 180000,
+      "ClearDefaultPoint": 500,
+      "ClearTimeWeightPoint": 25000,
+      "TimeWeightConst": 2500,
+      "Difficulty": 1,
+      "RecommandLevel": 25,
+      "GroundId": 922200001,
+      "AllyPassiveSkillId": [],
+      "AllyPassiveSkillLevel": [],
+      "EnemyPassiveSkillId": [],
+      "EnemyPassiveSkillLevel": [],
+      "GeasIconPath": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Indoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed"
+      ],
+      "GeasLocalizeEtcKey": [
+        1329507091,
+        2570956929
+      ]
+    },
+    {
+      "Id": 42101,
+      "TimeAttackDungeonType": "Destruction",
+      "LocalizeEtcKey": 2774794386,
+      "BattleDuration": 180000,
+      "ClearDefaultPoint": 500,
+      "ClearTimeWeightPoint": 50000,
+      "TimeWeightConst": 10000,
+      "Difficulty": 2,
+      "RecommandLevel": 40,
+      "GroundId": 922200002,
+      "AllyPassiveSkillId": [],
+      "AllyPassiveSkillLevel": [],
+      "EnemyPassiveSkillId": [],
+      "EnemyPassiveSkillLevel": [],
+      "GeasIconPath": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Indoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed"
+      ],
+      "GeasLocalizeEtcKey": [
+        1329507091,
+        2570956929
+      ]
+    },
+    {
+      "Id": 42201,
+      "TimeAttackDungeonType": "Destruction",
+      "LocalizeEtcKey": 766045,
+      "BattleDuration": 110000,
+      "ClearDefaultPoint": 500,
+      "ClearTimeWeightPoint": 75000,
+      "TimeWeightConst": 20000,
+      "Difficulty": 3,
+      "RecommandLevel": 65,
+      "GroundId": 922200003,
+      "AllyPassiveSkillId": [
+        "Enemy_HealConvertDamage_01_R82"
+      ],
+      "AllyPassiveSkillLevel": [
+        1
+      ],
+      "EnemyPassiveSkillId": [
+        "Enemy_HealConvertDamage_02_R82"
+      ],
+      "EnemyPassiveSkillLevel": [
+        1
+      ],
+      "GeasIconPath": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Indoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_NPC_Special_HealConvertDamage"
+      ],
+      "GeasLocalizeEtcKey": [
+        1329507091,
+        2570956929,
+        200078526
+      ]
+    },
+    {
+      "Id": 42301,
+      "TimeAttackDungeonType": "Destruction",
+      "LocalizeEtcKey": 671667446,
+      "BattleDuration": 130000,
+      "ClearDefaultPoint": 500,
+      "ClearTimeWeightPoint": 100000,
+      "TimeWeightConst": 30000,
+      "Difficulty": 4,
+      "RecommandLevel": 78,
+      "GroundId": 922200004,
+      "AllyPassiveSkillId": [
+        "Enemy_HealConvertDamage_01_R82"
+      ],
+      "AllyPassiveSkillLevel": [
+        1
+      ],
+      "EnemyPassiveSkillId": [
+        "Enemy_HealConvertDamage_02_R82",
+        "Enemy_Buff_Shield_PassiveSkill01",
+        "Enemy_Release_Shield_By_Debuff_PassiveSkill01",
+        "Enemy_Release_Shield_By_Debuff_PassiveSkill02",
+        "Enemy_Release_Shield_By_Debuff_PassiveSkill03"
+      ],
+      "EnemyPassiveSkillLevel": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "GeasIconPath": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Indoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_NPC_Special_HealConvertDamage",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Enemy_Buff_Shield"
+      ],
+      "GeasLocalizeEtcKey": [
+        1329507091,
+        2570956929,
+        200078526,
+        1541034600
+      ]
     }
   ]
 }
