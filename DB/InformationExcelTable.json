@@ -1609,6 +1609,48 @@
       "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
       "TutorialParentName": [],
       "UIName": []
+    },
+    {
+      "GroupID": 139001,
+      "PageName": "UIInformationPopup_BattlePass01",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 139001,
+      "PageName": "UIInformationPopup_BattlePass02",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 139001,
+      "PageName": "UIInformationPopup_BattlePass03",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 139001,
+      "PageName": "UIInformationPopup_BattlePass04",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 139001,
+      "PageName": "UIInformationPopup_BattlePass05",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 139001,
+      "PageName": "UIInformationPopup_BattlePass06",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
     }
   ]
 }

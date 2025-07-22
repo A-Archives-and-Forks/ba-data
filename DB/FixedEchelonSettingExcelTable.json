@@ -36661,6 +36661,160 @@
       "InteractionTSCharacterId": 0
     },
     {
+      "FixedEchelonID": 848130201,
+      "EchelonSceneSkip": false,
+      "MainLeaderSlot": 0,
+      "MainCharacterID": [
+        9010125,
+        9010126,
+        0
+      ],
+      "MainLevel": [
+        25,
+        25,
+        25,
+        0
+      ],
+      "MainGrade": [
+        3,
+        3,
+        3,
+        0
+      ],
+      "MainExSkillLevel": [
+        5,
+        5,
+        5,
+        0
+      ],
+      "MainNoneExSkillLevel": [
+        10,
+        10,
+        10,
+        0
+      ],
+      "MainEquipment1Tier": [
+        4,
+        4,
+        4,
+        0
+      ],
+      "MainEquipment1Level": [
+        40,
+        40,
+        40,
+        0
+      ],
+      "MainEquipment2Tier": [
+        4,
+        4,
+        4,
+        0
+      ],
+      "MainEquipment2Level": [
+        40,
+        40,
+        40,
+        0
+      ],
+      "MainEquipment3Tier": [
+        4,
+        4,
+        4,
+        0
+      ],
+      "MainEquipment3Level": [
+        40,
+        40,
+        40,
+        0
+      ],
+      "MainCharacterWeaponGrade": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainCharacterWeaponLevel": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainCharacterGearTier": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainCharacterGearLevel": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SupportCharacterID": [
+        9010127
+      ],
+      "SupportLevel": [
+        25,
+        25
+      ],
+      "SupportGrade": [
+        3,
+        3
+      ],
+      "SupportExSkillLevel": [
+        5,
+        5
+      ],
+      "SupportNoneExSkillLevel": [
+        10,
+        10
+      ],
+      "SupportEquipment1Tier": [
+        4,
+        4
+      ],
+      "SupportEquipment1Level": [
+        40,
+        40
+      ],
+      "SupportEquipment2Tier": [
+        4,
+        4
+      ],
+      "SupportEquipment2Level": [
+        40,
+        40
+      ],
+      "SupportEquipment3Tier": [
+        4,
+        4
+      ],
+      "SupportEquipment3Level": [
+        40,
+        40
+      ],
+      "SupportCharacterWeaponGrade": [
+        0,
+        0
+      ],
+      "SupportCharacterWeaponLevel": [
+        0,
+        0
+      ],
+      "SupportCharacterGearTier": [
+        0,
+        0
+      ],
+      "SupportCharacterGearLevel": [
+        0,
+        0
+      ],
+      "InteractionTSCharacterId": 0
+    },
+    {
       "FixedEchelonID": 400050203,
       "EchelonSceneSkip": false,
       "MainLeaderSlot": 0,

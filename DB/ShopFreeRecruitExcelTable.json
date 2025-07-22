@@ -85,6 +85,18 @@
         50711,
         50712
       ]
+    },
+    {
+      "Id": 8,
+      "FreeRecruitPeriodFrom": "2025-07-22 11:00:00",
+      "FreeRecruitPeriodTo": "2025-07-30 10:59:59",
+      "FreeRecruitType": "Accumulation",
+      "FreeRecruitDecorationImagePath": "",
+      "ShopRecruitId": [
+        50810,
+        50811,
+        50812
+      ]
     }
   ]
 }

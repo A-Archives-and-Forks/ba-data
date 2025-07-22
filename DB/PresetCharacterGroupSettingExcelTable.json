@@ -2480,6 +2480,41 @@
       "PresetType": [
         "AllCharacter"
       ]
+    },
+    {
+      "CharacterId": 10122,
+      "ArenaSimulatorFixed": false,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
+      "CharacterId": 10123,
+      "ArenaSimulatorFixed": false,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
+      "CharacterId": 10124,
+      "ArenaSimulatorFixed": false,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
+      "CharacterId": 20048,
+      "ArenaSimulatorFixed": false,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
+      "CharacterId": 26015,
+      "ArenaSimulatorFixed": false,
+      "PresetType": [
+        "AllCharacter"
+      ]
     }
   ]
 }

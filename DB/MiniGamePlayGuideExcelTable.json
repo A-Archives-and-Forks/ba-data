@@ -385,6 +385,206 @@
       "GuideText": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_05"
     },
     {
+      "Id": 65,
+      "EventContentId": 848,
+      "DisplayOrder": 0,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_01",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_01"
+    },
+    {
+      "Id": 66,
+      "EventContentId": 848,
+      "DisplayOrder": 1,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_02",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_02"
+    },
+    {
+      "Id": 67,
+      "EventContentId": 848,
+      "DisplayOrder": 2,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_03",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_03"
+    },
+    {
+      "Id": 68,
+      "EventContentId": 848,
+      "DisplayOrder": 3,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_01",
+      "GuideText": "MINIGAME_CCG_MAP_848_PLAYGUIDE_01"
+    },
+    {
+      "Id": 69,
+      "EventContentId": 848,
+      "DisplayOrder": 4,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_02",
+      "GuideText": "MINIGAME_CCG_MAP_848_PLAYGUIDE_02"
+    },
+    {
+      "Id": 70,
+      "EventContentId": 848,
+      "DisplayOrder": 5,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_03",
+      "GuideText": "MINIGAME_CCG_MAP_848_PLAYGUIDE_03"
+    },
+    {
+      "Id": 71,
+      "EventContentId": 848,
+      "DisplayOrder": 6,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_04",
+      "GuideText": "MINIGAME_CCG_MAP_848_PLAYGUIDE_04"
+    },
+    {
+      "Id": 72,
+      "EventContentId": 848,
+      "DisplayOrder": 7,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_05",
+      "GuideText": "MINIGAME_CCG_MAP_848_PLAYGUIDE_05"
+    },
+    {
+      "Id": 73,
+      "EventContentId": 848,
+      "DisplayOrder": 8,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_06",
+      "GuideText": "MINIGAME_CCG_MAP_848_PLAYGUIDE_06"
+    },
+    {
+      "Id": 74,
+      "EventContentId": 848,
+      "DisplayOrder": 9,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_04",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_04"
+    },
+    {
+      "Id": 75,
+      "EventContentId": 848,
+      "DisplayOrder": 10,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_05",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_05"
+    },
+    {
+      "Id": 76,
+      "EventContentId": 848,
+      "DisplayOrder": 11,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_06",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_06"
+    },
+    {
+      "Id": 77,
+      "EventContentId": 848,
+      "DisplayOrder": 12,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_07",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_07"
+    },
+    {
+      "Id": 78,
+      "EventContentId": 848,
+      "DisplayOrder": 13,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_08",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_08"
+    },
+    {
+      "Id": 79,
+      "EventContentId": 848,
+      "DisplayOrder": 14,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_09",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_09"
+    },
+    {
+      "Id": 80,
+      "EventContentId": 848,
+      "DisplayOrder": 15,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_10",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_10"
+    },
+    {
+      "Id": 81,
+      "EventContentId": 848,
+      "DisplayOrder": 16,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_11",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_11"
+    },
+    {
+      "Id": 82,
+      "EventContentId": 848,
+      "DisplayOrder": 17,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_12",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_12"
+    },
+    {
+      "Id": 83,
+      "EventContentId": 848,
+      "DisplayOrder": 18,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_13",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_13"
+    },
+    {
+      "Id": 84,
+      "EventContentId": 848,
+      "DisplayOrder": 19,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_14",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_14"
+    },
+    {
+      "Id": 85,
+      "EventContentId": 848,
+      "DisplayOrder": 20,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_15",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_15"
+    },
+    {
+      "Id": 86,
+      "EventContentId": 848,
+      "DisplayOrder": 21,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_16",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_16"
+    },
+    {
+      "Id": 87,
+      "EventContentId": 848,
+      "DisplayOrder": 22,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_17",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_17"
+    },
+    {
+      "Id": 88,
+      "EventContentId": 848,
+      "DisplayOrder": 23,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_18",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_18"
+    },
+    {
+      "Id": 89,
+      "EventContentId": 848,
+      "DisplayOrder": 24,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_19",
+      "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_19"
+    },
+    {
       "Id": 100,
       "EventContentId": 10804,
       "DisplayOrder": 0,

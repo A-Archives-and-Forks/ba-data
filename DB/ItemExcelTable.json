@@ -242,7 +242,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "General",
-        "Arena"
+        "Arena",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -281,7 +282,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "General",
-        "Arena"
+        "Arena",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -320,7 +322,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "General",
-        "Arena"
+        "Arena",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -361,7 +364,8 @@
         "General",
         "Arena",
         "TimeAttack",
-        "MasterCoin"
+        "MasterCoin",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1168,7 +1172,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1209,7 +1214,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1249,7 +1255,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1288,7 +1295,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -1328,7 +1337,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1369,7 +1379,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1409,7 +1420,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1448,7 +1460,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -1488,7 +1502,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1529,7 +1544,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1569,7 +1585,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1608,7 +1625,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -1648,7 +1667,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1689,7 +1709,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1729,7 +1750,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1768,7 +1790,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -1808,7 +1832,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1849,7 +1874,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1889,7 +1915,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -1928,7 +1955,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -1968,7 +1997,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2009,7 +2039,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2049,7 +2080,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2088,7 +2120,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -2128,7 +2162,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2169,7 +2204,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2209,7 +2245,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2248,7 +2285,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -2288,7 +2327,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2329,7 +2369,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2369,7 +2410,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2408,7 +2450,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -2448,7 +2492,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2489,7 +2534,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2529,7 +2575,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2568,7 +2615,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -2608,7 +2657,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2649,7 +2699,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "General"
+        "General",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2689,7 +2740,8 @@
       "ShiftingCraftQuality": 50,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStoneGrowth"
+        "SecretStoneGrowth",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2728,7 +2780,9 @@
       "CraftQualityTier2": 50,
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemDaily"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 10,
@@ -2768,7 +2822,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2809,7 +2864,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2850,7 +2906,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2890,7 +2947,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2931,7 +2989,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -2972,7 +3031,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3013,7 +3073,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3053,7 +3114,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3094,7 +3156,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3135,7 +3198,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3176,7 +3240,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3216,7 +3281,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3257,7 +3323,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3298,7 +3365,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3339,7 +3407,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3379,7 +3448,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3420,7 +3490,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3461,7 +3532,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3502,7 +3574,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3542,7 +3615,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3583,7 +3657,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3624,7 +3699,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3665,7 +3741,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3705,7 +3782,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3746,7 +3824,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3787,7 +3866,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3828,7 +3908,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3868,7 +3949,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3909,7 +3991,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3950,7 +4033,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -3991,7 +4075,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4031,7 +4116,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4072,7 +4158,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4113,7 +4200,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4154,7 +4242,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4194,7 +4283,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4235,7 +4325,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4276,7 +4367,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4317,7 +4409,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "SecretStoneGrowth",
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4357,7 +4450,8 @@
       "ShiftingCraftQuality": 80,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "TimeAttack"
+        "TimeAttack",
+        "GemDaily"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4513,7 +4607,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4555,7 +4650,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4597,7 +4693,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4639,7 +4736,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4680,7 +4778,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4721,7 +4820,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4762,7 +4862,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4803,7 +4904,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4844,7 +4946,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4885,7 +4988,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4926,7 +5030,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -4967,7 +5072,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5008,7 +5114,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5049,7 +5156,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5090,7 +5198,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5131,7 +5240,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5173,7 +5283,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5215,7 +5326,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5257,7 +5369,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5299,7 +5412,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5340,7 +5454,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5381,7 +5496,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5422,7 +5538,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5463,7 +5580,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5504,7 +5622,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5545,7 +5664,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5586,7 +5706,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5627,7 +5748,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5668,7 +5790,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5709,7 +5832,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5750,7 +5874,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5791,7 +5916,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5833,7 +5959,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5875,7 +6002,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5917,7 +6045,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -5959,7 +6088,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6000,7 +6130,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6041,7 +6172,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6082,7 +6214,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6123,7 +6256,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6165,7 +6299,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6207,7 +6342,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6249,7 +6385,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6291,7 +6428,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6332,7 +6470,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6373,7 +6512,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6414,7 +6554,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6455,7 +6596,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6496,7 +6638,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6537,7 +6680,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6578,7 +6722,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6619,7 +6764,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6660,7 +6806,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6701,7 +6848,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6742,7 +6890,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6783,7 +6932,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6825,7 +6975,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6867,7 +7018,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6909,7 +7061,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6951,7 +7104,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -6992,7 +7146,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7033,7 +7188,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7074,7 +7230,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7115,7 +7272,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7156,7 +7314,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7197,7 +7356,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7238,7 +7398,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7279,7 +7440,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7320,7 +7482,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7361,7 +7524,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7402,7 +7566,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7443,7 +7608,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7485,7 +7651,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7527,7 +7694,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7569,7 +7737,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7611,7 +7780,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7652,7 +7822,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7693,7 +7864,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7734,7 +7906,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -7775,7 +7948,8 @@
       "MaxGiftTags": 0,
       "ShopCategory": [
         "Raid",
-        "EliminateRaid"
+        "EliminateRaid",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -8037,7 +8211,8 @@
         "Gk",
         "GP",
         "Gp",
-        "go"
+        "go",
+        "HO"
       ],
       "CraftQualityTier0": 20,
       "CraftQualityTier1": 20,
@@ -8171,7 +8346,8 @@
         "fZ",
         "Gg",
         "gY",
-        "Hd"
+        "Hd",
+        "HN"
       ],
       "CraftQualityTier0": 20,
       "CraftQualityTier1": 20,
@@ -8301,7 +8477,9 @@
         "aR",
         "BW",
         "cG",
-        "Gb"
+        "Gb",
+        "HL",
+        "Hl"
       ],
       "CraftQualityTier0": 20,
       "CraftQualityTier1": 20,
@@ -9364,7 +9542,9 @@
         "gb",
         "gC",
         "gc",
-        "gD"
+        "gD",
+        "HN",
+        "Hn"
       ],
       "CraftQualityTier0": 50,
       "CraftQualityTier1": 50,
@@ -9480,7 +9660,9 @@
         "GP",
         "Gp",
         "ge",
-        "gh"
+        "gh",
+        "HO",
+        "Ho"
       ],
       "CraftQualityTier0": 50,
       "CraftQualityTier1": 50,
@@ -9628,7 +9810,9 @@
         "gY",
         "gy",
         "Hd",
-        "HE"
+        "HE",
+        "HM",
+        "Hm"
       ],
       "CraftQualityTier0": 50,
       "CraftQualityTier1": 50,
@@ -9778,7 +9962,9 @@
         "Hf",
         "HG",
         "Hg",
-        "HH"
+        "HH",
+        "HK",
+        "Hk"
       ],
       "CraftQualityTier0": 50,
       "CraftQualityTier1": 50,
@@ -10136,7 +10322,9 @@
         "gG",
         "gJ",
         "gZ",
-        "gz"
+        "gz",
+        "HL",
+        "Hl"
       ],
       "CraftQualityTier0": 50,
       "CraftQualityTier1": 50,
@@ -10810,6 +10998,40 @@
       "GachaTicket": "PackageThreeStar"
     },
     {
+      "Id": 6109,
+      "GroupId": 6109,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3571624618,
+      "ItemCategory": "Material",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_3Star_10",
+      "SpriteName": "Currency_Icon_RecruitTicket_3Star_10",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-20 11:00:00",
+      "ExpirationNotifyDateIn": 3,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "PackageThreeStar"
+    },
+    {
       "Id": 6200,
       "GroupId": 6200,
       "Rarity": "SSR",
@@ -10961,10 +11183,10 @@
       "UsingResultParcelType": "None",
       "UsingResultId": 0,
       "UsingResultAmount": 0,
-      "MailType": "System",
-      "ExpiryChangeParcelType": "None",
-      "ExpiryChangeId": 0,
-      "ExpiryChangeAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Item",
+      "ExpiryChangeId": 6998,
+      "ExpiryChangeAmount": 1,
       "CanTierUpgrade": false,
       "TierUpgradeRecipeCraftId": 0,
       "Tags": [],
@@ -10974,7 +11196,7 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 11:00:00",
+      "ExpirationDateTime": "2025-07-22 11:00:00",
       "ExpirationNotifyDateIn": 3,
       "ShortcutTypeId": 0,
       "GachaTicket": "NormalOnce"
@@ -10995,10 +11217,10 @@
       "UsingResultParcelType": "None",
       "UsingResultId": 0,
       "UsingResultAmount": 0,
-      "MailType": "System",
-      "ExpiryChangeParcelType": "None",
-      "ExpiryChangeId": 0,
-      "ExpiryChangeAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Item",
+      "ExpiryChangeId": 6998,
+      "ExpiryChangeAmount": 1,
       "CanTierUpgrade": false,
       "TierUpgradeRecipeCraftId": 0,
       "Tags": [],
@@ -11008,7 +11230,7 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 11:00:00",
+      "ExpirationDateTime": "2025-07-22 11:00:00",
       "ExpirationNotifyDateIn": 3,
       "ShortcutTypeId": 0,
       "GachaTicket": "NormalOnce"
@@ -11968,6 +12190,40 @@
       "GachaTicket": "Normal"
     },
     {
+      "Id": 6528,
+      "GroupId": 6528,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1157085902,
+      "ItemCategory": "Material",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_Normal_10",
+      "SpriteName": "Currency_Icon_RecruitTicket_Normal_10",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-09-30 23:59:59",
+      "ExpirationNotifyDateIn": 3,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "Normal"
+    },
+    {
       "Id": 6600,
       "GroupId": 6600,
       "Rarity": "SSR",
@@ -12308,6 +12564,108 @@
       "GachaTicket": "Normal"
     },
     {
+      "Id": 6802,
+      "GroupId": 6802,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3078203315,
+      "ItemCategory": "Material",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_Normal_10",
+      "SpriteName": "Currency_Icon_RecruitTicket_Normal_10",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2026-07-01 11:00:00",
+      "ExpirationNotifyDateIn": 3,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "Normal"
+    },
+    {
+      "Id": 6996,
+      "GroupId": 6996,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 4076953393,
+      "ItemCategory": "Material",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_SelectPickup_1",
+      "SpriteName": "Currency_Icon_RecruitTicket_SelectPickup_1",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "SelectPickupOnce"
+    },
+    {
+      "Id": 6997,
+      "GroupId": 6997,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 513560780,
+      "ItemCategory": "Material",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_SelectPickup_10",
+      "SpriteName": "Currency_Icon_RecruitTicket_SelectPickup_10",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "SelectPickup"
+    },
+    {
       "Id": 6998,
       "GroupId": 6998,
       "Rarity": "SSR",
@@ -12476,6 +12834,40 @@
       "ExpirationNotifyDateIn": 3,
       "ShortcutTypeId": 0,
       "GachaTicket": "PackagePropertyThreeStar"
+    },
+    {
+      "Id": 8200,
+      "GroupId": 8200,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 591463450,
+      "ItemCategory": "Material",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_LimitedThreeStar_1",
+      "SpriteName": "Currency_Icon_RecruitTicket_LimitedThreeStar_1",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-20 11:00:00",
+      "ExpirationNotifyDateIn": 3,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "PackageLimitedThreeStar"
     },
     {
       "Id": 9998,
@@ -16768,7 +17160,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "MasterCoin"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -16845,7 +17238,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "MasterCoin"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -17165,6 +17559,120 @@
       "ItemCategory": "SecretStone",
       "Quality": 9,
       "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0301",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "J"
+      ],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 10122,
+      "GroupId": 10122,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 803823678,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0294",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "J"
+      ],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 10123,
+      "GroupId": 10123,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 359001447,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0295",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "J"
+      ],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 10124,
+      "GroupId": 10124,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3014736981,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0291",
       "SpriteName": "",
       "StackableMax": 999999,
       "StackableFunction": 0,
@@ -18874,7 +19382,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "TimeAttack"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -20297,6 +20806,44 @@
       "GachaTicket": "None"
     },
     {
+      "Id": 20048,
+      "GroupId": 20048,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1900193082,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0293",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "J"
+      ],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
       "Id": 23000,
       "GroupId": 23000,
       "Rarity": "N",
@@ -21060,7 +21607,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "MasterCoin"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -21190,6 +21738,44 @@
       "ItemCategory": "SecretStone",
       "Quality": 9,
       "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0282",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "J"
+      ],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 26015,
+      "GroupId": 26015,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 615679456,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0292",
       "SpriteName": "",
       "StackableMax": 999999,
       "StackableFunction": 0,
@@ -23546,6 +24132,176 @@
       "ImmediateUse": true,
       "UsingResultParcelType": "GachaGroup",
       "UsingResultId": 61003,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 61100,
+      "GroupId": 61100,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1789843585,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random_Tier2",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 61100,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 61101,
+      "GroupId": 61101,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2515115490,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random_Tier3",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 61101,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 61102,
+      "GroupId": 61102,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1607651858,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random_Tier4",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 61102,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 61103,
+      "GroupId": 61103,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3672304176,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random_Tier5",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 61103,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 61104,
+      "GroupId": 61104,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2746650022,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random_Tier6",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 61104,
       "UsingResultAmount": 1,
       "MailType": "System",
       "ExpiryChangeParcelType": "None",
@@ -29034,7 +29790,7 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ExpirationDateTime": "2025-07-30 10:59:59",
       "ExpirationNotifyDateIn": 1,
       "ShortcutTypeId": 0,
       "GachaTicket": "None"
@@ -29068,7 +29824,7 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ExpirationDateTime": "2025-08-06 10:59:59",
       "ExpirationNotifyDateIn": 1,
       "ShortcutTypeId": 0,
       "GachaTicket": "None"
@@ -29102,7 +29858,7 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ExpirationDateTime": "2025-08-13 10:59:59",
       "ExpirationNotifyDateIn": 1,
       "ShortcutTypeId": 0,
       "GachaTicket": "None"
@@ -29136,7 +29892,7 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ExpirationDateTime": "2025-08-20 10:59:59",
       "ExpirationNotifyDateIn": 1,
       "ShortcutTypeId": 0,
       "GachaTicket": "None"
@@ -29218,6 +29974,40 @@
       "ItemCategory": "RecruitCoin",
       "Quality": 2,
       "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Item",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 79000,
+      "GroupId": 79000,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2803570054,
+      "ItemCategory": "RecruitCoin",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_1",
       "SpriteName": "",
       "StackableMax": 999999,
       "StackableFunction": 0,
@@ -36312,6 +37102,176 @@
       "GachaTicket": "None"
     },
     {
+      "Id": 80650,
+      "GroupId": 80650,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1875343788,
+      "ItemCategory": "Coin",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_S51",
+      "SpriteName": "Common_Icon_Event_Token_0_S51",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-13 11:00:00",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 80651,
+      "GroupId": 80651,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1798844252,
+      "ItemCategory": "Coin",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1_S51",
+      "SpriteName": "Common_Icon_Event_Token_1_S51",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-13 11:00:00",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 80652,
+      "GroupId": 80652,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1149484945,
+      "ItemCategory": "Coin",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S51",
+      "SpriteName": "Common_Icon_Event_Token_2_S51",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-13 11:00:00",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 80653,
+      "GroupId": 80653,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2333653715,
+      "ItemCategory": "Coin",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_3_S51",
+      "SpriteName": "Common_Icon_Event_Token_3_S51",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-13 11:00:00",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 80654,
+      "GroupId": 80654,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2697672518,
+      "ItemCategory": "Coin",
+      "Quality": 5,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_4_S51",
+      "SpriteName": "Common_Icon_Event_Token_4_S51",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-13 11:00:00",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
       "Id": 85000,
       "GroupId": 85000,
       "Rarity": "N",
@@ -40960,6 +41920,142 @@
       "GachaTicket": "None"
     },
     {
+      "Id": 86320,
+      "GroupId": 86320,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1867361376,
+      "ItemCategory": "Coin",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_S39",
+      "SpriteName": "Common_Icon_Event_Token_0_S39",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-20 11:00:00",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 86321,
+      "GroupId": 86321,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1797048856,
+      "ItemCategory": "Coin",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1_S39",
+      "SpriteName": "Common_Icon_Event_Token_1_S39",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-20 11:00:00",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 86322,
+      "GroupId": 86322,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1789692618,
+      "ItemCategory": "Coin",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S39",
+      "SpriteName": "Common_Icon_Event_Token_2_S39",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-20 11:00:00",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 86323,
+      "GroupId": 86323,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1024700311,
+      "ItemCategory": "Coin",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_3_S39",
+      "SpriteName": "Common_Icon_Event_Token_3_S39",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2025-08-20 11:00:00",
+      "ExpirationNotifyDateIn": 1,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
       "Id": 90000,
       "GroupId": 90000,
       "Rarity": "N",
@@ -41055,7 +42151,9 @@
       "CraftQualityTier2": 0,
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemWeekly"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 0,
@@ -42458,6 +43556,40 @@
       "GachaTicket": "None"
     },
     {
+      "Id": 100042,
+      "GroupId": 100042,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2632253229,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 310240,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
       "Id": 110000,
       "GroupId": 110000,
       "Rarity": "N",
@@ -42982,6 +44114,40 @@
       "ImmediateUse": true,
       "UsingResultParcelType": "GachaGroup",
       "UsingResultId": 360188,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 110016,
+      "GroupId": 110016,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2632253229,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 360198,
       "UsingResultAmount": 1,
       "MailType": "System",
       "ExpiryChangeParcelType": "None",
@@ -44210,7 +45376,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "MasterCoin"
+        "MasterCoin",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -44246,7 +45413,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "MasterCoin"
+        "MasterCoin",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -44282,7 +45450,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "MasterCoin"
+        "MasterCoin",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -44318,7 +45487,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "MasterCoin"
+        "MasterCoin",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -44354,7 +45524,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "MasterCoin"
+        "MasterCoin",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -44390,7 +45561,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "MasterCoin"
+        "MasterCoin",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -44664,7 +45836,8 @@
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
       "ShopCategory": [
-        "MasterCoin"
+        "MasterCoin",
+        "GemWeekly"
       ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
@@ -44801,7 +45974,9 @@
       "CraftQualityTier2": 0,
       "ShiftingCraftQuality": 0,
       "MaxGiftTags": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "GemWeekly"
+      ],
       "ExpirationDateTime": "",
       "ExpirationNotifyDateIn": 0,
       "ShortcutTypeId": 0,
@@ -45576,6 +46751,42 @@
       "ImmediateUse": false,
       "UsingResultParcelType": "Recipe",
       "UsingResultId": 1001020,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "Db"
+      ],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 151021,
+      "GroupId": 151021,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3649668660,
+      "ItemCategory": "Consumable",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Furniture_Selection_Group120",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1001021,
       "UsingResultAmount": 1,
       "MailType": "System",
       "ExpiryChangeParcelType": "None",
@@ -51792,6 +53003,42 @@
       "GachaTicket": "None"
     },
     {
+      "Id": 191021,
+      "GroupId": 191021,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3695525735,
+      "ItemCategory": "Consumable",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Furniture_Random_Group120",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 801021,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "Db"
+      ],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 200,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
       "Id": 191991,
       "GroupId": 191991,
       "Rarity": "R",
@@ -52305,6 +53552,40 @@
       "MaxGiftTags": 0,
       "ShopCategory": [],
       "ExpirationDateTime": "2025-07-02 11:00:00",
+      "ExpirationNotifyDateIn": 3,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "SelectRecruit"
+    },
+    {
+      "Id": 12000003,
+      "GroupId": 12000003,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1965759201,
+      "ItemCategory": "Consumable",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_Selection_0",
+      "SpriteName": "Currency_Icon_RecruitTicket_Selection_0",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 2000003,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2026-07-01 11:00:00",
       "ExpirationNotifyDateIn": 3,
       "ShortcutTypeId": 0,
       "GachaTicket": "SelectRecruit"
@@ -52828,6 +54109,40 @@
       "ItemCategory": "Collectible",
       "Quality": 2,
       "Icon": "UIs/01_Common/03_NonEquipment/Collectible_Icon_GuideMission_2nd",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 5000,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 20002000,
+      "GroupId": 20002000,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3014647056,
+      "ItemCategory": "Collectible",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Collectible_Icon_GuideMission_S51",
       "SpriteName": "",
       "StackableMax": 999999,
       "StackableFunction": 0,

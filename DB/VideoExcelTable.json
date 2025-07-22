@@ -106,6 +106,21 @@
       ]
     },
     {
+      "Id": 8,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Cafe/PV/PV_6_Video"
+      ],
+      "SoundPath": [
+        "Cafe/PV/PV_6_Sound"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
       "Id": 5000,
       "Nation": [
         "All"
@@ -127,6 +142,21 @@
       ],
       "VideoPath": [
         "Video/Gacha_Banner_Normal_2"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 5002,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_Renewal_Normal"
       ],
       "SoundPath": [
         "0"
@@ -226,6 +256,21 @@
       ]
     },
     {
+      "Id": 5203,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_SelectRecruit_4"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
       "Id": 5300,
       "Nation": [
         "All"
@@ -247,6 +292,21 @@
       ],
       "VideoPath": [
         "Video/Gacha_Banner_3Star_2"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 5302,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_3Star_3"
       ],
       "SoundPath": [
         "0"
@@ -397,6 +457,21 @@
       ],
       "VideoPath": [
         "Video/Gacha_Banner_Academy_C_1"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 5600,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_Limited3Star"
       ],
       "SoundPath": [
         "0"
@@ -3016,6 +3091,81 @@
       ]
     },
     {
+      "Id": 6174,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_250722_1"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 6175,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_250722_2"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 6176,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_250730_1"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 6177,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_250730_2"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 9000,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_SelectLegacy"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
       "Id": 10000,
       "Nation": [
         "All"
@@ -3646,6 +3796,21 @@
       ]
     },
     {
+      "Id": 10046,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Scenario/Event/10046_Title_Video"
+      ],
+      "SoundPath": [
+        "Scenario/Event/10046_Title_Sound"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
       "Id": 11000,
       "Nation": [
         "All"
@@ -3826,6 +3991,21 @@
       ]
     },
     {
+      "Id": 11046,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Scenario/Event/10046_ED_Video"
+      ],
+      "SoundPath": [
+        "Scenario/Event/10046_ED_Sound"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
       "Id": 20000,
       "Nation": [
         "All"
@@ -3907,6 +4087,21 @@
       ],
       "VideoPath": [
         "Video/title_3rd_1"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "Id": 30000,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/BattlePass_Banner_250722_1"
       ],
       "SoundPath": [
         "0"

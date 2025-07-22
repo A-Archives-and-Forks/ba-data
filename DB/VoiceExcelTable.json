@@ -110590,6 +110590,4673 @@
       "Volume": [
         1.0
       ]
+    },
+    {
+      "UniqueId": 8508,
+      "Id": 2436173502,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Arona/Arona_AttendanceEvent20_Enter_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8509,
+      "Id": 1802280741,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Arona/Arona_AttendanceEvent20_Enter_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8510,
+      "Id": 3024233096,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8511,
+      "Id": 2735560297,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_1_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8512,
+      "Id": 1292995201,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_1_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8513,
+      "Id": 45616057,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_1_2_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8514,
+      "Id": 1968353051,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_1_2_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8515,
+      "Id": 1226729813,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8516,
+      "Id": 3391966223,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Zunko/Zunko_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8517,
+      "Id": 1692675692,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Izumi/Izumi_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8518,
+      "Id": 1124843935,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8519,
+      "Id": 1872387424,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8520,
+      "Id": 1150028716,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0329/CH0329_CardGame_Act_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8521,
+      "Id": 1591487203,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8522,
+      "Id": 1007917146,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0329/CH0329_CardGame_Act_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8523,
+      "Id": 3523902952,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8524,
+      "Id": 3914621937,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_CardGame_Act_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8525,
+      "Id": 4149519714,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_CardGame_Act_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8526,
+      "Id": 1102212320,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8527,
+      "Id": 2675389500,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8528,
+      "Id": 3479687043,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_CardGame_Act_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8529,
+      "Id": 4257905314,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_CardGame_Act_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8530,
+      "Id": 4063085721,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8531,
+      "Id": 660712143,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8532,
+      "Id": 2003656814,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8533,
+      "Id": 2439625461,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0064/CH0064_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8534,
+      "Id": 3583265077,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0064/CH0064_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8535,
+      "Id": 630305389,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8536,
+      "Id": 2292354583,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_CardGame_Act_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8537,
+      "Id": 2643720973,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_CardGame_Act_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8538,
+      "Id": 3764322006,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_CardGame_Act_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8539,
+      "Id": 3773025499,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Akari/Akari_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8540,
+      "Id": 1814713763,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_CardGame_Act_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8541,
+      "Id": 3301594272,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8542,
+      "Id": 2510102397,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_CardGame_Act_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8543,
+      "Id": 2559213142,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_CardGame_Act_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8544,
+      "Id": 4189060145,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_CardGame_Act_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8545,
+      "Id": 4131454415,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_CardGame_Act_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8546,
+      "Id": 24411611,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8547,
+      "Id": 738406374,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_CardGame_Act_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8548,
+      "Id": 3935150426,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_CardGame_Act_6"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8549,
+      "Id": 1048083151,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_CardGame_Act_6"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8550,
+      "Id": 2843311899,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_6"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8551,
+      "Id": 2598960911,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_CardGame_Act_7"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8552,
+      "Id": 913438968,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Haruna/Haruna_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8553,
+      "Id": 287711513,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_CardGame_Act_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8554,
+      "Id": 1385081208,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_CardGame_Act_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8555,
+      "Id": 1317508063,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_CardGame_Act_6"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8556,
+      "Id": 674622179,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_CardGame_Act_7"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8557,
+      "Id": 1463928817,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_CardGame_Act_6"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8558,
+      "Id": 3458068008,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_CardGame_Act_7"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8559,
+      "Id": 2186997606,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_7"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8560,
+      "Id": 938396310,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_CardGame_Act_7"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8561,
+      "Id": 1024211384,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_CardGame_Act_8"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8562,
+      "Id": 2286534331,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_CardGame_Act_8"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8563,
+      "Id": 1450637966,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_CardGame_Act_8"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8564,
+      "Id": 3428818575,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_CardGame_Act_8"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8565,
+      "Id": 3537926926,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_CardGame_Act_8"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8566,
+      "Id": 2615446387,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0209/CH0209_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8567,
+      "Id": 409415328,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0061/CH0061_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8568,
+      "Id": 2316312625,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0061/CH0061_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8569,
+      "Id": 3012412479,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_AzusaSwimsuit/AzusaSwimsuit_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8570,
+      "Id": 2870751172,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_AzusaSwimsuit/AzusaSwimsuit_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8571,
+      "Id": 1170835549,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0058/CH0058_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8572,
+      "Id": 115137263,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Akari/Akari_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8573,
+      "Id": 1444986424,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Zunko/Zunko_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8574,
+      "Id": 3668477964,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0063/CH0063_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8575,
+      "Id": 2443475801,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_CardGame_Act_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8576,
+      "Id": 1918233489,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Haruna/Haruna_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8577,
+      "Id": 2416491263,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0063/CH0063_CardGame_Act_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8578,
+      "Id": 899523728,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0180/CH0180_CardGame_Act_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8579,
+      "Id": 1241839093,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0179/CH0179_CardGame_Act_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8580,
+      "Id": 2443167341,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0179/CH0179_CardGame_Act_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8581,
+      "Id": 1169143854,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassLobby_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8582,
+      "Id": 3611081296,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassLobby_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8583,
+      "Id": 3612970765,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassLogin_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8584,
+      "Id": 991402634,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassLogin_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8585,
+      "Id": 4263951657,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassLogin_Season_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8586,
+      "Id": 61831739,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassLogin_Season_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8587,
+      "Id": 2353221381,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassLogin_Season_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8588,
+      "Id": 2958305075,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassLogin_Season_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8589,
+      "Id": 4032243759,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassMission_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8590,
+      "Id": 190852384,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassMission_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8591,
+      "Id": 2519142612,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassMission_Get_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8592,
+      "Id": 845535111,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassMission_Levelup_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8593,
+      "Id": 1393240731,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassMission_Login_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8594,
+      "Id": 4082801411,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePassMission_Login_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8595,
+      "Id": 1821994827,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePass_Level_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8596,
+      "Id": 1066605893,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePass_Level_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8597,
+      "Id": 3163421473,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePass_Purchase_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8598,
+      "Id": 3401471006,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePass_Reward_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8599,
+      "Id": 3642631201,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0131/CH0131_UIBattlePass_Unlock_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8600,
+      "Id": 2878819797,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Title"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8601,
+      "Id": 3149582615,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Gachaget"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8602,
+      "Id": 3096022226,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Cafe_monolog_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8603,
+      "Id": 2508162126,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Cafe_monolog_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8604,
+      "Id": 3531665071,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Cafe_monolog_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8605,
+      "Id": 428104184,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Cafe_monolog_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8606,
+      "Id": 3331587366,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Cafe_monolog_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8607,
+      "Id": 3627208906,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_LogIn_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8608,
+      "Id": 1298326891,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_LogIn_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8609,
+      "Id": 2454401377,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Lobby_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8610,
+      "Id": 3929844952,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Lobby_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8611,
+      "Id": 2274463235,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Lobby_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8612,
+      "Id": 535088604,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Lobby_3_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8613,
+      "Id": 1968861713,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Lobby_3_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8614,
+      "Id": 1924087234,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Lobby_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8615,
+      "Id": 1251505342,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Lobby_5_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8616,
+      "Id": 1206433154,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Lobby_5_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8617,
+      "Id": 2616539986,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Season_Birthday_Player"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8618,
+      "Id": 3862106041,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Season_Birthday"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8619,
+      "Id": 2126298144,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Season_NewYear"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8620,
+      "Id": 3955777415,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Season_Xmas"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8621,
+      "Id": 843855558,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_Season_Halloween"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8622,
+      "Id": 3109587144,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_ExWeapon_Get"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8623,
+      "Id": 2487373265,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_EventLogin_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8624,
+      "Id": 2428110658,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_EventLogin_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8625,
+      "Id": 1636787685,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_EventLogin_Season_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8626,
+      "Id": 4153598419,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_EventLogin_Season_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8627,
+      "Id": 494931439,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_EventLogin_Season_End"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8628,
+      "Id": 30706507,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_EventLobby_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8629,
+      "Id": 1580553475,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_EventLobby_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8630,
+      "Id": 3248943899,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_EventLobby_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8631,
+      "Id": 2734420953,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0295/CH0295_EventLobby_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8632,
+      "Id": 1403411146,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Title"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8633,
+      "Id": 3096397204,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Gachaget"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8634,
+      "Id": 3409080638,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Cafe_monolog_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8635,
+      "Id": 2536939259,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Cafe_monolog_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8636,
+      "Id": 3948621667,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Cafe_monolog_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8637,
+      "Id": 1371454613,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Cafe_monolog_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8638,
+      "Id": 3072583765,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Cafe_monolog_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8639,
+      "Id": 633299392,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_LogIn_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8640,
+      "Id": 1964663614,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_LogIn_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8641,
+      "Id": 1945265620,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_LogIn_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8642,
+      "Id": 1783338018,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_LogIn_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8643,
+      "Id": 1794290685,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_LogIn_2_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8644,
+      "Id": 2889786883,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8645,
+      "Id": 1354945635,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8646,
+      "Id": 4213633948,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8647,
+      "Id": 552833598,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8648,
+      "Id": 3489686806,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_3_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8649,
+      "Id": 2888196826,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_3_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8650,
+      "Id": 2683377321,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_3_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8651,
+      "Id": 4229615803,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_4_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8652,
+      "Id": 485940153,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_4_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8653,
+      "Id": 3328481628,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_5_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8654,
+      "Id": 3819931555,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Lobby_5_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8655,
+      "Id": 2605251245,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Birthday_Player_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8656,
+      "Id": 86734863,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Birthday_Player_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8657,
+      "Id": 666011947,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Birthday_Player_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8658,
+      "Id": 590027622,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Birthday_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8659,
+      "Id": 895856028,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Birthday_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8660,
+      "Id": 1120588238,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Birthday_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8661,
+      "Id": 3341603324,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Birthday_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8662,
+      "Id": 1006058455,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_NewYear_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8663,
+      "Id": 1027360549,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_NewYear_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8664,
+      "Id": 2172293070,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_NewYear_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8665,
+      "Id": 1628262260,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Xmas_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8666,
+      "Id": 3037068675,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Xmas_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8667,
+      "Id": 2774993613,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Xmas_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8668,
+      "Id": 3513395025,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Halloween_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8669,
+      "Id": 2847895584,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_Season_Halloween_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8670,
+      "Id": 2520178488,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_ExWeapon_Get"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8671,
+      "Id": 2671334488,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8672,
+      "Id": 343459180,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8673,
+      "Id": 2180444951,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_1_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8674,
+      "Id": 3791194918,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8675,
+      "Id": 1376620630,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8676,
+      "Id": 2098619661,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_Season_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8677,
+      "Id": 82562924,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_Season_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8678,
+      "Id": 3547877533,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_Season_1_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8679,
+      "Id": 3464980203,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_Season_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8680,
+      "Id": 616938446,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_Season_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8681,
+      "Id": 2065028227,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_Season_2_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8682,
+      "Id": 253601601,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_Season_End_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8683,
+      "Id": 714558640,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_Season_End_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8684,
+      "Id": 3000828674,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLogin_Season_End_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8685,
+      "Id": 1167687159,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8686,
+      "Id": 667649514,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8687,
+      "Id": 3444176522,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_1_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8688,
+      "Id": 414610820,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8689,
+      "Id": 1276695857,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8690,
+      "Id": 1564423198,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_3_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8691,
+      "Id": 879603968,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_3_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8692,
+      "Id": 1182896181,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_3_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8693,
+      "Id": 2019926807,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_4_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8694,
+      "Id": 3747399928,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0291/CH0291_EventLobby_4_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8695,
+      "Id": 1861360083,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Title"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8696,
+      "Id": 3668249233,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Gachaget"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8697,
+      "Id": 1603457334,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Cafe_monolog_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8698,
+      "Id": 794122811,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Cafe_monolog_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8699,
+      "Id": 1362839643,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Cafe_monolog_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8700,
+      "Id": 2585788368,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Cafe_monolog_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8701,
+      "Id": 1637434856,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Cafe_monolog_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8702,
+      "Id": 445778812,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_LogIn_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8703,
+      "Id": 2483898269,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_LogIn_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8704,
+      "Id": 422190470,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_LogIn_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8705,
+      "Id": 240935413,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_LogIn_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8706,
+      "Id": 1620157783,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_LogIn_2_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8707,
+      "Id": 4003950258,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8708,
+      "Id": 4074705448,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8709,
+      "Id": 1630883856,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_1_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8710,
+      "Id": 2175691007,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_1_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8711,
+      "Id": 1094552863,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8712,
+      "Id": 2093026733,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8713,
+      "Id": 1312941978,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_2_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8714,
+      "Id": 647944971,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_2_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8715,
+      "Id": 922361410,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_3_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8716,
+      "Id": 2327077079,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_3_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8717,
+      "Id": 3569375268,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_3_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8718,
+      "Id": 4146079221,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_4_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8719,
+      "Id": 3402863885,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_4_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8720,
+      "Id": 664508982,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_4_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8721,
+      "Id": 1068372075,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_5_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8722,
+      "Id": 49907084,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Lobby_5_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8723,
+      "Id": 1615851151,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Birthday_Player_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8724,
+      "Id": 2704815273,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Birthday_Player_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8725,
+      "Id": 1557093522,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Birthday_Player_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8726,
+      "Id": 3993103071,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Birthday_Player_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8727,
+      "Id": 3371352449,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Birthday_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8728,
+      "Id": 2076517300,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Birthday_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8729,
+      "Id": 543360807,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Birthday_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8730,
+      "Id": 2305509670,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_NewYear_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8731,
+      "Id": 791180404,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_NewYear_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8732,
+      "Id": 1956459723,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_NewYear_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8733,
+      "Id": 1665556736,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_NewYear_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8734,
+      "Id": 3986205767,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Xmas_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8735,
+      "Id": 2872267474,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Xmas_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8736,
+      "Id": 4027771934,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Xmas_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8737,
+      "Id": 1139156914,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Xmas_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8738,
+      "Id": 496638268,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Xmas_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8739,
+      "Id": 2840780770,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Halloween_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8740,
+      "Id": 3433308455,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Halloween_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8741,
+      "Id": 3097267542,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_Season_Halloween_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8742,
+      "Id": 2382669469,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_ExWeapon_Get"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8743,
+      "Id": 1949302331,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8744,
+      "Id": 451810709,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8745,
+      "Id": 3566633159,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8746,
+      "Id": 2077011988,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8747,
+      "Id": 435065130,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_Season_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8748,
+      "Id": 2508111454,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_Season_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8749,
+      "Id": 3152643226,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_Season_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8750,
+      "Id": 3375856378,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_Season_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8751,
+      "Id": 494250731,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_Season_2_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8752,
+      "Id": 3037495054,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_Season_End_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8753,
+      "Id": 3230700406,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLogin_Season_End_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8754,
+      "Id": 2113452801,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLobby_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8755,
+      "Id": 1285835651,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLobby_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8756,
+      "Id": 2829880179,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLobby_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8757,
+      "Id": 1020337033,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLobby_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8758,
+      "Id": 1829941484,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLobby_3_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8759,
+      "Id": 1489158142,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLobby_3_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8760,
+      "Id": 2576023956,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLobby_4_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8761,
+      "Id": 3146993150,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventLobby_4_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8762,
+      "Id": 292086549,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_Login_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8763,
+      "Id": 2927730777,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_Login_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8764,
+      "Id": 792110896,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_Login_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8765,
+      "Id": 2262213105,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_Login_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8766,
+      "Id": 3565358359,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_Get_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8767,
+      "Id": 701005631,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_Get_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8768,
+      "Id": 2371748311,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_Get_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8769,
+      "Id": 607821760,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_Day_End"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8770,
+      "Id": 2653429301,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8771,
+      "Id": 2537551122,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8772,
+      "Id": 2332960065,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8773,
+      "Id": 2574771527,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0292/CH0292_EventMission_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8774,
+      "Id": 4012912596,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Title"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8775,
+      "Id": 3459611189,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Gachaget"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8776,
+      "Id": 3568553517,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Cafe_monolog_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8777,
+      "Id": 1988930485,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Cafe_monolog_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8778,
+      "Id": 883600746,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Cafe_monolog_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8779,
+      "Id": 4068357030,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Cafe_monolog_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8780,
+      "Id": 2919989843,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Cafe_monolog_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8781,
+      "Id": 2468424350,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_LogIn_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8782,
+      "Id": 2467259835,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_LogIn_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8783,
+      "Id": 2554737306,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Lobby_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8784,
+      "Id": 238408862,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Lobby_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8785,
+      "Id": 5156234,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Lobby_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8786,
+      "Id": 1498862564,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Lobby_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8787,
+      "Id": 3051818645,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Lobby_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8788,
+      "Id": 2425213971,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Season_Birthday_Player_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8789,
+      "Id": 663050248,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Season_Birthday_Player_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8790,
+      "Id": 3242210737,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Season_Birthday"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8791,
+      "Id": 2275686657,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Season_NewYear"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8792,
+      "Id": 3321169548,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Season_Xmas"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8793,
+      "Id": 4114601974,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Season_Halloween_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8794,
+      "Id": 2095431978,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_Season_Halloween_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8795,
+      "Id": 3290878449,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_ExWeapon_Get"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8796,
+      "Id": 3906245600,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventLogin_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8797,
+      "Id": 1755698238,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventLogin_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8798,
+      "Id": 1710170973,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventLogin_Season_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8799,
+      "Id": 735267576,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventLogin_Season_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8800,
+      "Id": 3214651960,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventLogin_Season_End"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8801,
+      "Id": 3826987088,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventLobby_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8802,
+      "Id": 4290575898,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventLobby_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8803,
+      "Id": 2414402746,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventLobby_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8804,
+      "Id": 3708935232,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventLobby_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8805,
+      "Id": 3819877978,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventShop_Login_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8806,
+      "Id": 1167037408,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventShop_Login_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8807,
+      "Id": 3387000325,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventShop_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8808,
+      "Id": 3109922912,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventShop_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8809,
+      "Id": 1679499500,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventShop_Buy_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8810,
+      "Id": 280745664,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventShop_Buy_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8811,
+      "Id": 624566697,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventShop_Buy_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8812,
+      "Id": 1042154346,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventShop_Buy_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8813,
+      "Id": 2761877115,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0293/CH0293_EventShop_End"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8814,
+      "Id": 824690246,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Title"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8815,
+      "Id": 580403724,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Gachaget"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8816,
+      "Id": 2798957754,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Cafe_monolog_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8817,
+      "Id": 991069771,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Cafe_monolog_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8818,
+      "Id": 2434922200,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Cafe_monolog_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8819,
+      "Id": 1066016298,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Cafe_monolog_4"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8820,
+      "Id": 3894411505,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Cafe_monolog_5"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8821,
+      "Id": 3151097637,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_LogIn_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8822,
+      "Id": 1745999648,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_LogIn_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8823,
+      "Id": 3229641360,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_LogIn_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8824,
+      "Id": 1858414413,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8825,
+      "Id": 1624627235,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8826,
+      "Id": 4236311796,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_2_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8827,
+      "Id": 1000910132,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_2_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8828,
+      "Id": 3659355606,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_3_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8829,
+      "Id": 2321615904,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_3_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8830,
+      "Id": 2930951212,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_4_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8831,
+      "Id": 3526408306,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_4_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8832,
+      "Id": 407968226,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_5_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8833,
+      "Id": 164706333,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Lobby_5_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8834,
+      "Id": 1286654198,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Birthday_Player_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8835,
+      "Id": 4286661499,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Birthday_Player_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8836,
+      "Id": 147089127,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Birthday_Player_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8837,
+      "Id": 1424222627,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Birthday_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8838,
+      "Id": 2129671548,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Birthday_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8839,
+      "Id": 612826472,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_NewYear"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8840,
+      "Id": 2811269337,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Xmas_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8841,
+      "Id": 532473405,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Xmas_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8842,
+      "Id": 1223996682,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Xmas_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8843,
+      "Id": 2489629138,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Halloween_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8844,
+      "Id": 2322532897,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_Season_Halloween_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8845,
+      "Id": 3936951067,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_ExWeapon_Get"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8846,
+      "Id": 3911161660,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLogin_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8847,
+      "Id": 198443197,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLogin_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8848,
+      "Id": 125597910,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLogin_Season_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8849,
+      "Id": 3909214246,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLogin_Season_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8850,
+      "Id": 2937674792,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLogin_Season_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8851,
+      "Id": 2626126438,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLogin_Season_End_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8852,
+      "Id": 490218828,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLogin_Season_End_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8853,
+      "Id": 720079773,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLobby_1_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8854,
+      "Id": 3435853430,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLobby_1_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8855,
+      "Id": 1680463261,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLobby_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8856,
+      "Id": 4273951132,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLobby_3"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8857,
+      "Id": 3359989430,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLobby_4_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8858,
+      "Id": 125572507,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventLobby_4_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8859,
+      "Id": 378124115,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventMission_Login_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8860,
+      "Id": 2177955565,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventMission_Login_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8861,
+      "Id": 466342867,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventMission_Get_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8862,
+      "Id": 2872732577,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventMission_Get_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8863,
+      "Id": 2606532596,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventMission_Day_End_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8864,
+      "Id": 1957403364,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventMission_Day_End_2"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8865,
+      "Id": 3527232701,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventMission_1"
+      ],
+      "Volume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 8866,
+      "Id": 2705980428,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_CH0294/CH0294_EventMission_2"
+      ],
+      "Volume": [
+        1.0
+      ]
     }
   ]
 }

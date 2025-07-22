@@ -1,8 +1,8 @@
 {
   "DataList": [
     {
-      "ControllerNameHash": 1370139560,
-      "VoiceNamePrefix": "ST0001",
+      "ControllerNameHash": 931071453,
+      "VoiceNamePrefix": "ST0001_Controller",
       "StateNameHash": 2403091570,
       "StateName": "AniEvtShot",
       "IgnoreInterruptDelay": false,
@@ -16,8 +16,8 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 2974078760,
-      "VoiceNamePrefix": "ST0002",
+      "ControllerNameHash": 1444819340,
+      "VoiceNamePrefix": "ST0002_Controller",
       "StateNameHash": 2403091570,
       "StateName": "AniEvtShot",
       "IgnoreInterruptDelay": false,
@@ -31,8 +31,8 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 3853271645,
-      "VoiceNamePrefix": "ST0003",
+      "ControllerNameHash": 1817964899,
+      "VoiceNamePrefix": "ST0003_Controller",
       "StateNameHash": 2403091570,
       "StateName": "AniEvtShot",
       "IgnoreInterruptDelay": false,
@@ -46,8 +46,8 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 3074584757,
-      "VoiceNamePrefix": "ST0004",
+      "ControllerNameHash": 185443708,
+      "VoiceNamePrefix": "ST0004_Controller",
       "StateNameHash": 2403091570,
       "StateName": "AniEvtShot",
       "IgnoreInterruptDelay": false,
@@ -61,8 +61,8 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 206466382,
-      "VoiceNamePrefix": "ST0005",
+      "ControllerNameHash": 2715920736,
+      "VoiceNamePrefix": "ST0005_Controller",
       "StateNameHash": 2403091570,
       "StateName": "AniEvtShot",
       "IgnoreInterruptDelay": false,

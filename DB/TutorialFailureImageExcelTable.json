@@ -2353,6 +2353,55 @@
       "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_02_Jp"
     },
     {
+      "Id": 1121100,
+      "Contents": "MultiFloorRaid",
+      "Type": "EN0008_LightArmor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_01_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_01_Jp"
+    },
+    {
+      "Id": 1121101,
+      "Contents": "MultiFloorRaid",
+      "Type": "EN0008_LightArmor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_02_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_02_Jp"
+    },
+    {
+      "Id": 1121102,
+      "Contents": "MultiFloorRaid",
+      "Type": "EN0008_LightArmor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_03_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_03_Jp"
+    },
+    {
+      "Id": 1121200,
+      "Contents": "MultiFloorRaid",
+      "Type": "EN0009_HeavyArmor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0009_01_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0009_01_Jp"
+    },
+    {
+      "Id": 1121201,
+      "Contents": "MultiFloorRaid",
+      "Type": "EN0009_HeavyArmor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0009_02_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0009_02_Jp"
+    },
+    {
+      "Id": 1121300,
+      "Contents": "MultiFloorRaid",
+      "Type": "EN0011_HeavyArmor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_01_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_01_Jp"
+    },
+    {
+      "Id": 1121301,
+      "Contents": "MultiFloorRaid",
+      "Type": "EN0011_HeavyArmor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_02_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_02_Jp"
+    },
+    {
       "Id": 1122100,
       "Contents": "Raid",
       "Type": "EN0010",

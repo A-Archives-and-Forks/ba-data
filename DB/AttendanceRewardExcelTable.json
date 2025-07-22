@@ -3065,6 +3065,104 @@
       "RewardAmount": [
         1
       ]
+    },
+    {
+      "AttendanceId": 24,
+      "Day": 1,
+      "RewardIcon": "",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardId": [
+        3
+      ],
+      "RewardAmount": [
+        200
+      ]
+    },
+    {
+      "AttendanceId": 24,
+      "Day": 2,
+      "RewardIcon": "",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardId": [
+        3
+      ],
+      "RewardAmount": [
+        200
+      ]
+    },
+    {
+      "AttendanceId": 24,
+      "Day": 3,
+      "RewardIcon": "",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardId": [
+        3
+      ],
+      "RewardAmount": [
+        200
+      ]
+    },
+    {
+      "AttendanceId": 24,
+      "Day": 4,
+      "RewardIcon": "",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardId": [
+        3
+      ],
+      "RewardAmount": [
+        200
+      ]
+    },
+    {
+      "AttendanceId": 24,
+      "Day": 5,
+      "RewardIcon": "",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardId": [
+        3
+      ],
+      "RewardAmount": [
+        200
+      ]
+    },
+    {
+      "AttendanceId": 24,
+      "Day": 6,
+      "RewardIcon": "",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardId": [
+        3
+      ],
+      "RewardAmount": [
+        200
+      ]
+    },
+    {
+      "AttendanceId": 24,
+      "Day": 7,
+      "RewardIcon": "",
+      "RewardParcelType": [
+        "Furniture"
+      ],
+      "RewardId": [
+        210376
+      ],
+      "RewardAmount": [
+        1
+      ]
     }
   ]
 }
