@@ -14585,7 +14585,7 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 2233675931,
+      "ControllerNameHash": 652450311,
       "VoiceNamePrefix": "Tsurugi01",
       "StateNameHash": 1047306432,
       "StateName": "Base Layer.VitalDyingIng",
@@ -14603,7 +14603,7 @@
       ]
     },
     {
-      "ControllerNameHash": 2233675931,
+      "ControllerNameHash": 652450311,
       "VoiceNamePrefix": "Tsurugi01",
       "StateNameHash": 4198288525,
       "StateName": "Base Layer.Normal.AttackIng",
@@ -14624,7 +14624,7 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 2233675931,
+      "ControllerNameHash": 652450311,
       "VoiceNamePrefix": "Tsurugi01",
       "StateNameHash": 2495071527,
       "StateName": "Base Layer.Normal.Reload",
@@ -14644,7 +14644,7 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 2233675931,
+      "ControllerNameHash": 652450311,
       "VoiceNamePrefix": "Tsurugi01",
       "StateNameHash": 3790790505,
       "StateName": "Base Layer.Normal.AttackDelay",
@@ -14665,7 +14665,7 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 3152064669,
+      "ControllerNameHash": 1484449659,
       "VoiceNamePrefix": "Tsurugi02",
       "StateNameHash": 1047306432,
       "StateName": "Base Layer.VitalDyingIng",
@@ -14683,7 +14683,7 @@
       ]
     },
     {
-      "ControllerNameHash": 3152064669,
+      "ControllerNameHash": 1484449659,
       "VoiceNamePrefix": "Tsurugi02",
       "StateNameHash": 4198288525,
       "StateName": "Base Layer.Normal.AttackIng",
@@ -14704,7 +14704,7 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 3152064669,
+      "ControllerNameHash": 1484449659,
       "VoiceNamePrefix": "Tsurugi02",
       "StateNameHash": 2495071527,
       "StateName": "Base Layer.Normal.Reload",
@@ -14724,7 +14724,7 @@
       "VoiceHash": []
     },
     {
-      "ControllerNameHash": 3152064669,
+      "ControllerNameHash": 1484449659,
       "VoiceNamePrefix": "Tsurugi02",
       "StateNameHash": 3790790505,
       "StateName": "Base Layer.Normal.AttackDelay",
