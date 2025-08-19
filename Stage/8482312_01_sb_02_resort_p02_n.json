@@ -2,9 +2,9 @@
   "Version": "1.1",
   "Global": {
     "Position": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
     },
     "Events": [
       {
@@ -27,9 +27,9 @@
           {
             "$type": "GroundCommandLocateCamera, BlueArchive",
             "ID": 1,
-            "MaxCameraSpeed": 3,
-            "RotationSpeed": 1,
-            "ZoomSpeed": 1,
+            "MaxCameraSpeed": 3.0,
+            "RotationSpeed": 1.0,
+            "ZoomSpeed": 1.0,
             "RailPoints": [],
             "CommandID": "0",
             "WaitExecuteEnd": false
@@ -114,9 +114,9 @@
     {
       "SectionID": 1,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 5
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.0
       },
       "Events": [
         {
@@ -164,13 +164,13 @@
           "UniqueName": "Resort_Fruitsbox",
           "Position": {
             "x": -0.52,
-            "y": 0,
+            "y": 0.0,
             "z": 21.4
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             0
@@ -187,13 +187,13 @@
           "UniqueName": "Resort_Fruitsbasket",
           "Position": {
             "x": 2.62,
-            "y": 0,
+            "y": 0.0,
             "z": 11.0599995
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [],
           "ActivePlayerPointIndices": [
@@ -208,13 +208,13 @@
           "UniqueName": "Resort_Fruitsbasket",
           "Position": {
             "x": 2.61999965,
-            "y": 0,
+            "y": 0.0,
             "z": 11.6799984
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             0
@@ -229,12 +229,12 @@
           "UniqueName": "Resort_Chair",
           "Position": {
             "x": -1.07,
-            "y": 0,
+            "y": 0.0,
             "z": 10.55
           },
           "Forward": {
             "x": 0.499999762,
-            "y": 0,
+            "y": 0.0,
             "z": 0.866025567
           },
           "ActiveEnemyPointIndices": [
@@ -252,12 +252,12 @@
           "UniqueName": "Resort_Chair",
           "Position": {
             "x": 2.46,
-            "y": 0,
+            "y": 0.0,
             "z": 15.41
           },
           "Forward": {
             "x": 0.866025448,
-            "y": 0,
+            "y": 0.0,
             "z": -0.4999999
           },
           "ActiveEnemyPointIndices": [
@@ -275,13 +275,13 @@
           "UniqueName": "Resort_Fruitstand",
           "Position": {
             "x": 3.58,
-            "y": 0,
+            "y": 0.0,
             "z": 25.74
           },
           "Forward": {
-            "x": -1,
-            "y": 0,
-            "z": 0
+            "x": -1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [],
           "ActivePlayerPointIndices": [
@@ -296,13 +296,13 @@
           "UniqueName": "Resort_Fruitstand",
           "Position": {
             "x": 3.58,
-            "y": 0,
+            "y": 0.0,
             "z": 26.35
           },
           "Forward": {
-            "x": -1,
-            "y": 0,
-            "z": 0
+            "x": -1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             3
@@ -317,12 +317,12 @@
           "UniqueName": "Resort_Fruitsbox",
           "Position": {
             "x": 0.65,
-            "y": 0,
+            "y": 0.0,
             "z": 14.24
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -340,12 +340,12 @@
           "UniqueName": "Resort_Fruitstand",
           "Position": {
             "x": -2.96999979,
-            "y": 0,
+            "y": 0.0,
             "z": 23.5299988
           },
           "Forward": {
             "x": 0.342032939,
-            "y": 0,
+            "y": 0.0,
             "z": -0.939687967
           },
           "ActiveEnemyPointIndices": [
@@ -363,12 +363,12 @@
           "UniqueName": "Resort_Fruitsbox",
           "Position": {
             "x": 2.54,
-            "y": 0,
+            "y": 0.0,
             "z": 7.4
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -386,13 +386,13 @@
           "UniqueName": "Resort_Fruitstand",
           "Position": {
             "x": -3.57,
-            "y": 0,
+            "y": 0.0,
             "z": 23.46
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": -1
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -432,14 +432,14 @@
               "MovePoints": [],
               "TileX": 35,
               "TileY": 82,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.96,
                 "y": 11.8899994
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -472,14 +472,14 @@
               "MovePoints": [],
               "TileX": 52,
               "TileY": 108,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.42,
                 "y": 17.02
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -512,14 +512,14 @@
               "MovePoints": [],
               "TileX": 29,
               "TileY": 102,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.28,
                 "y": 15.93
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -557,14 +557,14 @@
               "MovePoints": [],
               "TileX": 37,
               "TileY": 136,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.52,
                 "y": 22.62
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -597,14 +597,14 @@
               "MovePoints": [],
               "TileX": 23,
               "TileY": 147,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -3.32,
                 "y": 24.91
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -637,14 +637,14 @@
               "MovePoints": [],
               "TileX": 51,
               "TileY": 146,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.22,
                 "y": 24.6
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -677,14 +677,14 @@
               "MovePoints": [],
               "TileX": 39,
               "TileY": 150,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.18,
                 "y": 25.4
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -717,14 +717,14 @@
               "MovePoints": [],
               "TileX": 57,
               "TileY": 161,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 3.31,
                 "y": 27.64
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -757,14 +757,14 @@
               "MovePoints": [],
               "TileX": 24,
               "TileY": 168,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -3.26,
-                "y": 29
+                "y": 29.0
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -782,9 +782,9 @@
     {
       "SectionID": 2,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 25
+        "x": 0.0,
+        "y": 0.0,
+        "z": 25.0
       },
       "Events": [
         {
@@ -803,20 +803,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
-                "z": 33
+                "x": 0.0,
+                "y": 0.0,
+                "z": 33.0
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 10,
-                "Height": 1
+                "Width": 10.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 11
+                "Radius": 11.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -881,12 +881,12 @@
           "UniqueName": "Resort_Chair",
           "Position": {
             "x": 2.66,
-            "y": 0,
+            "y": 0.0,
             "z": 46.17
           },
           "Forward": {
             "x": 0.866025448,
-            "y": 0,
+            "y": 0.0,
             "z": -0.4999999
           },
           "ActiveEnemyPointIndices": [
@@ -904,12 +904,12 @@
           "UniqueName": "Resort_Fruitsbox",
           "Position": {
             "x": 3.59,
-            "y": 0,
+            "y": 0.0,
             "z": 38.6
           },
           "Forward": {
             "x": -0.3420203,
-            "y": 0,
+            "y": 0.0,
             "z": 0.939692557
           },
           "ActiveEnemyPointIndices": [
@@ -927,13 +927,13 @@
           "UniqueName": "Resort_Fruitstand",
           "Position": {
             "x": -3.64,
-            "y": 0,
+            "y": 0.0,
             "z": 27.55
           },
           "Forward": {
-            "x": 1,
-            "y": 0,
-            "z": 0
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             2
@@ -950,12 +950,12 @@
           "UniqueName": "Resort_Fruitstand",
           "Position": {
             "x": 0.34,
-            "y": 0,
+            "y": 0.0,
             "z": 30.6300011
           },
           "Forward": {
             "x": 0.342032939,
-            "y": 0,
+            "y": 0.0,
             "z": -0.939687967
           },
           "ActiveEnemyPointIndices": [
@@ -973,12 +973,12 @@
           "UniqueName": "Resort_Chair",
           "Position": {
             "x": -3.37,
-            "y": 0,
+            "y": 0.0,
             "z": 34.24
           },
           "Forward": {
             "x": 0.499999762,
-            "y": 0,
+            "y": 0.0,
             "z": 0.866025567
           },
           "ActiveEnemyPointIndices": [
@@ -996,12 +996,12 @@
           "UniqueName": "Resort_Chair",
           "Position": {
             "x": 2.81,
-            "y": 0,
+            "y": 0.0,
             "z": 38.44
           },
           "Forward": {
             "x": 0.866025448,
-            "y": 0,
+            "y": 0.0,
             "z": -0.4999999
           },
           "ActiveEnemyPointIndices": [
@@ -1019,13 +1019,13 @@
           "UniqueName": "Resort_Fruitsbox",
           "Position": {
             "x": -2.82,
-            "y": 0,
+            "y": 0.0,
             "z": 42.7
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             0
@@ -1042,12 +1042,12 @@
           "UniqueName": "Resort_Fruitsbox",
           "Position": {
             "x": 0.71,
-            "y": 0,
+            "y": 0.0,
             "z": 41.48
           },
           "Forward": {
             "x": -0.3420203,
-            "y": 0,
+            "y": 0.0,
             "z": 0.939692557
           },
           "ActiveEnemyPointIndices": [
@@ -1065,12 +1065,12 @@
           "UniqueName": "Resort_Drinkbar",
           "Position": {
             "x": 0.86,
-            "y": 0,
+            "y": 0.0,
             "z": 34.66
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -1111,14 +1111,14 @@
               "MovePoints": [],
               "TileX": 31,
               "TileY": 177,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.86,
                 "y": 30.97
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1151,14 +1151,14 @@
               "MovePoints": [],
               "TileX": 41,
               "TileY": 182,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.15,
                 "y": 31.95
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1191,14 +1191,14 @@
               "MovePoints": [],
               "TileX": 45,
               "TileY": 205,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.94,
                 "y": 36.4
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1231,14 +1231,14 @@
               "MovePoints": [],
               "TileX": 33,
               "TileY": 205,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.36,
                 "y": 36.4
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1271,14 +1271,14 @@
               "MovePoints": [],
               "TileX": 24,
               "TileY": 204,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -3.3,
                 "y": 36.34
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1311,14 +1311,14 @@
               "MovePoints": [],
               "TileX": 55,
               "TileY": 201,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.97,
                 "y": 35.72
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1351,14 +1351,14 @@
               "MovePoints": [],
               "TileX": 33,
               "TileY": 207,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.47,
                 "y": 36.81
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1396,14 +1396,14 @@
               "MovePoints": [],
               "TileX": 52,
               "TileY": 234,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.43,
                 "y": 42.28
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1436,14 +1436,14 @@
               "MovePoints": [],
               "TileX": 34,
               "TileY": 232,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.13,
                 "y": 41.9400024
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1476,14 +1476,14 @@
               "MovePoints": [],
               "TileX": 26,
               "TileY": 244,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.8,
                 "y": 44.3
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1516,14 +1516,14 @@
               "MovePoints": [],
               "TileX": 27,
               "TileY": 251,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.66,
                 "y": 45.6
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1556,14 +1556,14 @@
               "MovePoints": [],
               "TileX": 51,
               "TileY": 261,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.18,
                 "y": 47.66
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1596,14 +1596,14 @@
               "MovePoints": [],
               "TileX": 41,
               "TileY": 249,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.2,
                 "y": 45.3799973
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1638,14 +1638,14 @@
               "MovePoints": [],
               "TileX": 33,
               "TileY": 249,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.37,
                 "y": 45.21
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1663,9 +1663,9 @@
     {
       "SectionID": 3,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 45
+        "x": 0.0,
+        "y": 0.0,
+        "z": 45.0
       },
       "Events": [
         {
@@ -1684,20 +1684,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
-                "z": 53
+                "x": 0.0,
+                "y": 0.0,
+                "z": 53.0
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 10,
-                "Height": 1
+                "Width": 10.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 11
+                "Radius": 11.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -1739,13 +1739,13 @@
           "UniqueName": "Resort_Fruitsbasket",
           "Position": {
             "x": 2.69,
-            "y": 0,
+            "y": 0.0,
             "z": 51.11
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             0
@@ -1760,13 +1760,13 @@
           "UniqueName": "Resort_Fruitsbasket",
           "Position": {
             "x": 2.6900003,
-            "y": 0,
+            "y": 0.0,
             "z": 50.4899979
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [],
           "ActivePlayerPointIndices": [
@@ -1781,12 +1781,12 @@
           "UniqueName": "Resort_Chair",
           "Position": {
             "x": 3.36,
-            "y": 0,
+            "y": 0.0,
             "z": 59.21
           },
           "Forward": {
             "x": 0.866025448,
-            "y": 0,
+            "y": 0.0,
             "z": -0.4999999
           },
           "ActiveEnemyPointIndices": [
@@ -1804,12 +1804,12 @@
           "UniqueName": "Resort_Fruitstand",
           "Position": {
             "x": -0.4,
-            "y": 0,
+            "y": 0.0,
             "z": 54.55
           },
           "Forward": {
             "x": -0.3420202,
-            "y": 0,
+            "y": 0.0,
             "z": -0.9396926
           },
           "ActiveEnemyPointIndices": [
@@ -1827,12 +1827,12 @@
           "UniqueName": "Resort_Fruitsbasket",
           "Position": {
             "x": -2.63,
-            "y": 0,
+            "y": 0.0,
             "z": 63.36
           },
           "Forward": {
             "x": 0.9848078,
-            "y": 0,
+            "y": 0.0,
             "z": -0.173648134
           },
           "ActiveEnemyPointIndices": [
@@ -1851,12 +1851,12 @@
           "UniqueName": "Resort_Drinkbar",
           "Position": {
             "x": -3.34,
-            "y": 0,
+            "y": 0.0,
             "z": 55.34
           },
           "Forward": {
             "x": -0.3420203,
-            "y": 0,
+            "y": 0.0,
             "z": 0.939692557
           },
           "ActiveEnemyPointIndices": [
@@ -1874,12 +1874,12 @@
           "UniqueName": "Resort_Drinkbar",
           "Position": {
             "x": -2.93,
-            "y": 0,
+            "y": 0.0,
             "z": 50.21
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -1912,14 +1912,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 0
+        "x": 0.0,
+        "y": 0.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1927,14 +1927,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 24
+        "x": 0.0,
+        "y": 24.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1942,14 +1942,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 44
+        "x": 0.0,
+        "y": 44.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1957,14 +1957,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 64
+        "x": 0.0,
+        "y": 64.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     }
   ],

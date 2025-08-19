@@ -2,9 +2,9 @@
   "Version": "1.0",
   "Global": {
     "Position": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
     },
     "Events": [
       {
@@ -27,19 +27,19 @@
           {
             "$type": "GroundCommandLocateCamera, BlueArchive",
             "ID": 107,
-            "MaxCameraSpeed": 3,
+            "MaxCameraSpeed": 3.0,
             "RotationSpeed": 0.7,
-            "ZoomSpeed": 5,
+            "ZoomSpeed": 5.0,
             "RailPoints": [
               {
                 "UseTableData": false,
                 "Position": {
                   "x": -0.06,
-                  "y": 0,
+                  "y": 0.0,
                   "z": 38.88
                 },
-                "MinCameraDistance": 28,
-                "MaxCameraDistance": 28,
+                "MinCameraDistance": 28.0,
+                "MaxCameraDistance": 28.0,
                 "CameraForward": {
                   "x": -0.803465664,
                   "y": -0.426617652,
@@ -89,9 +89,9 @@
     {
       "SectionID": 1,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 5
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.0
       },
       "Events": [
         {
@@ -172,7 +172,7 @@
               "MovePoints": [],
               "TileX": 44,
               "TileY": 255,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.7200001,
                 "y": 46.4
@@ -203,14 +203,14 @@
               "MovePoints": [],
               "TileX": 40,
               "TileY": 206,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.03,
                 "y": 36.7
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -228,9 +228,9 @@
     {
       "SectionID": 2,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 5
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.0
       },
       "Events": [
         {
@@ -316,11 +316,11 @@
                   "UseTableData": false,
                   "Position": {
                     "x": -0.66,
-                    "y": 0,
+                    "y": 0.0,
                     "z": 38.39
                   },
-                  "MinCameraDistance": 28,
-                  "MaxCameraDistance": 28,
+                  "MinCameraDistance": 28.0,
+                  "MaxCameraDistance": 28.0,
                   "CameraForward": {
                     "x": -0.8163209,
                     "y": -0.35889864,
@@ -340,9 +340,9 @@
             {
               "$type": "GroundCommandLocateCamera, BlueArchive",
               "ID": 107,
-              "MaxCameraSpeed": 3,
-              "RotationSpeed": 1,
-              "ZoomSpeed": 1,
+              "MaxCameraSpeed": 3.0,
+              "RotationSpeed": 1.0,
+              "ZoomSpeed": 1.0,
               "RailPoints": [
                 {
                   "UseTableData": false,
@@ -351,8 +351,8 @@
                     "y": 0.4,
                     "z": 35.8
                   },
-                  "MinCameraDistance": 10,
-                  "MaxCameraDistance": 10,
+                  "MinCameraDistance": 10.0,
+                  "MaxCameraDistance": 10.0,
                   "CameraForward": {
                     "x": -0.08424494,
                     "y": -0.155935258,
@@ -372,9 +372,9 @@
             {
               "$type": "GroundCommandLocateCamera, BlueArchive",
               "ID": 107,
-              "MaxCameraSpeed": 3,
-              "RotationSpeed": 1,
-              "ZoomSpeed": 1,
+              "MaxCameraSpeed": 3.0,
+              "RotationSpeed": 1.0,
+              "ZoomSpeed": 1.0,
               "RailPoints": [
                 {
                   "UseTableData": false,
@@ -383,8 +383,8 @@
                     "y": 0.26,
                     "z": 42.62508
                   },
-                  "MinCameraDistance": 10,
-                  "MaxCameraDistance": 10,
+                  "MinCameraDistance": 10.0,
+                  "MaxCameraDistance": 10.0,
                   "CameraForward": {
                     "x": -0.08416467,
                     "y": -0.210883617,
@@ -404,19 +404,19 @@
             {
               "$type": "GroundCommandLocateCamera, BlueArchive",
               "ID": 106,
-              "MaxCameraSpeed": 5,
+              "MaxCameraSpeed": 5.0,
               "RotationSpeed": 0.7,
-              "ZoomSpeed": 5,
+              "ZoomSpeed": 5.0,
               "RailPoints": [
                 {
                   "UseTableData": false,
                   "Position": {
                     "x": -0.06,
-                    "y": 0,
+                    "y": 0.0,
                     "z": 38.8900032
                   },
-                  "MinCameraDistance": 28,
-                  "MaxCameraDistance": 28,
+                  "MinCameraDistance": 28.0,
+                  "MaxCameraDistance": 28.0,
                   "CameraForward": {
                     "x": -0.803465664,
                     "y": -0.426617652,
@@ -478,9 +478,9 @@
             },
             {
               "$type": "GroundCommandFadeOutIn, BlueArchive",
-              "DelayBeforeFadeOut": 0,
-              "DelayBeforeFadeIn": 7,
-              "VisualDelayFadeInStart": 0,
+              "DelayBeforeFadeOut": 0.0,
+              "DelayBeforeFadeIn": 7.0,
+              "VisualDelayFadeInStart": 0.0,
               "CommandID": "",
               "WaitExecuteEnd": false
             },
@@ -637,14 +637,14 @@
               "MovePoints": [],
               "TileX": 44,
               "TileY": 228,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.792281747,
                 "y": 41.13
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -668,14 +668,14 @@
               "MovePoints": [],
               "TileX": 40,
               "TileY": 206,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.03,
                 "y": 36.7
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -701,10 +701,10 @@
         "y": 31.84
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -716,10 +716,10 @@
         "y": 31.842
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -731,10 +731,10 @@
         "y": 38.44
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     }
   ],

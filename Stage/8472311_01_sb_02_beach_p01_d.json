@@ -2,9 +2,9 @@
   "Version": "1.0",
   "Global": {
     "Position": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
     },
     "Events": [
       {
@@ -27,9 +27,9 @@
           {
             "$type": "GroundCommandLocateCamera, BlueArchive",
             "ID": 1,
-            "MaxCameraSpeed": 3,
-            "RotationSpeed": 1,
-            "ZoomSpeed": 1,
+            "MaxCameraSpeed": 3.0,
+            "RotationSpeed": 1.0,
+            "ZoomSpeed": 1.0,
             "RailPoints": [],
             "CommandID": "0",
             "WaitExecuteEnd": false
@@ -92,9 +92,9 @@
     {
       "SectionID": 1,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 5
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.0
       },
       "Events": [
         {
@@ -113,20 +113,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
+                "x": 0.0,
+                "y": 0.0,
                 "z": 12.98
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 10,
-                "Height": 1
+                "Width": 10.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 11
+                "Radius": 11.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -168,12 +168,12 @@
           "UniqueName": "Beach_Standsignboard",
           "Position": {
             "x": -0.47,
-            "y": 0,
+            "y": 0.0,
             "z": 17.17
           },
           "Forward": {
             "x": -0.376119137,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9265713
           },
           "ActiveEnemyPointIndices": [
@@ -191,12 +191,12 @@
           "UniqueName": "Beach_JetSki",
           "Position": {
             "x": -3.29,
-            "y": 0,
+            "y": 0.0,
             "z": 16.26
           },
           "Forward": {
             "x": 0.00388177065,
-            "y": 0,
+            "y": 0.0,
             "z": -0.9999925
           },
           "ActiveEnemyPointIndices": [
@@ -214,12 +214,12 @@
           "UniqueName": "Beach_LyingTable",
           "Position": {
             "x": 2.97,
-            "y": 0,
+            "y": 0.0,
             "z": 10.77
           },
           "Forward": {
             "x": -0.339194834,
-            "y": 0,
+            "y": 0.0,
             "z": 0.940716147
           },
           "ActiveEnemyPointIndices": [
@@ -237,12 +237,12 @@
           "UniqueName": "Beach_Chair",
           "Position": {
             "x": -2.969,
-            "y": 0,
+            "y": 0.0,
             "z": 7.801
           },
           "Forward": {
             "x": -0.3206509,
-            "y": 0,
+            "y": 0.0,
             "z": 0.947197437
           },
           "ActiveEnemyPointIndices": [
@@ -260,12 +260,12 @@
           "UniqueName": "Beach_Box01",
           "Position": {
             "x": -0.36,
-            "y": 0,
+            "y": 0.0,
             "z": 10.76
           },
           "Forward": {
             "x": -0.249483377,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9683791
           },
           "ActiveEnemyPointIndices": [
@@ -283,12 +283,12 @@
           "UniqueName": "Beach_Standsignboard",
           "Position": {
             "x": 2.65,
-            "y": 0,
+            "y": 0.0,
             "z": 7.61
           },
           "Forward": {
             "x": -0.5974362,
-            "y": 0,
+            "y": 0.0,
             "z": 0.8019164
           },
           "ActiveEnemyPointIndices": [
@@ -306,12 +306,12 @@
           "UniqueName": "Beach_BoxIce",
           "Position": {
             "x": 2.85,
-            "y": 0,
+            "y": 0.0,
             "z": 14.87
           },
           "Forward": {
             "x": -0.2937513,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9558819
           },
           "ActiveEnemyPointIndices": [
@@ -329,12 +329,12 @@
           "UniqueName": "Beach_Chair",
           "Position": {
             "x": -3.1,
-            "y": 0,
+            "y": 0.0,
             "z": 19.6
           },
           "Forward": {
             "x": -0.1681763,
-            "y": 0,
+            "y": 0.0,
             "z": -0.985756934
           },
           "ActiveEnemyPointIndices": [
@@ -352,12 +352,12 @@
           "UniqueName": "Beach_BoxDrink",
           "Position": {
             "x": -3.043,
-            "y": 0,
+            "y": 0.0,
             "z": 22.395
           },
           "Forward": {
             "x": 0.3294737,
-            "y": 0,
+            "y": 0.0,
             "z": 0.944164753
           },
           "ActiveEnemyPointIndices": [
@@ -375,12 +375,12 @@
           "UniqueName": "Beach_LyingTable",
           "Position": {
             "x": -0.763,
-            "y": 0,
+            "y": 0.0,
             "z": 21.263
           },
           "Forward": {
             "x": -0.2444439,
-            "y": 0,
+            "y": 0.0,
             "z": 0.969663441
           },
           "ActiveEnemyPointIndices": [
@@ -398,13 +398,13 @@
           "UniqueName": "Beach_LyingTable",
           "Position": {
             "x": 0.767,
-            "y": 0,
+            "y": 0.0,
             "z": 21.785
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -421,12 +421,12 @@
           "UniqueName": "Beach_Box01",
           "Position": {
             "x": 0.91,
-            "y": 0,
+            "y": 0.0,
             "z": 10.9
           },
           "Forward": {
             "x": -0.043807216,
-            "y": 0,
+            "y": 0.0,
             "z": 0.99904
           },
           "ActiveEnemyPointIndices": [
@@ -444,12 +444,12 @@
           "UniqueName": "Beach_Box01",
           "Position": {
             "x": 2.72,
-            "y": 0,
+            "y": 0.0,
             "z": 18.84
           },
           "Forward": {
             "x": -0.4542872,
-            "y": 0,
+            "y": 0.0,
             "z": 0.8908553
           },
           "ActiveEnemyPointIndices": [
@@ -467,12 +467,12 @@
           "UniqueName": "Beach_Standsignboard",
           "Position": {
             "x": 3.52,
-            "y": 0,
+            "y": 0.0,
             "z": 22.06
           },
           "Forward": {
             "x": -0.06735186,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9977293
           },
           "ActiveEnemyPointIndices": [
@@ -513,14 +513,14 @@
               "MovePoints": [],
               "TileX": 34,
               "TileY": 87,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.15,
                 "y": 12.946
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -553,14 +553,14 @@
               "MovePoints": [],
               "TileX": 25,
               "TileY": 87,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.92,
                 "y": 12.946
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -593,14 +593,14 @@
               "MovePoints": [],
               "TileX": 43,
               "TileY": 87,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.62,
                 "y": 12.946
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -633,14 +633,14 @@
               "MovePoints": [],
               "TileX": 46,
               "TileY": 99,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.25,
                 "y": 15.21
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -673,14 +673,14 @@
               "MovePoints": [],
               "TileX": 34,
               "TileY": 104,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.15,
                 "y": 16.21
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -713,14 +713,14 @@
               "MovePoints": [],
               "TileX": 37,
               "TileY": 93,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.65,
-                "y": 14
+                "y": 14.0
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -758,14 +758,14 @@
               "MovePoints": [],
               "TileX": 45,
               "TileY": 123,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.92,
-                "y": 20
+                "y": 20.0
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -798,14 +798,14 @@
               "MovePoints": [],
               "TileX": 32,
               "TileY": 123,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.62,
-                "y": 20
+                "y": 20.0
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -838,14 +838,14 @@
               "MovePoints": [],
               "TileX": 38,
               "TileY": 138,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.41,
                 "y": 23.02
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -878,14 +878,14 @@
               "MovePoints": [],
               "TileX": 44,
               "TileY": 138,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.86,
                 "y": 23.08
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -918,14 +918,14 @@
               "MovePoints": [],
               "TileX": 30,
               "TileY": 136,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.99,
                 "y": 22.7
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -958,14 +958,14 @@
               "MovePoints": [],
               "TileX": 56,
               "TileY": 138,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 3.17,
                 "y": 23.18
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -983,9 +983,9 @@
     {
       "SectionID": 2,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 25
+        "x": 0.0,
+        "y": 0.0,
+        "z": 25.0
       },
       "Events": [
         {
@@ -1004,20 +1004,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
-                "z": 33
+                "x": 0.0,
+                "y": 0.0,
+                "z": 33.0
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 10,
-                "Height": 1
+                "Width": 10.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 11
+                "Radius": 11.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -1059,12 +1059,12 @@
           "UniqueName": "Beach_Standsignboard",
           "Position": {
             "x": -2.757,
-            "y": 0,
+            "y": 0.0,
             "z": 25.851
           },
           "Forward": {
             "x": -0.542648554,
-            "y": 0,
+            "y": 0.0,
             "z": 0.83995986
           },
           "ActiveEnemyPointIndices": [
@@ -1082,12 +1082,12 @@
           "UniqueName": "Beach_Box01",
           "Position": {
             "x": 0.557,
-            "y": 0,
+            "y": 0.0,
             "z": 30.867
           },
           "Forward": {
             "x": -0.222957164,
-            "y": 0,
+            "y": 0.0,
             "z": 0.974828243
           },
           "ActiveEnemyPointIndices": [
@@ -1105,12 +1105,12 @@
           "UniqueName": "Beach_JetSki",
           "Position": {
             "x": -3.494,
-            "y": 0,
+            "y": 0.0,
             "z": 30.068
           },
           "Forward": {
             "x": 0.822296739,
-            "y": 0,
+            "y": 0.0,
             "z": 0.569058955
           },
           "ActiveEnemyPointIndices": [],
@@ -1126,12 +1126,12 @@
           "UniqueName": "Beach_BoxIce",
           "Position": {
             "x": 2.796,
-            "y": 0,
+            "y": 0.0,
             "z": 27.091
           },
           "Forward": {
             "x": 0.210953191,
-            "y": 0,
+            "y": 0.0,
             "z": 0.977496147
           },
           "ActiveEnemyPointIndices": [
@@ -1149,13 +1149,13 @@
           "UniqueName": "Beach_Box02",
           "Position": {
             "x": 0.10676866,
-            "y": 0,
+            "y": 0.0,
             "z": 27.2224731
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1172,13 +1172,13 @@
           "UniqueName": "Beach_Chair",
           "Position": {
             "x": 2.91272831,
-            "y": 0,
+            "y": 0.0,
             "z": 30.4569263
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1195,12 +1195,12 @@
           "UniqueName": "Beach_BoxIce",
           "Position": {
             "x": -0.632,
-            "y": 0,
+            "y": 0.0,
             "z": 34.414
           },
           "Forward": {
             "x": -0.2331661,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9724369
           },
           "ActiveEnemyPointIndices": [
@@ -1218,12 +1218,12 @@
           "UniqueName": "Beach_Standsignboard",
           "Position": {
             "x": 3.49,
-            "y": 0,
+            "y": 0.0,
             "z": 35.4
           },
           "Forward": {
             "x": -0.5006104,
-            "y": 0,
+            "y": 0.0,
             "z": 0.8656727
           },
           "ActiveEnemyPointIndices": [
@@ -1241,12 +1241,12 @@
           "UniqueName": "Beach_Chair",
           "Position": {
             "x": -2.675,
-            "y": 0,
+            "y": 0.0,
             "z": 38.947
           },
           "Forward": {
             "x": -0.994724,
-            "y": 0,
+            "y": 0.0,
             "z": 0.102587581
           },
           "ActiveEnemyPointIndices": [
@@ -1264,12 +1264,12 @@
           "UniqueName": "Beach_Box01",
           "Position": {
             "x": 0.899,
-            "y": 0,
+            "y": 0.0,
             "z": 37.138
           },
           "Forward": {
             "x": -0.997998536,
-            "y": 0,
+            "y": 0.0,
             "z": -0.06323721
           },
           "ActiveEnemyPointIndices": [
@@ -1287,13 +1287,13 @@
           "UniqueName": "Beach_BoxDrink",
           "Position": {
             "x": -0.38,
-            "y": 0,
+            "y": 0.0,
             "z": 36.799
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1310,13 +1310,13 @@
           "UniqueName": "Beach_BoxDrink",
           "Position": {
             "x": 3.55098248,
-            "y": 0,
+            "y": 0.0,
             "z": 39.486454
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1333,13 +1333,13 @@
           "UniqueName": "Beach_LyingTable",
           "Position": {
             "x": 0.261,
-            "y": 0,
+            "y": 0.0,
             "z": 41.206
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1356,12 +1356,12 @@
           "UniqueName": "Beach_LyingTable",
           "Position": {
             "x": -1.121,
-            "y": 0,
+            "y": 0.0,
             "z": 41.012
           },
           "Forward": {
             "x": -0.4652443,
-            "y": 0,
+            "y": 0.0,
             "z": 0.8851823
           },
           "ActiveEnemyPointIndices": [
@@ -1379,12 +1379,12 @@
           "UniqueName": "Beach_Standsignboard",
           "Position": {
             "x": -2.482,
-            "y": 0,
+            "y": 0.0,
             "z": 41.588
           },
           "Forward": {
             "x": -0.616745055,
-            "y": 0,
+            "y": 0.0,
             "z": 0.78716296
           },
           "ActiveEnemyPointIndices": [
@@ -1425,14 +1425,14 @@
               "MovePoints": [],
               "TileX": 37,
               "TileY": 188,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.57,
-                "y": 33
+                "y": 33.0
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1465,14 +1465,14 @@
               "MovePoints": [],
               "TileX": 29,
               "TileY": 187,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.22,
                 "y": 32.94
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1505,14 +1505,14 @@
               "MovePoints": [],
               "TileX": 37,
               "TileY": 201,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.57,
                 "y": 35.647
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1545,14 +1545,14 @@
               "MovePoints": [],
               "TileX": 49,
               "TileY": 202,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.73,
                 "y": 35.81
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1590,14 +1590,14 @@
               "MovePoints": [],
               "TileX": 47,
               "TileY": 221,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.3499999,
                 "y": 39.77
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1630,14 +1630,14 @@
               "MovePoints": [],
               "TileX": 37,
               "TileY": 221,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.68,
                 "y": 39.77
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1670,14 +1670,14 @@
               "MovePoints": [],
               "TileX": 33,
               "TileY": 235,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.39,
                 "y": 42.48
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1710,14 +1710,14 @@
               "MovePoints": [],
               "TileX": 27,
               "TileY": 224,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.584,
                 "y": 40.362
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1750,14 +1750,14 @@
               "MovePoints": [],
               "TileX": 41,
               "TileY": 234,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.13,
                 "y": 42.23
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1779,14 +1779,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 0
+        "x": 0.0,
+        "y": 0.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1794,14 +1794,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 24
+        "x": 0.0,
+        "y": 24.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1809,14 +1809,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 44
+        "x": 0.0,
+        "y": 44.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1824,14 +1824,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 64
+        "x": 0.0,
+        "y": 64.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     }
   ],

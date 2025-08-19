@@ -2,9 +2,9 @@
   "Version": "",
   "Global": {
     "Position": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
     },
     "Events": [
       {
@@ -27,19 +27,19 @@
           {
             "$type": "GroundCommandLocateCamera, BlueArchive",
             "ID": 1,
-            "MaxCameraSpeed": 3,
-            "RotationSpeed": 1,
-            "ZoomSpeed": 1,
+            "MaxCameraSpeed": 3.0,
+            "RotationSpeed": 1.0,
+            "ZoomSpeed": 1.0,
             "RailPoints": [
               {
                 "UseTableData": true,
                 "Position": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 0.0,
+                  "y": 0.0,
                   "z": -5.32
                 },
-                "MinCameraDistance": 30,
-                "MaxCameraDistance": 42,
+                "MinCameraDistance": 30.0,
+                "MaxCameraDistance": 42.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -49,12 +49,12 @@
               {
                 "UseTableData": true,
                 "Position": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 0.0,
+                  "y": 0.0,
                   "z": 41.21
                 },
-                "MinCameraDistance": 30,
-                "MaxCameraDistance": 42,
+                "MinCameraDistance": 30.0,
+                "MaxCameraDistance": 42.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -86,20 +86,20 @@
             "Trigger": 0,
             "StayTime": 0,
             "Position": {
-              "x": 0,
-              "y": 0,
+              "x": 0.0,
+              "y": 0.0,
               "z": 15.53
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
               },
-              "Width": 8,
-              "Height": 8
+              "Width": 8.0,
+              "Height": 8.0
             },
             "Circle": {
-              "Radius": 8
+              "Radius": 8.0
             },
             "InactivateWhenStart": false,
             "ConditionID": ""
@@ -126,19 +126,19 @@
             "ShapeType": 0,
             "Position": {
               "x": 0.13,
-              "y": 0,
+              "y": 0.0,
               "z": 14.04
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 1
+                "x": 0.0,
+                "y": 1.0
               },
-              "Width": 3,
-              "Height": 1
+              "Width": 3.0,
+              "Height": 1.0
             },
             "Circle": {
-              "Radius": 1
+              "Radius": 1.0
             },
             "GroundNodeTypeToChange": 1,
             "IsResetToOriginal": false,
@@ -166,20 +166,20 @@
             "Trigger": 0,
             "StayTime": 0,
             "Position": {
-              "x": 0,
-              "y": 0,
+              "x": 0.0,
+              "y": 0.0,
               "z": 29.67
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
               },
-              "Width": 8,
-              "Height": 8
+              "Width": 8.0,
+              "Height": 8.0
             },
             "Circle": {
-              "Radius": 8
+              "Radius": 8.0
             },
             "InactivateWhenStart": false,
             "ConditionID": ""
@@ -206,19 +206,19 @@
             "ShapeType": 0,
             "Position": {
               "x": 0.13,
-              "y": 0,
+              "y": 0.0,
               "z": 28.14
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 1
+                "x": 0.0,
+                "y": 1.0
               },
-              "Width": 3,
-              "Height": 1
+              "Width": 3.0,
+              "Height": 1.0
             },
             "Circle": {
-              "Radius": 1
+              "Radius": 1.0
             },
             "GroundNodeTypeToChange": 1,
             "IsResetToOriginal": false,
@@ -261,9 +261,9 @@
     {
       "SectionID": 1,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 5
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.0
       },
       "Events": [
         {
@@ -311,13 +311,13 @@
           "UniqueName": "Tatamiroom_Shelf_Standard",
           "Position": {
             "x": -1.63,
-            "y": 0,
+            "y": 0.0,
             "z": 5.57
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -334,13 +334,13 @@
           "UniqueName": "Tatamiroom_Stone_Standard",
           "Position": {
             "x": 2.139,
-            "y": 0,
+            "y": 0.0,
             "z": 3.31400013
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -357,13 +357,13 @@
           "UniqueName": "Tatamiroom_Lamp_Standard",
           "Position": {
             "x": 0.99,
-            "y": 0,
+            "y": 0.0,
             "z": -1.53000021
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -380,13 +380,13 @@
           "UniqueName": "Tatamiroom_Table02_Standard",
           "Position": {
             "x": -2.292,
-            "y": 0,
+            "y": 0.0,
             "z": 2.867
           },
           "Forward": {
-            "x": -1,
-            "y": 0,
-            "z": 0
+            "x": -1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             3
@@ -403,13 +403,13 @@
           "UniqueName": "Tatamiroom_Partition_Standard",
           "Position": {
             "x": 0.91,
-            "y": 0,
+            "y": 0.0,
             "z": 1.32999992
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -426,13 +426,13 @@
           "UniqueName": "Tatamiroom_Stone_Standard",
           "Position": {
             "x": 2.139,
-            "y": 0,
+            "y": 0.0,
             "z": 8.3
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -449,13 +449,13 @@
           "UniqueName": "Tatamiroom_Partition_Standard",
           "Position": {
             "x": -1.88,
-            "y": 0,
+            "y": 0.0,
             "z": 10.46
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -472,13 +472,13 @@
           "UniqueName": "Tatamiroom_Lamp_Standard",
           "Position": {
             "x": -1.38,
-            "y": 0,
+            "y": 0.0,
             "z": 8.34
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -495,13 +495,13 @@
           "UniqueName": "Tatamiroom_Lamp_Standard",
           "Position": {
             "x": 1.14,
-            "y": 0,
+            "y": 0.0,
             "z": 11.48
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -518,13 +518,13 @@
           "UniqueName": "Tatamiroom_Shelf_Standard",
           "Position": {
             "x": 2.02,
-            "y": 0,
+            "y": 0.0,
             "z": 25.88
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -564,14 +564,14 @@
               "MovePoints": [],
               "TileX": 52,
               "TileY": 53,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.539999962,
                 "y": 3.04999924
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -604,14 +604,14 @@
               "MovePoints": [],
               "TileX": 61,
               "TileY": 53,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.11,
                 "y": 3.04999924
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -644,14 +644,14 @@
               "MovePoints": [],
               "TileX": 48,
               "TileY": 62,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.43,
                 "y": 4.85
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -684,14 +684,14 @@
               "MovePoints": [],
               "TileX": 58,
               "TileY": 61,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.6,
                 "y": 4.75999975
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -724,14 +724,14 @@
               "MovePoints": [],
               "TileX": 63,
               "TileY": 68,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.68,
                 "y": 6.02999973
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -764,14 +764,14 @@
               "MovePoints": [],
               "TileX": 52,
               "TileY": 68,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.659999967,
                 "y": 6.17
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -809,14 +809,14 @@
               "MovePoints": [],
               "TileX": 59,
               "TileY": 86,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.72,
                 "y": 9.7
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -849,14 +849,14 @@
               "MovePoints": [],
               "TileX": 49,
               "TileY": 83,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.28,
                 "y": 9.02
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -889,14 +889,14 @@
               "MovePoints": [],
               "TileX": 56,
               "TileY": 94,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.2,
                 "y": 11.2199993
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -929,14 +929,14 @@
               "MovePoints": [],
               "TileX": 52,
               "TileY": 90,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.67,
                 "y": 10.4699993
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -969,14 +969,14 @@
               "MovePoints": [],
               "TileX": 46,
               "TileY": 98,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.85,
                 "y": 12.01
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1009,14 +1009,14 @@
               "MovePoints": [],
               "TileX": 63,
               "TileY": 100,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.51,
                 "y": 12.57
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1034,9 +1034,9 @@
     {
       "SectionID": 2,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 25
+        "x": 0.0,
+        "y": 0.0,
+        "z": 25.0
       },
       "Events": [
         {
@@ -1084,13 +1084,13 @@
           "UniqueName": "Tatamiroom_Table01_Standard",
           "Position": {
             "x": -0.43,
-            "y": 0,
+            "y": 0.0,
             "z": 17.48
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1107,13 +1107,13 @@
           "UniqueName": "Tatamiroom_Swordholder_Standard",
           "Position": {
             "x": -1.9,
-            "y": 0,
+            "y": 0.0,
             "z": 23.12
           },
           "Forward": {
-            "x": -1,
-            "y": 0,
-            "z": 0
+            "x": -1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             3
@@ -1130,13 +1130,13 @@
           "UniqueName": "Tatamiroom_Swordholder_Standard",
           "Position": {
             "x": 1.9,
-            "y": 0,
+            "y": 0.0,
             "z": 23.07
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1153,13 +1153,13 @@
           "UniqueName": "Tatamiroom_Stone_Standard",
           "Position": {
             "x": -2.3,
-            "y": 0,
+            "y": 0.0,
             "z": 24.99
           },
           "Forward": {
-            "x": -1,
-            "y": 0,
-            "z": 0
+            "x": -1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             3
@@ -1176,13 +1176,13 @@
           "UniqueName": "Tatamiroom_Lamp_Standard",
           "Position": {
             "x": -0.494,
-            "y": 0,
+            "y": 0.0,
             "z": 25.518
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1199,13 +1199,13 @@
           "UniqueName": "Tatamiroom_Partition_Standard",
           "Position": {
             "x": 2.045,
-            "y": 0,
+            "y": 0.0,
             "z": 17.4399986
           },
           "Forward": {
-            "x": 1,
-            "y": 0,
-            "z": 0
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             2
@@ -1245,14 +1245,14 @@
               "MovePoints": [],
               "TileX": 55,
               "TileY": 117,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.06,
                 "y": 15.97
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1285,14 +1285,14 @@
               "MovePoints": [],
               "TileX": 64,
               "TileY": 120,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.72,
                 "y": 16.58
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1325,14 +1325,14 @@
               "MovePoints": [],
               "TileX": 42,
               "TileY": 119,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.55,
                 "y": 16.34
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1365,14 +1365,14 @@
               "MovePoints": [],
               "TileX": 53,
               "TileY": 134,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.47,
                 "y": 19.27
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1405,14 +1405,14 @@
               "MovePoints": [],
               "TileX": 62,
               "TileY": 133,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.45,
                 "y": 19.11
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1445,14 +1445,14 @@
               "MovePoints": [],
               "TileX": 44,
               "TileY": 133,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.27,
                 "y": 19.03
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1490,14 +1490,14 @@
               "MovePoints": [],
               "TileX": 55,
               "TileY": 153,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
-                "x": 0,
+                "x": 0.0,
                 "y": 23.06
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1530,14 +1530,14 @@
               "MovePoints": [],
               "TileX": 61,
               "TileY": 156,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.18,
                 "y": 23.76
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1570,14 +1570,14 @@
               "MovePoints": [],
               "TileX": 49,
               "TileY": 155,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.29,
                 "y": 23.4
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1610,14 +1610,14 @@
               "MovePoints": [],
               "TileX": 55,
               "TileY": 160,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
-                "x": 0,
+                "x": 0.0,
                 "y": 24.5099964
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1650,14 +1650,14 @@
               "MovePoints": [],
               "TileX": 60,
               "TileY": 163,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.97,
                 "y": 25.15
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1690,14 +1690,14 @@
               "MovePoints": [],
               "TileX": 48,
               "TileY": 163,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.489,
                 "y": 25.15
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1730,14 +1730,14 @@
               "MovePoints": [],
               "TileX": 55,
               "TileY": 170,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.01,
                 "y": 26.529
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1755,9 +1755,9 @@
     {
       "SectionID": 3,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 45
+        "x": 0.0,
+        "y": 0.0,
+        "z": 45.0
       },
       "Events": [
         {
@@ -1805,13 +1805,13 @@
           "UniqueName": "Tatamiroom_Cabinet_Standard",
           "Position": {
             "x": -2.13,
-            "y": 0,
+            "y": 0.0,
             "z": 31.23
           },
           "Forward": {
-            "x": 1,
-            "y": 0,
-            "z": 0
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             2
@@ -1828,13 +1828,13 @@
           "UniqueName": "Tatamiroom_Table02_Standard",
           "Position": {
             "x": 1.85,
-            "y": 0,
+            "y": 0.0,
             "z": 31.3699989
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1851,13 +1851,13 @@
           "UniqueName": "Tatamiroom_Shelf_Standard",
           "Position": {
             "x": 1.55,
-            "y": 0,
+            "y": 0.0,
             "z": 38.2
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1874,13 +1874,13 @@
           "UniqueName": "Tatamiroom_Partition_Standard",
           "Position": {
             "x": 3.23,
-            "y": 0,
+            "y": 0.0,
             "z": 35.36
           },
           "Forward": {
-            "x": 1,
-            "y": 0,
-            "z": 0
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             2
@@ -1897,13 +1897,13 @@
           "UniqueName": "Tatamiroom_Stone_Standard",
           "Position": {
             "x": -2.75,
-            "y": 0,
+            "y": 0.0,
             "z": 34.07
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1920,13 +1920,13 @@
           "UniqueName": "Tatamiroom_Swordholder_Standard",
           "Position": {
             "x": -1.31,
-            "y": 0,
+            "y": 0.0,
             "z": 36.5100021
           },
           "Forward": {
-            "x": -1,
-            "y": 0,
-            "z": 0
+            "x": -1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             3
@@ -1943,13 +1943,13 @@
           "UniqueName": "Tatamiroom_Lamp_Standard",
           "Position": {
             "x": 1.01,
-            "y": 0,
+            "y": 0.0,
             "z": 33.44
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1989,14 +1989,14 @@
               "MovePoints": [],
               "TileX": 52,
               "TileY": 194,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.65,
                 "y": 31.3399982
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2029,14 +2029,14 @@
               "MovePoints": [],
               "TileX": 59,
               "TileY": 194,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.81,
                 "y": 31.3899975
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2069,14 +2069,14 @@
               "MovePoints": [],
               "TileX": 55,
               "TileY": 199,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.09,
                 "y": 32.37
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2109,14 +2109,14 @@
               "MovePoints": [],
               "TileX": 62,
               "TileY": 201,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.34,
                 "y": 32.6999969
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2149,14 +2149,14 @@
               "MovePoints": [],
               "TileX": 56,
               "TileY": 206,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.12,
                 "y": 33.7199974
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2189,14 +2189,14 @@
               "MovePoints": [],
               "TileX": 50,
               "TileY": 204,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.1,
                 "y": 33.28
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2234,14 +2234,14 @@
               "MovePoints": [],
               "TileX": 55,
               "TileY": 236,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.0600000173,
                 "y": 39.77
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2274,14 +2274,14 @@
               "MovePoints": [],
               "TileX": 60,
               "TileY": 243,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.08,
-                "y": 41
+                "y": 41.0
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2314,14 +2314,14 @@
               "MovePoints": [],
               "TileX": 55,
               "TileY": 243,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
-                "x": 0,
+                "x": 0.0,
                 "y": 41.0100021
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2354,14 +2354,14 @@
               "MovePoints": [],
               "TileX": 47,
               "TileY": 244,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.55,
                 "y": 41.23
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2394,14 +2394,14 @@
               "MovePoints": [],
               "TileX": 53,
               "TileY": 249,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.450000018,
                 "y": 42.32
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2434,14 +2434,14 @@
               "MovePoints": [],
               "TileX": 57,
               "TileY": 249,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.41,
                 "y": 42.21
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -2463,14 +2463,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
+        "x": 0.0,
         "y": -3.67
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -2478,14 +2478,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
+        "x": 0.0,
         "y": 12.63
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -2493,14 +2493,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
+        "x": 0.0,
         "y": 26.77
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -2508,14 +2508,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
+        "x": 0.0,
         "y": 42.27
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     }
   ],

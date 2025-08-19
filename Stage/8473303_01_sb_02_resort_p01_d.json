@@ -2,8 +2,8 @@
   "Version": "1.0",
   "Global": {
     "Position": {
-      "x": 0,
-      "y": 0,
+      "x": 0.0,
+      "y": 0.0,
       "z": -7.11000061
     },
     "Events": [
@@ -28,18 +28,18 @@
             "$type": "GroundCommandLocateCamera, BlueArchive",
             "ID": 1,
             "MaxCameraSpeed": 3.5,
-            "RotationSpeed": 1,
-            "ZoomSpeed": 1,
+            "RotationSpeed": 1.0,
+            "ZoomSpeed": 1.0,
             "RailPoints": [
               {
                 "UseTableData": false,
                 "Position": {
                   "x": -0.0299999714,
-                  "y": 0,
+                  "y": 0.0,
                   "z": 36.4900055
                 },
-                "MinCameraDistance": 48,
-                "MaxCameraDistance": 48,
+                "MinCameraDistance": 48.0,
+                "MaxCameraDistance": 48.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -50,11 +50,11 @@
                 "UseTableData": false,
                 "Position": {
                   "x": -0.03,
-                  "y": 0,
+                  "y": 0.0,
                   "z": 36.83
                 },
-                "MinCameraDistance": 48,
-                "MaxCameraDistance": 48,
+                "MinCameraDistance": 48.0,
+                "MaxCameraDistance": 48.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -76,20 +76,20 @@
             "$type": "MX.Logic.Battles.GroundCommandChangeGroundNodeType, BlueArchive",
             "ShapeType": 0,
             "Position": {
-              "x": 0,
-              "y": 0,
+              "x": 0.0,
+              "y": 0.0,
               "z": 35.2399979
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 1
+                "x": 0.0,
+                "y": 1.0
               },
-              "Width": 15,
+              "Width": 15.0,
               "Height": 1.5
             },
             "Circle": {
-              "Radius": 1
+              "Radius": 1.0
             },
             "GroundNodeTypeToChange": 2147483647,
             "IsResetToOriginal": false,
@@ -125,8 +125,8 @@
     {
       "SectionID": 1,
       "Position": {
-        "x": 0,
-        "y": 0,
+        "x": 0.0,
+        "y": 0.0,
         "z": 35.04
       },
       "Events": [
@@ -180,20 +180,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
+                "x": 0.0,
+                "y": 0.0,
                 "z": 98.6700058
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 10,
-                "Height": 1
+                "Width": 10.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 1
+                "Radius": 1.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -215,13 +215,13 @@
           "UniqueName": "CH0262_Prop",
           "Position": {
             "x": -3.64,
-            "y": 0,
+            "y": 0.0,
             "z": 35.3700027
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [],
           "ActivePlayerPointIndices": [
@@ -236,12 +236,12 @@
           "UniqueName": "Desert_Madae",
           "Position": {
             "x": -1.3,
-            "y": 0,
+            "y": 0.0,
             "z": 35.443
           },
           "Forward": {
             "x": -0.9867034,
-            "y": 0,
+            "y": 0.0,
             "z": -0.162531391
           },
           "ActiveEnemyPointIndices": [
@@ -259,12 +259,12 @@
           "UniqueName": "Desert_Madae",
           "Position": {
             "x": 1.71,
-            "y": 0,
+            "y": 0.0,
             "z": 35.452
           },
           "Forward": {
             "x": 0.9998438,
-            "y": 0,
+            "y": 0.0,
             "z": 0.017676875
           },
           "ActiveEnemyPointIndices": [
@@ -282,12 +282,12 @@
           "UniqueName": "Desert_Madae",
           "Position": {
             "x": 4.4989996,
-            "y": 0,
+            "y": 0.0,
             "z": 35.452
           },
           "Forward": {
             "x": -0.9826226,
-            "y": 0,
+            "y": 0.0,
             "z": 0.18561475
           },
           "ActiveEnemyPointIndices": [
@@ -328,7 +328,7 @@
               "MovePoints": [],
               "TileX": 24,
               "TileY": 210,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -3.17,
                 "y": 37.58
@@ -368,7 +368,7 @@
               "MovePoints": [],
               "TileX": 24,
               "TileY": 222,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -3.17,
                 "y": 39.89
@@ -408,7 +408,7 @@
               "MovePoints": [],
               "TileX": 56,
               "TileY": 210,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 3.17,
                 "y": 37.58
@@ -448,7 +448,7 @@
               "MovePoints": [],
               "TileX": 56,
               "TileY": 222,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 3.17,
                 "y": 39.89
@@ -495,7 +495,7 @@
               "MovePoints": [],
               "TileX": 51,
               "TileY": 209,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.15,
                 "y": 37.33
@@ -537,7 +537,7 @@
               "MovePoints": [],
               "TileX": 51,
               "TileY": 221,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.15,
                 "y": 39.64
@@ -579,7 +579,7 @@
               "MovePoints": [],
               "TileX": 29,
               "TileY": 209,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.19,
                 "y": 37.33
@@ -621,7 +621,7 @@
               "MovePoints": [],
               "TileX": 30,
               "TileY": 221,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.99,
                 "y": 39.71
@@ -663,7 +663,7 @@
               "MovePoints": [],
               "TileX": 40,
               "TileY": 218,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.05,
                 "y": 39.1200027
@@ -696,10 +696,10 @@
         "y": 27.83
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -711,10 +711,10 @@
         "y": 32.54
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     }
   ],

@@ -2,9 +2,9 @@
   "Version": "1.1",
   "Global": {
     "Position": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
     },
     "Events": [
       {
@@ -27,9 +27,9 @@
           {
             "$type": "GroundCommandLocateCamera, BlueArchive",
             "ID": 1,
-            "MaxCameraSpeed": 3,
-            "RotationSpeed": 1,
-            "ZoomSpeed": 1,
+            "MaxCameraSpeed": 3.0,
+            "RotationSpeed": 1.0,
+            "ZoomSpeed": 1.0,
             "RailPoints": [],
             "CommandID": "0",
             "WaitExecuteEnd": false
@@ -92,9 +92,9 @@
     {
       "SectionID": 1,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 5
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.0
       },
       "Events": [
         {
@@ -142,12 +142,12 @@
           "UniqueName": "Desertisland_Box",
           "Position": {
             "x": -2.72,
-            "y": 0,
+            "y": 0.0,
             "z": 7.45
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -165,12 +165,12 @@
           "UniqueName": "Desertisland_JetSki",
           "Position": {
             "x": 3.39,
-            "y": 0,
+            "y": 0.0,
             "z": 10.8099995
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -188,12 +188,12 @@
           "UniqueName": "Common_BoxWood",
           "Position": {
             "x": -2.55,
-            "y": 0,
+            "y": 0.0,
             "z": 15.37
           },
           "Forward": {
             "x": -0.3420203,
-            "y": 0,
+            "y": 0.0,
             "z": 0.939692557
           },
           "ActiveEnemyPointIndices": [
@@ -211,12 +211,12 @@
           "UniqueName": "Common_BarrelLying",
           "Position": {
             "x": -1.13,
-            "y": 0,
+            "y": 0.0,
             "z": 10.75
           },
           "Forward": {
             "x": 0.17364797,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9848078
           },
           "ActiveEnemyPointIndices": [
@@ -234,12 +234,12 @@
           "UniqueName": "Desertisland_Box",
           "Position": {
             "x": 0.91,
-            "y": 0,
+            "y": 0.0,
             "z": 17.6899986
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -257,12 +257,12 @@
           "UniqueName": "Desertisland_Box",
           "Position": {
             "x": 2.54,
-            "y": 0,
+            "y": 0.0,
             "z": 22.02
           },
           "Forward": {
             "x": 0.9848077,
-            "y": 0,
+            "y": 0.0,
             "z": 0.173648149
           },
           "ActiveEnemyPointIndices": [
@@ -280,12 +280,12 @@
           "UniqueName": "Desertisland_Box",
           "Position": {
             "x": 3.07,
-            "y": 0,
+            "y": 0.0,
             "z": 22.16
           },
           "Forward": {
             "x": -0.9848078,
-            "y": 0,
+            "y": 0.0,
             "z": 0.1736481
           },
           "ActiveEnemyPointIndices": [
@@ -303,12 +303,12 @@
           "UniqueName": "Common_BarrelLying",
           "Position": {
             "x": 1.21,
-            "y": 0,
+            "y": 0.0,
             "z": 25.78
           },
           "Forward": {
             "x": 0.17364797,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9848078
           },
           "ActiveEnemyPointIndices": [
@@ -326,12 +326,12 @@
           "UniqueName": "Common_BarrelLying",
           "Position": {
             "x": -1.13,
-            "y": 0,
+            "y": 0.0,
             "z": 21.42
           },
           "Forward": {
             "x": 0.17364797,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9848078
           },
           "ActiveEnemyPointIndices": [
@@ -360,9 +360,9 @@
     {
       "SectionID": 2,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 25
+        "x": 0.0,
+        "y": 0.0,
+        "z": 25.0
       },
       "Events": [
         {
@@ -410,12 +410,12 @@
           "UniqueName": "Desertisland_JetSki",
           "Position": {
             "x": 3.53,
-            "y": 0,
+            "y": 0.0,
             "z": 31.21
           },
           "Forward": {
             "x": 0.866025448,
-            "y": 0,
+            "y": 0.0,
             "z": -0.4999999
           },
           "ActiveEnemyPointIndices": [
@@ -433,12 +433,12 @@
           "UniqueName": "Desertisland_Box",
           "Position": {
             "x": -2.71,
-            "y": 0,
+            "y": 0.0,
             "z": 31.71
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -456,12 +456,12 @@
           "UniqueName": "Common_BoxWood",
           "Position": {
             "x": -2.45,
-            "y": 0,
+            "y": 0.0,
             "z": 35.46
           },
           "Forward": {
             "x": -0.3420203,
-            "y": 0,
+            "y": 0.0,
             "z": 0.939692557
           },
           "ActiveEnemyPointIndices": [
@@ -479,12 +479,12 @@
           "UniqueName": "Common_BoxWood",
           "Position": {
             "x": -2.56,
-            "y": 0,
+            "y": 0.0,
             "z": 47.47
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -502,12 +502,12 @@
           "UniqueName": "Common_BarrelLying",
           "Position": {
             "x": 1.02,
-            "y": 0,
+            "y": 0.0,
             "z": 37.52
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -525,12 +525,12 @@
           "UniqueName": "Common_BarrelLying",
           "Position": {
             "x": 0.189999819,
-            "y": 0,
+            "y": 0.0,
             "z": 37.5199966
           },
           "Forward": {
             "x": 0.9848077,
-            "y": 0,
+            "y": 0.0,
             "z": 0.173648149
           },
           "ActiveEnemyPointIndices": [
@@ -548,12 +548,12 @@
           "UniqueName": "Desertisland_Box",
           "Position": {
             "x": 2.95,
-            "y": 0,
+            "y": 0.0,
             "z": 41.79
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -571,12 +571,12 @@
           "UniqueName": "Common_BoxWood",
           "Position": {
             "x": -1.07,
-            "y": 0,
+            "y": 0.0,
             "z": 41.41
           },
           "Forward": {
             "x": -0.3420203,
-            "y": 0,
+            "y": 0.0,
             "z": 0.939692557
           },
           "ActiveEnemyPointIndices": [
@@ -594,12 +594,12 @@
           "UniqueName": "Desertisland_JetSki",
           "Position": {
             "x": 3.37,
-            "y": 0,
+            "y": 0.0,
             "z": 46.37
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -640,14 +640,14 @@
               "MovePoints": [],
               "TileX": 27,
               "TileY": 187,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.7,
                 "y": 32.88
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -680,14 +680,14 @@
               "MovePoints": [],
               "TileX": 53,
               "TileY": 189,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.69,
                 "y": 33.21
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -720,14 +720,14 @@
               "MovePoints": [],
               "TileX": 41,
               "TileY": 189,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.23,
                 "y": 33.3
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -760,14 +760,14 @@
               "MovePoints": [],
               "TileX": 26,
               "TileY": 208,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.81,
-                "y": 37
+                "y": 37.0
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -800,14 +800,14 @@
               "MovePoints": [],
               "TileX": 42,
               "TileY": 216,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.39,
                 "y": 38.72
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -845,14 +845,14 @@
               "MovePoints": [],
               "TileX": 35,
               "TileY": 238,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.96,
                 "y": 43.0100021
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -885,14 +885,14 @@
               "MovePoints": [],
               "TileX": 26,
               "TileY": 238,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.79,
                 "y": 43.18
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -925,14 +925,14 @@
               "MovePoints": [],
               "TileX": 54,
               "TileY": 239,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.89299965,
                 "y": 43.272
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -965,14 +965,14 @@
               "MovePoints": [],
               "TileX": 27,
               "TileY": 266,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.6,
                 "y": 48.71
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1005,14 +1005,14 @@
               "MovePoints": [],
               "TileX": 45,
               "TileY": 258,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.07499981,
                 "y": 47.014
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1045,14 +1045,14 @@
               "MovePoints": [],
               "TileX": 35,
               "TileY": 251,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.05,
                 "y": 45.6900024
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1070,9 +1070,9 @@
     {
       "SectionID": 3,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 45
+        "x": 0.0,
+        "y": 0.0,
+        "z": 45.0
       },
       "Events": [
         {
@@ -1143,12 +1143,12 @@
           "UniqueName": "Desertisland_JetSki",
           "Position": {
             "x": 3.65,
-            "y": 0,
+            "y": 0.0,
             "z": 59.0100021
           },
           "Forward": {
             "x": -0.8660254,
-            "y": 0,
+            "y": 0.0,
             "z": -0.50000006
           },
           "ActiveEnemyPointIndices": [
@@ -1166,12 +1166,12 @@
           "UniqueName": "Desertisland_Box",
           "Position": {
             "x": -2.57,
-            "y": 0,
+            "y": 0.0,
             "z": 55.32
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -1189,12 +1189,12 @@
           "UniqueName": "Common_BarrelLying",
           "Position": {
             "x": -0.09,
-            "y": 0,
+            "y": 0.0,
             "z": 57.19
           },
           "Forward": {
             "x": 0.9848077,
-            "y": 0,
+            "y": 0.0,
             "z": 0.173648149
           },
           "ActiveEnemyPointIndices": [
@@ -1212,12 +1212,12 @@
           "UniqueName": "Common_BarrelLying",
           "Position": {
             "x": -0.909999967,
-            "y": 0,
+            "y": 0.0,
             "z": 57.48
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -1235,12 +1235,12 @@
           "UniqueName": "Common_BoxWood",
           "Position": {
             "x": 2.65,
-            "y": 0,
+            "y": 0.0,
             "z": 63.3799973
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -1258,13 +1258,13 @@
           "UniqueName": "Common_BoxWood",
           "Position": {
             "x": 1.11,
-            "y": 0,
+            "y": 0.0,
             "z": 45.72
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1281,12 +1281,12 @@
           "UniqueName": "Common_BarrelLying",
           "Position": {
             "x": -2.8,
-            "y": 0,
+            "y": 0.0,
             "z": 61.73
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -1304,12 +1304,12 @@
           "UniqueName": "Desertisland_Box",
           "Position": {
             "x": 0.6,
-            "y": 0,
+            "y": 0.0,
             "z": 50.67
           },
           "Forward": {
             "x": 0.342019916,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9396927
           },
           "ActiveEnemyPointIndices": [
@@ -1350,14 +1350,14 @@
               "MovePoints": [],
               "TileX": 44,
               "TileY": 283,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.82,
                 "y": 52.19
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1390,14 +1390,14 @@
               "MovePoints": [],
               "TileX": 28,
               "TileY": 284,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.48,
                 "y": 52.32
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1430,14 +1430,14 @@
               "MovePoints": [],
               "TileX": 56,
               "TileY": 284,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 3.245,
                 "y": 52.2600021
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1470,14 +1470,14 @@
               "MovePoints": [],
               "TileX": 39,
               "TileY": 301,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.16,
                 "y": 55.7399979
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1510,14 +1510,14 @@
               "MovePoints": [],
               "TileX": 53,
               "TileY": 299,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.58,
                 "y": 55.25
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1550,14 +1550,14 @@
               "MovePoints": [],
               "TileX": 27,
               "TileY": 306,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.6,
                 "y": 56.67
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1595,14 +1595,14 @@
               "MovePoints": [],
               "TileX": 32,
               "TileY": 323,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.67,
                 "y": 60.13
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1635,14 +1635,14 @@
               "MovePoints": [],
               "TileX": 41,
               "TileY": 322,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.18,
                 "y": 59.9899979
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1675,14 +1675,14 @@
               "MovePoints": [],
               "TileX": 40,
               "TileY": 331,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.03,
                 "y": 61.6299973
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1715,14 +1715,14 @@
               "MovePoints": [],
               "TileX": 48,
               "TileY": 327,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.52,
                 "y": 60.91
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1755,14 +1755,14 @@
               "MovePoints": [],
               "TileX": 55,
               "TileY": 328,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.97,
                 "y": 61.18
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1795,14 +1795,14 @@
               "MovePoints": [],
               "TileX": 28,
               "TileY": 344,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.37,
                 "y": 64.37
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1837,14 +1837,14 @@
               "MovePoints": [],
               "TileX": 41,
               "TileY": 344,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.18,
                 "y": 64.2700043
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1866,14 +1866,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
+        "x": 0.0,
         "y": 19.37
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1881,14 +1881,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 24
+        "x": 0.0,
+        "y": 24.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1896,14 +1896,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 44
+        "x": 0.0,
+        "y": 44.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1911,14 +1911,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 64
+        "x": 0.0,
+        "y": 64.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     }
   ],

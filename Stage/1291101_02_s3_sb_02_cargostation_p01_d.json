@@ -2,9 +2,9 @@
   "Version": "",
   "Global": {
     "Position": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
     },
     "Events": [
       {
@@ -27,19 +27,19 @@
           {
             "$type": "GroundCommandLocateCamera, BlueArchive",
             "ID": 1,
-            "MaxCameraSpeed": 3,
-            "RotationSpeed": 1,
-            "ZoomSpeed": 1,
+            "MaxCameraSpeed": 3.0,
+            "RotationSpeed": 1.0,
+            "ZoomSpeed": 1.0,
             "RailPoints": [
               {
                 "UseTableData": true,
                 "Position": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 0.0,
+                  "y": 0.0,
                   "z": 1.08
                 },
-                "MinCameraDistance": 30,
-                "MaxCameraDistance": 42,
+                "MinCameraDistance": 30.0,
+                "MaxCameraDistance": 42.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -49,12 +49,12 @@
               {
                 "UseTableData": true,
                 "Position": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 0.0,
+                  "y": 0.0,
                   "z": 20.06
                 },
-                "MinCameraDistance": 30,
-                "MaxCameraDistance": 42,
+                "MinCameraDistance": 30.0,
+                "MaxCameraDistance": 42.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -65,11 +65,11 @@
                 "UseTableData": true,
                 "Position": {
                   "x": -5.78,
-                  "y": 0,
+                  "y": 0.0,
                   "z": 41.83
                 },
-                "MinCameraDistance": 30,
-                "MaxCameraDistance": 42,
+                "MinCameraDistance": 30.0,
+                "MaxCameraDistance": 42.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -80,11 +80,11 @@
                 "UseTableData": true,
                 "Position": {
                   "x": -2.64,
-                  "y": 0,
+                  "y": 0.0,
                   "z": 65.44
                 },
-                "MinCameraDistance": 30,
-                "MaxCameraDistance": 42,
+                "MinCameraDistance": 30.0,
+                "MaxCameraDistance": 42.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -116,20 +116,20 @@
             "Trigger": 0,
             "StayTime": 0,
             "Position": {
-              "x": 0,
-              "y": 0,
+              "x": 0.0,
+              "y": 0.0,
               "z": 25.79
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
               },
-              "Width": 24,
-              "Height": 16
+              "Width": 24.0,
+              "Height": 16.0
             },
             "Circle": {
-              "Radius": 8
+              "Radius": 8.0
             },
             "InactivateWhenStart": false,
             "ConditionID": ""
@@ -164,20 +164,20 @@
             "Trigger": 0,
             "StayTime": 0,
             "Position": {
-              "x": 0,
-              "y": 0,
+              "x": 0.0,
+              "y": 0.0,
               "z": 25.79
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
               },
-              "Width": 24,
-              "Height": 16
+              "Width": 24.0,
+              "Height": 16.0
             },
             "Circle": {
-              "Radius": 8
+              "Radius": 8.0
             },
             "InactivateWhenStart": false,
             "ConditionID": ""
@@ -194,19 +194,19 @@
           {
             "$type": "GroundCommandLocateCamera, BlueArchive",
             "ID": 1,
-            "MaxCameraSpeed": 3,
-            "RotationSpeed": 1,
-            "ZoomSpeed": 1,
+            "MaxCameraSpeed": 3.0,
+            "RotationSpeed": 1.0,
+            "ZoomSpeed": 1.0,
             "RailPoints": [
               {
                 "UseTableData": false,
                 "Position": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 0.0,
+                  "y": 0.0,
                   "z": 4.93
                 },
-                "MinCameraDistance": 42,
-                "MaxCameraDistance": 55,
+                "MinCameraDistance": 42.0,
+                "MaxCameraDistance": 55.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -216,12 +216,12 @@
               {
                 "UseTableData": false,
                 "Position": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 0.0,
+                  "y": 0.0,
                   "z": 20.06
                 },
-                "MinCameraDistance": 42,
-                "MaxCameraDistance": 55,
+                "MinCameraDistance": 42.0,
+                "MaxCameraDistance": 55.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -232,11 +232,11 @@
                 "UseTableData": false,
                 "Position": {
                   "x": -5.78,
-                  "y": 0,
+                  "y": 0.0,
                   "z": 41.83
                 },
-                "MinCameraDistance": 42,
-                "MaxCameraDistance": 55,
+                "MinCameraDistance": 42.0,
+                "MaxCameraDistance": 55.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -247,11 +247,11 @@
                 "UseTableData": false,
                 "Position": {
                   "x": -2.64,
-                  "y": 0,
+                  "y": 0.0,
                   "z": 55.1
                 },
-                "MinCameraDistance": 42,
-                "MaxCameraDistance": 55,
+                "MinCameraDistance": 42.0,
+                "MaxCameraDistance": 55.0,
                 "CameraForward": {
                   "x": -0.8034659,
                   "y": -0.426618159,
@@ -287,19 +287,19 @@
             "ShapeType": 0,
             "Position": {
               "x": -4.94,
-              "y": 0,
+              "y": 0.0,
               "z": 23.78
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 1
+                "x": 0.0,
+                "y": 1.0
               },
               "Width": 3.34,
               "Height": 10.67
             },
             "Circle": {
-              "Radius": 1
+              "Radius": 1.0
             },
             "GroundNodeTypeToChange": 1,
             "IsResetToOriginal": false,
@@ -317,7 +317,7 @@
             "ShapeType": 0,
             "Position": {
               "x": -7.1,
-              "y": 0,
+              "y": 0.0,
               "z": 33.73
             },
             "Rect": {
@@ -329,7 +329,7 @@
               "Height": 10.67
             },
             "Circle": {
-              "Radius": 1
+              "Radius": 1.0
             },
             "GroundNodeTypeToChange": 1,
             "IsResetToOriginal": false,
@@ -347,19 +347,19 @@
             "ShapeType": 0,
             "Position": {
               "x": -9.33,
-              "y": 0,
+              "y": 0.0,
               "z": 43.68
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 1
+                "x": 0.0,
+                "y": 1.0
               },
               "Width": 3.34,
               "Height": 10.67
             },
             "Circle": {
-              "Radius": 1
+              "Radius": 1.0
             },
             "GroundNodeTypeToChange": 1,
             "IsResetToOriginal": false,
@@ -417,9 +417,9 @@
     {
       "SectionID": 1,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 5
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.0
       },
       "Events": [
         {
@@ -438,20 +438,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
+                "x": 0.0,
+                "y": 0.0,
                 "z": 13.02
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 1,
-                "Height": 1
+                "Width": 1.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 11
+                "Radius": 11.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -493,12 +493,12 @@
           "UniqueName": "Common_AmmoBox_Standard",
           "Position": {
             "x": -1.9,
-            "y": 0,
+            "y": 0.0,
             "z": 9.74
           },
           "Forward": {
             "x": 0.01742498,
-            "y": 0,
+            "y": 0.0,
             "z": -0.9998482
           },
           "ActiveEnemyPointIndices": [
@@ -516,12 +516,12 @@
           "UniqueName": "Common_CargoBox_Standard",
           "Position": {
             "x": 2.08,
-            "y": 0,
+            "y": 0.0,
             "z": 11.68
           },
           "Forward": {
             "x": 0.190659374,
-            "y": 0,
+            "y": 0.0,
             "z": 0.981656253
           },
           "ActiveEnemyPointIndices": [
@@ -539,12 +539,12 @@
           "UniqueName": "Common_BaricadeMetal",
           "Position": {
             "x": -2.57,
-            "y": 0,
+            "y": 0.0,
             "z": 20.7
           },
           "Forward": {
             "x": -0.999703169,
-            "y": 0,
+            "y": 0.0,
             "z": 0.0243633278
           },
           "ActiveEnemyPointIndices": [
@@ -562,12 +562,12 @@
           "UniqueName": "Common_BaricadeMetal",
           "Position": {
             "x": 3.48,
-            "y": 0,
+            "y": 0.0,
             "z": 20.7
           },
           "Forward": {
             "x": -0.9981771,
-            "y": 0,
+            "y": 0.0,
             "z": -0.06035322
           },
           "ActiveEnemyPointIndices": [
@@ -585,13 +585,13 @@
           "UniqueName": "Common_Baricade",
           "Position": {
             "x": 0.09,
-            "y": 0,
-            "z": 18
+            "y": 0.0,
+            "z": 18.0
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -608,12 +608,12 @@
           "UniqueName": "Common_CargoBox_Standard",
           "Position": {
             "x": 1.62,
-            "y": 0,
+            "y": 0.0,
             "z": 27.25
           },
           "Forward": {
             "x": 0.7575899,
-            "y": 0,
+            "y": 0.0,
             "z": 0.6527309
           },
           "ActiveEnemyPointIndices": [
@@ -654,14 +654,14 @@
               "MovePoints": [],
               "TileX": 56,
               "TileY": 97,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.32,
                 "y": 14.86
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -694,14 +694,14 @@
               "MovePoints": [],
               "TileX": 64,
               "TileY": 100,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.25,
                 "y": 15.52
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -734,14 +734,14 @@
               "MovePoints": [],
               "TileX": 58,
               "TileY": 108,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.96,
                 "y": 17.02
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -774,14 +774,14 @@
               "MovePoints": [],
               "TileX": 49,
               "TileY": 108,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.76,
                 "y": 17.1199989
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -819,14 +819,14 @@
               "MovePoints": [],
               "TileX": 63,
               "TileY": 136,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.01,
                 "y": 22.73
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -859,14 +859,14 @@
               "MovePoints": [],
               "TileX": 71,
               "TileY": 142,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.71,
                 "y": 23.9900017
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -899,14 +899,14 @@
               "MovePoints": [],
               "TileX": 56,
               "TileY": 149,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.42,
                 "y": 25.26
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -939,14 +939,14 @@
               "MovePoints": [],
               "TileX": 69,
               "TileY": 150,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.3,
                 "y": 25.45
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -964,9 +964,9 @@
     {
       "SectionID": 2,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 25
+        "x": 0.0,
+        "y": 0.0,
+        "z": 25.0
       },
       "Events": [
         {
@@ -985,20 +985,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
-                "z": 33
+                "x": 0.0,
+                "y": 0.0,
+                "z": 33.0
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 10,
-                "Height": 1
+                "Width": 10.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 11
+                "Radius": 11.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -1040,12 +1040,12 @@
           "UniqueName": "Common_CargoBox_Standard",
           "Position": {
             "x": -1.98,
-            "y": 0,
+            "y": 0.0,
             "z": 42.1900024
           },
           "Forward": {
             "x": -0.426172376,
-            "y": 0,
+            "y": 0.0,
             "z": -0.904642
           },
           "ActiveEnemyPointIndices": [
@@ -1063,12 +1063,12 @@
           "UniqueName": "Common_Sandbag",
           "Position": {
             "x": -1.18,
-            "y": 0,
+            "y": 0.0,
             "z": 35.7
           },
           "Forward": {
             "x": 0.8827196,
-            "y": 0,
+            "y": 0.0,
             "z": 0.4699002
           },
           "ActiveEnemyPointIndices": [
@@ -1086,12 +1086,12 @@
           "UniqueName": "Common_AmmoBox_Standard",
           "Position": {
             "x": -1.7,
-            "y": 0,
+            "y": 0.0,
             "z": 31.64
           },
           "Forward": {
             "x": 0.9999803,
-            "y": 0,
+            "y": 0.0,
             "z": -0.006280846
           },
           "ActiveEnemyPointIndices": [
@@ -1109,12 +1109,12 @@
           "UniqueName": "Common_AmmoBox_Standard",
           "Position": {
             "x": -6.88,
-            "y": 0,
+            "y": 0.0,
             "z": 44.21
           },
           "Forward": {
             "x": 0.0380241647,
-            "y": 0,
+            "y": 0.0,
             "z": -0.9992768
           },
           "ActiveEnemyPointIndices": [
@@ -1155,14 +1155,14 @@
               "MovePoints": [],
               "TileX": 44,
               "TileY": 185,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -3.7,
                 "y": 32.58
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1195,14 +1195,14 @@
               "MovePoints": [],
               "TileX": 54,
               "TileY": 191,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.76,
                 "y": 33.79
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1235,14 +1235,14 @@
               "MovePoints": [],
               "TileX": 41,
               "TileY": 193,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -4.41,
                 "y": 34.05
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1275,14 +1275,14 @@
               "MovePoints": [],
               "TileX": 48,
               "TileY": 197,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.93,
                 "y": 34.9
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1315,14 +1315,14 @@
               "MovePoints": [],
               "TileX": 37,
               "TileY": 201,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -5.14,
                 "y": 35.7399979
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1360,14 +1360,14 @@
               "MovePoints": [],
               "TileX": 34,
               "TileY": 236,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -5.65,
                 "y": 42.61
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1400,14 +1400,14 @@
               "MovePoints": [],
               "TileX": 42,
               "TileY": 236,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -4.2300005,
                 "y": 42.61
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1440,14 +1440,14 @@
               "MovePoints": [],
               "TileX": 37,
               "TileY": 245,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -5.07,
                 "y": 44.5700073
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1480,14 +1480,14 @@
               "MovePoints": [],
               "TileX": 22,
               "TileY": 248,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -8.16,
                 "y": 45.05
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1520,14 +1520,14 @@
               "MovePoints": [],
               "TileX": 26,
               "TileY": 251,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -7.3300004,
                 "y": 45.670002
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1560,14 +1560,14 @@
               "MovePoints": [],
               "TileX": 32,
               "TileY": 251,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -6.07,
                 "y": 45.670002
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1585,9 +1585,9 @@
     {
       "SectionID": 3,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 45
+        "x": 0.0,
+        "y": 0.0,
+        "z": 45.0
       },
       "Events": [
         {
@@ -1606,20 +1606,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
-                "z": 53
+                "x": 0.0,
+                "y": 0.0,
+                "z": 53.0
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 10,
-                "Height": 1
+                "Width": 10.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 11
+                "Radius": 11.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -1661,12 +1661,12 @@
           "UniqueName": "Common_CargoBox_Standard",
           "Position": {
             "x": -6.98,
-            "y": 0,
+            "y": 0.0,
             "z": 49.69
           },
           "Forward": {
             "x": -0.383096248,
-            "y": 0,
+            "y": 0.0,
             "z": -0.923708439
           },
           "ActiveEnemyPointIndices": [
@@ -1684,12 +1684,12 @@
           "UniqueName": "Common_AmmoBox_Standard",
           "Position": {
             "x": -1.77,
-            "y": 0,
+            "y": 0.0,
             "z": 50.34
           },
           "Forward": {
             "x": 0.9990428,
-            "y": 0,
+            "y": 0.0,
             "z": 0.0437434874
           },
           "ActiveEnemyPointIndices": [
@@ -1707,12 +1707,12 @@
           "UniqueName": "Common_AmmoBox_Standard",
           "Position": {
             "x": -3.09,
-            "y": 0,
+            "y": 0.0,
             "z": 65.43
           },
           "Forward": {
             "x": -0.6996098,
-            "y": 0,
+            "y": 0.0,
             "z": -0.7145251
           },
           "ActiveEnemyPointIndices": [
@@ -1730,12 +1730,12 @@
           "UniqueName": "Common_CargoBox_Standard",
           "Position": {
             "x": 2.75,
-            "y": 0,
+            "y": 0.0,
             "z": 54.73
           },
           "Forward": {
             "x": -0.7431783,
-            "y": 0,
+            "y": 0.0,
             "z": -0.66909343
           },
           "ActiveEnemyPointIndices": [
@@ -1753,12 +1753,12 @@
           "UniqueName": "Common_Sandbag",
           "Position": {
             "x": -2.64,
-            "y": 0,
+            "y": 0.0,
             "z": 56.62
           },
           "Forward": {
             "x": -0.995270967,
-            "y": 0,
+            "y": 0.0,
             "z": 0.09713765
           },
           "ActiveEnemyPointIndices": [
@@ -1776,12 +1776,12 @@
           "UniqueName": "Common_CargoBox_Standard",
           "Position": {
             "x": -7.65,
-            "y": 0,
+            "y": 0.0,
             "z": 61.8099976
           },
           "Forward": {
             "x": -0.999969244,
-            "y": 0,
+            "y": 0.0,
             "z": -0.007843935
           },
           "ActiveEnemyPointIndices": [
@@ -1799,13 +1799,13 @@
           "UniqueName": "Common_Baricade",
           "Position": {
             "x": 5.19,
-            "y": 0,
+            "y": 0.0,
             "z": 48.13
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1822,12 +1822,12 @@
           "UniqueName": "Common_BaricadeMetal",
           "Position": {
             "x": 2.66,
-            "y": 0,
+            "y": 0.0,
             "z": 46.3
           },
           "Forward": {
             "x": 0.0256947055,
-            "y": 0,
+            "y": 0.0,
             "z": 0.99966985
           },
           "ActiveEnemyPointIndices": [
@@ -1845,13 +1845,13 @@
           "UniqueName": "Common_Baricade",
           "Position": {
             "x": 0.14,
-            "y": 0,
+            "y": 0.0,
             "z": 60.47
           },
           "Forward": {
-            "x": 0,
-            "y": 0,
-            "z": 1
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -1883,14 +1883,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 0
+        "x": 0.0,
+        "y": 0.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1898,14 +1898,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
+        "x": 0.0,
         "y": 20.06
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1917,10 +1917,10 @@
         "y": 41.83
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1932,10 +1932,10 @@
         "y": 65.44
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     }
   ],

@@ -2,9 +2,9 @@
   "Version": "1.0",
   "Global": {
     "Position": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
     },
     "Events": [
       {
@@ -27,9 +27,9 @@
           {
             "$type": "GroundCommandLocateCamera, BlueArchive",
             "ID": 1,
-            "MaxCameraSpeed": 3,
-            "RotationSpeed": 1,
-            "ZoomSpeed": 1,
+            "MaxCameraSpeed": 3.0,
+            "RotationSpeed": 1.0,
+            "ZoomSpeed": 1.0,
             "RailPoints": [],
             "CommandID": "0",
             "WaitExecuteEnd": false
@@ -61,20 +61,20 @@
             "Trigger": 0,
             "StayTime": 0,
             "Position": {
-              "x": 0,
-              "y": 0,
+              "x": 0.0,
+              "y": 0.0,
               "z": 39.6
             },
             "Rect": {
               "Direction": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
               },
-              "Width": 1,
-              "Height": 1
+              "Width": 1.0,
+              "Height": 1.0
             },
             "Circle": {
-              "Radius": 8
+              "Radius": 8.0
             },
             "InactivateWhenStart": false,
             "ConditionID": ""
@@ -117,9 +117,9 @@
     {
       "SectionID": 1,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 5
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.0
       },
       "Events": [
         {
@@ -138,20 +138,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
+                "x": 0.0,
+                "y": 0.0,
                 "z": 15.05
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 1,
-                "Height": 1
+                "Width": 1.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 8
+                "Radius": 8.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -193,20 +193,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
+                "x": 0.0,
+                "y": 0.0,
                 "z": 27.59
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 1,
-                "Height": 1
+                "Width": 1.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 8
+                "Radius": 8.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -227,12 +227,12 @@
           "UniqueName": "Snowmountain_Snow_01",
           "Position": {
             "x": 2.18856025,
-            "y": 0,
+            "y": 0.0,
             "z": 13.5853386
           },
           "Forward": {
             "x": -0.10762646,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9941914
           },
           "ActiveEnemyPointIndices": [
@@ -250,12 +250,12 @@
           "UniqueName": "Snowmountain_Snow_02",
           "Position": {
             "x": -2.95711756,
-            "y": 0,
+            "y": 0.0,
             "z": 7.917201
           },
           "Forward": {
             "x": 0.1628404,
-            "y": 0,
+            "y": 0.0,
             "z": 0.986652434
           },
           "ActiveEnemyPointIndices": [
@@ -273,12 +273,12 @@
           "UniqueName": "Snowmountain_Stone_01",
           "Position": {
             "x": -2.56,
-            "y": 0,
+            "y": 0.0,
             "z": 15.26
           },
           "Forward": {
             "x": -0.9872578,
-            "y": 0,
+            "y": 0.0,
             "z": 0.159129247
           },
           "ActiveEnemyPointIndices": [
@@ -296,12 +296,12 @@
           "UniqueName": "Snowmountain_Stone_02",
           "Position": {
             "x": -2.62,
-            "y": 0,
+            "y": 0.0,
             "z": 21.6
           },
           "Forward": {
             "x": -0.970001042,
-            "y": 0,
+            "y": 0.0,
             "z": -0.243100688
           },
           "ActiveEnemyPointIndices": [
@@ -319,12 +319,12 @@
           "UniqueName": "Snowmountain_Wood_01",
           "Position": {
             "x": 0.00211128965,
-            "y": 0,
+            "y": 0.0,
             "z": 20.3876934
           },
           "Forward": {
             "x": -0.9966665,
-            "y": 0,
+            "y": 0.0,
             "z": 0.0815834
           },
           "ActiveEnemyPointIndices": [
@@ -363,14 +363,14 @@
               "MovePoints": [],
               "TileX": 38,
               "TileY": 87,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.39,
                 "y": 12.87
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -401,14 +401,14 @@
               "MovePoints": [],
               "TileX": 28,
               "TileY": 80,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.46,
                 "y": 11.41
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -439,14 +439,14 @@
               "MovePoints": [],
               "TileX": 49,
               "TileY": 82,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.8,
                 "y": 11.9699993
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -482,14 +482,14 @@
               "MovePoints": [],
               "TileX": 26,
               "TileY": 141,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.74,
                 "y": 23.75
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -520,14 +520,14 @@
               "MovePoints": [],
               "TileX": 48,
               "TileY": 139,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.69,
                 "y": 23.25
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -558,14 +558,14 @@
               "MovePoints": [],
               "TileX": 40,
               "TileY": 150,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.02,
                 "y": 25.56
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -589,14 +589,14 @@
               "MovePoints": [],
               "TileX": 40,
               "TileY": 48,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
-                "x": 0,
-                "y": 5
+                "x": 0.0,
+                "y": 5.0
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -614,9 +614,9 @@
     {
       "SectionID": 2,
       "Position": {
-        "x": 0,
-        "y": 0,
-        "z": 25
+        "x": 0.0,
+        "y": 0.0,
+        "z": 25.0
       },
       "Events": [
         {
@@ -649,20 +649,20 @@
               "Trigger": 0,
               "StayTime": 0,
               "Position": {
-                "x": 0,
-                "y": 0,
+                "x": 0.0,
+                "y": 0.0,
                 "z": 57.32
               },
               "Rect": {
                 "Direction": {
-                  "x": 0,
-                  "y": 0
+                  "x": 0.0,
+                  "y": 0.0
                 },
-                "Width": 10,
-                "Height": 1
+                "Width": 10.0,
+                "Height": 1.0
               },
               "Circle": {
-                "Radius": 8
+                "Radius": 8.0
               },
               "InactivateWhenStart": false,
               "ConditionID": ""
@@ -683,12 +683,12 @@
           "UniqueName": "Snowmountain_Snow_01",
           "Position": {
             "x": -3.07,
-            "y": 0,
+            "y": 0.0,
             "z": 40.04
           },
           "Forward": {
             "x": -0.10762646,
-            "y": 0,
+            "y": 0.0,
             "z": 0.9941914
           },
           "ActiveEnemyPointIndices": [
@@ -706,12 +706,12 @@
           "UniqueName": "Snowmountain_Snow_02",
           "Position": {
             "x": 2.77,
-            "y": 0,
+            "y": 0.0,
             "z": 34.4899979
           },
           "Forward": {
             "x": 0.1628404,
-            "y": 0,
+            "y": 0.0,
             "z": 0.986652434
           },
           "ActiveEnemyPointIndices": [
@@ -729,12 +729,12 @@
           "UniqueName": "Snowmountain_Stone_01",
           "Position": {
             "x": -0.08,
-            "y": 0,
+            "y": 0.0,
             "z": 27.25
           },
           "Forward": {
             "x": -0.97057265,
-            "y": 0,
+            "y": 0.0,
             "z": -0.2408084
           },
           "ActiveEnemyPointIndices": [
@@ -752,13 +752,13 @@
           "UniqueName": "Snowmountain_Wood_02",
           "Position": {
             "x": -2.65,
-            "y": 0,
+            "y": 0.0,
             "z": 35.27
           },
           "Forward": {
-            "x": -1,
-            "y": 0,
-            "z": 0
+            "x": -1.0,
+            "y": 0.0,
+            "z": 0.0
           },
           "ActiveEnemyPointIndices": [
             1
@@ -796,14 +796,14 @@
               "MovePoints": [],
               "TileX": 41,
               "TileY": 208,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 0.11,
                 "y": 37.05
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -834,14 +834,14 @@
               "MovePoints": [],
               "TileX": 28,
               "TileY": 213,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -2.36,
                 "y": 38.06
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -872,14 +872,14 @@
               "MovePoints": [],
               "TileX": 51,
               "TileY": 214,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 2.19,
                 "y": 38.37
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -917,14 +917,14 @@
               "MovePoints": [],
               "TileX": 32,
               "TileY": 254,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -1.67,
                 "y": 46.27
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -957,14 +957,14 @@
               "MovePoints": [],
               "TileX": 45,
               "TileY": 255,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.05,
                 "y": 46.54
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -997,14 +997,14 @@
               "MovePoints": [],
               "TileX": 22,
               "TileY": 265,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -3.56,
                 "y": 48.59
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1037,14 +1037,14 @@
               "MovePoints": [],
               "TileX": 21,
               "TileY": 279,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -3.71,
                 "y": 51.3700027
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1077,14 +1077,14 @@
               "MovePoints": [],
               "TileX": 35,
               "TileY": 278,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.96,
                 "y": 51.08
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1117,14 +1117,14 @@
               "MovePoints": [],
               "TileX": 50,
               "TileY": 289,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": 1.99,
                 "y": 53.3799973
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1157,14 +1157,14 @@
               "MovePoints": [],
               "TileX": 25,
               "TileY": 291,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -3.05,
                 "y": 53.6299973
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1197,14 +1197,14 @@
               "MovePoints": [],
               "TileX": 39,
               "TileY": 298,
-              "PositionHeight": 0,
+              "PositionHeight": 0.0,
               "Position": {
                 "x": -0.24000001,
                 "y": 55.05
               },
               "Direction": {
-                "x": -8.742278e-08,
-                "y": -1
+                "x": -8.742278E-8,
+                "y": -1.0
               },
               "ConditionIdList": [],
               "CommandIdList": [
@@ -1226,14 +1226,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
-        "y": 0
+        "x": 0.0,
+        "y": 0.0
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1241,14 +1241,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
+        "x": 0.0,
         "y": 34.16
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     },
     {
@@ -1256,14 +1256,14 @@
       "IgnorePathFind": false,
       "Index": 0,
       "Position": {
-        "x": 0,
+        "x": 0.0,
         "y": 54.95
       },
       "Forward": {
-        "x": 0,
-        "y": 1
+        "x": 0.0,
+        "y": 1.0
       },
-      "Height": 0,
+      "Height": 0.0,
       "IsEnemy": false
     }
   ],
