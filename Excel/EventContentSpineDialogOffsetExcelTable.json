@@ -1958,34 +1958,34 @@
       "EventContentType": "Stage",
       "CostumeUniqueId": 1900939001,
       "SpineOffsetX": 1.39,
-      "SpineOffsetY": -0.4,
+      "SpineOffsetY": -0.75,
       "DialogOffsetX": 32.0,
-      "DialogOffsetY": 13.0
+      "DialogOffsetY": -22.0
     },
     {
       "EventContentId": 847,
       "EventContentType": "Stage",
       "CostumeUniqueId": 1900939101,
       "SpineOffsetX": 1.33,
-      "SpineOffsetY": -0.45,
+      "SpineOffsetY": -0.8,
       "DialogOffsetX": 46.0,
-      "DialogOffsetY": 24.0
+      "DialogOffsetY": -11.0
     },
     {
       "EventContentId": 847,
       "EventContentType": "Stage",
       "CostumeUniqueId": 1900939201,
       "SpineOffsetX": 1.25,
-      "SpineOffsetY": -0.69,
+      "SpineOffsetY": -1.04,
       "DialogOffsetX": 34.0,
-      "DialogOffsetY": 13.0
+      "DialogOffsetY": -22.0
     },
     {
       "EventContentId": 847,
       "EventContentType": "Shop",
       "CostumeUniqueId": 1900939001,
       "SpineOffsetX": -0.18,
-      "SpineOffsetY": -0.45,
+      "SpineOffsetY": -0.8,
       "DialogOffsetX": -0.0,
       "DialogOffsetY": -0.0
     },
@@ -1994,7 +1994,7 @@
       "EventContentType": "Mission",
       "CostumeUniqueId": 1900939201,
       "SpineOffsetX": -0.36,
-      "SpineOffsetY": -0.24,
+      "SpineOffsetY": -0.5899,
       "DialogOffsetX": -0.0,
       "DialogOffsetY": -0.0
     },
@@ -2003,9 +2003,9 @@
       "EventContentType": "Treasure",
       "CostumeUniqueId": 1900939101,
       "SpineOffsetX": 0.36,
-      "SpineOffsetY": 0.65,
+      "SpineOffsetY": 0.3,
       "DialogOffsetX": 74.0,
-      "DialogOffsetY": 14.0
+      "DialogOffsetY": -21.0
     },
     {
       "EventContentId": 848,
@@ -2076,6 +2076,42 @@
       "CostumeUniqueId": 1900940401,
       "SpineOffsetX": 0.09,
       "SpineOffsetY": -0.7,
+      "DialogOffsetX": -0.0,
+      "DialogOffsetY": -0.0
+    },
+    {
+      "EventContentId": 849,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900942001,
+      "SpineOffsetX": 1.42,
+      "SpineOffsetY": -0.95,
+      "DialogOffsetX": 48.0,
+      "DialogOffsetY": -29.0
+    },
+    {
+      "EventContentId": 849,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900942101,
+      "SpineOffsetX": 1.79,
+      "SpineOffsetY": -0.45,
+      "DialogOffsetX": 80.0,
+      "DialogOffsetY": -17.0
+    },
+    {
+      "EventContentId": 849,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900942001,
+      "SpineOffsetX": -0.23,
+      "SpineOffsetY": -0.98,
+      "DialogOffsetX": -0.0,
+      "DialogOffsetY": -0.0
+    },
+    {
+      "EventContentId": 849,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900942101,
+      "SpineOffsetX": -0.2,
+      "SpineOffsetY": 0.02,
       "DialogOffsetX": -0.0,
       "DialogOffsetY": -0.0
     },
@@ -3716,6 +3752,69 @@
       "SpineOffsetY": 1.42,
       "DialogOffsetX": -0.0,
       "DialogOffsetY": -0.0
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900928001,
+      "SpineOffsetX": 1.7,
+      "SpineOffsetY": -1.02,
+      "DialogOffsetX": 47.0,
+      "DialogOffsetY": -0.0
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900928101,
+      "SpineOffsetX": 1.58,
+      "SpineOffsetY": -0.54,
+      "DialogOffsetX": 44.0,
+      "DialogOffsetY": -7.0
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900928201,
+      "SpineOffsetX": 1.88,
+      "SpineOffsetY": -0.69,
+      "DialogOffsetX": 63.0,
+      "DialogOffsetY": 15.0
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900942201,
+      "SpineOffsetX": 1.24,
+      "SpineOffsetY": -1.23,
+      "DialogOffsetX": 73.0,
+      "DialogOffsetY": 4.0
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900928101,
+      "SpineOffsetX": -0.26,
+      "SpineOffsetY": -0.55,
+      "DialogOffsetX": -0.0,
+      "DialogOffsetY": -0.0
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900928201,
+      "SpineOffsetX": 0.15,
+      "SpineOffsetY": -0.22,
+      "DialogOffsetX": -0.0,
+      "DialogOffsetY": 10.0
+    },
+    {
+      "EventContentId": 10838,
+      "EventContentType": "MiniGameDefense",
+      "CostumeUniqueId": 1900928001,
+      "SpineOffsetX": 0.13,
+      "SpineOffsetY": -0.54,
+      "DialogOffsetX": -0.0,
+      "DialogOffsetY": 10.0
     },
     {
       "EventContentId": 50822,

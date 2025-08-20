@@ -4936,7 +4936,7 @@
       "FurnitureTemplateId": 9,
       "FurnitureId": 9202,
       "Location": "WallLeft",
-      "PositionX": 18.0,
+      "PositionX": 19.0,
       "PositionY": 2.5,
       "Rotation": 0.0,
       "Order": 44
@@ -10229,7 +10229,7 @@
       "FurnitureId": 18109,
       "Location": "Floor",
       "PositionX": 9.5,
-      "PositionY": 16.5,
+      "PositionY": 17.0,
       "Rotation": 270.0,
       "Order": 23
     },

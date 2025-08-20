@@ -5449,6 +5449,30 @@
       ]
     },
     {
+      "Id": 243,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/BGM/Theme_243"
+      ],
+      "Volume": [
+        1.0
+      ],
+      "LoopStartTime": [
+        0.460999995470047
+      ],
+      "LoopEndTime": [
+        122.30699920654297
+      ],
+      "LoopTranstionTime": [
+        0.20000000298023224
+      ],
+      "LoopOffsetTime": [
+        0.0
+      ]
+    },
+    {
       "Id": 244,
       "Nation": [
         "All"
@@ -5545,6 +5569,30 @@
       ]
     },
     {
+      "Id": 249,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/BGM/Theme_249"
+      ],
+      "Volume": [
+        1.0
+      ],
+      "LoopStartTime": [
+        0.5
+      ],
+      "LoopEndTime": [
+        112.0
+      ],
+      "LoopTranstionTime": [
+        0.20000000298023224
+      ],
+      "LoopOffsetTime": [
+        0.0
+      ]
+    },
+    {
       "Id": 250,
       "Nation": [
         "All"
@@ -5632,6 +5680,30 @@
       ],
       "LoopEndTime": [
         114.35199737548828
+      ],
+      "LoopTranstionTime": [
+        0.20000000298023224
+      ],
+      "LoopOffsetTime": [
+        0.0
+      ]
+    },
+    {
+      "Id": 254,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/BGM/Theme_254"
+      ],
+      "Volume": [
+        1.0
+      ],
+      "LoopStartTime": [
+        0.0
+      ],
+      "LoopEndTime": [
+        0.0
       ],
       "LoopTranstionTime": [
         0.20000000298023224
@@ -6040,6 +6112,30 @@
       ],
       "LoopEndTime": [
         129.14199829101562
+      ],
+      "LoopTranstionTime": [
+        0.20000000298023224
+      ],
+      "LoopOffsetTime": [
+        0.0
+      ]
+    },
+    {
+      "Id": 281,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/BGM/Theme_281"
+      ],
+      "Volume": [
+        1.0
+      ],
+      "LoopStartTime": [
+        51.577999114990234
+      ],
+      "LoopEndTime": [
+        118.9469985961914
       ],
       "LoopTranstionTime": [
         0.20000000298023224

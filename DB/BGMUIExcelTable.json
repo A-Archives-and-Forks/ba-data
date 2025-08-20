@@ -582,6 +582,13 @@
       "EventContentId": 848
     },
     {
+      "UIPrefab": 4142444202,
+      "BGMId": 281,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 849
+    },
+    {
       "UIPrefab": 2024295258,
       "BGMId": 57,
       "BGMId2nd": 0,
@@ -918,6 +925,13 @@
       "EventContentId": 848
     },
     {
+      "UIPrefab": 2024295258,
+      "BGMId": 281,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 849
+    },
+    {
       "UIPrefab": 1816119473,
       "BGMId": 99,
       "BGMId2nd": 0,
@@ -1091,6 +1105,13 @@
       "BGMId2nd": 0,
       "BGMId3rd": 0,
       "EventContentId": 827
+    },
+    {
+      "UIPrefab": 3695431929,
+      "BGMId": 281,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 849
     },
     {
       "UIPrefab": 3099845426,

@@ -59,6 +59,13 @@
       "UIName": []
     },
     {
+      "GroupID": 100001,
+      "PageName": "UIInformationPopup_Formation09",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
       "GroupID": 101001,
       "PageName": "UIInformationPopup_Shop01",
       "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
@@ -640,6 +647,13 @@
     {
       "GroupID": 114001,
       "PageName": "UIInformationPopup_Gacha02",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 114001,
+      "PageName": "UIInformationPopup_Gacha03",
       "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
       "TutorialParentName": [],
       "UIName": []

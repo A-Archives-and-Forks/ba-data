@@ -15669,7 +15669,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "블루 아카이브",
+      "LocalizeKR": "블루 아카이브      ",
       "LocalizeJP": "ブルー、アーカイブ。"
     },
     {
@@ -15685,7 +15685,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "안전해 보이는\n장소로군요.",
+      "LocalizeKR": "안전해 보이는 장소로군요.     ",
       "LocalizeJP": "ここは安全みたいですね。"
     },
     {
@@ -15693,7 +15693,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "한가하지만, 완전히\n마음을 놓으면\n안 되겠지요.",
+      "LocalizeKR": "한가하지만, 완전히 마음을 놓으면 안 되겠지요.    ",
       "LocalizeJP": "穏やかな空間ですが、気を緩めてはなりません。"
     },
     {
@@ -15701,7 +15701,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님과 함께 오면\n좋을 것 같습니다만……",
+      "LocalizeKR": "선생님과 함께 오면 좋을 것 같습니다만……     ",
       "LocalizeJP": "先生と一緒に来てみたいですね……。"
     },
     {
@@ -15709,7 +15709,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저 가구의 배치……\n신경 쓰입니다.",
+      "LocalizeKR": "저 가구의 배치…… 신경 쓰입니다.     ",
       "LocalizeJP": "あの家具の配置……少し気になりますね。"
     },
     {
@@ -15717,7 +15717,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이런 곳일수록 시체……\n환자 발생을\n주의해야 합니다.",
+      "LocalizeKR": "이런 곳일수록 시체…… 환자 발생을 주의해야 합니다.    ",
       "LocalizeJP": "こういう場所こそ、死た……負傷者が出ないよう注意しないとなりません。"
     },
     {
@@ -15733,7 +15733,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "블루 아카이브!",
+      "LocalizeKR": "블루 아카이브!      ",
       "LocalizeJP": "ブル～ア～カイブ！"
     },
     {
@@ -15749,7 +15749,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "와아! 멋진 카페네요!\n웨이트리스로서\n보고 배울 일이……",
+      "LocalizeKR": "와아! 멋진 카페네요! 웨이트리스로서 보고 배울 일이……    ",
       "LocalizeJP": "わぁ！素敵なカフェですね！\n是非見学させてください！"
     },
     {
@@ -15757,7 +15757,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "인테리어가\n엄청나네요……",
+      "LocalizeKR": "인테리어가 엄청나네요……     ",
       "LocalizeJP": "わあ……この内装素敵……"
     },
     {
@@ -15765,7 +15765,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "(이 레시피는,\n분명……!)",
+      "LocalizeKR": "(이 레시피는, 분명……!)     ",
       "LocalizeJP": "（あっ、このレシピは……！）"
     },
     {
@@ -15773,7 +15773,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "동선을 이렇게,\n그리고 이렇게……\n참고가 되네요.",
+      "LocalizeKR": "동선을 이렇게, 그리고 이렇게…… 참고가 되네요.    ",
       "LocalizeJP": "導線はこう……でしょうか。\n勉強になります。"
     },
     {
@@ -15781,7 +15781,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "웨이트리스가\n카페에서 휴식이라니,\n아이러니하네요……",
+      "LocalizeKR": "웨이트리스가 카페에서 휴식이라니, 아이러니하네요……    ",
       "LocalizeJP": "ウェイトレスなのに、カフェで一休み……\nなんだか変な感じですね……"
     },
     {
@@ -15789,7 +15789,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어떻게 보면 말이에요. 웨이트리스에게도 총은 필요하지 않을까요?\n물론 키보토스에서는 당연한 말이겠지만……\n그것 말고도, 무리한 요구를 하는 손님이라든가.\n날뛰기 시작한 식재료를 조용히 시킨다든가……",
+      "LocalizeKR": "어떻게 보면 말이에요. 웨이트리스에게도 총은 필요하지 않을까요?\n물론 키보토스에서는 당연한 말이겠지만……\n그것 말고도, 무리한 요구를 하는 손님이라든가. 날뛰기 시작한 식재료를 조용히 시킨다든가……",
       "LocalizeJP": "キヴォトスでは当たり前ですが\nウェイトレスも、銃を携帯すべきだと思うんです！\n無茶なオーダーをするお客様の対応や、\n暴れ始めた食材を鎮めるための――え、違うんですか？"
     },
     {
@@ -15797,7 +15797,7 @@
       "CharacterId": 20043,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "블루, 아카이브!",
+      "LocalizeKR": "블루, 아카이브!      ",
       "LocalizeJP": "ブル～アーカイブ！"
     },
     {
@@ -15805,7 +15805,7 @@
       "CharacterId": 20043,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "새해야, 선생님! 미식 모험, 떠나지 않을래?",
+      "LocalizeKR": "새해야, 선생님! 미식 모험, 떠나지 않을래?      ",
       "LocalizeJP": "あけましておめでとうー！先生！\n今年も美食の冒険へ、いざゆかーん！"
     },
     {
@@ -15813,7 +15813,7 @@
       "CharacterId": 20043,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "올해의 새로운\n음식에는\n뭐가 있을까?",
+      "LocalizeKR": "올해의 새로운 음식에는 뭐가 있을까?    ",
       "LocalizeJP": "今年はどんな味に出会えるんだろう～？"
     },
     {
@@ -15821,7 +15821,7 @@
       "CharacterId": 20043,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "미~식~탐~험~\n신나는 세계!",
+      "LocalizeKR": "미~식~탐~험~ 신나는 세계!     ",
       "LocalizeJP": "び～しょくの～ぼ～けん\n楽しみだなぁ！"
     },
     {
@@ -15829,7 +15829,7 @@
       "CharacterId": 20043,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "여기에 어울리는\n음식은 어떤 걸까?",
+      "LocalizeKR": "여기에 어울리는 음식은 어떤 걸까?     ",
       "LocalizeJP": "ここだと……アレ食べたいかも！"
     },
     {
@@ -15837,7 +15837,7 @@
       "CharacterId": 20043,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "우선 내가 만든\n특제 소스를\n가져와야지!",
+      "LocalizeKR": "우선 내가 만든 특제 소스를 가져와야지!    ",
       "LocalizeJP": "まずは私特製・秘伝ソースを持ってこなきゃ！"
     },
     {
@@ -15845,7 +15845,7 @@
       "CharacterId": 20043,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "정어리 민트 타코야키\n좋아하는 사람?",
+      "LocalizeKR": "정어리 민트 타코야키 좋아하는 사람?     ",
       "LocalizeJP": "イワシミントたこ焼き、食べない？"
     },
     {
@@ -15853,7 +15853,7 @@
       "CharacterId": 20043,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "미식 모험에는 어떤 위험이\n기다리고 있을지 몰라.\n그러니까 내가 이걸로\n선생님을 지켜 줄게!",
+      "LocalizeKR": "미식 모험에는 어떤 위험이 기다리고 있을지 몰라.\n그러니까 내가 이걸로 선생님을 지켜 줄게!",
       "LocalizeJP": "美食の冒険はときに危険が伴うもの……\nだから、私が先生を守ってあげるね！"
     },
     {
@@ -15861,7 +15861,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "블루 아카이브",
+      "LocalizeKR": "블루 아카이브      ",
       "LocalizeJP": "ブルー、アーカイブ。"
     },
     {
@@ -15869,7 +15869,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "안녕하십니까. 트레이너.\n목이 마르시다면, 언제든 말씀해 주세요.",
+      "LocalizeKR": "안녕하십니까. 트레이너. 목이 마르시다면, 언제든 말씀해 주세요.     ",
       "LocalizeJP": "いらしていたのですね、トレーナー。\n喉が渇いた時は、遠慮なく声をかけてください。"
     },
     {
@@ -15877,7 +15877,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "조용히 운동할 곳을\n찾아볼까요……",
+      "LocalizeKR": "조용히 운동할 곳을 찾아볼까요……     ",
       "LocalizeJP": "運動に集中できそうな場所は……。"
     },
     {
@@ -15885,7 +15885,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "카페는 음료를\n제공하는 곳이죠.\n그렇다면 저도……",
+      "LocalizeKR": "카페는 음료를 제공하는 곳이죠. 그렇다면 저도……    ",
       "LocalizeJP": "カフェはドリンクを提供する場所……\nそれなら、私も……。"
     },
     {
@@ -15893,7 +15893,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "특별 메뉴로\n단백질 드링크를\n추가해 보는 것은……",
+      "LocalizeKR": "특별 메뉴로 단백질 드링크를 추가해 보는 것은……    ",
       "LocalizeJP": "スペシャルメニューに、プロテインドリンクを追加して……"
     },
     {
@@ -15901,7 +15901,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "음료수 필요하신 분,\n없으신가요?",
+      "LocalizeKR": "음료수 필요하신 분, 없으신가요?     ",
       "LocalizeJP": "よろしければいかがですか？"
     },
     {
@@ -15909,7 +15909,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "편안하고, 재미있는\n장소네요.",
+      "LocalizeKR": "편안하고, 재미있는 장소네요.     ",
       "LocalizeJP": "ここなら、筋トレも捗りそうです。"
     },
     {
@@ -15925,7 +15925,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "블루, 아카이브!",
+      "LocalizeKR": "블루, 아카이브!      ",
       "LocalizeJP": "ブルー、アーカイブ！"
     },
     {
@@ -15941,7 +15941,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "……스미레 선배,\n여기까지 쫓아온 건\n아니겠지?",
+      "LocalizeKR": "……스미레 선배, 여기까지 쫓아온 건 아니겠지?    ",
       "LocalizeJP": "スミレ先輩……さすがにここにはいませんよね……？"
     },
     {
@@ -15949,7 +15949,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "연습도 훈련도\n중요하지만,\n적당한 휴식도 역시……",
+      "LocalizeKR": "연습도 훈련도 중요하지만, 적당한 휴식도 역시……    ",
       "LocalizeJP": "効率的な練習のためには休息も大事……。"
     },
     {
@@ -15957,7 +15957,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "적당한 카페인은,\n훈련 효과를\n높인다고 하니까……",
+      "LocalizeKR": "적당한 카페인은, 훈련 효과를 높인다고 하니까……    ",
       "LocalizeJP": "カフェインは運動効果を上げてくれるんでしたっけ。"
     },
     {
@@ -15965,7 +15965,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "(오늘 하루만……\n훈련, 땡땡이칠까……)",
+      "LocalizeKR": "(오늘 하루만…… 훈련, 땡땡이칠까……)     ",
       "LocalizeJP": "（今日の練習、サボっちゃ……ダメだよなぁ）"
     },
     {
@@ -15973,7 +15973,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저 휘핑크림\n맛있겠지……\n아냐. 참아야 해.",
+      "LocalizeKR": "저 휘핑크림 맛있겠지…… 아냐. 참아야 해.    ",
       "LocalizeJP": "あのホイップクリーム、美味しそう……いや、我慢我慢。"
     },
     {
@@ -15981,7 +15981,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "감사합니다, 선생님.\n저를 위해서 이런 것까지……\n선생님께 보답하기 위해서라도,\n반드시 3할 이상을 치고 말겠어요!\n……지금은 1할부터 달성해야 하겠지만요……",
+      "LocalizeKR": "감사합니다, 선생님. 저를 위해서 이런 것까지……\n선생님께 보답하기 위해서라도, 반드시 3할 이상을 치고 말겠어요!\n……지금은 1할부터 달성해야 하겠지만요……",
       "LocalizeJP": "ここまで丁寧にご指導くださり、ありがとうございます！\n早く3割打者になって、先生に恩返ししますね！\n……\n……えっと、1割からでいいですか？"
     },
     {
@@ -15989,7 +15989,7 @@
       "CharacterId": 10116,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "브, 블루 아카이브.",
+      "LocalizeKR": "브, 블루 아카이브.      ",
       "LocalizeJP": "ブ、ブルー、アーカイブ。"
     },
     {
@@ -16005,7 +16005,7 @@
       "CharacterId": 10116,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "흠, 위장 업무를\n배우기 좋은 장소군.",
+      "LocalizeKR": "흠, 위장 업무를 배우기 좋은 장소군.     ",
       "LocalizeJP": "潜入作戦の練習にちょうど良さそうだ。"
     },
     {
@@ -16013,7 +16013,7 @@
       "CharacterId": 10116,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "언젠가, 그 아이들에게도…\n드레스를.",
+      "LocalizeKR": "언젠가, 그 아이들에게도… 드레스를.     ",
       "LocalizeJP": "いつか、あの子たちにも……ドレスを。"
     },
     {
@@ -16021,7 +16021,7 @@
       "CharacterId": 10116,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "일 외에도 이런 드레스를\n입는 날이…… 나에게도 올까?",
+      "LocalizeKR": "일 외에도 이런 드레스를 입는 날이…… 나에게도 올까?     ",
       "LocalizeJP": "任務以外でこれを着る機会があるのだろうか……。"
     },
     {
@@ -16029,7 +16029,7 @@
       "CharacterId": 10116,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "내가 눈에 띄는 건가?\n주변의 시선이 느껴지는군.",
+      "LocalizeKR": "내가 눈에 띄는 건가? 주변의 시선이 느껴지는군.     ",
       "LocalizeJP": "視線を感じる……\nもしかして、目立っているのか？"
     },
     {
@@ -16037,7 +16037,7 @@
       "CharacterId": 10116,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "흥신소 68……\n역시 대단한 자들이다.",
+      "LocalizeKR": "흥신소 68…… 역시 대단한 자들이다.     ",
       "LocalizeJP": "便利屋68……\nやはり、只者ではないな……。"
     },
     {
@@ -16045,7 +16045,7 @@
       "CharacterId": 10116,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "좀 더 다양한 업무를 할 수 있겠군.\n필요한 건 뭐든 말해라.",
+      "LocalizeKR": "좀 더 다양한 업무를 할 수 있겠군. 필요한 건 뭐든 말해라.     ",
       "LocalizeJP": "おかげで遂行できる仕事の幅が増えた。\n依頼でもなんでも、応えてみせよう。"
     },
     {
@@ -16053,7 +16053,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "블루- 아카이브-",
+      "LocalizeKR": "블루- 아카이브-      ",
       "LocalizeJP": "ブルーアーカイブー。"
     },
     {
@@ -16061,7 +16061,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "하이랜더 철도학원-\n타치바나 히카리 등- 장-",
+      "LocalizeKR": "하이랜더 철도학원- 타치바나 히카리 등- 장-     ",
       "LocalizeJP": "ハイランダー鉄道がくえーん\n橘ヒカリ……さんじょー。"
     },
     {
@@ -16069,7 +16069,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "우오- 놀기 좋아 보이는 곳…",
+      "LocalizeKR": "우오- 놀기 좋아 보이는 곳…      ",
       "LocalizeJP": "うぉー、いっぱい遊べそう……。"
     },
     {
@@ -16077,7 +16077,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님- 어디 있어-?",
+      "LocalizeKR": "선생님- 어디 있어-?      ",
       "LocalizeJP": "せんせーどこー。"
     },
     {
@@ -16085,7 +16085,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오늘은 땡땡이 모드- 결정-",
+      "LocalizeKR": "오늘은 땡땡이 모드- 결정-      ",
       "LocalizeJP": "今日はおサボリデーに決定ー。"
     },
     {
@@ -16093,7 +16093,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "과자 없어-? 주스는-?",
+      "LocalizeKR": "과자 없어-? 주스는-?      ",
       "LocalizeJP": "お菓子ないのー？ジュースは？"
     },
     {
@@ -16101,7 +16101,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "재미있는 일 없어-?",
+      "LocalizeKR": "재미있는 일 없어-?      ",
       "LocalizeJP": "面白いことなーいー？"
     },
     {
@@ -16109,7 +16109,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이거 히카리- 주는 거야-?\n고마워- 강해져서\n선생님 지켜줄게-",
+      "LocalizeKR": "이거 히카리- 주는 거야-? 고마워- 강해져서 선생님 지켜줄게-    ",
       "LocalizeJP": "くれるのー？ありがとー。\n代わりに、先生の事まもってあげるー。"
     },
     {
@@ -16117,7 +16117,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "블루 아카이브~!",
+      "LocalizeKR": "블루 아카이브~!      ",
       "LocalizeJP": "ブルーアーカイブ～！"
     },
     {
@@ -16125,7 +16125,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "열차 조종이든 선로 건설이든!\n뭐든 맡겨! 파햐햐~!",
+      "LocalizeKR": "열차 조종이든 선로 건설이든! 뭐든 맡겨! 파햐햐~!     ",
       "LocalizeJP": "列車操縦でも線路建設でも！\n何でも任せてよ！パヒャヒャッ！"
     },
     {
@@ -16133,7 +16133,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아~ 여기가 그?\n헤에……",
+      "LocalizeKR": "아~ 여기가 그? 헤에……     ",
       "LocalizeJP": "あーここが例の？\nへぇ～"
     },
     {
@@ -16141,7 +16141,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오늘은 여기서\n농땡이 좀 부리다 갈까?",
+      "LocalizeKR": "오늘은 여기서 농땡이 좀 부리다 갈까?     ",
       "LocalizeJP": "今日はここでサボってこっかな♪"
     },
     {
@@ -16149,7 +16149,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "재밌어 보이는 게\n꽤 많잖아! 진작 올걸~",
+      "LocalizeKR": "재밌어 보이는 게 꽤 많잖아! 진작 올걸~     ",
       "LocalizeJP": "面白そうなのいっぱいあるじゃん！\nもっと早く来ればよかった～"
     },
     {
@@ -16157,7 +16157,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님은 어디 있지\n할 말이 있었는데…\n아, 까먹었다.",
+      "LocalizeKR": "선생님은 어디 있지 할 말이 있었는데… 아, 까먹었다.    ",
       "LocalizeJP": "先生に言いたいことあったんだけど、いないし……。\nま、いっか。忘れちゃった。"
     },
     {
@@ -16165,7 +16165,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "하~ 마음이 편하네~\n이러다 잠들어버릴지도?\n하지만 그러면\n시간이 아깝겠지? 아핫!",
+      "LocalizeKR": "하~ 마음이 편하네~ 이러다 잠들어버릴지도?\n하지만 그러면 시간이 아깝겠지? 아핫!",
       "LocalizeJP": "は～落ち着く～このまま寝ちゃいそう。\nでもそれは時間がもったいないかも？あはっ！"
     },
     {
@@ -16173,7 +16173,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "우왓, 나 주는 거?\n좋았어! 방해물은 이걸로\n다 치워주지! 파햐햐!",
+      "LocalizeKR": "우왓, 나 주는 거? 좋았어! 방해물은 이걸로 다 치워주지! 파햐햐!    ",
       "LocalizeJP": "何これ？くれるの？\nやりぃ♪これで障害物を一掃ってね！パヒャヒャッ！"
     },
     {
@@ -16181,7 +16181,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "브, 블루 아카이브…… 이, 이거 맞나요……?",
+      "LocalizeKR": "브, 블루 아카이브…… 이, 이거 맞나요……?      ",
       "LocalizeJP": "ブ、ブルーアーカイブ……でいいんですか……？"
     },
     {
@@ -16189,7 +16189,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "하, 하이랜더 철도학원…… 우, 우츠미 아오바예요……",
+      "LocalizeKR": "하, 하이랜더 철도학원…… 우, 우츠미 아오바예요……      ",
       "LocalizeJP": "ハ、ハイランダー鉄道学園……\nう、内海、アオバです……\nよろしくしないで、いいですけど……。"
     },
     {
@@ -16197,7 +16197,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "모, 모두\n행복해 보여……\n뭐가 그렇게\n즐거운 걸까……",
+      "LocalizeKR": "모, 모두 행복해 보여…… 뭐가 그렇게 즐거운 걸까……   ",
       "LocalizeJP": "み、みんな、笑顔……\n人生、楽しそうで いいですね……。"
     },
     {
@@ -16205,7 +16205,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "넓고 좋네요……\n우리 숙직실도\n이러면 좋을 텐데……",
+      "LocalizeKR": "넓고 좋네요…… 우리 숙직실도 이러면 좋을 텐데……    ",
       "LocalizeJP": "ここは……広いですね……\nうちの宿直室もこれくらいスペースがあれば……。"
     },
     {
@@ -16213,7 +16213,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저, 저처럼 안 어울리는\n사람이 이런 곳에\n있어도 되는 걸까요……",
+      "LocalizeKR": "저, 저처럼 안 어울리는 사람이 이런 곳에 있어도 되는 걸까요……    ",
       "LocalizeJP": "わ、私ここにいていいんでしょうか……？"
     },
     {
@@ -16221,7 +16221,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "(왠지 기름 냄새가\n배어버린 것 같은\n기분이…… 신경 쓰여……)",
+      "LocalizeKR": "(왠지 기름 냄새가 배어버린 것 같은 기분이…… 신경 쓰여……)    ",
       "LocalizeJP": "（なんだか油の臭いが染みついちゃってる気が……最悪ですけど）"
     },
     {
@@ -16229,7 +16229,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "진정하고 심호흡을…\n스- 하아…",
+      "LocalizeKR": "진정하고 심호흡을… 스- 하아…     ",
       "LocalizeJP": "落ち着いて深呼吸……すー、はー！"
     },
     {
@@ -16237,7 +16237,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "거, 거슬리는\n사람이 있으면……\n이, 이걸로\n쏴버리면 되는 거죠……?",
+      "LocalizeKR": "거, 거슬리는 사람이 있으면…… 이, 이걸로 쏴버리면 되는 거죠……?   ",
       "LocalizeJP": "む、ムカつく人がいたら……\nこ、これで撃ち抜いちゃえばいいんですよね……？"
     },
     {
@@ -16245,7 +16245,7 @@
       "CharacterId": 20045,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "Blue Archive~",
+      "LocalizeKR": "Blue Archive~      ",
       "LocalizeJP": "ブルーアーカイブ～！"
     },
     {
@@ -16261,7 +16261,7 @@
       "CharacterId": 20045,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "Wow~ 임협물의\n사무소 같아서\n멋집니다!",
+      "LocalizeKR": "Wow~ 임협물의 사무소 같아서 멋집니다!    ",
       "LocalizeJP": "Wow〜、任侠映画のセットみたいでカッコイイデス！"
     },
     {
@@ -16269,7 +16269,7 @@
       "CharacterId": 20045,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "(이 TV……\n영화를 볼 수\n있습니다!)",
+      "LocalizeKR": "(이 TV…… 영화를 볼 수 있습니다!)    ",
       "LocalizeJP": "（このテレビ……映画が観られマス！）"
     },
     {
@@ -16277,7 +16277,7 @@
       "CharacterId": 20045,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이 분위기,\n어딘가에서 본 적\n있습니다!",
+      "LocalizeKR": "이 분위기, 어딘가에서 본 적 있습니다!    ",
       "LocalizeJP": "なんだかどこかで見たことある気がしマス！"
     },
     {
@@ -16285,7 +16285,7 @@
       "CharacterId": 20045,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "멋진 분들이\n잔뜩……\n피나도 질 수 없습니다!",
+      "LocalizeKR": "멋진 분들이 잔뜩…… 피나도 질 수 없습니다!    ",
       "LocalizeJP": "素敵な方が多いデス……フィーナも負けていられマセン！"
     },
     {
@@ -16293,7 +16293,7 @@
       "CharacterId": 20045,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "쉬는 모습을 보다 보니\n저도 낮잠이……",
+      "LocalizeKR": "쉬는 모습을 보다 보니 저도 낮잠이……     ",
       "LocalizeJP": "なんだか眠くなってきマシタ……。"
     },
     {
@@ -16301,7 +16301,7 @@
       "CharacterId": 20045,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "한 단계, 아니. 500단계는 더 성장한 것 같습니다!",
+      "LocalizeKR": "한 단계, 아니. 500단계는 더 성장한 것 같습니다!      ",
       "LocalizeJP": "1段階、イヤ、500段階は成長できた気がしマス！"
     },
     {
@@ -17007,6 +17007,134 @@
       "Separate": false,
       "LocalizeKR": "이걸…… 내게? 거짓말~!\n……에, 정말로?\n하아…… 선생님, 정말 치사하네.\n항상 시치미 뗀 얼굴로 이런다니까.\n반칙이라구......\n나도 뭔가 보답하고 싶은데………",
       "LocalizeJP": "これを……私に？うっそだ～！\n……え、本当に？\nもう……先生、本当にずるいよね。いつも何食わぬ顔でこんなことしちゃってさ。\n反則だよ……。\n私もお返しできたらよかったのに……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뉴후후, 블루 아카이브!",
+      "LocalizeJP": "にゅっふっふ～……ブルーアーカイブ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "와일드헌트 예술학원,\n오컬연 시라오 에리라고 합니다.\n세계는 마법으로 가득 차 있어요.\n그래요, 이 만남처럼요!",
+      "LocalizeJP": "ワイルドハント芸術学院、\nオカルト研究会の白尾エリと申します。\n世界は魔法に満ちているんです。\nそう、この出会いのように！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어디\n폴터가이스트 현상\n안 일어나려나……",
+      "LocalizeJP": "どこかでポルターガイストでも起きないかな……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오오,\n뭔가 마법 주문이\n떠오르는 곳이네요.",
+      "LocalizeJP": "にゅふ……新しい魔法が思い浮かびそう……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이곳에서\n진한 마나의 기운이\n느껴져요.",
+      "LocalizeJP": "むむっ……濃厚なマナを感知しましたよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뉴후후…… 외출은\n두근두근하네요!",
+      "LocalizeJP": "にゅっふっふ……お出かけはワクワクしますね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "여기를 아틀리에로\n한다면……\n걸작이 나올지도……!",
+      "LocalizeJP": "ここをアトリエにしたら……傑作が生まれるかも……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뉴후후, 이것은 저의 전용 마법 지팡이!\n좀 더 완벽한 마법으로 보답하겠습니다!",
+      "LocalizeJP": "にゅふふふ、私専用の魔法の杖！\n完璧な魔法で、期待にお応えしますとも！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루…… 아카이브…… 히힛.",
+      "LocalizeJP": "ブルー……アーカイブ……イヒッ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "와일드헌트 예술학원 이타가키 카노에……\n오늘의 만남도…… 알고 있었어.\n우린 붉은 실로 이어져 있으니까…… 히히.",
+      "LocalizeJP": "ワイルドハント芸術学院の板垣カノエ……。\n今日、会えることも……知ってたよ。\n私たち、赤い糸で結ばれてるからね……イヒッ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "전생에서도……\n이런 곳에는\n와 본 적 없어……",
+      "LocalizeJP": "前世で……こんなとこには来てない……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오컬트 굿즈들도……\n가져다 놔야지.",
+      "LocalizeJP": "オカルトグッズも……置いとかなきゃ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저쪽……\n\"뭔가\" 있네.",
+      "LocalizeJP": "あそこ……『何か』いるねぇ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좁고 어두운 곳……\n없을까……",
+      "LocalizeJP": "狭くて暗い場所……ないかな……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "소환 의식……\n이쪽에서 해볼까?",
+      "LocalizeJP": "召喚の儀……ここでやってもいいかな？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "역시 선생……\n잘 알고 있, 네. 이히힛.",
+      "LocalizeJP": "さすが先生……わかってる、ねぇ。イヒヒッ。"
     },
     {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
@@ -39477,7 +39605,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "게헨나에 오신 것을\n환영합니다. 선생님.",
+      "LocalizeKR": "게헨나에 오신 것을 환영합니다. 선생님.     ",
       "LocalizeJP": "ようこそ、ゲヘナ学園へ。"
     },
     {
@@ -39485,7 +39613,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "무탈한 시간을\n보내실 수 있기를\n기원합니다.",
+      "LocalizeKR": "무탈한 시간을 보내실 수 있기를 기원합니다.    ",
       "LocalizeJP": "どうか平和な時間を過ごせますように。"
     },
     {
@@ -39493,7 +39621,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "……",
+      "LocalizeKR": "……      ",
       "LocalizeJP": "……。"
     },
     {
@@ -39501,7 +39629,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "진심입니다.",
+      "LocalizeKR": "진심입니다.      ",
       "LocalizeJP": "本心ですよ。"
     },
     {
@@ -39509,7 +39637,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오셨습니까, 선생님.",
+      "LocalizeKR": "오셨습니까, 선생님.      ",
       "LocalizeJP": "いらっしゃったのですね、先生。"
     },
     {
@@ -39517,7 +39645,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "비번인 날입니다만,",
+      "LocalizeKR": "비번인 날입니다만,      ",
       "LocalizeJP": "今日は当番の日ではありませんが、"
     },
     {
@@ -39525,7 +39653,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저는 언제든 경계를\n늦추지 않을 겁니다.",
+      "LocalizeKR": "저는 언제든 경계를 늦추지 않을 겁니다.     ",
       "LocalizeJP": "警戒を怠ることはありません。"
     },
     {
@@ -39533,7 +39661,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이것은 제법\n흥미로운 시체……",
+      "LocalizeKR": "이것은 제법 흥미로운 시체……     ",
       "LocalizeJP": "これは興味深い死た……"
     },
     {
@@ -39541,7 +39669,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "실례.",
+      "LocalizeKR": "실례.      ",
       "LocalizeJP": "失礼。"
     },
     {
@@ -39549,7 +39677,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "황당하고\n호기심 넘치는……",
+      "LocalizeKR": "황당하고 호기심 넘치는……     ",
       "LocalizeJP": "なかなかおもしろ……"
     },
     {
@@ -39557,7 +39685,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이것도 실례.",
+      "LocalizeKR": "이것도 실례.      ",
       "LocalizeJP": "これも失礼でしたね。"
     },
     {
@@ -39565,7 +39693,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "위급한 상황이\n된 것 같군요.",
+      "LocalizeKR": "위급한 상황이 된 것 같군요.     ",
       "LocalizeJP": "そろそろ急がなければなりません。"
     },
     {
@@ -39573,7 +39701,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이성적으로는\n이 사태가 빠르게\n마무리되기를\n바라야 하겠습니다만.",
+      "LocalizeKR": "이성적으로는 이 사태가 빠르게 마무리되기를 바라야 하겠습니다만.   ",
       "LocalizeJP": "一刻も早く、収束してほしいのですが……"
     },
     {
@@ -39581,7 +39709,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "……",
+      "LocalizeKR": "……      ",
       "LocalizeJP": "……。"
     },
     {
@@ -39589,7 +39717,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "조금만 더,\n재미있는 광경을 볼 수\n있으면 좋겠습니다.",
+      "LocalizeKR": "조금만 더, 재미있는 광경을 볼 수 있으면 좋겠습니다.    ",
       "LocalizeJP": "できればもう少し面白いものが見れたら、なんて。"
     },
     {
@@ -39597,7 +39725,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "지금은 농담입니다.\n믿어 주십시오.",
+      "LocalizeKR": "지금은 농담입니다. 믿어 주십시오.     ",
       "LocalizeJP": "……今のは冗談です。本当ですから。"
     },
     {
@@ -39605,7 +39733,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "긴급 상황, 종료입니다.",
+      "LocalizeKR": "긴급 상황, 종료입니다.      ",
       "LocalizeJP": "対応完了ですね。"
     },
     {
@@ -39613,7 +39741,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님께서도\n수고 많으셨습니다.",
+      "LocalizeKR": "선생님께서도 수고 많으셨습니다.     ",
       "LocalizeJP": "お疲れ様でした、先生。"
     },
     {
@@ -39621,7 +39749,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "휴일이든 아니든,\n응급의학부가 할 일은\n변치 않습니다.",
+      "LocalizeKR": "휴일이든 아니든, 응급의학부가 할 일은 변치 않습니다.    ",
       "LocalizeJP": "休日であろうと、\n救急医学部の所属であることに変わりはないです。"
     },
     {
@@ -39629,7 +39757,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이곳은 저의 학원이고,\n참으로 많은 일들이\n일어나는 곳입니다.",
+      "LocalizeKR": "이곳은 저의 학원이고, 참으로 많은 일들이 일어나는 곳입니다.    ",
       "LocalizeJP": "ゲヘナ学園では\nたくさんの出来事が起こります。"
     },
     {
@@ -39637,7 +39765,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "……종합적으로,\n저에게는 꽤\n즐거운 장소입니다.",
+      "LocalizeKR": "……종합적으로, 저에게는 꽤 즐거운 장소입니다.    ",
       "LocalizeJP": "……結構、楽しい場所ですよ。"
     },
     {
@@ -39645,7 +39773,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "제 옷, 어울리나요?",
+      "LocalizeKR": "제 옷, 어울리나요?      ",
       "LocalizeJP": "この服、似合っているでしょうか？"
     },
     {
@@ -39653,7 +39781,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "제가 그런 말을 하다니\n신선하시다고요?",
+      "LocalizeKR": "제가 그런 말을 하다니 신선하시다고요?     ",
       "LocalizeJP": "……そんなことを聞くなんて新鮮？"
     },
     {
@@ -39661,7 +39789,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "주위에서 권해 준\n잡지에서 읽은\n말입니다만.",
+      "LocalizeKR": "주위에서 권해 준 잡지에서 읽은 말입니다만.    ",
       "LocalizeJP": "雑誌にあった台詞だったのですが……"
     },
     {
@@ -39669,7 +39797,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님이 저에게\n신선함을 느끼셨다니,\n보람이 있네요.",
+      "LocalizeKR": "선생님이 저에게 신선함을 느끼셨다니, 보람이 있네요.    ",
       "LocalizeJP": "先生にそう思っていただけたのなら言った甲斐がありました。"
     },
     {
@@ -39677,7 +39805,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "혹시 다음 휴일에\n게헨나를 방문하실\n생각이 있으시다면.",
+      "LocalizeKR": "혹시 다음 휴일에 게헨나를 방문하실 생각이 있으시다면.    ",
       "LocalizeJP": "次にゲヘナに来る際は、"
     },
     {
@@ -39685,7 +39813,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저에게 먼저\n연락을 주시면\n감사하겠습니다.",
+      "LocalizeKR": "저에게 먼저 연락을 주시면 감사하겠습니다.    ",
       "LocalizeJP": "私にご連絡頂けると嬉しいです。"
     },
     {
@@ -39693,7 +39821,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그편이 가장\n안전할 테니까요.",
+      "LocalizeKR": "그편이 가장 안전할 테니까요.     ",
       "LocalizeJP": "その方が、一番安全でしょうから。"
     },
     {
@@ -39701,7 +39829,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "게헨나 학원에\n어서 오세요, 선생님!",
+      "LocalizeKR": "게헨나 학원에 어서 오세요, 선생님!     ",
       "LocalizeJP": "ゲヘナ学園までお越しくださり……ありがとうございます！"
     },
     {
@@ -39709,7 +39837,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "부디 즐겁고……\n안전한 시간이\n되셨으면 해요!",
+      "LocalizeKR": "부디 즐겁고…… 안전한 시간이 되셨으면 해요!    ",
       "LocalizeJP": "どうか楽しいひと時をお過ごしくださいね。"
     },
     {
@@ -39717,7 +39845,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "와아!\n선생님이 오셨어요!",
+      "LocalizeKR": "와아! 선생님이 오셨어요!     ",
       "LocalizeJP": "わあ！先生、来てくださったんですね！"
     },
     {
@@ -39725,7 +39853,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어, 어떠신가요?\n제 옷…… 어울릴까요……?",
+      "LocalizeKR": "어, 어떠신가요? 제 옷…… 어울릴까요……?     ",
       "LocalizeJP": "この制服……に、似合ってますか？"
     },
     {
@@ -39733,7 +39861,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "히잉…… 히이잉……",
+      "LocalizeKR": "히잉…… 히이잉……      ",
       "LocalizeJP": "ひぃん……うう……"
     },
     {
@@ -39741,7 +39869,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "팬 쨩이……\n제 책임이에요……\n제가 어떻게든 해야……!",
+      "LocalizeKR": "팬 쨩이…… 제 책임이에요…… 제가 어떻게든 해야……!    ",
       "LocalizeJP": "パンちゃんが……\n私のせいです……なんとかしないと……！"
     },
     {
@@ -39749,7 +39877,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아무리 그래도,\n게헨나 학원 역시\n제가 다니는 곳이에요!",
+      "LocalizeKR": "아무리 그래도, 게헨나 학원 역시 제가 다니는 곳이에요!    ",
       "LocalizeJP": "このまま放っておくわけにはいきません……"
     },
     {
@@ -39757,7 +39885,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이대로\n손 놓고 있지만은\n않을 테니까요!",
+      "LocalizeKR": "이대로 손 놓고 있지만은 않을 테니까요!    ",
       "LocalizeJP": "私は、ゲヘナの生徒ですから！"
     },
     {
@@ -39765,7 +39893,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "정말 어떻게\n되나 했어요……",
+      "LocalizeKR": "정말 어떻게 되나 했어요……     ",
       "LocalizeJP": "一時はどうなることかと思いましたが……"
     },
     {
@@ -39773,7 +39901,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "감사합니다. 선생님.\n선생님만 계시면, 뭐든지\n다 잘될 것 같아요!",
+      "LocalizeKR": "감사합니다. 선생님. 선생님만 계시면, 뭐든지 다 잘될 것 같아요!    ",
       "LocalizeJP": "先生のおかげでどうにかなりました！ありがとうございます！"
     },
     {
@@ -39781,7 +39909,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "카페 아르바이트를\n하게 되어서 어울리는\n복장을 입어 봤어요.",
+      "LocalizeKR": "카페 아르바이트를 하게 되어서 어울리는 복장을 입어 봤어요.    ",
       "LocalizeJP": "カフェのアルバイトで、\n制服を着ることになったんです。"
     },
     {
@@ -39789,7 +39917,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "괜찮으시다면,\n잠시 휴식이라도……\n어떠세요?",
+      "LocalizeKR": "괜찮으시다면, 잠시 휴식이라도…… 어떠세요?    ",
       "LocalizeJP": "よろしければ……一息ついていきませんか？"
     },
     {
@@ -39797,7 +39925,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "카페 아르바이트 일도\n신선하고 재미있네요.",
+      "LocalizeKR": "카페 아르바이트 일도 신선하고 재미있네요.     ",
       "LocalizeJP": "カフェのお仕事、すごく楽しいです。"
     },
     {
@@ -39805,7 +39933,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그렇지만 역시,\n요리를 수련한다는\n측면에서는",
+      "LocalizeKR": "그렇지만 역시, 요리를 수련한다는 측면에서는    ",
       "LocalizeJP": "でもお料理はあまりしないので……"
     },
     {
@@ -39813,7 +39941,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "급양부 일이 더욱\n중요한 것 같아요.",
+      "LocalizeKR": "급양부 일이 더욱 중요한 것 같아요.     ",
       "LocalizeJP": "給食部のお仕事をもっと頑張らなきゃって思いました！"
     },
     {
@@ -39821,7 +39949,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아하하하!\n정말, 선생님!\n간지럽다구요!",
+      "LocalizeKR": "아하하하! 정말, 선생님! 간지럽다구요!    ",
       "LocalizeJP": "あはは！先生！くすぐったいです……！"
     },
     {
@@ -39829,7 +39957,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "……후우, 감사드려요.",
+      "LocalizeKR": "……후우, 감사드려요.      ",
       "LocalizeJP": "……ふぅ、ありがとうございます。"
     },
     {
@@ -39837,7 +39965,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "조금, 긴장이 풀렸어요.",
+      "LocalizeKR": "조금, 긴장이 풀렸어요.      ",
       "LocalizeJP": "おかげさまで、少しリラックスできました。"
     },
     {
@@ -39845,7 +39973,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "기다리고 있었어요, 선생님!\n이쪽으로 오세요!",
+      "LocalizeKR": "기다리고 있었어요, 선생님! 이쪽으로 오세요!     ",
       "LocalizeJP": "お待ちしておりました、先生！こちらへどうぞ！"
     },
     {
@@ -39853,7 +39981,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "찾으시는 것이 있으신가요, 손님?\n메뉴판을 가져다드릴까요?",
+      "LocalizeKR": "찾으시는 것이 있으신가요, 손님? 메뉴판을 가져다드릴까요?     ",
       "LocalizeJP": "メニューをお持ちしましょうか？"
     },
     {
@@ -39861,7 +39989,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "후훗. 선생님.",
+      "LocalizeKR": "후훗. 선생님.      ",
       "LocalizeJP": "ふふっ、先生。"
     },
     {
@@ -39869,7 +39997,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "마지막까지 충분히\n둘러보다 가세요!",
+      "LocalizeKR": "마지막까지 충분히 둘러보다 가세요!     ",
       "LocalizeJP": "最後まで、ごゆっくりお楽しみください！"
     },
     {
@@ -39877,7 +40005,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "몸놀림이 가볍다고 칭찬받곤 해요.",
+      "LocalizeKR": "몸놀림이 가볍다고 칭찬받곤 해요.      ",
       "LocalizeJP": "アルバイト中、動きを褒めていただけることが多いんです……"
     },
     {
@@ -39885,7 +40013,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "급양부에서 했던 경험이,\n도움이 되나 봐요!",
+      "LocalizeKR": "급양부에서 했던 경험이, 도움이 되나 봐요!     ",
       "LocalizeJP": "給食部での経験が活きているのでしょうか？"
     },
     {
@@ -39893,7 +40021,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "네, 선생님? 부르셨나요?",
+      "LocalizeKR": "네, 선생님? 부르셨나요?      ",
       "LocalizeJP": "はい先生、何かご注文ですか？"
     },
     {
@@ -39901,7 +40029,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아무 이유 없이 부르셨어도,\n무언가 필요한 것이 있으셔도……",
+      "LocalizeKR": "아무 이유 없이 부르셨어도, 무언가 필요한 것이 있으셔도……     ",
       "LocalizeJP": "先生にお呼びいただいただけで……"
     },
     {
@@ -39909,7 +40037,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저는, 모두 좋아요!",
+      "LocalizeKR": "저는, 모두 좋아요!      ",
       "LocalizeJP": "私はとても嬉しいです！"
     },
     {
@@ -39917,7 +40045,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그 품목 말씀이군요!\n조금만 기다려 주세요.",
+      "LocalizeKR": "그 품목 말씀이군요! 조금만 기다려 주세요.     ",
       "LocalizeJP": "分かりました！今すぐご用意します！"
     },
     {
@@ -39925,7 +40053,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저도 좋은 선택이라고 생각합니다!\n금방 마련해 드릴게요.",
+      "LocalizeKR": "저도 좋은 선택이라고 생각합니다! 금방 마련해 드릴게요.     ",
       "LocalizeJP": "そちらですね！\nただいまお持ちしますので、少々お待ちください。"
     },
     {
@@ -39933,7 +40061,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "재고는 충분하답니다.\n걱정 마세요!",
+      "LocalizeKR": "재고는 충분하답니다. 걱정 마세요!     ",
       "LocalizeJP": "在庫は十分にあります！ご心配なく！"
     },
     {
@@ -39941,7 +40069,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "혹시 부족한 것이 있으시다면,\n언제든 말씀해 주세요!",
+      "LocalizeKR": "혹시 부족한 것이 있으시다면, 언제든 말씀해 주세요!     ",
       "LocalizeJP": "もし足りないものがありましたら、\nいつでも仰ってくださいね！"
     },
     {
@@ -39949,7 +40077,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "안녕하세요. 선생님.\n히무로 세나입니다.",
+      "LocalizeKR": "안녕하세요. 선생님. 히무로 세나입니다.     ",
       "LocalizeJP": "こんにちは、先生。"
     },
     {
@@ -39957,7 +40085,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "무엇이 나올지\n모른다는 점에서,",
+      "LocalizeKR": "무엇이 나올지 모른다는 점에서,     ",
       "LocalizeJP": "何が起こるか分からないという意味で、"
     },
     {
@@ -39965,7 +40093,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이곳은 응급 상황과\n비슷한 부분이\n있을지도 모릅니다.",
+      "LocalizeKR": "이곳은 응급 상황과 비슷한 부분이 있을지도 모릅니다.    ",
       "LocalizeJP": "応急処置とこの場所は似ているのかもしれません。"
     },
     {
@@ -39973,7 +40101,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어서 오십시오. 선생님.",
+      "LocalizeKR": "어서 오십시오. 선생님.      ",
       "LocalizeJP": "いらっしゃったのですね、先生。"
     },
     {
@@ -39981,7 +40109,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "행운과 건강이\n항상 함께\n하시기를 바랍니다.",
+      "LocalizeKR": "행운과 건강이 항상 함께 하시기를 바랍니다.    ",
       "LocalizeJP": "幸運と健康がおそばにありますように。"
     },
     {
@@ -39989,7 +40117,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "남은 것이\n있으신가요?",
+      "LocalizeKR": "남은 것이 있으신가요?     ",
       "LocalizeJP": "やり残したことはありませんか？"
     },
     {
@@ -39997,7 +40125,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저 역시 마지막까지\n보조하겠습니다.",
+      "LocalizeKR": "저 역시 마지막까지 보조하겠습니다.     ",
       "LocalizeJP": "私も最後までお付き合いします。"
     },
     {
@@ -40005,7 +40133,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "우연을 좋아하시나요,\n선생님?",
+      "LocalizeKR": "우연을 좋아하시나요, 선생님?     ",
       "LocalizeJP": "偶然はお好きですか？先生。"
     },
     {
@@ -40013,7 +40141,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저는 나름대로\n좋아하는 편입니다.",
+      "LocalizeKR": "저는 나름대로 좋아하는 편입니다.     ",
       "LocalizeJP": "私は、それなりに好きですよ。"
     },
     {
@@ -40021,7 +40149,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "행운을 바라기보다는,\n불운을 대비하는 편이\n좋다고 하죠.",
+      "LocalizeKR": "행운을 바라기보다는, 불운을 대비하는 편이 좋다고 하죠.    ",
       "LocalizeJP": "幸運を願うより、不運に備えるべきと言いますよね。"
     },
     {
@@ -40029,7 +40157,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "예방 역시 응급의학의\n중요한 부분입니다.",
+      "LocalizeKR": "예방 역시 응급의학의 중요한 부분입니다.     ",
       "LocalizeJP": "応急処置において備えは重要です。"
     },
     {
@@ -40037,7 +40165,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "맡겨 주십시오.",
+      "LocalizeKR": "맡겨 주십시오.      ",
       "LocalizeJP": "私にお任せください。"
     },
     {
@@ -40045,7 +40173,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "축하드립니다. 선생님.",
+      "LocalizeKR": "축하드립니다. 선생님.      ",
       "LocalizeJP": "おめでとうございます、先生。"
     },
     {
@@ -40053,7 +40181,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "좋아 보이는 상품이군요.",
+      "LocalizeKR": "좋아 보이는 상품이군요.      ",
       "LocalizeJP": "良さそうな品ですね。"
     },
     {
@@ -40061,7 +40189,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "과연, 그것이 당첨 상품이군요.",
+      "LocalizeKR": "과연, 그것이 당첨 상품이군요.      ",
       "LocalizeJP": "なるほど。\nそれが当たりなのですね。"
     },
     {
@@ -40069,7 +40197,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저에게도 보여 주실 수 있겠습니까?\n호기심이 생기는군요.",
+      "LocalizeKR": "저에게도 보여 주실 수 있겠습니까? 호기심이 생기는군요.     ",
       "LocalizeJP": "私にも見せていただけますか？\nとても興味深いです。"
     },
     {
@@ -40077,7 +40205,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "대단하십니다. 선생님.",
+      "LocalizeKR": "대단하십니다. 선생님.      ",
       "LocalizeJP": "すごいですね、先生。"
     },
     {
@@ -40085,7 +40213,7 @@
       "CharacterId": 10113,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "정말 수고 많으셨습니다.",
+      "LocalizeKR": "정말 수고 많으셨습니다.      ",
       "LocalizeJP": "本当にお疲れ様でした。"
     },
     {
@@ -40093,7 +40221,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "카페에서도 재료 준비는 중요하답니다!\n급양부 일과 공통점이 있네요.",
+      "LocalizeKR": "카페에서도 재료 준비는 중요하답니다! 급양부 일과 공통점이 있네요.     ",
       "LocalizeJP": "カフェでも仕込みは大事です！\n給食部との共通点ですね。"
     },
     {
@@ -40101,7 +40229,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "해야 할 일을 해낸다는 거, 저는 좋아해요.\n왠지 모르게 뿌듯하거든요.",
+      "LocalizeKR": "해야 할 일을 해낸다는 거, 저는 좋아해요. 왠지 모르게 뿌듯하거든요.     ",
       "LocalizeJP": "日課……コツコツできて、私は好きです。"
     },
     {
@@ -40109,7 +40237,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "주문을 받고,\n메뉴를 가져다드리고……",
+      "LocalizeKR": "주문을 받고, 메뉴를 가져다드리고……     ",
       "LocalizeJP": "注文を受けて、お料理を運ぶ……"
     },
     {
@@ -40117,7 +40245,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그런 것들이 지금의 저에게 있어서, \n'미션'이 아닐까요?",
+      "LocalizeKR": "그런 것들이 지금의 저에게 있어서,  '미션'이 아닐까요?     ",
       "LocalizeJP": "これがウェイトレスの「ミッション」です。"
     },
     {
@@ -40125,7 +40253,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "부르셨나요, 선생님?\n도와드릴 것이 있을까요?",
+      "LocalizeKR": "부르셨나요, 선생님? 도와드릴 것이 있을까요?     ",
       "LocalizeJP": "先生、何かお手伝いできること、ありますか？"
     },
     {
@@ -40133,7 +40261,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "대단하세요, 선생님!\n여기, 이걸 받아 가시면 돼요!",
+      "LocalizeKR": "대단하세요, 선생님! 여기, 이걸 받아 가시면 돼요!     ",
       "LocalizeJP": "すごいです！先生！\nはいこちら、受け取ってください！"
     },
     {
@@ -40141,7 +40269,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "노력한 만큼 보상이 돌아온다는 것은……\n정말, 멋진 것 같아요!",
+      "LocalizeKR": "노력한 만큼 보상이 돌아온다는 것은…… 정말, 멋진 것 같아요!     ",
       "LocalizeJP": "努力が報われるって……\n素敵ですよね。"
     },
     {
@@ -40149,7 +40277,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오늘도 수고 많으셨습니다!",
+      "LocalizeKR": "오늘도 수고 많으셨습니다!      ",
       "LocalizeJP": "今日も一日、お疲れ様でした！"
     },
     {
@@ -40157,7 +40285,7 @@
       "CharacterId": 10114,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님을 도울 수 있어서, 기뻤어요!",
+      "LocalizeKR": "선생님을 도울 수 있어서, 기뻤어요!      ",
       "LocalizeJP": "先生のお手伝いができて、嬉しかったです！"
     },
     {
@@ -40165,7 +40293,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "야구 경기의 규칙은\n정확히 모릅니다만……",
+      "LocalizeKR": "야구 경기의 규칙은 정확히 모릅니다만……     ",
       "LocalizeJP": "野球のルールに詳しくはありませんが……"
     },
     {
@@ -40173,7 +40301,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "전해지는 열기만으로,\n저까지 가슴이 뛰네요.",
+      "LocalizeKR": "전해지는 열기만으로, 저까지 가슴이 뛰네요.     ",
       "LocalizeJP": "この盛り上がり……私まで胸が高鳴ってきました。"
     },
     {
@@ -40181,7 +40309,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "엄청난 분위기로군요.\n트레이너.",
+      "LocalizeKR": "엄청난 분위기로군요. 트레이너.     ",
       "LocalizeJP": "……凄まじい熱気ですね。"
     },
     {
@@ -40189,7 +40317,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "탈수 현상에는\n조심해 주세요.",
+      "LocalizeKR": "탈수 현상에는 조심해 주세요.     ",
       "LocalizeJP": "脱水症状に気をつけないと。"
     },
     {
@@ -40197,7 +40325,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아무리 봐도\n스포츠 정신과는,\n거리가 먼 일이 벌어지고 \n있는 것 같습니다.",
+      "LocalizeKR": "아무리 봐도 스포츠 정신과는, 거리가 먼 일이 벌어지고 있는 것 같습니다.",
       "LocalizeJP": "スポーツマンシップとは程遠い――\n何か良からぬことが起きているようです。"
     },
     {
@@ -40205,7 +40333,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "무언가 해야 합니다,\n트레이너!",
+      "LocalizeKR": "무언가 해야 합니다, 트레이너!     ",
       "LocalizeJP": "行きましょう、トレーナー。"
     },
     {
@@ -40213,7 +40341,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이기고 싶다는 열망은\n중요한 것입니다만,",
+      "LocalizeKR": "이기고 싶다는 열망은 중요한 것입니다만,     ",
       "LocalizeJP": "勝利への執着が度を過ぎると、"
     },
     {
@@ -40221,7 +40349,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그것이 지나치면\n또 다른 문제를\n일으키고 마는군요.",
+      "LocalizeKR": "그것이 지나치면 또 다른 문제를 일으키고 마는군요.    ",
       "LocalizeJP": "予期せぬ問題を引き起こしてしまうのですね。"
     },
     {
@@ -40229,7 +40357,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "한 가지\n배운 것 같습니다.",
+      "LocalizeKR": "한 가지 배운 것 같습니다.     ",
       "LocalizeJP": "新たな学びです。"
     },
     {
@@ -40237,7 +40365,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "모든 것이 무사히\n종료된 것 같습니다.",
+      "LocalizeKR": "모든 것이 무사히 종료된 것 같습니다.     ",
       "LocalizeJP": "それではトレーナー、\n事態も収束したことですし、"
     },
     {
@@ -40245,7 +40373,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그렇다면 그 기념으로,\n함께 트레이닝이라도\n어떠십니까?",
+      "LocalizeKR": "그렇다면 그 기념으로, 함께 트레이닝이라도 어떠십니까?    ",
       "LocalizeJP": "今からトレーニングにいくとしましょう。"
     },
     {
@@ -40253,7 +40381,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "일단은 눈에 띄지 않기 위해\n입은 복장입니다만……\n기능적인 측면에서도,\n괜찮네요.",
+      "LocalizeKR": "일단은 눈에 띄지 않기 위해 입은 복장입니다만……\n기능적인 측면에서도, 괜찮네요.",
       "LocalizeJP": "この制服……\n機能性を兼ね備えていて、いいですね。"
     },
     {
@@ -40261,7 +40389,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "트레이너? 부르셨나요?",
+      "LocalizeKR": "트레이너? 부르셨나요?      ",
       "LocalizeJP": "トレーナー？\nお呼びでしょうか？"
     },
     {
@@ -40269,7 +40397,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "트레이너? 왜 그러시나요?\n제 다리 근육을 확인하고\n싶으신 건가요?",
+      "LocalizeKR": "트레이너? 왜 그러시나요? 제 다리 근육을 확인하고 싶으신 건가요?    ",
       "LocalizeJP": "……私の足の筋肉を確かめたいんですか？"
     },
     {
@@ -40277,7 +40405,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그렇다면 얼마든지\n만져 보셔도 좋습니다.\n후후.",
+      "LocalizeKR": "그렇다면 얼마든지 만져 보셔도 좋습니다. 후후.    ",
       "LocalizeJP": "ふふ、そういうことでしたら、好きなだけどうぞ。"
     },
     {
@@ -40285,7 +40413,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이 드링크 장비 무게요?",
+      "LocalizeKR": "이 드링크 장비 무게요?      ",
       "LocalizeJP": "このドリンクサーバー？"
     },
     {
@@ -40293,7 +40421,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "체감상 25kg 정도\n되는 것 같습니다.",
+      "LocalizeKR": "체감상 25kg 정도 되는 것 같습니다.     ",
       "LocalizeJP": "25kgくらいでしょうか。"
     },
     {
@@ -40301,7 +40429,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저중량 고반복 운동을\n지속하기에는, 딱\n좋다고도 할 수 있겠죠.",
+      "LocalizeKR": "저중량 고반복 운동을 지속하기에는, 딱 좋다고도 할 수 있겠죠.    ",
       "LocalizeJP": "低負荷のトレーニングにちょうど良いです。"
     },
     {
@@ -40309,7 +40437,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "야구 좋아하시나요,\n선생님?",
+      "LocalizeKR": "야구 좋아하시나요, 선생님?     ",
       "LocalizeJP": "先生！野球はお好きですか？"
     },
     {
@@ -40317,7 +40445,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저는, 정말로 좋아해요!",
+      "LocalizeKR": "저는, 정말로 좋아해요!      ",
       "LocalizeJP": "私は、大好きです！"
     },
     {
@@ -40325,7 +40453,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오늘 경기는 중요합니다!",
+      "LocalizeKR": "오늘 경기는 중요합니다!      ",
       "LocalizeJP": "今日は重要な試合ですよ！"
     },
     {
@@ -40333,7 +40461,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "사실 중요하지 않은\n경기는 없지만요!",
+      "LocalizeKR": "사실 중요하지 않은 경기는 없지만요!     ",
       "LocalizeJP": "いえ、そうでない試合などありませんが！"
     },
     {
@@ -40341,7 +40469,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "경기 흐름이 미묘하지만……",
+      "LocalizeKR": "경기 흐름이 미묘하지만……      ",
       "LocalizeJP": "不穏な空気……"
     },
     {
@@ -40349,7 +40477,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저는 역전할 수\n있을 거라고 믿어요!",
+      "LocalizeKR": "저는 역전할 수 있을 거라고 믿어요!     ",
       "LocalizeJP": "でも、私は信じてます！今からでも逆転劇を起こしてやりましょう！"
     },
     {
@@ -40357,7 +40485,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "야구는 9회 말\n투아웃부터라고 하죠!",
+      "LocalizeKR": "야구는 9회 말 투아웃부터라고 하죠!     ",
       "LocalizeJP": "野球は9回裏2アウトからが本番ですよ！"
     },
     {
@@ -40365,7 +40493,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "준비하고 있지 않으면,\n기회는 오지 않으니까요!",
+      "LocalizeKR": "준비하고 있지 않으면, 기회는 오지 않으니까요!     ",
       "LocalizeJP": "準備を怠らない者に、チャンスの女神がほほ笑むんですから！"
     },
     {
@@ -40373,7 +40501,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아직도 믿기지 않아요.",
+      "LocalizeKR": "아직도 믿기지 않아요.      ",
       "LocalizeJP": "信じられません……"
     },
     {
@@ -40381,7 +40509,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "제가 홈런을 치다니……\n그 타구, 그 궤적……",
+      "LocalizeKR": "제가 홈런을 치다니…… 그 타구, 그 궤적……     ",
       "LocalizeJP": "私が……ホームランを……"
     },
     {
@@ -40389,7 +40517,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "야구는 정말로 좋네요!",
+      "LocalizeKR": "야구는 정말로 좋네요!      ",
       "LocalizeJP": "野球って……本当に最高ですね！"
     },
     {
@@ -40397,7 +40525,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "왜 그러세요, 선생님?\n혹시 야구 규칙에 대해,\n알고 싶은 것이 있으세요?",
+      "LocalizeKR": "왜 그러세요, 선생님?\n혹시 야구 규칙에 대해, 알고 싶은 것이 있으세요?",
       "LocalizeJP": "ルールのことでしたらなんでも私に聞いてください！"
     },
     {
@@ -40405,7 +40533,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "경기 기록을\n찾아보고 있었어요.",
+      "LocalizeKR": "경기 기록을 찾아보고 있었어요.     ",
       "LocalizeJP": "……試合記録を見ていました。"
     },
     {
@@ -40413,7 +40541,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "지금은 인터넷에\n정리되어 있어서 편한데.",
+      "LocalizeKR": "지금은 인터넷에 정리되어 있어서 편한데.     ",
       "LocalizeJP": "この膨大な記録を、昔は紙で管理していたんだそうです。"
     },
     {
@@ -40421,7 +40549,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "예전에는 자료들을\n하나하나 찾아야\n했다고 하네요.",
+      "LocalizeKR": "예전에는 자료들을 하나하나 찾아야 했다고 하네요.    ",
       "LocalizeJP": "……今では考えられないですよね……。"
     },
     {
@@ -40429,7 +40557,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "여, 옆구리는 안 돼요,",
+      "LocalizeKR": "여, 옆구리는 안 돼요,      ",
       "LocalizeJP": "わわっ、くすぐったい！"
     },
     {
@@ -40437,7 +40565,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님!\n겨드랑이도요……!",
+      "LocalizeKR": "선생님! 겨드랑이도요……!     ",
       "LocalizeJP": "先生！変なところ触らないでください！"
     },
     {
@@ -40445,7 +40573,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "일단은 경기 중이고,\n사람도 많으니까요……",
+      "LocalizeKR": "일단은 경기 중이고, 사람도 많으니까요……     ",
       "LocalizeJP": "もう……試合中ですよ……！？\n人目もありますからね？"
     },
     {
@@ -40453,7 +40581,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "뭔가 주문할까요?",
+      "LocalizeKR": "뭔가 주문할까요?      ",
       "LocalizeJP": "球場飯！これがまた絶品なんですよ！"
     },
     {
@@ -40461,7 +40589,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "야구장 음식이\n또 별미거든요!",
+      "LocalizeKR": "야구장 음식이 또 별미거든요!     ",
       "LocalizeJP": "先生、何か食べましょう！"
     },
     {
@@ -40469,7 +40597,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "가격은…… 조금\n잊어버리도록 하죠. 네.",
+      "LocalizeKR": "가격은…… 조금 잊어버리도록 하죠. 네.     ",
       "LocalizeJP": "値段は……気にしたら負けです！"
     },
     {
@@ -40477,7 +40605,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오셨군요. 트레이너.",
+      "LocalizeKR": "오셨군요. 트레이너.      ",
       "LocalizeJP": "どうぞ、ゆっくりご覧ください。"
     },
     {
@@ -40485,7 +40613,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "마음에 드는 물건이 있으실지,\n보고 가시죠.",
+      "LocalizeKR": "마음에 드는 물건이 있으실지, 보고 가시죠.     ",
       "LocalizeJP": "お気に入りの品が見つかると良いですね。"
     },
     {
@@ -40493,7 +40621,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "트레이닝 비품 관리를 하다 보니,",
+      "LocalizeKR": "트레이닝 비품 관리를 하다 보니,      ",
       "LocalizeJP": "棚だし、想定より早く終えることができました。"
     },
     {
@@ -40501,7 +40629,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이런 일에도 그럭저럭\n빠르게 적응할 수 있더군요.",
+      "LocalizeKR": "이런 일에도 그럭저럭 빠르게 적응할 수 있더군요.     ",
       "LocalizeJP": "トレーニング部の備品管理に少し似ていたので。"
     },
     {
@@ -40509,7 +40637,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "혹시 잊어버린 것이 있으신가요?\n전부 교환하는 겁니다.\n후회하지 않도록 말이죠.",
+      "LocalizeKR": "혹시 잊어버린 것이 있으신가요?\n전부 교환하는 겁니다. 후회하지 않도록 말이죠.",
       "LocalizeJP": "買い逃しがないか、もう一度確認してみてください。"
     },
     {
@@ -40517,7 +40645,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "개수를 파악해서, 빠르게 제공한다……",
+      "LocalizeKR": "개수를 파악해서, 빠르게 제공한다……      ",
       "LocalizeJP": "品数を把握し、素早く提供する……"
     },
     {
@@ -40525,7 +40653,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "순발력을 기를 수 있을 것 같네요.",
+      "LocalizeKR": "순발력을 기를 수 있을 것 같네요.      ",
       "LocalizeJP": "瞬発力が鍛えられそうです。"
     },
     {
@@ -40533,7 +40661,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "일을 하는 중이지만,\n바른 자세를 의식하고 있습니다.",
+      "LocalizeKR": "일을 하는 중이지만, 바른 자세를 의식하고 있습니다.      ",
       "LocalizeJP": "仕事中も、正しい姿勢を意識しています。"
     },
     {
@@ -40541,7 +40669,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저는 트레이닝부의 부장이니까요.",
+      "LocalizeKR": "저는 트레이닝부의 부장이니까요.      ",
       "LocalizeJP": "私はトレーニング部の部長ですから。"
     },
     {
@@ -40549,7 +40677,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "네. 여기 있습니다.",
+      "LocalizeKR": "네. 여기 있습니다.      ",
       "LocalizeJP": "はい、お受け取りください。"
     },
     {
@@ -40557,7 +40685,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "더 필요한 것은 없으신가요,\n트레이너?",
+      "LocalizeKR": "더 필요한 것은 없으신가요, 트레이너?     ",
       "LocalizeJP": "他に必要なものはありませんか？"
     },
     {
@@ -40565,7 +40693,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "알겠습니다. 잠시만요.",
+      "LocalizeKR": "알겠습니다. 잠시만요.      ",
       "LocalizeJP": "かしこまりました、少々お待ちください。"
     },
     {
@@ -40573,7 +40701,7 @@
       "CharacterId": 20044,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "덤으로 음료수도 한 잔 드릴까요?",
+      "LocalizeKR": "덤으로 음료수도 한 잔 드릴까요?      ",
       "LocalizeJP": "ドリンクをサービスさせていただいてますが、どうでしょう？"
     },
     {
@@ -40581,7 +40709,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "경기장에서 경품\n추첨을 한다고 해요!",
+      "LocalizeKR": "경기장에서 경품 추첨을 한다고 해요!     ",
       "LocalizeJP": "先生！スタジアムで抽選会をやってます！"
     },
     {
@@ -40589,7 +40717,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어쩌다가 제가 도우미까지\n하게 된 건지는\n모르겠지만요……",
+      "LocalizeKR": "어쩌다가 제가 도우미까지 하게 된 건지는 모르겠지만요……    ",
       "LocalizeJP": "実は私、その手伝いをすることになりまして……。"
     },
     {
@@ -40597,7 +40725,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어서 오세요!",
+      "LocalizeKR": "어서 오세요!      ",
       "LocalizeJP": "ただいま、抽選会開催中です！"
     },
     {
@@ -40605,7 +40733,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "행운을 시험해\n보시겠어요?",
+      "LocalizeKR": "행운을 시험해 보시겠어요?     ",
       "LocalizeJP": "どうぞお立ち寄りください！"
     },
     {
@@ -40613,7 +40741,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어때요, 선생님?\n조금 프로 같아 보였나요?",
+      "LocalizeKR": "어때요, 선생님? 조금 프로 같아 보였나요?     ",
       "LocalizeJP": "どうでした？スタッフっぽかったですか？"
     },
     {
@@ -40621,7 +40749,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "안녕하세요, 선생님. 혹시\n남은 추첨권이 있으시다면,\n전부 사용하고 가시면\n좋을 것 같아요!",
+      "LocalizeKR": "안녕하세요, 선생님. 혹시 남은 추첨권이 있으시다면,\n전부 사용하고 가시면 좋을 것 같아요!",
       "LocalizeJP": "余ってる抽選券、全部使ってってくださいね！"
     },
     {
@@ -40629,7 +40757,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "일일 경품 추첨\n도우미지만,\n아르바이트비도\n확실히 준대요!",
+      "LocalizeKR": "일일 경품 추첨 도우미지만, 아르바이트비도 확실히 준대요!   ",
       "LocalizeJP": "ちゃんとバイト代も出るみたいです！"
     },
     {
@@ -40637,7 +40765,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "일단 글러브를\n새것으로 바꾸려고요.",
+      "LocalizeKR": "일단 글러브를 새것으로 바꾸려고요.     ",
       "LocalizeJP": "へへ、グローブ、買い替えよっかな！"
     },
     {
@@ -40645,7 +40773,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "야구는 기술도\n중요하지만,\n운도 따라 줘야 하죠.",
+      "LocalizeKR": "야구는 기술도 중요하지만, 운도 따라 줘야 하죠.    ",
       "LocalizeJP": "選手に求められるのは、テクニックと、運です。"
     },
     {
@@ -40653,7 +40781,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "……제가 홈런을\n못 치는 것은, 운이\n없기 때문 아닐까요?!",
+      "LocalizeKR": "……제가 홈런을 못 치는 것은, 운이 없기 때문 아닐까요?!    ",
       "LocalizeJP": "……ホームランが打てなかったのは、運が悪かったからかも！"
     },
     {
@@ -40661,7 +40789,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "1등상! 1등상이에요,\n선생님! 우와, 대단해요!",
+      "LocalizeKR": "1등상! 1등상이에요, 선생님! 우와, 대단해요!     ",
       "LocalizeJP": "うわあ！1等賞！\n1等賞ですよ！すごいです！"
     },
     {
@@ -40669,7 +40797,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이건 2등상이네요!\n1등이 아닌 것은\n아쉽지만, 그래도\n이게 어딘가요!",
+      "LocalizeKR": "이건 2등상이네요! 1등이 아닌 것은 아쉽지만, 그래도 이게 어딘가요!   ",
       "LocalizeJP": "2等賞ですね！さすがです、先生！"
     },
     {
@@ -40677,7 +40805,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "행운상이군요.",
+      "LocalizeKR": "행운상이군요.      ",
       "LocalizeJP": "ラッキー賞だそうです！先生！"
     },
     {
@@ -40685,7 +40813,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어떻게 보면\n이 상이야말로,\n경품 추첨의 본질이라고\n볼 수도 있지 않을까요?",
+      "LocalizeKR": "어떻게 보면 이 상이야말로,\n경품 추첨의 본질이라고 볼 수도 있지 않을까요?",
       "LocalizeJP": "なんだか今ならホームランが打てそうな気がします！"
     },
     {
@@ -40693,7 +40821,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "장려상…… 인가요.",
+      "LocalizeKR": "장려상…… 인가요.      ",
       "LocalizeJP": "3等賞ですね。"
     },
     {
@@ -40701,7 +40829,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "에이, 뭐 어때요.\n이것도 충분히\n좋잖아요?",
+      "LocalizeKR": "에이, 뭐 어때요. 이것도 충분히 좋잖아요?    ",
       "LocalizeJP": "賞があるのは良いことです！"
     },
     {
@@ -40709,7 +40837,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "참가상……",
+      "LocalizeKR": "참가상……      ",
       "LocalizeJP": "参加賞かぁ……"
     },
     {
@@ -40717,7 +40845,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "괜찮아요, 선생님!\n참가하는 것에 의의가\n있다는 말도 있고요! 네!",
+      "LocalizeKR": "괜찮아요, 선생님! 참가하는 것에 의의가 있다는 말도 있고요! 네!    ",
       "LocalizeJP": "大丈夫ですよ、先生！\n参加することに意義がある、って言うじゃないですか！"
     },
     {
@@ -40725,7 +40853,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "…………자,\n아무 일도 없었어요!\n……그렇죠, 선생님?",
+      "LocalizeKR": "…………자, 아무 일도 없었어요! ……그렇죠, 선생님?    ",
       "LocalizeJP": "…………\nいま、何も起きませんでした。ね？先生？"
     },
     {
@@ -40733,7 +40861,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이런 일에서 중요한 것은,\n같은 분량을, 매일 꾸준히\n계속하는 것이라고 생각해요.",
+      "LocalizeKR": "이런 일에서 중요한 것은,\n같은 분량을, 매일 꾸준히 계속하는 것이라고 생각해요.",
       "LocalizeJP": "大切なのは……毎日コツコツ続けること！"
     },
     {
@@ -40741,7 +40869,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "훈련과 마찬가지네요!",
+      "LocalizeKR": "훈련과 마찬가지네요!      ",
       "LocalizeJP": "練習と同じですね！"
     },
     {
@@ -40749,7 +40877,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "반복되는 일은\n지루할지도 모르지만……",
+      "LocalizeKR": "반복되는 일은 지루할지도 모르지만……     ",
       "LocalizeJP": "ルーティンも、慣れれば大丈夫です！"
     },
     {
@@ -40757,7 +40885,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "거기에서 얻을 수 있는 것도,\n분명히 있을 테니까요.",
+      "LocalizeKR": "거기에서 얻을 수 있는 것도, 분명히 있을 테니까요.     ",
       "LocalizeJP": "毎日の積み重ねで苦にならなくなりますよ。"
     },
     {
@@ -40765,7 +40893,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "위대한 선수들은, 매일 같은 것만 먹고,\n같은 시간에 자고.",
+      "LocalizeKR": "위대한 선수들은, 매일 같은 것만 먹고, 같은 시간에 자고.     ",
       "LocalizeJP": "偉大な選手は起床時間から訓練メニュー、\n果ては献立一つに至るまで全てスケジュールし、"
     },
     {
@@ -40773,7 +40901,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "훈련도 정확히 기준을\n지켜 가면서 한다죠……",
+      "LocalizeKR": "훈련도 정확히 기준을 지켜 가면서 한다죠……     ",
       "LocalizeJP": "その通りにこなすそうです。"
     },
     {
@@ -40781,7 +40909,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저는…… 그 정도로는\n힘들어서 못 할 것 같아요……",
+      "LocalizeKR": "저는…… 그 정도로는 힘들어서 못 할 것 같아요……     ",
       "LocalizeJP": "私には……できる気がしません……。"
     },
     {
@@ -40789,7 +40917,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "새삼 선생님도\n대단하시다는 생각이 들어요.",
+      "LocalizeKR": "새삼 선생님도 대단하시다는 생각이 들어요.     ",
       "LocalizeJP": "今更ですけど……先生ってすごいんですね。"
     },
     {
@@ -40797,7 +40925,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "매일 출근하시고……\n업무에 치여 지내시고……",
+      "LocalizeKR": "매일 출근하시고…… 업무에 치여 지내시고……     ",
       "LocalizeJP": "朝出勤して、一日中お仕事して……"
     },
     {
@@ -40805,7 +40933,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "네? 저도 학교에\n매일 가지 않냐고요?",
+      "LocalizeKR": "네? 저도 학교에 매일 가지 않냐고요?     ",
       "LocalizeJP": "毎日登校するのと一緒……？"
     },
     {
@@ -40813,7 +40941,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "하지만 학교보다 직장이 훨씬\n힘들다고 들었는데, 아닌가요?",
+      "LocalizeKR": "하지만 학교보다 직장이 훨씬 힘들다고 들었는데, 아닌가요?     ",
       "LocalizeJP": "でも大人は学校の何倍も大変って聞きますよ？違うんですか？"
     },
     {
@@ -40821,7 +40949,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "훈련의 성과……\n같은 것이네요!",
+      "LocalizeKR": "훈련의 성과…… 같은 것이네요!     ",
       "LocalizeJP": "努力が実を結んだ、ってことですよね！"
     },
     {
@@ -40829,7 +40957,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "축하드려요, 선생님!",
+      "LocalizeKR": "축하드려요, 선생님!      ",
       "LocalizeJP": "おめでとうございます、先生！"
     },
     {
@@ -40837,7 +40965,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "해내셨네요, 선생님!",
+      "LocalizeKR": "해내셨네요, 선생님!      ",
       "LocalizeJP": "やりましたね、先生！"
     },
     {
@@ -40845,7 +40973,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저도 열심히 하겠습니다.\n지켜봐 주세요!",
+      "LocalizeKR": "저도 열심히 하겠습니다. 지켜봐 주세요!     ",
       "LocalizeJP": "私も負けないよう、気合入れていきます！"
     },
     {
@@ -40853,7 +40981,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오늘 일정은 이것으로 끝!",
+      "LocalizeKR": "오늘 일정은 이것으로 끝!      ",
       "LocalizeJP": "今日はここまで！お疲れさまでした！"
     },
     {
@@ -40861,7 +40989,7 @@
       "CharacterId": 10115,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그래서 말인데요.\n이다음에 시간 되시나요?",
+      "LocalizeKR": "그래서 말인데요. 이다음에 시간 되시나요?     ",
       "LocalizeJP": "先生！このあとお時間、ありますか？"
     },
     {
@@ -40869,7 +40997,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어서 와- 선생님-",
+      "LocalizeKR": "어서 와- 선생님-      ",
       "LocalizeJP": "ようこそー。"
     },
     {
@@ -40877,7 +41005,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "히카리는 준비 완-료-",
+      "LocalizeKR": "히카리는 준비 완-료-      ",
       "LocalizeJP": "じゅんびかんりょー。"
     },
     {
@@ -40885,7 +41013,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님- 위기야-",
+      "LocalizeKR": "선생님- 위기야-      ",
       "LocalizeJP": "せんせーぴんち！"
     },
     {
@@ -40893,7 +41021,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "도와줘- 헬-프-",
+      "LocalizeKR": "도와줘- 헬-프-      ",
       "LocalizeJP": "へるぷみー、たすけてー。"
     },
     {
@@ -40901,7 +41029,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "운행 준비- 문제없음-",
+      "LocalizeKR": "운행 준비- 문제없음-      ",
       "LocalizeJP": "走行準備ー、問題なーし。"
     },
     {
@@ -40909,7 +41037,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어때- 선생님-?\n빠르게 가볼-까-?",
+      "LocalizeKR": "어때- 선생님-? 빠르게 가볼-까-?     ",
       "LocalizeJP": "せんせースピード上げるよー。"
     },
     {
@@ -40917,7 +41045,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "거의 끝나가-\n더 놀고 싶은데-",
+      "LocalizeKR": "거의 끝나가- 더 놀고 싶은데-     ",
       "LocalizeJP": "もう終わりー？もっと遊びたいー。"
     },
     {
@@ -40925,7 +41053,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "재밌었지-?\n또 놀자- 선생님-",
+      "LocalizeKR": "재밌었지-? 또 놀자- 선생님-     ",
       "LocalizeJP": "楽しかったねーまたあそぼ。"
     },
     {
@@ -40933,7 +41061,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "응-? 왜-?\n히카리랑 놀고 싶어-?",
+      "LocalizeKR": "응-? 왜-? 히카리랑 놀고 싶어-?     ",
       "LocalizeJP": "えー？ヒカリとあそびたいの？"
     },
     {
@@ -40941,7 +41069,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "간지-러워-",
+      "LocalizeKR": "간지-러워-      ",
       "LocalizeJP": "くすぐったーいー。"
     },
     {
@@ -40949,7 +41077,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "우우, 복수할 거야-",
+      "LocalizeKR": "우우, 복수할 거야-      ",
       "LocalizeJP": "ううーやりかえしてやるー！"
     },
     {
@@ -40957,7 +41085,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "쓰다듬 플리즈-\n히카리 칭찬해 줘-",
+      "LocalizeKR": "쓰다듬 플리즈- 히카리 칭찬해 줘-     ",
       "LocalizeJP": "なでなでプリーズ、ほめてほめてー。"
     },
     {
@@ -40965,7 +41093,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아무것도 안 했지만-\n그래도 해줘-",
+      "LocalizeKR": "아무것도 안 했지만- 그래도 해줘-     ",
       "LocalizeJP": "ほめてー……何もしてないけど。"
     },
     {
@@ -40973,7 +41101,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "간식 줄까-? 잠깐-만-……",
+      "LocalizeKR": "간식 줄까-? 잠깐-만-……      ",
       "LocalizeJP": "お菓子たべるー？ちょっとまってねー。"
     },
     {
@@ -40981,7 +41109,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아… 다 먹어버렸어- 쏘리-",
+      "LocalizeKR": "아… 다 먹어버렸어- 쏘리-      ",
       "LocalizeJP": "あー……全部食べちゃった……ソーリー。"
     },
     {
@@ -40989,7 +41117,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "파햐햐-! 준비됐어?",
+      "LocalizeKR": "파햐햐-! 준비됐어?      ",
       "LocalizeJP": "パヒャヒャッ！準備はいい？"
     },
     {
@@ -40997,7 +41125,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그럼 출바~알!",
+      "LocalizeKR": "그럼 출바~알!      ",
       "LocalizeJP": "いざしゅっぱーつ！"
     },
     {
@@ -41005,7 +41133,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "급한 호출이었는데도\n와줘서 고마워.",
+      "LocalizeKR": "급한 호출이었는데도 와줘서 고마워.     ",
       "LocalizeJP": "急な呼び出しだったのに来てくれてありがとね。"
     },
     {
@@ -41013,7 +41141,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "지금 꽤 위기 상황이라~\n잘 부탁해, 선생님!",
+      "LocalizeKR": "지금 꽤 위기 상황이라~ 잘 부탁해, 선생님!     ",
       "LocalizeJP": "マジで状況やばくてさ～\nよろしくね、先生！"
     },
     {
@@ -41021,7 +41149,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이거 괜찮은 거겠지?",
+      "LocalizeKR": "이거 괜찮은 거겠지?      ",
       "LocalizeJP": "これ、大丈夫なんだよね？"
     },
     {
@@ -41029,7 +41157,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "뭐, 제동장치\n고장만 안 난다면!",
+      "LocalizeKR": "뭐, 제동장치 고장만 안 난다면!     ",
       "LocalizeJP": "ま、制御装置に問題なきゃ大丈夫か。"
     },
     {
@@ -41037,7 +41165,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아~ 이제 곧 결판이 날 것 같아!\n왠지 그런 기분!",
+      "LocalizeKR": "아~ 이제 곧 결판이 날 것 같아! 왠지 그런 기분!     ",
       "LocalizeJP": "お、そろそろ終わる感じ？\nそんな気がしてきたかも。"
     },
     {
@@ -41045,7 +41173,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "햐~! 드디어 끝났다!!",
+      "LocalizeKR": "햐~! 드디어 끝났다!!      ",
       "LocalizeJP": "ひゃー！やっと終わったー！！"
     },
     {
@@ -41053,7 +41181,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어쨌든 꽤 괜찮았지? 푸햣~",
+      "LocalizeKR": "어쨌든 꽤 괜찮았지? 푸햣~      ",
       "LocalizeJP": "結構よかったんじゃない？パヒャヒャッ。"
     },
     {
@@ -41061,7 +41189,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "왜? 무슨 일 있어?",
+      "LocalizeKR": "왜? 무슨 일 있어?      ",
       "LocalizeJP": "なになに？どしたの？"
     },
     {
@@ -41069,7 +41197,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "별거 아니라고?\n나 참~ 나도 찌른다?",
+      "LocalizeKR": "별거 아니라고? 나 참~ 나도 찌른다?     ",
       "LocalizeJP": "「何でもない」？\nはぁ？んじゃ、こっちもつっついちゃお。"
     },
     {
@@ -41077,7 +41205,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "하아~ 어쩌다 이렇게 됐담.",
+      "LocalizeKR": "하아~ 어쩌다 이렇게 됐담.      ",
       "LocalizeJP": "あーあ、何でこんなことに。"
     },
     {
@@ -41085,7 +41213,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "뭐, 어떻게든 되겠지…?",
+      "LocalizeKR": "뭐, 어떻게든 되겠지…?      ",
       "LocalizeJP": "ま、なんとかなるっしょ……？"
     },
     {
@@ -41093,7 +41221,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "뭔가 재미있는 일은 없어?",
+      "LocalizeKR": "뭔가 재미있는 일은 없어?      ",
       "LocalizeJP": "なんか面白いことなーいー？"
     },
     {
@@ -41101,7 +41229,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "긴장을 풀 수\n있을 만한 그런 거!",
+      "LocalizeKR": "긴장을 풀 수 있을 만한 그런 거!     ",
       "LocalizeJP": "緊張ほぐすようなやつとかさぁ！"
     },
     {
@@ -41109,7 +41237,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "물론 긴장 같은 건\n안 했지만. 파햐햐~",
+      "LocalizeKR": "물론 긴장 같은 건 안 했지만. 파햐햐~     ",
       "LocalizeJP": "ま、別に緊張してないけど。あははっ！"
     },
     {
@@ -41117,7 +41245,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "앞으로도 하이랜더 철도를\n이용해 달라고!\n잘 부탁해, 선생님~",
+      "LocalizeKR": "앞으로도 하이랜더 철도를 이용해 달라고! 잘 부탁해, 선생님~    ",
       "LocalizeJP": "今後もハイランダー鉄道をごひいきに！\nよろしくね、せんせ♪"
     },
     {
@@ -41125,7 +41253,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님……\n와주셔서 감사해요……",
+      "LocalizeKR": "선생님…… 와주셔서 감사해요……     ",
       "LocalizeJP": "き、来てくださりありがとうございます……。"
     },
     {
@@ -41133,7 +41261,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아, 아무래도 어른이\n계시면 든든하니까……",
+      "LocalizeKR": "아, 아무래도 어른이 계시면 든든하니까……     ",
       "LocalizeJP": "お、大人が一緒にいてくださると……安心、します。"
     },
     {
@@ -41141,7 +41269,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "하, 하이랜더가 항상\n이렇지는 않으니까요……!\n이번만 좀……",
+      "LocalizeKR": "하, 하이랜더가 항상 이렇지는 않으니까요……! 이번만 좀……    ",
       "LocalizeJP": "いつもはこうじゃないんですけどっ！今回が特殊なだけで……。"
     },
     {
@@ -41149,7 +41277,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아…… 아니,\n대부분은 이렇긴 한데……",
+      "LocalizeKR": "아…… 아니, 대부분은 이렇긴 한데……     ",
       "LocalizeJP": "あー……いえ、そうでもないかもしれないですけど……。"
     },
     {
@@ -41157,7 +41285,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "그, 그래도 마냥\n개판은 아니에요.\n아마…… 모르겠지만요.",
+      "LocalizeKR": "그, 그래도 마냥 개판은 아니에요. 아마…… 모르겠지만요.    ",
       "LocalizeJP": "で、でも修羅場ってほどじゃないし……たぶん……知りませんけど。"
     },
     {
@@ -41165,7 +41293,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "으으…… 왜, 왠지\n엄청 귀찮은 일이\n되어가는 것 같네요……",
+      "LocalizeKR": "으으…… 왜, 왠지 엄청 귀찮은 일이 되어가는 것 같네요……    ",
       "LocalizeJP": "うう……な、なんだか面倒なことになってる気がするんですけど……。"
     },
     {
@@ -41173,7 +41301,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "간부님들을 믿어도 될까요……\n으음……",
+      "LocalizeKR": "간부님들을 믿어도 될까요…… 으음……     ",
       "LocalizeJP": "幹部の皆さん……信じて大丈夫なんですよね……？"
     },
     {
@@ -41181,7 +41309,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "휴우…… 그, 그래도\n얼추 마무리가 되어가는\n느낌이네요……",
+      "LocalizeKR": "휴우…… 그, 그래도 얼추 마무리가 되어가는 느낌이네요……    ",
       "LocalizeJP": "ふぅ……こ、ここまで来たら、もう大丈夫ですよね……？"
     },
     {
@@ -41189,7 +41317,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어, 어떻게든 끝났네요……",
+      "LocalizeKR": "어, 어떻게든 끝났네요……      ",
       "LocalizeJP": "はぁ……やっと終わりましたけど……。"
     },
     {
@@ -41197,7 +41325,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님도 너, 너무\n고생 많으셨어요……",
+      "LocalizeKR": "선생님도 너, 너무 고생 많으셨어요……     ",
       "LocalizeJP": "先生も本当に……お疲れさまでした。"
     },
     {
@@ -41205,7 +41333,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "무, 무슨 일이신가요……",
+      "LocalizeKR": "무, 무슨 일이신가요……      ",
       "LocalizeJP": "な、なんですか？"
     },
     {
@@ -41213,7 +41341,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "엣… 호, 혹시\n제가 뭔가 했나요…?",
+      "LocalizeKR": "엣… 호, 혹시 제가 뭔가 했나요…?     ",
       "LocalizeJP": "えっ……も、もしかして私何かしました……？"
     },
     {
@@ -41221,7 +41349,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "왜, 왠지 느낌이\n안 좋은데……",
+      "LocalizeKR": "왜, 왠지 느낌이 안 좋은데……     ",
       "LocalizeJP": "く、雲行きが怪しいんですけどぉ……。"
     },
     {
@@ -41229,7 +41357,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "별일 없겠죠……?",
+      "LocalizeKR": "별일 없겠죠……?      ",
       "LocalizeJP": "何事もないといいんですけど……。"
     },
     {
@@ -41237,7 +41365,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "가, 간부라는 사람들은\n왜 다 저런 걸까요……",
+      "LocalizeKR": "가, 간부라는 사람들은 왜 다 저런 걸까요……     ",
       "LocalizeJP": "ど、どうして幹部連中ってあんなんばっかなんですか……。"
     },
     {
@@ -41245,7 +41373,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "실무자들의\n괴로움을 몰라요……",
+      "LocalizeKR": "실무자들의 괴로움을 몰라요……     ",
       "LocalizeJP": "現場の事なんか全然見てないんですけど……。"
     },
     {
@@ -41253,7 +41381,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "……왜, 왜 그러시는\n건가요……",
+      "LocalizeKR": "……왜, 왜 그러시는 건가요……     ",
       "LocalizeJP": "……ど、どうしたんですか？"
     },
     {
@@ -41261,7 +41389,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "간지러워요……\n약한 부위인데……",
+      "LocalizeKR": "간지러워요…… 약한 부위인데……     ",
       "LocalizeJP": "く、くすぐったいんですけど……そこ、あんまり……ひゃっ。"
     },
     {
@@ -41269,7 +41397,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "필요한 거 있어-?\n골라봐-",
+      "LocalizeKR": "필요한 거 있어-? 골라봐-     ",
       "LocalizeJP": "トレインショップーなにがほしいー？"
     },
     {
@@ -41277,7 +41405,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "어서 와-\n뭘 사고 싶어-?",
+      "LocalizeKR": "어서 와- 뭘 사고 싶어-?     ",
       "LocalizeJP": "いらっしゃーい。みていってくださーい、だって？"
     },
     {
@@ -41285,7 +41413,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선로는 어디까지나 이어지지-\n가게도 함께야-",
+      "LocalizeKR": "선로는 어디까지나 이어지지- 가게도 함께야-     ",
       "LocalizeJP": "線路はどこまでもつづくーよーお店もいっしょー。"
     },
     {
@@ -41293,7 +41421,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "추천-? 으음……",
+      "LocalizeKR": "추천-? 으음……      ",
       "LocalizeJP": "おすすめ？うーん……。"
     },
     {
@@ -41301,7 +41429,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "안 돼- 직접 골라야 해-",
+      "LocalizeKR": "안 돼- 직접 골라야 해-      ",
       "LocalizeJP": "自分で選ぶのだー。"
     },
     {
@@ -41309,7 +41437,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "히카리도 놀고 싶지만\n참는 중- 선생님도 참아-",
+      "LocalizeKR": "히카리도 놀고 싶지만 참는 중- 선생님도 참아-     ",
       "LocalizeJP": "ヒカリも遊びたいけどがまんしてるーせんせーもがまんしてー。"
     },
     {
@@ -41317,7 +41445,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오- 그거 좋지-",
+      "LocalizeKR": "오- 그거 좋지-      ",
       "LocalizeJP": "おー、それいいよねー。"
     },
     {
@@ -41325,7 +41453,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "센스 있어- 휴-휴-",
+      "LocalizeKR": "센스 있어- 휴-휴-      ",
       "LocalizeJP": "センスあるーひゅーひゅー。"
     },
     {
@@ -41333,7 +41461,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "좋은 거 골랐어-\n선생님 똑똑해-",
+      "LocalizeKR": "좋은 거 골랐어- 선생님 똑똑해-     ",
       "LocalizeJP": "せんせい、かしこーい。"
     },
     {
@@ -41341,7 +41469,7 @@
       "CharacterId": 10117,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "히카리 것도 사주는 거야-?",
+      "LocalizeKR": "히카리 것도 사주는 거야-?      ",
       "LocalizeJP": "ヒカリのぶんも！ヒカリのぶんも！"
     },
     {
@@ -41349,7 +41477,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "원하는 만큼 둘러봐.",
+      "LocalizeKR": "원하는 만큼 둘러봐.      ",
       "LocalizeJP": "好きなだけ見てってよ。"
     },
     {
@@ -41357,7 +41485,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "따로 찾는 게 있으면\n언제든 말해줘!",
+      "LocalizeKR": "따로 찾는 게 있으면 언제든 말해줘!     ",
       "LocalizeJP": "なんか探してるものあったら言ってね？"
     },
     {
@@ -41365,7 +41493,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "뭐, 어딨는지는\n전혀 모르겠지만. 파햐햐!",
+      "LocalizeKR": "뭐, 어딨는지는 전혀 모르겠지만. 파햐햐!     ",
       "LocalizeJP": "ま、どこにあるかは知らないけど。パヒャヒャッ！"
     },
     {
@@ -41373,7 +41501,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "일은 마무리됐지만,\n갖고 싶은 게 있으면\n언제든지 와.",
+      "LocalizeKR": "일은 마무리됐지만, 갖고 싶은 게 있으면 언제든지 와.    ",
       "LocalizeJP": "仕事は終わったけど、欲しいものあるならまた来てよね。"
     },
     {
@@ -41381,7 +41509,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "응! 나 왜?",
+      "LocalizeKR": "응! 나 왜?      ",
       "LocalizeJP": "え、なになに？"
     },
     {
@@ -41389,7 +41517,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "대신 골라달라고?",
+      "LocalizeKR": "대신 골라달라고?      ",
       "LocalizeJP": "「代わりに選んでほしい」？"
     },
     {
@@ -41397,7 +41525,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "안 돼, 안 돼!\n직접 선택해야 의미가 있대.",
+      "LocalizeKR": "안 돼, 안 돼! 직접 선택해야 의미가 있대.     ",
       "LocalizeJP": "ダメダメ！自分で選ぶことに意味があるんだって。"
     },
     {
@@ -41405,7 +41533,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오~ 그건가! 좋은데~!",
+      "LocalizeKR": "오~ 그건가! 좋은데~!      ",
       "LocalizeJP": "お、それ？良いね良いねぇ。"
     },
     {
@@ -41413,7 +41541,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "굿 초이스! 파햣.",
+      "LocalizeKR": "굿 초이스! 파햣.      ",
       "LocalizeJP": "グッドチョイス！パヒャッ。"
     },
     {
@@ -41421,7 +41549,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "나도 갖고 싶은데, 그거.",
+      "LocalizeKR": "나도 갖고 싶은데, 그거.      ",
       "LocalizeJP": "私もほしいんだよね、それ。"
     },
     {
@@ -41429,7 +41557,7 @@
       "CharacterId": 10118,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "꽤 좋은 안목이잖아?",
+      "LocalizeKR": "꽤 좋은 안목이잖아?      ",
       "LocalizeJP": "なかなかいい趣味してんじゃん？"
     },
     {
@@ -41437,7 +41565,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "뭐, 뭔가 엄청\n많이 남은 느낌이네요……",
+      "LocalizeKR": "뭐, 뭔가 엄청 많이 남은 느낌이네요……     ",
       "LocalizeJP": "本当に終わる気がしないんですけど……。"
     },
     {
@@ -41445,7 +41573,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "서, 선생님이\n계셔서 다행이에요……",
+      "LocalizeKR": "서, 선생님이 계셔서 다행이에요……     ",
       "LocalizeJP": "せ、先生がいてくれて、よかったです……。"
     },
     {
@@ -41453,7 +41581,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "든든하다고 할까……\n안심이 된다고 할까……",
+      "LocalizeKR": "든든하다고 할까…… 안심이 된다고 할까……     ",
       "LocalizeJP": "心強いっていうか……安心できるっていうか……。"
     },
     {
@@ -41461,7 +41589,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "헤헤.",
+      "LocalizeKR": "헤헤.      ",
       "LocalizeJP": "えへへ。"
     },
     {
@@ -41469,7 +41597,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저, 저를 그렇게\n누르셔도…… 딱히 도움말\n같은 건 안 나오니까요…… ",
+      "LocalizeKR": "저, 저를 그렇게 누르셔도…… 딱히 도움말 같은 건 안 나오니까요……    ",
       "LocalizeJP": "さ、触ってもなんもないんですけどっ！？"
     },
     {
@@ -41477,7 +41605,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "뭐, 뭐라도 해야\n할 텐데…… 으으……",
+      "LocalizeKR": "뭐, 뭐라도 해야 할 텐데…… 으으……     ",
       "LocalizeJP": "ど、どうにかしないと……うう……。"
     },
     {
@@ -41485,7 +41613,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "와, 와아…… ",
+      "LocalizeKR": "와, 와아……      ",
       "LocalizeJP": "わ、わあ…… ！"
     },
     {
@@ -41493,7 +41621,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "쉬, 쉬운 일이\n아니었는데……",
+      "LocalizeKR": "쉬, 쉬운 일이 아니었는데……     ",
       "LocalizeJP": "す、すごすぎるんですけど！？"
     },
     {
@@ -41501,7 +41629,7 @@
       "CharacterId": 16017,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "여, 역시……\n어른의 힘……",
+      "LocalizeKR": "여, 역시…… 어른의 힘……     ",
       "LocalizeJP": "こ、これが……大人の力……。"
     },
     {
@@ -43319,6 +43447,398 @@
       "Separate": false,
       "LocalizeKR": "아, 선생님도, 오늘 하루 수고 많으셨지 말임다!",
       "LocalizeJP": "先生も、今日は早めに休むっすよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아르카나의 인도에\n이끌린 자여.\n이쪽입니다.",
+      "LocalizeJP": "アルカナに導かれし者よ……こちらへ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자, 와일드헌트에\n잠든 비밀을……",
+      "LocalizeJP": "さあ、ワイルドハントに眠る秘密を……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "함께 밝혀내 보죠.",
+      "LocalizeJP": "共に解き明かしましょう。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "으으음, 이번 작전은\n사감대에 들키면\n안 되는데…….",
+      "LocalizeJP": "うう……寮監隊にバレませんように……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "조금만 더!\n후회 없는 피날레를\n맞이하는 거예요!",
+      "LocalizeJP": "あと少し！悔いなきフィナーレを迎えましょう！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다음에도……",
+      "LocalizeJP": "マスター！また一緒に……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "마스터와 함께 훌륭한\n작품을 만들고 싶어요!",
+      "LocalizeJP": "素晴らしい芸術を作りましょう！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뉴후후, 마법에\n흥미가 있으신가요?",
+      "LocalizeJP": "にゅふふ、魔法に興味がおありですか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "마스터, 점괘를\n봐 드릴까요?",
+      "LocalizeJP": "マスター、占ってさしあげましょうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "물론 복채는\n필요 없어요.",
+      "LocalizeJP": "もちろんお代はいりません。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "편히 말씀해 주세요!",
+      "LocalizeJP": "お気軽にお声がけください！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "모, 모자는\n건드리지 마세요.",
+      "LocalizeJP": "ぼ、帽子はダメですからっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이건 마법사의\n상징이니까,\n벗겨지면 안 돼요!",
+      "LocalizeJP": "こ、これは魔法使いの象徴なので……脱げないんです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗, 그쪽은\n마법 각인이……!",
+      "LocalizeJP": "あっ、そこには魔法刻印が……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "계속 건드리면……\n폭발해 버릴지도.\n뉴후훗.",
+      "LocalizeJP": "何度も突っつくと……暴発しちゃうかも。にゅふふっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오컬연에 온 걸\n환영해…… 선생.",
+      "LocalizeJP": "オカ研にようこそぉ……先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……학원의 비밀이,\n기다리고 있어.",
+      "LocalizeJP": "……学院の秘密が、待ってるよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "잠들어 있는 비밀들이……\n잔뜩 있다구?",
+      "LocalizeJP": "眠っている秘密が……たくさんあるんだよ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "경고. 경고.\n이벤트가 끝나갑니다.",
+      "LocalizeJP": "ケイコク、ケイコク！マモナクイベントガ終了シマス！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……라네.",
+      "LocalizeJP": "……だってさぁ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "수고했어 선생.",
+      "LocalizeJP": "お疲れ様、先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이 추억은……\n다음 생에도 간직할 거야.\n히힛.",
+      "LocalizeJP": "この思い出は……来世まで持ってくよぉ。イヒッ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생의 손은……\n따뜻하네.",
+      "LocalizeJP": "先生の手……あったかい。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "응? 그쪽의 까마귀?\n난 모르는 아이야……",
+      "LocalizeJP": "そのカラス……知らない子だねぇ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "내가……\n좋아?",
+      "LocalizeJP": "私のこと、好きぃ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제대로 말해달라구.\n히히…….",
+      "LocalizeJP": "ちゃんと……言葉にして？\nイヒッ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "마음껏 쓰다듬어도 돼……\n전생에서처럼.",
+      "LocalizeJP": "好きなだけ撫でなよ……前世みたいにさ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter1",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자, 함께 마도구를\n입수해 보죠!",
+      "LocalizeJP": "さぁ、魔道具を手に入れましょう！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter2",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오오, 이 물품들……\n바라보기만 해도 마력이……!",
+      "LocalizeJP": "おお、この品揃え……眺めるだけでも魔力が……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이곳에서는 마도구를\n더 이상 모을 수 없게\n되었습니다만,",
+      "LocalizeJP": "ここではもう魔道具を集められなくなってしまいましたが、"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "괜찮습니다!",
+      "LocalizeJP": "構いません！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "마스터와의\n추억도, 마도구도.",
+      "LocalizeJP": "マスターとの思い出も魔道具も、"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앞으로 잔뜩\n찾아낼 수 있으니까요!",
+      "LocalizeJP": "これからいっぱい見つけていけますから！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "마음에 드는 게\n있으셨나요?",
+      "LocalizeJP": "お気に召すものはありましたか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "마스터의 심미안,\n기대하고 있어요!",
+      "LocalizeJP": "マスターの審美眼、期待しています！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy1",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이야, 마력이\n가득한 도구네요!",
+      "LocalizeJP": "これは強い魔力を感じますね……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy2",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "역시 마스터!\n안목이 있으시네요!",
+      "LocalizeJP": "さすがマスター！お目が高い！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy3",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그럼 바로\n시험해 볼까요!",
+      "LocalizeJP": "では、早速試してみましょうか！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy4",
+      "CharacterId": 10125,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "앗, 저도 그게\n좋을 것 같다고 생각했어요!",
+      "LocalizeJP": "あっ、私もそれがいいと思っていたんです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생을 위해서……\n학원의 비밀을 정리했어.",
+      "LocalizeJP": "先生のために……学院の秘密をまとめたよぉ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter2",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자……\n함께 학원의 비밀을\n파헤쳐보자.",
+      "LocalizeJP": "さ……一緒に解き明かそうかぁ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이 비밀을\n풀어낼 줄이야……",
+      "LocalizeJP": "この秘密を解けるなんて……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "역시 선생.",
+      "LocalizeJP": "先生はすごいねぇ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy2",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "고생했어……\n모두가 기뻐할 거야.\n히히.",
+      "LocalizeJP": "お疲れ様ぁ……みんなも喜ぶよぉ。イヒッ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "와일드헌트에는……\n아직 알려지지 않은\n비밀이 잔뜩 있다구.",
+      "LocalizeJP": "ワイルドハントには……まだ知られざる秘密がいっぱいあるよぉ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "내가……\n좋은 거구나……?",
+      "LocalizeJP": "私のこと、好きなんだ……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "정말 기뻐……\n이히힛!",
+      "LocalizeJP": "嬉しい……イヒヒッ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Interaction1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오늘은……\n여기까지네…….",
+      "LocalizeJP": "今日は……このへんで……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Interaction1",
+      "CharacterId": 10126,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "수고했어.",
+      "LocalizeJP": "お疲れ様ぁ。"
     }
   ]
 }

@@ -6,7 +6,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 10
+      "RewardParcelAmount": 10,
+      "DisplayOrder": 3
     },
     {
       "Id": 8480102,
@@ -14,7 +15,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 26015,
-      "RewardParcelAmount": 3
+      "RewardParcelAmount": 3,
+      "DisplayOrder": 1
     },
     {
       "Id": 8480103,
@@ -22,7 +24,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 80653,
-      "RewardParcelAmount": 10
+      "RewardParcelAmount": 10,
+      "DisplayOrder": 2
     },
     {
       "Id": 8480104,
@@ -30,7 +33,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 100000
+      "RewardParcelAmount": 100000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8480105,
@@ -38,7 +42,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 10
+      "RewardParcelAmount": 10,
+      "DisplayOrder": 10
     },
     {
       "Id": 8480106,
@@ -46,7 +51,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 10
+      "RewardParcelAmount": 10,
+      "DisplayOrder": 4
     },
     {
       "Id": 8480107,
@@ -54,7 +60,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 200,
-      "RewardParcelAmount": 3
+      "RewardParcelAmount": 3,
+      "DisplayOrder": 52
     },
     {
       "Id": 8480108,
@@ -62,7 +69,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 201,
-      "RewardParcelAmount": 2
+      "RewardParcelAmount": 2,
+      "DisplayOrder": 42
     },
     {
       "Id": 8480109,
@@ -70,7 +78,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 202,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 32
     },
     {
       "Id": 8480110,
@@ -78,7 +87,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 230,
-      "RewardParcelAmount": 3
+      "RewardParcelAmount": 3,
+      "DisplayOrder": 51
     },
     {
       "Id": 8480111,
@@ -86,7 +96,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 231,
-      "RewardParcelAmount": 2
+      "RewardParcelAmount": 2,
+      "DisplayOrder": 41
     },
     {
       "Id": 8480112,
@@ -94,7 +105,8 @@
       "MinPoint": 1,
       "RewardParcelType": "Item",
       "RewardParcelId": 232,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 31
     },
     {
       "Id": 8480201,
@@ -102,7 +114,8 @@
       "MinPoint": 2,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 11
+      "RewardParcelAmount": 11,
+      "DisplayOrder": 3
     },
     {
       "Id": 8480202,
@@ -110,7 +123,8 @@
       "MinPoint": 2,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 150000
+      "RewardParcelAmount": 150000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8480203,
@@ -118,7 +132,8 @@
       "MinPoint": 2,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8480301,
@@ -126,7 +141,8 @@
       "MinPoint": 3,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 12
+      "RewardParcelAmount": 12,
+      "DisplayOrder": 3
     },
     {
       "Id": 8480302,
@@ -134,7 +150,8 @@
       "MinPoint": 3,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 150000
+      "RewardParcelAmount": 150000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8480303,
@@ -142,7 +159,8 @@
       "MinPoint": 3,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8480304,
@@ -150,7 +168,8 @@
       "MinPoint": 3,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     },
     {
       "Id": 8480401,
@@ -158,7 +177,8 @@
       "MinPoint": 4,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 13
+      "RewardParcelAmount": 13,
+      "DisplayOrder": 3
     },
     {
       "Id": 8480402,
@@ -166,7 +186,8 @@
       "MinPoint": 4,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 150000
+      "RewardParcelAmount": 150000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8480403,
@@ -174,7 +195,8 @@
       "MinPoint": 4,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8480501,
@@ -182,7 +204,8 @@
       "MinPoint": 5,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 14
+      "RewardParcelAmount": 14,
+      "DisplayOrder": 3
     },
     {
       "Id": 8480502,
@@ -190,7 +213,8 @@
       "MinPoint": 5,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 150000
+      "RewardParcelAmount": 150000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8480503,
@@ -198,7 +222,8 @@
       "MinPoint": 5,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8480504,
@@ -206,7 +231,8 @@
       "MinPoint": 5,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     },
     {
       "Id": 8480601,
@@ -214,7 +240,8 @@
       "MinPoint": 6,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 15
+      "RewardParcelAmount": 15,
+      "DisplayOrder": 3
     },
     {
       "Id": 8480602,
@@ -222,7 +249,8 @@
       "MinPoint": 6,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 150000
+      "RewardParcelAmount": 150000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8480603,
@@ -230,7 +258,8 @@
       "MinPoint": 6,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8480604,
@@ -238,7 +267,8 @@
       "MinPoint": 6,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     },
     {
       "Id": 8480701,
@@ -246,7 +276,8 @@
       "MinPoint": 7,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 16
+      "RewardParcelAmount": 16,
+      "DisplayOrder": 3
     },
     {
       "Id": 8480702,
@@ -254,7 +285,8 @@
       "MinPoint": 7,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 150000
+      "RewardParcelAmount": 150000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8480703,
@@ -262,7 +294,8 @@
       "MinPoint": 7,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8480704,
@@ -270,7 +303,8 @@
       "MinPoint": 7,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     },
     {
       "Id": 8480801,
@@ -278,7 +312,8 @@
       "MinPoint": 8,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 17
+      "RewardParcelAmount": 17,
+      "DisplayOrder": 3
     },
     {
       "Id": 8480802,
@@ -286,7 +321,8 @@
       "MinPoint": 8,
       "RewardParcelType": "Item",
       "RewardParcelId": 26015,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 1
     },
     {
       "Id": 8480803,
@@ -294,7 +330,8 @@
       "MinPoint": 8,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 50000
+      "RewardParcelAmount": 50000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8480804,
@@ -302,7 +339,8 @@
       "MinPoint": 8,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8480901,
@@ -310,7 +348,8 @@
       "MinPoint": 9,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 18
+      "RewardParcelAmount": 18,
+      "DisplayOrder": 3
     },
     {
       "Id": 8480902,
@@ -318,7 +357,8 @@
       "MinPoint": 9,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 50000
+      "RewardParcelAmount": 50000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8480903,
@@ -326,7 +366,8 @@
       "MinPoint": 9,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8480904,
@@ -334,7 +375,8 @@
       "MinPoint": 9,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     },
     {
       "Id": 8481001,
@@ -342,7 +384,8 @@
       "MinPoint": 10,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 19
+      "RewardParcelAmount": 19,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481002,
@@ -350,7 +393,8 @@
       "MinPoint": 10,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 50000
+      "RewardParcelAmount": 50000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8481003,
@@ -358,7 +402,8 @@
       "MinPoint": 10,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8481101,
@@ -366,7 +411,8 @@
       "MinPoint": 11,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 20
+      "RewardParcelAmount": 20,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481102,
@@ -374,7 +420,8 @@
       "MinPoint": 11,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 50000
+      "RewardParcelAmount": 50000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8481103,
@@ -382,7 +429,8 @@
       "MinPoint": 11,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8481201,
@@ -390,7 +438,8 @@
       "MinPoint": 12,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 21
+      "RewardParcelAmount": 21,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481202,
@@ -398,7 +447,8 @@
       "MinPoint": 12,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 50000
+      "RewardParcelAmount": 50000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8481203,
@@ -406,7 +456,8 @@
       "MinPoint": 12,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8481204,
@@ -414,7 +465,8 @@
       "MinPoint": 12,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     },
     {
       "Id": 8481301,
@@ -422,7 +474,8 @@
       "MinPoint": 13,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 22
+      "RewardParcelAmount": 22,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481302,
@@ -430,7 +483,8 @@
       "MinPoint": 13,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 50000
+      "RewardParcelAmount": 50000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8481303,
@@ -438,7 +492,8 @@
       "MinPoint": 13,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8481401,
@@ -446,7 +501,8 @@
       "MinPoint": 14,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 23
+      "RewardParcelAmount": 23,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481402,
@@ -454,7 +510,8 @@
       "MinPoint": 14,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 50000
+      "RewardParcelAmount": 50000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8481403,
@@ -462,7 +519,8 @@
       "MinPoint": 14,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 10
     },
     {
       "Id": 8481501,
@@ -470,7 +528,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 24
+      "RewardParcelAmount": 24,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481502,
@@ -478,7 +537,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 26015,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 1
     },
     {
       "Id": 8481503,
@@ -486,7 +546,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Currency",
       "RewardParcelId": 1,
-      "RewardParcelAmount": 150000
+      "RewardParcelAmount": 150000,
+      "DisplayOrder": 9999
     },
     {
       "Id": 8481504,
@@ -494,7 +555,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 12,
-      "RewardParcelAmount": 2
+      "RewardParcelAmount": 2,
+      "DisplayOrder": 10
     },
     {
       "Id": 8481505,
@@ -502,7 +564,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     },
     {
       "Id": 8481506,
@@ -510,7 +573,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 200,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 52
     },
     {
       "Id": 8481507,
@@ -518,7 +582,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 201,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 42
     },
     {
       "Id": 8481508,
@@ -526,7 +591,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 202,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 32
     },
     {
       "Id": 8481509,
@@ -534,7 +600,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 203,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 22
     },
     {
       "Id": 8481510,
@@ -542,7 +609,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 230,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 51
     },
     {
       "Id": 8481511,
@@ -550,7 +618,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 231,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 41
     },
     {
       "Id": 8481512,
@@ -558,7 +627,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 232,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 31
     },
     {
       "Id": 8481513,
@@ -566,7 +636,8 @@
       "MinPoint": 15,
       "RewardParcelType": "Item",
       "RewardParcelId": 233,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 21
     },
     {
       "Id": 8481601,
@@ -574,7 +645,8 @@
       "MinPoint": 16,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 25
+      "RewardParcelAmount": 25,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481701,
@@ -582,7 +654,8 @@
       "MinPoint": 17,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 26
+      "RewardParcelAmount": 26,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481702,
@@ -590,7 +663,8 @@
       "MinPoint": 17,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     },
     {
       "Id": 8481801,
@@ -598,7 +672,8 @@
       "MinPoint": 18,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 27
+      "RewardParcelAmount": 27,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481901,
@@ -606,7 +681,8 @@
       "MinPoint": 19,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 28
+      "RewardParcelAmount": 28,
+      "DisplayOrder": 3
     },
     {
       "Id": 8481902,
@@ -614,7 +690,8 @@
       "MinPoint": 19,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     },
     {
       "Id": 8482001,
@@ -622,7 +699,8 @@
       "MinPoint": 20,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 29
+      "RewardParcelAmount": 29,
+      "DisplayOrder": 3
     },
     {
       "Id": 8482101,
@@ -630,7 +708,8 @@
       "MinPoint": 21,
       "RewardParcelType": "Item",
       "RewardParcelId": 80654,
-      "RewardParcelAmount": 30
+      "RewardParcelAmount": 30,
+      "DisplayOrder": 3
     },
     {
       "Id": 8482102,
@@ -638,7 +717,8 @@
       "MinPoint": 21,
       "RewardParcelType": "Item",
       "RewardParcelId": 100042,
-      "RewardParcelAmount": 1
+      "RewardParcelAmount": 1,
+      "DisplayOrder": 4
     }
   ]
 }
