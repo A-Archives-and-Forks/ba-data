@@ -52391,6 +52391,150 @@
       "Separate": false,
       "LocalizeKR": "히히, 이 승리도…… \n운명으로 정해져 있던 거야.",
       "LocalizeJP": "イヒッ……この勝利も……運命で定まってるの。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "호, 혹시나 해서 가져왔을 뿐이야!",
+      "LocalizeJP": "こ、これは一応持ってきただけで……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어디……\n우왓?!\n다행이야……",
+      "LocalizeJP": "ふう……。\nあっ！\nよかった……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이러면……\n아앗?!\n휴우……",
+      "LocalizeJP": "これでよし……。\nっ！？\nふぅ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다 됐나……?\n안 돼!\n무사했네……",
+      "LocalizeJP": "できた……。\nだめっ！\n無事だね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "물놀이 시간.",
+      "LocalizeJP": "水遊びの時間。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "물대포, 발사.",
+      "LocalizeJP": "水鉄砲、発射。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "빠져 버리라고.",
+      "LocalizeJP": "溺れて。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "바다……별로 재미없어.",
+      "LocalizeJP": "海……あんまり楽しくない。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "하아…… 책임져주는 거지?",
+      "LocalizeJP": "はぁ……責任取ってくれるんだよね？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "알았어……놀면 되는 거지?",
+      "LocalizeJP": "分かった……遊べばいいんでしょ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "딱히 즐기고 있는 게 아니야.\n선생님이 데려왔으니까, 책임지고 즐겁게 해 줘.",
+      "LocalizeJP": "別に楽しんでるわけじゃないよ。\n先生が連れてきたんだから、責任とって楽しませてよね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "날 이렇게 만든 건 선생님이잖아.\n……제대로 끝까지 챙겨줘.",
+      "LocalizeJP": "私をこんな風にしたのは先生でしょ。\n……ちゃんと最後まで面倒みて。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이런 것도 나쁘지만은 않을지도……\n……거짓말이야, 잊어.",
+      "LocalizeJP": "こういうのも悪くないかな……。\n……嘘、忘れて。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭘 힐끗힐끗 보는 거야……?\n그러니까 즐기고 있는 게 아니라고.",
+      "LocalizeJP": "何じろじろ見てるの……？\nだから楽しんでないって。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "보지 마.\n아니, 부끄러워하는 게 아니니까……!",
+      "LocalizeJP": "見ないで。\nいや、照れてるわけじゃないから……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "알겠어……참.\n이런 것도, 나쁘지 않네……자, 말했어.",
+      "LocalizeJP": "わかったよ……もう。\nこういうのも、悪くないね……はい、言ったよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "내일이……정말로 이렇게 나쁘지만은 않은 거라고 한다면……\n앞으로도, 계속 증명해 줘.",
+      "LocalizeJP": "明日が……本当に、こんな風に悪いものじゃないって言うなら……\nこれからも、証明し続けて。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나를 이렇게 만들어 놨으면서…….\n책임질 생각 따위 없겠지.\n……'할 수 있는 거라면 뭐든 하겠다고'?\n자, 자기가 무슨 소리를 하는 건지 알고 있어!?",
+      "LocalizeJP": "私をこんな風にしたのに……。\n責任取るつもりなんて、ないんでしょ。\n……「できることはなんでもやる」？\nじ、自分が何言ってるかわかってるの！？"
     }
   ]
 }

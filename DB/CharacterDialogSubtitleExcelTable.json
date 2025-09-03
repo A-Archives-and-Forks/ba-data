@@ -17137,6 +17137,70 @@
       "LocalizeJP": "さすが先生……わかってる、ねぇ。イヒヒッ。"
     },
     {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루, 아카이브",
+      "LocalizeJP": "ブルー、アーカイブ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "덥고, 끈적이고……\n그래서, 뭐 할 거야?",
+      "LocalizeJP": "暑いし、ベタベタする……。\nで、何するの？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "지루해…….",
+      "LocalizeJP": "退屈……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(저건…… 뭘까?)",
+      "LocalizeJP": "（あれ……何？）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "남들은 평소에\n이렇게 지내는구나…….",
+      "LocalizeJP": "他の人は普段こう過ごしてるんだ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그러니까,\n관심 없다니까.\n……진짜로.",
+      "LocalizeJP": "だから、興味ないってば。\n……本当に。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(선생님……\n뭐 하고 있으려나……)",
+      "LocalizeJP": "（先生……何してるんだろ）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이런 곳에서 쓰려나…….\n'무기도 사용하기 나름'?\n하아…… 그런 쪽으로 말은 잘하지.\n알았어…… 고마워.",
+      "LocalizeJP": "こんなとこで使うかな……。\n「武器も使いよう」？\nはぁ……そういうとこ、口回るよね。\nわかった……ありがとう。"
+    },
+    {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
       "CharacterId": 10014,
       "Duration": 0,
@@ -43447,6 +43511,110 @@
       "Separate": false,
       "LocalizeKR": "아, 선생님도, 오늘 하루 수고 많으셨지 말임다!",
       "LocalizeJP": "先生も、今日は早めに休むっすよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아, 왔구나.\n아- …… 뭐,\n나름대로 즐기고 있어.",
+      "LocalizeJP": "あ、来たんだ。\nあー……まあ、それなりに楽しんでるよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "바다는, 이런 곳이구나…….",
+      "LocalizeJP": "海って、こういうところなんだ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "하아……\n조용히 지내고 싶어.",
+      "LocalizeJP": "はあ……静かに過ごしたい。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어떻게든 해 줘.\n선생님.",
+      "LocalizeJP": "なんとかしてよ、先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭐야, 이 인파…….\n위험은 없는 것 같지만.",
+      "LocalizeJP": "何、この人混み……。\n危険はないみたいだけど。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "끝난 건가……\n……그래. 나쁘지 않았어.\n이번만은 인정할게.",
+      "LocalizeJP": "もう終わりなんだ……。\n……うん、たしかに悪くなかった。\n認めるよ。今回だけね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "왜 그래, 선생님.",
+      "LocalizeJP": "なに？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어차피 선생님이\n뭐라고 해도,\n재미있어 할 생각\n없으니까 말이지.",
+      "LocalizeJP": "先生がなんと言おうと\n楽しむつもりはないよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(……평소보다,\n신선할지도)",
+      "LocalizeJP": "（……いつもより、新鮮かも）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭐, 뭐야?\n왜 찌른 거야?\n나, 인형이 아니라고……!",
+      "LocalizeJP": "な、なに？なんで突っついたの？\n私、ぬいぐるみじゃないんだけど……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……한가해?\n야외무대라도\n보고 오지 그래?",
+      "LocalizeJP": "……暇なの？\nステージでも見てきたら？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나? 관심 없는데……\n뭐, 선생님이\n가고 싶다면.",
+      "LocalizeJP": "私？興味ないけど……\nまあ、先生が行きたいなら。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20049,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "같이 가 줄 테니까.",
+      "LocalizeJP": "付き合ってあげるよ。"
     },
     {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
