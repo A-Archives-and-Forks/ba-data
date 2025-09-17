@@ -17260,6 +17260,17 @@
       "SpineLocalPosY": 0
     },
     {
+      "Name": 2000103813,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_SC61000_01",
+      "BGType": "Spine",
+      "AnimationRoot": "SC61000_01LobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
       "Name": 1540580758,
       "ProductionStep": "Release",
       "BGFileName": "",
