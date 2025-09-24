@@ -167,6 +167,78 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 20019,
       "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50851,
+      "RecruitSellectionShopId": 10550,
+      "PickupCharacterId": 10127,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10127,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50852,
+      "RecruitSellectionShopId": 10550,
+      "PickupCharacterId": 10128,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10128,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50853,
+      "RecruitSellectionShopId": 10550,
+      "PickupCharacterId": 20040,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20040,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50855,
+      "RecruitSellectionShopId": 10551,
+      "PickupCharacterId": 20050,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20050,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50856,
+      "RecruitSellectionShopId": 10551,
+      "PickupCharacterId": 10055,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10055,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50857,
+      "RecruitSellectionShopId": 10551,
+      "PickupCharacterId": 10039,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10039,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50859,
+      "RecruitSellectionShopId": 10552,
+      "PickupCharacterId": 10022,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10022,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50860,
+      "RecruitSellectionShopId": 10552,
+      "PickupCharacterId": 10023,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10023,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50861,
+      "RecruitSellectionShopId": 10552,
+      "PickupCharacterId": 20029,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20029,
+      "RewardParcelAmount": 100
     }
   ]
 }

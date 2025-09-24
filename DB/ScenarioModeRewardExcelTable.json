@@ -4159,6 +4159,114 @@
       "IsDisplayed": true
     },
     {
+      "ScenarioModeRewardId": 62010,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62020,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62030,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62040,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62050,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62050,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Emblem",
+      "RewardParcelId": 1062050,
+      "RewardParcelAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62060,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62070,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62080,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62090,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62100,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 62110,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
       "ScenarioModeRewardId": 1101,
       "RewardTag": "Default",
       "RewardProb": 10000,
@@ -5168,6 +5276,24 @@
     },
     {
       "ScenarioModeRewardId": 70008030,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 70009010,
+      "RewardTag": "Default",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 3,
+      "RewardParcelAmount": 40,
+      "IsDisplayed": true
+    },
+    {
+      "ScenarioModeRewardId": 70009020,
       "RewardTag": "Default",
       "RewardProb": 10000,
       "RewardParcelType": "Currency",

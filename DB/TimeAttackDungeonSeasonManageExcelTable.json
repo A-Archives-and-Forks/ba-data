@@ -751,6 +751,22 @@
       ],
       "TimeAttackDungeonRewardId": 1,
       "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 48,
+      "StartDate": "2025-11-05 11:00:00",
+      "EndNoteLabelStartDate": "2025-11-08 03:59:59",
+      "EndDate": "2025-11-12 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 4000,
+      "DifficultyGeas": [
+        45001,
+        45101,
+        45201,
+        45301
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
     }
   ]
 }

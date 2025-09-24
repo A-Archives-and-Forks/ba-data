@@ -751,6 +751,12 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 2121,
+      "NameKr": "와일드헌트 캠퍼스 - 가구 컨셉",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 3000,
       "NameKr": "3차 노드용 백귀야행",
       "IsRecursive": false,
@@ -1514,7 +1520,7 @@
     },
     {
       "ID": 100023,
-      "NameKr": "1_1차 픽업 SSR 에리",
+      "NameKr": "1_1차 픽업 SSR 미요",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1556,7 +1562,49 @@
     },
     {
       "ID": 100043,
-      "NameKr": "1_2차 픽업 SSR 카노에",
+      "NameKr": "1_2차 픽업 SSR 후유",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100050,
+      "NameKr": "1_3차 픽업",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100051,
+      "NameKr": "1_3차 픽업 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100052,
+      "NameKr": "1_3차 픽업 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100053,
+      "NameKr": "1_3차 픽업 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100059,
+      "NameKr": "1_3차 픽업 SR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100062,
+      "NameKr": "1_3차 픽업 SR 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100063,
+      "NameKr": "1_3차 픽업 SSR 사츠키",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1598,7 +1646,7 @@
     },
     {
       "ID": 110023,
-      "NameKr": "2_1차 픽업 SSR 미사키(수영복)",
+      "NameKr": "2_1차 픽업 SSR 리츠",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1640,7 +1688,7 @@
     },
     {
       "ID": 110043,
-      "NameKr": "2_2차 픽업 SSR 한정_사오리(수영복)",
+      "NameKr": "2_2차 픽업 SSR 시구레",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1682,91 +1730,7 @@
     },
     {
       "ID": 110063,
-      "NameKr": "2_3차 픽업 SSR 한정_히요리(수영복)",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110070,
-      "NameKr": "2_4차 픽업",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110071,
-      "NameKr": "2_4차 픽업 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110072,
-      "NameKr": "2_4차 픽업 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110073,
-      "NameKr": "2_4차 픽업 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110079,
-      "NameKr": "2_4차 픽업 SR + SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110082,
-      "NameKr": "2_4차 픽업 SR 더미",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110083,
-      "NameKr": "2_4차 픽업 SSR 시로코(수영복)",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110090,
-      "NameKr": "2_5차 픽업",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110091,
-      "NameKr": "2_5차 픽업 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110092,
-      "NameKr": "2_5차 픽업 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110093,
-      "NameKr": "2_5차 픽업 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110099,
-      "NameKr": "2_5차 픽업 SR + SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110102,
-      "NameKr": "2_5차 픽업 SR 더미",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 110103,
-      "NameKr": "2_5차 픽업 SSR 노노미(수영복)",
+      "NameKr": "2_3차 픽업 SSR 미유",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1808,7 +1772,7 @@
     },
     {
       "ID": 120023,
-      "NameKr": "3_1차 픽업 SSR 한정_네루(바니걸)",
+      "NameKr": "3_1차 픽업 SSR 한정_히나(수영복)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1850,7 +1814,7 @@
     },
     {
       "ID": 120043,
-      "NameKr": "3_2차 픽업 SSR 한정_카린(바니걸)",
+      "NameKr": "3_2차 픽업 SSR 한정_이오리(수영복)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1892,7 +1856,7 @@
     },
     {
       "ID": 120063,
-      "NameKr": "3_3차 픽업 SSR 아카네(바니걸)",
+      "NameKr": "3_3차 픽업 SSR 미모리(수영복)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -6097,6 +6061,54 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 300851,
+      "NameKr": "R84_와일드헌트특수교역부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300852,
+      "NameKr": "R84_와일드헌트특수교역부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300853,
+      "NameKr": "R84_와일드헌트특수교역부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300854,
+      "NameKr": "R84_와일드헌트특수교역부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300855,
+      "NameKr": "R84_와일드헌트특수교역부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300856,
+      "NameKr": "R84_와일드헌트특수교역부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300857,
+      "NameKr": "R84_와일드헌트특수교역부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300858,
+      "NameKr": "R84_와일드헌트특수교역부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 9티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 310000,
       "NameKr": "붉은겨울 박스 가챠 - 랜덤 장비 상자",
       "IsRecursive": true,
@@ -6237,6 +6249,12 @@
     {
       "ID": 310250,
       "NameKr": "R83_와일드헌트오컬트부이벤트_장비랜덤상자",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 310260,
+      "NameKr": "R84_와일드헌트특수교역부이벤트_장비랜덤상자",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
@@ -8253,6 +8271,12 @@
     {
       "ID": 801021,
       "NameKr": "제조2호기 투입용 - 가구 (티파티 세트) 랜덤권",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 801022,
+      "NameKr": "제조2호기 투입용 - 가구 (와일드헌트 캠퍼스) 랜덤권",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },

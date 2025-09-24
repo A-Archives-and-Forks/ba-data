@@ -28335,7 +28335,7 @@
       "ToastDisplayType": "Always",
       "ToastImagePath": "",
       "ShortcutUI": [
-        "UISchoolDungeonLobby"
+        "UISchoolDungeonStageSelect|60102"
       ],
       "CompleteConditionType": "Reset_ClearSpecificSchoolDungeonCount",
       "CompleteConditionCount": 1,
@@ -28368,7 +28368,7 @@
       "ToastDisplayType": "Always",
       "ToastImagePath": "",
       "ShortcutUI": [
-        "UISchoolDungeonLobby"
+        "UISchoolDungeonStageSelect|60202"
       ],
       "CompleteConditionType": "Reset_ClearSpecificSchoolDungeonCount",
       "CompleteConditionCount": 1,
@@ -28401,7 +28401,7 @@
       "ToastDisplayType": "Always",
       "ToastImagePath": "",
       "ShortcutUI": [
-        "UISchoolDungeonLobby"
+        "UISchoolDungeonStageSelect|60302"
       ],
       "CompleteConditionType": "Reset_ClearSpecificSchoolDungeonCount",
       "CompleteConditionCount": 1,

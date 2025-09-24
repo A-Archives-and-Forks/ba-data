@@ -26,7 +26,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012301,
       "RecommendLevel": 25,
-      "RewardGroupId": 103001,
+      "RewardGroupId": 110001,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -65,7 +65,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012301,
       "RecommendLevel": 25,
-      "RewardGroupId": 103002,
+      "RewardGroupId": 110002,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -104,7 +104,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012301,
       "RecommendLevel": 25,
-      "RewardGroupId": 103003,
+      "RewardGroupId": 110003,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -143,7 +143,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012301,
       "RecommendLevel": 25,
-      "RewardGroupId": 103004,
+      "RewardGroupId": 110004,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -182,7 +182,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012301,
       "RecommendLevel": 25,
-      "RewardGroupId": 103005,
+      "RewardGroupId": 110005,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -221,7 +221,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012302,
       "RecommendLevel": 30,
-      "RewardGroupId": 103006,
+      "RewardGroupId": 110006,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -260,7 +260,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012302,
       "RecommendLevel": 30,
-      "RewardGroupId": 103007,
+      "RewardGroupId": 110007,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -299,7 +299,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012302,
       "RecommendLevel": 30,
-      "RewardGroupId": 103008,
+      "RewardGroupId": 110008,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -338,7 +338,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012302,
       "RecommendLevel": 30,
-      "RewardGroupId": 103009,
+      "RewardGroupId": 110009,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -377,7 +377,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012303,
       "RecommendLevel": 35,
-      "RewardGroupId": 103010,
+      "RewardGroupId": 110010,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -416,7 +416,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012303,
       "RecommendLevel": 35,
-      "RewardGroupId": 103011,
+      "RewardGroupId": 110011,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -455,7 +455,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012303,
       "RecommendLevel": 35,
-      "RewardGroupId": 103012,
+      "RewardGroupId": 110012,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -494,7 +494,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012304,
       "RecommendLevel": 40,
-      "RewardGroupId": 103013,
+      "RewardGroupId": 110013,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -533,7 +533,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012304,
       "RecommendLevel": 40,
-      "RewardGroupId": 103014,
+      "RewardGroupId": 110014,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -572,7 +572,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012304,
       "RecommendLevel": 40,
-      "RewardGroupId": 103015,
+      "RewardGroupId": 110015,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -611,7 +611,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012304,
       "RecommendLevel": 40,
-      "RewardGroupId": 103016,
+      "RewardGroupId": 110016,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -650,7 +650,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012305,
       "RecommendLevel": 45,
-      "RewardGroupId": 103017,
+      "RewardGroupId": 110017,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -689,7 +689,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012305,
       "RecommendLevel": 45,
-      "RewardGroupId": 103018,
+      "RewardGroupId": 110018,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -728,7 +728,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012305,
       "RecommendLevel": 45,
-      "RewardGroupId": 103019,
+      "RewardGroupId": 110019,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -767,7 +767,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012306,
       "RecommendLevel": 50,
-      "RewardGroupId": 103020,
+      "RewardGroupId": 110020,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -806,7 +806,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012306,
       "RecommendLevel": 50,
-      "RewardGroupId": 103021,
+      "RewardGroupId": 110021,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -845,7 +845,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012306,
       "RecommendLevel": 50,
-      "RewardGroupId": 103022,
+      "RewardGroupId": 110022,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -884,7 +884,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012306,
       "RecommendLevel": 50,
-      "RewardGroupId": 103023,
+      "RewardGroupId": 110023,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -923,7 +923,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012306,
       "RecommendLevel": 50,
-      "RewardGroupId": 103024,
+      "RewardGroupId": 110024,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -962,7 +962,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012307,
       "RecommendLevel": 50,
-      "RewardGroupId": 103025,
+      "RewardGroupId": 110025,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1001,7 +1001,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012307,
       "RecommendLevel": 50,
-      "RewardGroupId": 103026,
+      "RewardGroupId": 110026,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1040,7 +1040,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012308,
       "RecommendLevel": 55,
-      "RewardGroupId": 103027,
+      "RewardGroupId": 110027,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1079,7 +1079,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012308,
       "RecommendLevel": 55,
-      "RewardGroupId": 103028,
+      "RewardGroupId": 110028,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1118,7 +1118,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012308,
       "RecommendLevel": 55,
-      "RewardGroupId": 103029,
+      "RewardGroupId": 110029,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1157,7 +1157,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012308,
       "RecommendLevel": 55,
-      "RewardGroupId": 103030,
+      "RewardGroupId": 110030,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1196,7 +1196,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012308,
       "RecommendLevel": 55,
-      "RewardGroupId": 103031,
+      "RewardGroupId": 110031,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1235,7 +1235,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012308,
       "RecommendLevel": 55,
-      "RewardGroupId": 103032,
+      "RewardGroupId": 110032,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1274,7 +1274,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012308,
       "RecommendLevel": 55,
-      "RewardGroupId": 103033,
+      "RewardGroupId": 110033,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1313,7 +1313,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012308,
       "RecommendLevel": 55,
-      "RewardGroupId": 103034,
+      "RewardGroupId": 110034,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1352,7 +1352,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012309,
       "RecommendLevel": 60,
-      "RewardGroupId": 103035,
+      "RewardGroupId": 110035,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1391,7 +1391,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012309,
       "RecommendLevel": 60,
-      "RewardGroupId": 103036,
+      "RewardGroupId": 110036,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1430,7 +1430,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012309,
       "RecommendLevel": 60,
-      "RewardGroupId": 103037,
+      "RewardGroupId": 110037,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1469,7 +1469,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012309,
       "RecommendLevel": 60,
-      "RewardGroupId": 103038,
+      "RewardGroupId": 110038,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1508,7 +1508,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012309,
       "RecommendLevel": 60,
-      "RewardGroupId": 103039,
+      "RewardGroupId": 110039,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1547,7 +1547,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012310,
       "RecommendLevel": 65,
-      "RewardGroupId": 103040,
+      "RewardGroupId": 110040,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1586,7 +1586,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012310,
       "RecommendLevel": 65,
-      "RewardGroupId": 103041,
+      "RewardGroupId": 110041,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1625,7 +1625,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012310,
       "RecommendLevel": 65,
-      "RewardGroupId": 103042,
+      "RewardGroupId": 110042,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1664,7 +1664,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012310,
       "RecommendLevel": 65,
-      "RewardGroupId": 103043,
+      "RewardGroupId": 110043,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1703,7 +1703,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012310,
       "RecommendLevel": 65,
-      "RewardGroupId": 103044,
+      "RewardGroupId": 110044,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1742,7 +1742,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012311,
       "RecommendLevel": 70,
-      "RewardGroupId": 103045,
+      "RewardGroupId": 110045,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1781,7 +1781,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012311,
       "RecommendLevel": 70,
-      "RewardGroupId": 103046,
+      "RewardGroupId": 110046,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1820,7 +1820,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012311,
       "RecommendLevel": 70,
-      "RewardGroupId": 103047,
+      "RewardGroupId": 110047,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1859,7 +1859,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012311,
       "RecommendLevel": 70,
-      "RewardGroupId": 103048,
+      "RewardGroupId": 110048,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1898,7 +1898,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012311,
       "RecommendLevel": 70,
-      "RewardGroupId": 103049,
+      "RewardGroupId": 110049,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_01_OP"
       ],
@@ -1937,7 +1937,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012312,
       "RecommendLevel": 70,
-      "RewardGroupId": 103050,
+      "RewardGroupId": 110050,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -1976,7 +1976,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012312,
       "RecommendLevel": 70,
-      "RewardGroupId": 103051,
+      "RewardGroupId": 110051,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2015,7 +2015,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012312,
       "RecommendLevel": 70,
-      "RewardGroupId": 103052,
+      "RewardGroupId": 110052,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2054,7 +2054,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012312,
       "RecommendLevel": 70,
-      "RewardGroupId": 103053,
+      "RewardGroupId": 110053,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2093,7 +2093,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012312,
       "RecommendLevel": 70,
-      "RewardGroupId": 103054,
+      "RewardGroupId": 110054,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2132,7 +2132,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103055,
+      "RewardGroupId": 110055,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2171,7 +2171,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103056,
+      "RewardGroupId": 110056,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2210,7 +2210,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103057,
+      "RewardGroupId": 110057,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2249,7 +2249,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103058,
+      "RewardGroupId": 110058,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2288,7 +2288,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103059,
+      "RewardGroupId": 110059,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2327,7 +2327,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103060,
+      "RewardGroupId": 110060,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2366,7 +2366,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103061,
+      "RewardGroupId": 110061,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2405,7 +2405,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103062,
+      "RewardGroupId": 110062,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2444,7 +2444,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103063,
+      "RewardGroupId": 110063,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2483,7 +2483,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012313,
       "RecommendLevel": 75,
-      "RewardGroupId": 103064,
+      "RewardGroupId": 110064,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2522,7 +2522,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103065,
+      "RewardGroupId": 110065,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2561,7 +2561,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103066,
+      "RewardGroupId": 110066,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2600,7 +2600,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103067,
+      "RewardGroupId": 110067,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2639,7 +2639,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103068,
+      "RewardGroupId": 110068,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2678,7 +2678,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103069,
+      "RewardGroupId": 110069,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2717,7 +2717,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103070,
+      "RewardGroupId": 110070,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2756,7 +2756,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103071,
+      "RewardGroupId": 110071,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2795,7 +2795,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103072,
+      "RewardGroupId": 110072,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2834,7 +2834,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103073,
+      "RewardGroupId": 110073,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2873,7 +2873,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012314,
       "RecommendLevel": 80,
-      "RewardGroupId": 103074,
+      "RewardGroupId": 110074,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2912,7 +2912,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103075,
+      "RewardGroupId": 110075,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2951,7 +2951,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103076,
+      "RewardGroupId": 110076,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -2990,7 +2990,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103077,
+      "RewardGroupId": 110077,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3029,7 +3029,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103078,
+      "RewardGroupId": 110078,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3068,7 +3068,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103079,
+      "RewardGroupId": 110079,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3107,7 +3107,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103080,
+      "RewardGroupId": 110080,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3146,7 +3146,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103081,
+      "RewardGroupId": 110081,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3185,7 +3185,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103082,
+      "RewardGroupId": 110082,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3224,7 +3224,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103083,
+      "RewardGroupId": 110083,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3263,7 +3263,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012315,
       "RecommendLevel": 85,
-      "RewardGroupId": 103084,
+      "RewardGroupId": 110084,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3302,7 +3302,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103085,
+      "RewardGroupId": 110085,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3341,7 +3341,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103086,
+      "RewardGroupId": 110086,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3380,7 +3380,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103087,
+      "RewardGroupId": 110087,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3419,7 +3419,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103088,
+      "RewardGroupId": 110088,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3458,7 +3458,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103089,
+      "RewardGroupId": 110089,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3497,7 +3497,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103090,
+      "RewardGroupId": 110090,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3536,7 +3536,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103091,
+      "RewardGroupId": 110091,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3575,7 +3575,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103092,
+      "RewardGroupId": 110092,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3614,7 +3614,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103093,
+      "RewardGroupId": 110093,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3653,7 +3653,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103094,
+      "RewardGroupId": 110094,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3692,7 +3692,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103095,
+      "RewardGroupId": 110095,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3731,7 +3731,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103096,
+      "RewardGroupId": 110096,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3770,7 +3770,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103097,
+      "RewardGroupId": 110097,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3809,7 +3809,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103098,
+      "RewardGroupId": 110098,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3848,7 +3848,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012316,
       "RecommendLevel": 90,
-      "RewardGroupId": 103099,
+      "RewardGroupId": 110099,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_02_OP"
       ],
@@ -3887,7 +3887,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012317,
       "RecommendLevel": 95,
-      "RewardGroupId": 103100,
+      "RewardGroupId": 110100,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -3926,7 +3926,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012317,
       "RecommendLevel": 95,
-      "RewardGroupId": 103101,
+      "RewardGroupId": 110101,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -3965,7 +3965,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012317,
       "RecommendLevel": 95,
-      "RewardGroupId": 103102,
+      "RewardGroupId": 110102,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4004,7 +4004,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012317,
       "RecommendLevel": 95,
-      "RewardGroupId": 103103,
+      "RewardGroupId": 110103,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4043,7 +4043,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012317,
       "RecommendLevel": 95,
-      "RewardGroupId": 103104,
+      "RewardGroupId": 110104,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4082,7 +4082,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012318,
       "RecommendLevel": 100,
-      "RewardGroupId": 103105,
+      "RewardGroupId": 110105,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4121,7 +4121,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012318,
       "RecommendLevel": 100,
-      "RewardGroupId": 103106,
+      "RewardGroupId": 110106,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4160,7 +4160,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012318,
       "RecommendLevel": 100,
-      "RewardGroupId": 103107,
+      "RewardGroupId": 110107,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4199,7 +4199,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012318,
       "RecommendLevel": 100,
-      "RewardGroupId": 103108,
+      "RewardGroupId": 110108,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4238,7 +4238,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012318,
       "RecommendLevel": 100,
-      "RewardGroupId": 103109,
+      "RewardGroupId": 110109,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4277,7 +4277,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103110,
+      "RewardGroupId": 110110,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4316,7 +4316,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103111,
+      "RewardGroupId": 110111,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4355,7 +4355,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103112,
+      "RewardGroupId": 110112,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4394,7 +4394,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103113,
+      "RewardGroupId": 110113,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4433,7 +4433,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103114,
+      "RewardGroupId": 110114,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4472,7 +4472,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103115,
+      "RewardGroupId": 110115,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4511,7 +4511,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103116,
+      "RewardGroupId": 110116,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4550,7 +4550,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103117,
+      "RewardGroupId": 110117,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4589,7 +4589,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103118,
+      "RewardGroupId": 110118,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4628,7 +4628,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103119,
+      "RewardGroupId": 110119,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4667,7 +4667,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103120,
+      "RewardGroupId": 110120,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4706,7 +4706,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103121,
+      "RewardGroupId": 110121,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4745,7 +4745,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103122,
+      "RewardGroupId": 110122,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4784,7 +4784,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103123,
+      "RewardGroupId": 110123,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],
@@ -4823,7 +4823,7 @@
       "BattleDuration": 270000,
       "GroundId": 10012319,
       "RecommendLevel": 105,
-      "RewardGroupId": 103124,
+      "RewardGroupId": 110124,
       "BattleReadyTimelinePath": [
         "Timeline/Timeline_EN0008_Original_03_OP"
       ],

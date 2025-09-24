@@ -111,6 +111,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Shimiko"
     },
     {
+      "CharacterName": 344579124,
+      "ProductionStep": "Release",
+      "NameKR": "시미코",
+      "NicknameKR": "도서부",
+      "NameJP": "シミコ",
+      "NicknameJP": "図書委員会",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_shimiko",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Shimiko"
+    },
+    {
       "CharacterName": 667578093,
       "ProductionStep": "Release",
       "NameKR": "세리나",
@@ -122,12 +133,34 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Serina"
     },
     {
+      "CharacterName": 1940629388,
+      "ProductionStep": "Release",
+      "NameKR": "세리나",
+      "NicknameKR": "",
+      "NameJP": "セリナ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_serina",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Serina"
+    },
+    {
       "CharacterName": 912463881,
       "ProductionStep": "Release",
       "NameKR": "하나에",
       "NicknameKR": "구호기사단",
       "NameJP": "ハナエ",
       "NicknameJP": "救護騎士団",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hanae",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hanae"
+    },
+    {
+      "CharacterName": 1340630528,
+      "ProductionStep": "Release",
+      "NameKR": "하나에",
+      "NicknameKR": "",
+      "NameJP": "ハナエ",
+      "NicknameJP": "",
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hanae",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hanae"
@@ -1904,6 +1937,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0152"
     },
     {
+      "CharacterName": 2473323070,
+      "ProductionStep": "Release",
+      "NameKR": "미네",
+      "NicknameKR": "",
+      "NameJP": "ミネ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0152",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0152"
+    },
+    {
       "CharacterName": 1731015540,
       "ProductionStep": "Release",
       "NameKR": "미사키",
@@ -2065,6 +2109,17 @@
       "NameJP": "ウイ",
       "NicknameJP": "図書委員会",
       "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0169",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0169"
+    },
+    {
+      "CharacterName": 4045644713,
+      "ProductionStep": "Release",
+      "NameKR": "우이",
+      "NicknameKR": "도서부",
+      "NameJP": "ウイ",
+      "NicknameJP": "図書委員会",
+      "Shape": "Signal",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0169",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0169"
     },
@@ -5400,6 +5455,105 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0324",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0324"
+    },
+    {
+      "CharacterName": 4080363677,
+      "ProductionStep": "Release",
+      "NameKR": "스바루",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "スバル",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0309",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0309"
+    },
+    {
+      "CharacterName": 892825076,
+      "ProductionStep": "Release",
+      "NameKR": "후유",
+      "NicknameKR": "특수교역부",
+      "NameJP": "フユ",
+      "NicknameJP": "特殊交易部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0318",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0318"
+    },
+    {
+      "CharacterName": 3341685608,
+      "ProductionStep": "Release",
+      "NameKR": "리츠",
+      "NicknameKR": "특수교역부",
+      "NameJP": "リツ",
+      "NicknameJP": "特殊交易部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0319",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0319"
+    },
+    {
+      "CharacterName": 1118867376,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0319",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0319"
+    },
+    {
+      "CharacterName": 4260459994,
+      "ProductionStep": "Release",
+      "NameKR": "미요",
+      "NicknameKR": "특수교역부",
+      "NameJP": "ミヨ",
+      "NicknameJP": "特殊交易部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0317",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0317"
+    },
+    {
+      "CharacterName": 141212648,
+      "ProductionStep": "Release",
+      "NameKR": "히로미",
+      "NicknameKR": "사감대",
+      "NameJP": "ヒロミ",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0316",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0316"
+    },
+    {
+      "CharacterName": 837974592,
+      "ProductionStep": "Release",
+      "NameKR": "히로미",
+      "NicknameKR": "와일드헌트 예술학원",
+      "NameJP": "ヒロミ",
+      "NicknameJP": "ワイルドハント芸術学院",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0316",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0316"
+    },
+    {
+      "CharacterName": 1970304747,
+      "ProductionStep": "Release",
+      "NameKR": "후유&리츠",
+      "NicknameKR": "특수교역부",
+      "NameJP": "フユ＆リツ",
+      "NicknameJP": "特殊交易部",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 740886232,
+      "ProductionStep": "Release",
+      "NameKR": "후유&미요",
+      "NicknameKR": "특수교역부",
+      "NameJP": "フユ＆ミヨ",
+      "NicknameJP": "特殊交易部",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
       "CharacterName": 3261875659,
@@ -23574,6 +23728,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
     },
     {
+      "CharacterName": 3512335860,
+      "ProductionStep": "Release",
+      "NameKR": "사감대원 E",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊員E",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
       "CharacterName": 246833297,
       "ProductionStep": "Release",
       "NameKR": "귀여운 목소리의 학생",
@@ -23682,6 +23847,28 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0256",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0256"
+    },
+    {
+      "CharacterName": 264876484,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 E",
+      "NicknameKR": "",
+      "NameJP": "アリウスの生徒E",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0256",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0256"
+    },
+    {
+      "CharacterName": 3919510002,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 F",
+      "NicknameKR": "",
+      "NameJP": "アリウスの生徒F",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0257",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0257"
     },
     {
       "CharacterName": 449930541,
@@ -23893,6 +24080,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
+      "CharacterName": 1303292872,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 A&B",
+      "NicknameKR": "",
+      "NameJP": "アリウスの生徒A＆B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
       "CharacterName": 2781491575,
       "ProductionStep": "Release",
       "NameKR": "아리우스 학생 C&D",
@@ -23957,6 +24155,358 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0028",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0028"
+    },
+    {
+      "CharacterName": 372090370,
+      "ProductionStep": "Release",
+      "NameKR": "출판사 직원",
+      "NicknameKR": "",
+      "NameJP": "出版社の社員",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 4194168262,
+      "ProductionStep": "Release",
+      "NameKR": "산의 귀인",
+      "NicknameKR": "",
+      "NameJP": "山の精霊",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0094",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0094"
+    },
+    {
+      "CharacterName": 4088731510,
+      "ProductionStep": "Release",
+      "NameKR": "수상한 옷 가게 점원",
+      "NicknameKR": "",
+      "NameJP": "怪しい洋服屋の店員",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0136",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0136"
+    },
+    {
+      "CharacterName": 64111373,
+      "ProductionStep": "Release",
+      "NameKR": "공손한 옷 가게 점원",
+      "NicknameKR": "",
+      "NameJP": "恭しい洋服屋の店員",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0136",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0136"
+    },
+    {
+      "CharacterName": 1645397156,
+      "ProductionStep": "Release",
+      "NameKR": "화방 주인",
+      "NicknameKR": "",
+      "NameJP": "アトリエのオーナー",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal6",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal6"
+    },
+    {
+      "CharacterName": 570693707,
+      "ProductionStep": "Release",
+      "NameKR": "사감대 간부",
+      "NicknameKR": "사감대",
+      "NameJP": "寮監隊の幹部",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
+      "CharacterName": 2302771410,
+      "ProductionStep": "Release",
+      "NameKR": "성실한 사감대원",
+      "NicknameKR": "사감대",
+      "NameJP": "真面目な寮監隊員",
+      "NicknameJP": "寮監隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0252",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0252"
+    },
+    {
+      "CharacterName": 1324697119,
+      "ProductionStep": "Release",
+      "NameKR": "무모한 와일드헌트 학생",
+      "NicknameKR": "",
+      "NameJP": "無謀なワイルドハントの生徒",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0253",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0253"
+    },
+    {
+      "CharacterName": 1015836755,
+      "ProductionStep": "Release",
+      "NameKR": "와일드헌트 학생들",
+      "NicknameKR": "",
+      "NameJP": "ワイルドハントの生徒たち",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2814475438,
+      "ProductionStep": "Release",
+      "NameKR": "와일드헌트 학생 B",
+      "NicknameKR": "",
+      "NameJP": "ワイルドハントの生徒B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0253",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0253"
+    },
+    {
+      "CharacterName": 99095363,
+      "ProductionStep": "Release",
+      "NameKR": "의뢰 학생 A",
+      "NicknameKR": "",
+      "NameJP": "依頼人の生徒A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0253",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0253"
+    },
+    {
+      "CharacterName": 2561678379,
+      "ProductionStep": "Release",
+      "NameKR": "의뢰 학생 B",
+      "NicknameKR": "",
+      "NameJP": "依頼人の生徒B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0253",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0253"
+    },
+    {
+      "CharacterName": 2664347303,
+      "ProductionStep": "Release",
+      "NameKR": "의뢰인",
+      "NicknameKR": "",
+      "NameJP": "依頼人",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal6",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal6"
+    },
+    {
+      "CharacterName": 1149686737,
+      "ProductionStep": "Release",
+      "NameKR": "카페 직원",
+      "NicknameKR": "",
+      "NameJP": "カフェの店員",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 2181581205,
+      "ProductionStep": "Release",
+      "NameKR": "관람객 A",
+      "NicknameKR": "",
+      "NameJP": "観客A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal5",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal5"
+    },
+    {
+      "CharacterName": 1727920169,
+      "ProductionStep": "Release",
+      "NameKR": "관람객 B",
+      "NicknameKR": "",
+      "NameJP": "観客B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Citizen_animal7",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal7"
+    },
+    {
+      "CharacterName": 3112250577,
+      "ProductionStep": "Release",
+      "NameKR": "관람객 C",
+      "NicknameKR": "",
+      "NameJP": "観客C",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 1019156937,
+      "ProductionStep": "Release",
+      "NameKR": "관람객 D",
+      "NicknameKR": "",
+      "NameJP": "観客D",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_engineer_animal3",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal3"
+    },
+    {
+      "CharacterName": 2331329475,
+      "ProductionStep": "Release",
+      "NameKR": "전시회 관리인",
+      "NicknameKR": "",
+      "NameJP": "展示会のスタッフ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3395809072,
+      "ProductionStep": "Release",
+      "NameKR": "관람객들",
+      "NicknameKR": "",
+      "NameJP": "観客たち",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1412792221,
+      "ProductionStep": "Release",
+      "NameKR": "화가 난 학생 A",
+      "NicknameKR": "",
+      "NameJP": "怒っている生徒A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2657059058,
+      "ProductionStep": "Release",
+      "NameKR": "화가 난 학생 B",
+      "NicknameKR": "",
+      "NameJP": "怒っている生徒B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2477341796,
+      "ProductionStep": "Release",
+      "NameKR": "아이의 목소리",
+      "NicknameKR": "",
+      "NameJP": "子供の声",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 185675541,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 A",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "アリウスの生徒A",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0256",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0256"
+    },
+    {
+      "CharacterName": 3786810131,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 B",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "アリウスの生徒B",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0257",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0257"
+    },
+    {
+      "CharacterName": 4194134998,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 C",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "アリウスの生徒C",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0257",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0257"
+    },
+    {
+      "CharacterName": 1433453800,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 D",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "アリウスの生徒D",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0256",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0256"
+    },
+    {
+      "CharacterName": 257187866,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 E",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "アリウスの生徒E",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0256",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0256"
+    },
+    {
+      "CharacterName": 1040874946,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 F",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "アリウスの生徒F",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0257",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0257"
+    },
+    {
+      "CharacterName": 1404952007,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 A&B",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "アリウスの生徒A＆B",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2532706594,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생 C&D",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "アリウスの生徒C＆D",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3129206206,
+      "ProductionStep": "Release",
+      "NameKR": "아리우스 학생들",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "アリウスの生徒たち",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     }
   ]
 }

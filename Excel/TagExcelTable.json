@@ -198,23 +198,23 @@
     },
     {
       "Furniture": "Z",
-      "None": "None"
+      "None": "CentralControlCenter"
     },
     {
       "Furniture": "z",
-      "None": "None"
+      "None": "FreightLogisticsDepartment"
     },
     {
       "Furniture": "aA",
-      "None": "None"
+      "None": "OccultClub"
     },
     {
       "Furniture": "aa",
-      "None": "None"
+      "None": "PrefectBrigade"
     },
     {
       "Furniture": "aB",
-      "None": "None"
+      "None": "FreeTradeCartel"
     },
     {
       "Furniture": "ab",

@@ -26,15 +26,6 @@
         100001,
         100000
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1200,
         300,
@@ -69,14 +60,6 @@
         100001,
         100000
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -108,13 +91,6 @@
         100001,
         100000
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -142,12 +118,6 @@
         9,
         7,
         100000
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -181,15 +151,6 @@
         100112,
         100111,
         100110
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -225,14 +186,6 @@
         100111,
         100110
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -264,13 +217,6 @@
         100111,
         100110
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -298,12 +244,6 @@
         9,
         7,
         100110
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -337,15 +277,6 @@
         100222,
         100221,
         100220
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -381,14 +312,6 @@
         100221,
         100220
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -420,13 +343,6 @@
         100221,
         100220
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -454,12 +370,6 @@
         9,
         7,
         100220
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -493,15 +403,6 @@
         100022,
         100021,
         100020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -537,14 +438,6 @@
         100021,
         100020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -576,13 +469,6 @@
         100021,
         100020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -610,12 +496,6 @@
         9,
         7,
         100020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -649,15 +529,6 @@
         100102,
         100101,
         100100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -693,14 +564,6 @@
         100101,
         100100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -732,13 +595,6 @@
         100101,
         100100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -766,12 +622,6 @@
         9,
         7,
         100100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -805,15 +655,6 @@
         100212,
         100211,
         100210
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -849,14 +690,6 @@
         100211,
         100210
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -888,13 +721,6 @@
         100211,
         100210
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -922,12 +748,6 @@
         9,
         7,
         100210
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -961,15 +781,6 @@
         100312,
         100311,
         100310
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -1005,14 +816,6 @@
         100311,
         100310
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -1044,13 +847,6 @@
         100311,
         100310
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -1078,12 +874,6 @@
         9,
         7,
         100310
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -1117,15 +907,6 @@
         100402,
         100401,
         100400
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -1161,14 +942,6 @@
         100401,
         100400
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -1200,13 +973,6 @@
         100401,
         100400
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -1234,12 +1000,6 @@
         9,
         7,
         100400
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -1273,15 +1033,6 @@
         100322,
         100321,
         100320
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -1317,14 +1068,6 @@
         100321,
         100320
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -1356,13 +1099,6 @@
         100321,
         100320
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -1390,12 +1126,6 @@
         9,
         7,
         100320
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -1429,15 +1159,6 @@
         100512,
         100511,
         100510
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -1473,14 +1194,6 @@
         100511,
         100510
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -1512,13 +1225,6 @@
         100511,
         100510
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -1546,12 +1252,6 @@
         9,
         7,
         100510
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -1585,15 +1285,6 @@
         100422,
         100421,
         100420
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -1629,14 +1320,6 @@
         100421,
         100420
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -1668,13 +1351,6 @@
         100421,
         100420
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -1702,12 +1378,6 @@
         9,
         7,
         100420
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -1741,15 +1411,6 @@
         100502,
         100501,
         100500
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -1785,14 +1446,6 @@
         100501,
         100500
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -1824,13 +1477,6 @@
         100501,
         100500
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -1858,12 +1504,6 @@
         9,
         7,
         100500
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -1897,15 +1537,6 @@
         100622,
         100621,
         100620
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -1941,14 +1572,6 @@
         100621,
         100620
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -1980,13 +1603,6 @@
         100621,
         100620
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -2014,12 +1630,6 @@
         9,
         7,
         100620
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -2053,15 +1663,6 @@
         100002,
         100001,
         100000
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -2097,14 +1698,6 @@
         100001,
         100000
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -2136,13 +1729,6 @@
         100001,
         100000
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -2170,12 +1756,6 @@
         9,
         7,
         100000
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -2209,15 +1789,6 @@
         100112,
         100111,
         100110
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -2253,14 +1824,6 @@
         100111,
         100110
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -2292,13 +1855,6 @@
         100111,
         100110
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -2326,12 +1882,6 @@
         9,
         7,
         100110
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -2365,15 +1915,6 @@
         100222,
         100221,
         100220
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -2409,14 +1950,6 @@
         100221,
         100220
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -2448,13 +1981,6 @@
         100221,
         100220
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -2482,12 +2008,6 @@
         9,
         7,
         100220
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -2521,15 +2041,6 @@
         100022,
         100021,
         100020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -2565,14 +2076,6 @@
         100021,
         100020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -2604,13 +2107,6 @@
         100021,
         100020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -2638,12 +2134,6 @@
         9,
         7,
         100020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -2677,15 +2167,6 @@
         100102,
         100101,
         100100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -2721,14 +2202,6 @@
         100101,
         100100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -2760,13 +2233,6 @@
         100101,
         100100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -2794,12 +2260,6 @@
         9,
         7,
         100100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -2833,15 +2293,6 @@
         100212,
         100211,
         100210
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -2877,14 +2328,6 @@
         100211,
         100210
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -2916,13 +2359,6 @@
         100211,
         100210
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -2950,12 +2386,6 @@
         9,
         7,
         100210
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -2989,15 +2419,6 @@
         100312,
         100311,
         100310
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -3033,14 +2454,6 @@
         100311,
         100310
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -3072,13 +2485,6 @@
         100311,
         100310
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -3106,12 +2512,6 @@
         9,
         7,
         100310
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -3145,15 +2545,6 @@
         100402,
         100401,
         100400
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -3189,14 +2580,6 @@
         100401,
         100400
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -3228,13 +2611,6 @@
         100401,
         100400
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -3262,12 +2638,6 @@
         9,
         7,
         100400
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -3301,15 +2671,6 @@
         100322,
         100321,
         100320
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -3345,14 +2706,6 @@
         100321,
         100320
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -3384,13 +2737,6 @@
         100321,
         100320
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -3418,12 +2764,6 @@
         9,
         7,
         100320
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -3457,15 +2797,6 @@
         100512,
         100511,
         100510
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -3501,14 +2832,6 @@
         100511,
         100510
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -3540,13 +2863,6 @@
         100511,
         100510
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -3574,12 +2890,6 @@
         9,
         7,
         100510
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -3613,15 +2923,6 @@
         100422,
         100421,
         100420
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -3657,14 +2958,6 @@
         100421,
         100420
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -3696,13 +2989,6 @@
         100421,
         100420
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -3730,12 +3016,6 @@
         9,
         7,
         100420
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -3769,15 +3049,6 @@
         100502,
         100501,
         100500
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -3813,14 +3084,6 @@
         100501,
         100500
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -3852,13 +3115,6 @@
         100501,
         100500
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -3886,12 +3142,6 @@
         9,
         7,
         100500
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -3925,15 +3175,6 @@
         100622,
         100621,
         100620
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -3969,14 +3210,6 @@
         100621,
         100620
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -4008,13 +3241,6 @@
         100621,
         100620
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -4042,12 +3268,6 @@
         9,
         7,
         100620
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -4081,15 +3301,6 @@
         100712,
         100711,
         100710
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -4125,14 +3336,6 @@
         100711,
         100710
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -4164,13 +3367,6 @@
         100711,
         100710
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -4198,12 +3394,6 @@
         9,
         7,
         100710
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -4237,15 +3427,6 @@
         100002,
         100001,
         100000
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -4281,14 +3462,6 @@
         100001,
         100000
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -4320,13 +3493,6 @@
         100001,
         100000
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -4354,12 +3520,6 @@
         9,
         7,
         100000
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -4393,15 +3553,6 @@
         100112,
         100111,
         100110
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -4437,14 +3588,6 @@
         100111,
         100110
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -4476,13 +3619,6 @@
         100111,
         100110
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -4510,12 +3646,6 @@
         9,
         7,
         100110
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -4549,15 +3679,6 @@
         100222,
         100221,
         100220
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -4593,14 +3714,6 @@
         100221,
         100220
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -4632,13 +3745,6 @@
         100221,
         100220
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -4666,12 +3772,6 @@
         9,
         7,
         100220
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -4705,15 +3805,6 @@
         100022,
         100021,
         100020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -4749,14 +3840,6 @@
         100021,
         100020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -4788,13 +3871,6 @@
         100021,
         100020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -4822,12 +3898,6 @@
         9,
         7,
         100020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -4861,15 +3931,6 @@
         100102,
         100101,
         100100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -4905,14 +3966,6 @@
         100101,
         100100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -4944,13 +3997,6 @@
         100101,
         100100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -4978,12 +4024,6 @@
         9,
         7,
         100100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -5017,15 +4057,6 @@
         100212,
         100211,
         100210
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -5061,14 +4092,6 @@
         100211,
         100210
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -5100,13 +4123,6 @@
         100211,
         100210
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -5134,12 +4150,6 @@
         9,
         7,
         100210
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -5173,15 +4183,6 @@
         100312,
         100311,
         100310
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -5217,14 +4218,6 @@
         100311,
         100310
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -5256,13 +4249,6 @@
         100311,
         100310
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -5290,12 +4276,6 @@
         9,
         7,
         100310
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -5329,15 +4309,6 @@
         100402,
         100401,
         100400
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -5373,14 +4344,6 @@
         100401,
         100400
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -5412,13 +4375,6 @@
         100401,
         100400
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -5446,12 +4402,6 @@
         9,
         7,
         100400
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -5485,15 +4435,6 @@
         100322,
         100321,
         100320
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -5529,14 +4470,6 @@
         100321,
         100320
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -5568,13 +4501,6 @@
         100321,
         100320
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -5602,12 +4528,6 @@
         9,
         7,
         100320
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -5641,15 +4561,6 @@
         100512,
         100511,
         100510
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -5685,14 +4596,6 @@
         100511,
         100510
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -5724,13 +4627,6 @@
         100511,
         100510
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -5758,12 +4654,6 @@
         9,
         7,
         100510
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -5797,15 +4687,6 @@
         100422,
         100421,
         100420
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -5841,14 +4722,6 @@
         100421,
         100420
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -5880,13 +4753,6 @@
         100421,
         100420
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -5914,12 +4780,6 @@
         9,
         7,
         100420
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -5953,15 +4813,6 @@
         100502,
         100501,
         100500
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -5997,14 +4848,6 @@
         100501,
         100500
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -6036,13 +4879,6 @@
         100501,
         100500
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -6070,12 +4906,6 @@
         9,
         7,
         100500
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -6109,15 +4939,6 @@
         100622,
         100621,
         100620
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -6153,14 +4974,6 @@
         100621,
         100620
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -6192,13 +5005,6 @@
         100621,
         100620
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -6226,12 +5032,6 @@
         9,
         7,
         100620
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -6265,15 +5065,6 @@
         100712,
         100711,
         100710
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -6309,14 +5100,6 @@
         100711,
         100710
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -6348,13 +5131,6 @@
         100711,
         100710
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -6382,12 +5158,6 @@
         9,
         7,
         100710
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -6421,15 +5191,6 @@
         100612,
         100611,
         100610
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -6465,14 +5226,6 @@
         100611,
         100610
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -6504,13 +5257,6 @@
         100611,
         100610
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -6538,12 +5284,6 @@
         9,
         7,
         100610
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -6577,15 +5317,6 @@
         100812,
         100811,
         100810
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -6621,14 +5352,6 @@
         100811,
         100810
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -6660,13 +5383,6 @@
         100811,
         100810
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -6694,12 +5410,6 @@
         9,
         7,
         100810
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -6733,15 +5443,6 @@
         100702,
         100701,
         100700
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -6777,14 +5478,6 @@
         100701,
         100700
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -6816,13 +5509,6 @@
         100701,
         100700
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -6850,12 +5536,6 @@
         9,
         7,
         100700
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -6889,15 +5569,6 @@
         100902,
         100901,
         100900
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -6933,14 +5604,6 @@
         100901,
         100900
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -6972,13 +5635,6 @@
         100901,
         100900
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -7006,12 +5662,6 @@
         9,
         7,
         100900
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -7045,15 +5695,6 @@
         100002,
         100001,
         100000
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -7089,14 +5730,6 @@
         100001,
         100000
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -7128,13 +5761,6 @@
         100001,
         100000
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -7162,12 +5788,6 @@
         9,
         7,
         100000
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -7201,15 +5821,6 @@
         100112,
         100111,
         100110
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -7245,14 +5856,6 @@
         100111,
         100110
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -7284,13 +5887,6 @@
         100111,
         100110
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -7318,12 +5914,6 @@
         9,
         7,
         100110
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -7357,15 +5947,6 @@
         100222,
         100221,
         100220
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -7401,14 +5982,6 @@
         100221,
         100220
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -7440,13 +6013,6 @@
         100221,
         100220
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -7474,12 +6040,6 @@
         9,
         7,
         100220
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -7513,15 +6073,6 @@
         100022,
         100021,
         100020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -7557,14 +6108,6 @@
         100021,
         100020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -7596,13 +6139,6 @@
         100021,
         100020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -7630,12 +6166,6 @@
         9,
         7,
         100020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -7669,15 +6199,6 @@
         100102,
         100101,
         100100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -7713,14 +6234,6 @@
         100101,
         100100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -7752,13 +6265,6 @@
         100101,
         100100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -7786,12 +6292,6 @@
         9,
         7,
         100100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -7825,15 +6325,6 @@
         100212,
         100211,
         100210
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -7869,14 +6360,6 @@
         100211,
         100210
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -7908,13 +6391,6 @@
         100211,
         100210
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -7942,12 +6418,6 @@
         9,
         7,
         100210
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -7981,15 +6451,6 @@
         100312,
         100311,
         100310
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -8025,14 +6486,6 @@
         100311,
         100310
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -8064,13 +6517,6 @@
         100311,
         100310
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -8098,12 +6544,6 @@
         9,
         7,
         100310
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -8137,15 +6577,6 @@
         100402,
         100401,
         100400
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -8181,14 +6612,6 @@
         100401,
         100400
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -8220,13 +6643,6 @@
         100401,
         100400
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -8254,12 +6670,6 @@
         9,
         7,
         100400
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -8293,15 +6703,6 @@
         100322,
         100321,
         100320
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -8337,14 +6738,6 @@
         100321,
         100320
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -8376,13 +6769,6 @@
         100321,
         100320
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -8410,12 +6796,6 @@
         9,
         7,
         100320
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -8449,15 +6829,6 @@
         100512,
         100511,
         100510
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -8493,14 +6864,6 @@
         100511,
         100510
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -8532,13 +6895,6 @@
         100511,
         100510
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -8566,12 +6922,6 @@
         9,
         7,
         100510
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -8605,15 +6955,6 @@
         100422,
         100421,
         100420
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -8649,14 +6990,6 @@
         100421,
         100420
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -8688,13 +7021,6 @@
         100421,
         100420
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -8722,12 +7048,6 @@
         9,
         7,
         100420
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -8761,15 +7081,6 @@
         100502,
         100501,
         100500
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -8805,14 +7116,6 @@
         100501,
         100500
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -8844,13 +7147,6 @@
         100501,
         100500
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -8878,12 +7174,6 @@
         9,
         7,
         100500
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -8917,15 +7207,6 @@
         100622,
         100621,
         100620
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -8961,14 +7242,6 @@
         100621,
         100620
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -9000,13 +7273,6 @@
         100621,
         100620
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -9034,12 +7300,6 @@
         9,
         7,
         100620
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -9073,15 +7333,6 @@
         100712,
         100711,
         100710
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -9117,14 +7368,6 @@
         100711,
         100710
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -9156,13 +7399,6 @@
         100711,
         100710
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -9190,12 +7426,6 @@
         9,
         7,
         100710
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -9229,15 +7459,6 @@
         100612,
         100611,
         100610
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -9273,14 +7494,6 @@
         100611,
         100610
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -9312,13 +7525,6 @@
         100611,
         100610
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -9346,12 +7552,6 @@
         9,
         7,
         100610
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -9385,15 +7585,6 @@
         100812,
         100811,
         100810
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -9429,14 +7620,6 @@
         100811,
         100810
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -9468,13 +7651,6 @@
         100811,
         100810
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -9502,12 +7678,6 @@
         9,
         7,
         100810
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -9541,15 +7711,6 @@
         100702,
         100701,
         100700
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -9585,14 +7746,6 @@
         100701,
         100700
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -9624,13 +7777,6 @@
         100701,
         100700
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -9658,12 +7804,6 @@
         9,
         7,
         100700
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -9697,15 +7837,6 @@
         100902,
         100901,
         100900
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -9741,14 +7872,6 @@
         100901,
         100900
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -9780,13 +7903,6 @@
         100901,
         100900
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -9814,12 +7930,6 @@
         9,
         7,
         100900
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -9853,15 +7963,6 @@
         101022,
         101021,
         101020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -9897,14 +7998,6 @@
         101021,
         101020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -9936,13 +8029,6 @@
         101021,
         101020
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -9970,12 +8056,6 @@
         9,
         7,
         101020
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,
@@ -10009,15 +8089,6 @@
         101102,
         101101,
         101100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         1200,
@@ -10053,14 +8124,6 @@
         101101,
         101100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         1000,
         250,
@@ -10092,13 +8155,6 @@
         101101,
         101100
       ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures",
-        "Furnitures"
-      ],
       "RewardParcelAmount": [
         800,
         200,
@@ -10126,12 +8182,6 @@
         9,
         7,
         101100
-      ],
-      "RewardParcelUniqueName": [
-        "Gem_Bonus",
-        "RaidCoin_High",
-        "RaidCoin",
-        "Furnitures"
       ],
       "RewardParcelAmount": [
         600,

@@ -2302,7 +2302,8 @@
         "Hq",
         "F",
         "af",
-        "H"
+        "H",
+        "HP"
       ],
       "FavorItemTags": [
         "ak",
@@ -2321,7 +2322,8 @@
         "Hr",
         "F",
         "V",
-        "H"
+        "H",
+        "HP"
       ],
       "FavorItemTags": [
         "BB",
@@ -2330,6 +2332,45 @@
       "FavorItemUniqueTags": [
         "Hr",
         "HS"
+      ],
+      "ForbiddenTags": [],
+      "ZoneWhiteListTags": []
+    },
+    {
+      "Id": 10127,
+      "FavorTags": [
+        "HU",
+        "HP",
+        "V",
+        "f",
+        "e"
+      ],
+      "FavorItemTags": [
+        "BB",
+        "ak"
+      ],
+      "FavorItemUniqueTags": [
+        "HU",
+        "Hu"
+      ],
+      "ForbiddenTags": [],
+      "ZoneWhiteListTags": []
+    },
+    {
+      "Id": 10128,
+      "FavorTags": [
+        "HV",
+        "HP",
+        "C",
+        "H"
+      ],
+      "FavorItemTags": [
+        "aX",
+        "Bb"
+      ],
+      "FavorItemUniqueTags": [
+        "HV",
+        "Hv"
       ],
       "ForbiddenTags": [],
       "ZoneWhiteListTags": []
@@ -3875,6 +3916,25 @@
         "T",
         "p"
       ],
+      "ZoneWhiteListTags": []
+    },
+    {
+      "Id": 20050,
+      "FavorTags": [
+        "HW",
+        "HP",
+        "H",
+        "G"
+      ],
+      "FavorItemTags": [
+        "al",
+        "av"
+      ],
+      "FavorItemUniqueTags": [
+        "HW",
+        "Hw"
+      ],
+      "ForbiddenTags": [],
       "ZoneWhiteListTags": []
     },
     {
