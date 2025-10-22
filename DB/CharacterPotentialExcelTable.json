@@ -2323,6 +2323,42 @@
       "IsUnnecessaryStat": true
     },
     {
+      "Id": 10129,
+      "PotentialStatGroupId": 21010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10129,
+      "PotentialStatGroupId": 21020,
+      "PotentialStatBonusRateType": "AttackPower",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10129,
+      "PotentialStatGroupId": 21030,
+      "PotentialStatBonusRateType": "HealPower",
+      "IsUnnecessaryStat": true
+    },
+    {
+      "Id": 10130,
+      "PotentialStatGroupId": 10010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10130,
+      "PotentialStatGroupId": 10020,
+      "PotentialStatBonusRateType": "AttackPower",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 10130,
+      "PotentialStatGroupId": 10030,
+      "PotentialStatBonusRateType": "HealPower",
+      "IsUnnecessaryStat": true
+    },
+    {
       "Id": 13000,
       "PotentialStatGroupId": 13010,
       "PotentialStatBonusRateType": "MaxHP",
@@ -2913,6 +2949,24 @@
     {
       "Id": 16017,
       "PotentialStatGroupId": 13030,
+      "PotentialStatBonusRateType": "HealPower",
+      "IsUnnecessaryStat": true
+    },
+    {
+      "Id": 16018,
+      "PotentialStatGroupId": 19010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 16018,
+      "PotentialStatGroupId": 19020,
+      "PotentialStatBonusRateType": "AttackPower",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 16018,
+      "PotentialStatGroupId": 19030,
       "PotentialStatBonusRateType": "HealPower",
       "IsUnnecessaryStat": true
     },
@@ -3831,6 +3885,24 @@
     {
       "Id": 20050,
       "PotentialStatGroupId": 20030,
+      "PotentialStatBonusRateType": "HealPower",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20051,
+      "PotentialStatGroupId": 18010,
+      "PotentialStatBonusRateType": "MaxHP",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20051,
+      "PotentialStatGroupId": 18020,
+      "PotentialStatBonusRateType": "AttackPower",
+      "IsUnnecessaryStat": false
+    },
+    {
+      "Id": 20051,
+      "PotentialStatGroupId": 18030,
       "PotentialStatBonusRateType": "HealPower",
       "IsUnnecessaryStat": false
     },

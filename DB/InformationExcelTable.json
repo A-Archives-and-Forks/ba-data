@@ -764,6 +764,34 @@
       "UIName": []
     },
     {
+      "GroupID": 116002,
+      "PageName": "UIInformationPopup_Arena_Season10_01",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116002,
+      "PageName": "UIInformationPopup_Arena_Season10_02",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116002,
+      "PageName": "UIInformationPopup_Arena_Season10_03",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116002,
+      "PageName": "UIInformationPopup_Arena_Season10_04",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
       "GroupID": 117001,
       "PageName": "UIInformationPopup_Cafe01",
       "LocalizeCodeId": "UI_Description_Warning_Sample_Image",

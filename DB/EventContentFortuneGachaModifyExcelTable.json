@@ -37,6 +37,15 @@
       "TitleLocalizeKey": "UIEventFortuneGachaShop_Title_845"
     },
     {
+      "EventContentId": 851,
+      "TargetGrade": 4,
+      "ProbModifyStartCount": 5,
+      "UsePrefabName": "UIEventFortuneGachaShop_851",
+      "BucketImagePath": "",
+      "ShopBgImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/851/Img_FortuneGacha_ShopBg_851",
+      "TitleLocalizeKey": "UIEventFortuneGachaShop_Title_851"
+    },
+    {
       "EventContentId": 10809,
       "TargetGrade": 5,
       "ProbModifyStartCount": 5,

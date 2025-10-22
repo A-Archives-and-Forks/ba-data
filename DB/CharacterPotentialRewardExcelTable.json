@@ -2065,6 +2065,38 @@
       "RewardAmount": 1
     },
     {
+      "Id": 10129,
+      "RequirePotentialStatType": [
+        "MaxHP",
+        "AttackPower",
+        "HealPower"
+      ],
+      "RequirePotentialStatLevel": [
+        25,
+        25,
+        25
+      ],
+      "RewardParcelType": "Emblem",
+      "RewardId": 8101291,
+      "RewardAmount": 1
+    },
+    {
+      "Id": 10130,
+      "RequirePotentialStatType": [
+        "MaxHP",
+        "AttackPower",
+        "HealPower"
+      ],
+      "RequirePotentialStatLevel": [
+        25,
+        25,
+        25
+      ],
+      "RewardParcelType": "Emblem",
+      "RewardId": 8101301,
+      "RewardAmount": 1
+    },
+    {
       "Id": 13000,
       "RequirePotentialStatType": [
         "MaxHP",
@@ -2590,6 +2622,22 @@
       ],
       "RewardParcelType": "Emblem",
       "RewardId": 8160171,
+      "RewardAmount": 1
+    },
+    {
+      "Id": 16018,
+      "RequirePotentialStatType": [
+        "MaxHP",
+        "AttackPower",
+        "HealPower"
+      ],
+      "RequirePotentialStatLevel": [
+        25,
+        25,
+        25
+      ],
+      "RewardParcelType": "Emblem",
+      "RewardId": 8160181,
       "RewardAmount": 1
     },
     {
@@ -3406,6 +3454,22 @@
       ],
       "RewardParcelType": "Emblem",
       "RewardId": 8200501,
+      "RewardAmount": 1
+    },
+    {
+      "Id": 20051,
+      "RequirePotentialStatType": [
+        "MaxHP",
+        "AttackPower",
+        "HealPower"
+      ],
+      "RequirePotentialStatLevel": [
+        25,
+        25,
+        25
+      ],
+      "RewardParcelType": "Emblem",
+      "RewardId": 8200511,
       "RewardAmount": 1
     },
     {

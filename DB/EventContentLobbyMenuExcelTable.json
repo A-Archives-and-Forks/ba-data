@@ -251,13 +251,13 @@
       "ReddotSpriteName": "Common_Icon_Reddot2"
     },
     {
-      "EventContentId": 852,
-      "EventContentType": "Concentration",
-      "IconSpriteName": "Event_Icon_CardShop",
-      "ButtonText": "Event_Button_Card_Shop",
-      "DisplayOrder": 5,
-      "IconOffsetX": 1.2999999523162842,
-      "IconOffsetY": -3.299999952316284,
+      "EventContentId": 851,
+      "EventContentType": "FortuneGachaShop",
+      "IconSpriteName": "Event_Icon_FortuneGachaShop_851",
+      "ButtonText": "Event_Button_FortuneGachaShop_851",
+      "DisplayOrder": 24,
+      "IconOffsetX": 0.0,
+      "IconOffsetY": 0.0,
       "ReddotSpriteName": "Common_Icon_Reddot2"
     }
   ]

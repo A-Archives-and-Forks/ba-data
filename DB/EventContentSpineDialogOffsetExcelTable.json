@@ -2170,6 +2170,78 @@
       "DialogOffsetY": 5.0
     },
     {
+      "EventContentId": 851,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900945001,
+      "SpineOffsetX": 1.4700000286102295,
+      "SpineOffsetY": -0.949999988079071,
+      "DialogOffsetX": 58.29999923706055,
+      "DialogOffsetY": -18.450000762939453
+    },
+    {
+      "EventContentId": 851,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900945101,
+      "SpineOffsetX": 1.2300000190734863,
+      "SpineOffsetY": -0.46000000834465027,
+      "DialogOffsetX": 47.0,
+      "DialogOffsetY": -14.899999618530273
+    },
+    {
+      "EventContentId": 851,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900945001,
+      "SpineOffsetX": -0.029999999329447746,
+      "SpineOffsetY": -0.9399999976158142,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 851,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900945101,
+      "SpineOffsetX": -0.20000000298023224,
+      "SpineOffsetY": -0.49000000953674316,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 851,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900945201,
+      "SpineOffsetX": -0.15000000596046448,
+      "SpineOffsetY": -0.5899999737739563,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 851,
+      "EventContentType": "FortuneGachaShop",
+      "CostumeUniqueId": 1900945001,
+      "SpineOffsetX": 0.23999999463558197,
+      "SpineOffsetY": 0.18000000715255737,
+      "DialogOffsetX": 116.69999694824219,
+      "DialogOffsetY": 313.20001220703125
+    },
+    {
+      "EventContentId": 851,
+      "EventContentType": "FortuneGachaShop",
+      "CostumeUniqueId": 1900945101,
+      "SpineOffsetX": -0.07000000029802322,
+      "SpineOffsetY": 0.6700000166893005,
+      "DialogOffsetX": 85.30000305175781,
+      "DialogOffsetY": 320.1000061035156
+    },
+    {
+      "EventContentId": 851,
+      "EventContentType": "FortuneGachaShop",
+      "CostumeUniqueId": 1900945201,
+      "SpineOffsetX": 0.12999999523162842,
+      "SpineOffsetY": 0.05999999865889549,
+      "DialogOffsetX": 114.19999694824219,
+      "DialogOffsetY": 311.1000061035156
+    },
+    {
       "EventContentId": 10801,
       "EventContentType": "Stage",
       "CostumeUniqueId": 1900900901,
@@ -3871,6 +3943,60 @@
       "DialogOffsetY": 10.0
     },
     {
+      "EventContentId": 10839,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900929001,
+      "SpineOffsetX": 1.3600000143051147,
+      "SpineOffsetY": -0.9399999976158142,
+      "DialogOffsetX": 42.0,
+      "DialogOffsetY": -11.0
+    },
+    {
+      "EventContentId": 10839,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900929101,
+      "SpineOffsetX": 1.4700000286102295,
+      "SpineOffsetY": -0.7699999809265137,
+      "DialogOffsetX": 58.0,
+      "DialogOffsetY": -3.0
+    },
+    {
+      "EventContentId": 10839,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900929001,
+      "SpineOffsetX": -0.5799999833106995,
+      "SpineOffsetY": -0.9700000286102295,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 10839,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900929101,
+      "SpineOffsetX": -0.09000000357627869,
+      "SpineOffsetY": -0.2800000011920929,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 10839,
+      "EventContentType": "BoxGacha",
+      "CostumeUniqueId": 1900929101,
+      "SpineOffsetX": 0.3700000047683716,
+      "SpineOffsetY": 0.3499999940395355,
+      "DialogOffsetX": 39.0,
+      "DialogOffsetY": 17.0
+    },
+    {
+      "EventContentId": 10839,
+      "EventContentType": "BoxGachaResult",
+      "CostumeUniqueId": 1900929101,
+      "SpineOffsetX": -0.4300000071525574,
+      "SpineOffsetY": 0.5699999928474426,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
       "EventContentId": 50822,
       "EventContentType": "Stage",
       "CostumeUniqueId": 1900911001,
@@ -5192,6 +5318,42 @@
       "SpineOffsetY": -0.7900000214576721,
       "DialogOffsetX": 64.0,
       "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 900828,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900916001,
+      "SpineOffsetX": 1.159999966621399,
+      "SpineOffsetY": -0.9399999976158142,
+      "DialogOffsetX": -20.0,
+      "DialogOffsetY": -14.0
+    },
+    {
+      "EventContentId": 900828,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900916201,
+      "SpineOffsetX": 1.2699999809265137,
+      "SpineOffsetY": -1.190000057220459,
+      "DialogOffsetX": 32.0,
+      "DialogOffsetY": -19.0
+    },
+    {
+      "EventContentId": 900828,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900916101,
+      "SpineOffsetX": 1.1799999475479126,
+      "SpineOffsetY": -0.25999999046325684,
+      "DialogOffsetX": 32.0,
+      "DialogOffsetY": -9.0
+    },
+    {
+      "EventContentId": 900828,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900916301,
+      "SpineOffsetX": 1.2000000476837158,
+      "SpineOffsetY": -1.340000033378601,
+      "DialogOffsetX": 10.0,
+      "DialogOffsetY": -5.0
     }
   ]
 }

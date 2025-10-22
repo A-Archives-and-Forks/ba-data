@@ -153,6 +153,13 @@
       "OffsetY": 23.0,
       "ScaleX": 1.0,
       "ScaleY": 1.0
+    },
+    {
+      "EventContentId": 900828,
+      "OffsetX": 0.0,
+      "OffsetY": 8.0,
+      "ScaleX": 0.8500000238418579,
+      "ScaleY": 0.8500000238418579
     }
   ]
 }

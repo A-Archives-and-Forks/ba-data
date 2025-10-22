@@ -23404,7 +23404,7 @@
       "Location": "와일드헌트 학원",
       "ScheduleGroupId": 200001,
       "OrderInGroup": 5,
-      "Id": 2000015,
+      "Id": 9999999,
       "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
       "LocalizeEtcId": 3019432404,
       "LocationRank": 11,

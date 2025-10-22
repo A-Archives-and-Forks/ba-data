@@ -271,6 +271,24 @@
       "StatRatioMaxValue": 100000
     },
     {
+      "Id": 32,
+      "TacticEntityType": "Student",
+      "StatType": "EnhanceBasicsDamageRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 33,
+      "TacticEntityType": "Student",
+      "StatType": "ReduceBasicsDamagedRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
       "Id": 101,
       "TacticEntityType": "Minion",
       "StatType": "MaxHP",
@@ -535,6 +553,24 @@
       "Id": 131,
       "TacticEntityType": "Minion",
       "StatType": "ReduceExDamagedRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 132,
+      "TacticEntityType": "Minion",
+      "StatType": "EnhanceBasicsDamageRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 133,
+      "TacticEntityType": "Minion",
+      "StatType": "ReduceBasicsDamagedRate",
       "StatMinValue": 2000,
       "StatMaxValue": 50000,
       "StatRatioMinValue": -8000,
@@ -811,6 +847,24 @@
       "StatRatioMaxValue": 100000
     },
     {
+      "Id": 232,
+      "TacticEntityType": "Elite",
+      "StatType": "EnhanceBasicsDamageRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 233,
+      "TacticEntityType": "Elite",
+      "StatType": "ReduceBasicsDamagedRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
       "Id": 301,
       "TacticEntityType": "Champion",
       "StatType": "MaxHP",
@@ -1075,6 +1129,24 @@
       "Id": 331,
       "TacticEntityType": "Champion",
       "StatType": "ReduceExDamagedRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 332,
+      "TacticEntityType": "Champion",
+      "StatType": "EnhanceBasicsDamageRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 333,
+      "TacticEntityType": "Champion",
+      "StatType": "ReduceBasicsDamagedRate",
       "StatMinValue": 2000,
       "StatMaxValue": 50000,
       "StatRatioMinValue": -8000,
@@ -1351,6 +1423,24 @@
       "StatRatioMaxValue": 100000
     },
     {
+      "Id": 432,
+      "TacticEntityType": "Boss",
+      "StatType": "EnhanceBasicsDamageRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 433,
+      "TacticEntityType": "Boss",
+      "StatType": "ReduceBasicsDamagedRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
       "Id": 501,
       "TacticEntityType": "Summoned",
       "StatType": "MaxHP",
@@ -1621,6 +1711,24 @@
       "StatRatioMaxValue": 100000
     },
     {
+      "Id": 532,
+      "TacticEntityType": "Summoned",
+      "StatType": "EnhanceBasicsDamageRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 533,
+      "TacticEntityType": "Summoned",
+      "StatType": "ReduceBasicsDamagedRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
       "Id": 601,
       "TacticEntityType": "Obstacle",
       "StatType": "MaxHP",
@@ -1885,6 +1993,24 @@
       "Id": 631,
       "TacticEntityType": "Obstacle",
       "StatType": "ReduceExDamagedRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 632,
+      "TacticEntityType": "Obstacle",
+      "StatType": "EnhanceBasicsDamageRate",
+      "StatMinValue": 2000,
+      "StatMaxValue": 50000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
+    },
+    {
+      "Id": 633,
+      "TacticEntityType": "Obstacle",
+      "StatType": "ReduceBasicsDamagedRate",
       "StatMinValue": 2000,
       "StatMaxValue": 50000,
       "StatRatioMinValue": -8000,

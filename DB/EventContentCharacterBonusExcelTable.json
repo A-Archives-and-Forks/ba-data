@@ -13299,6 +13299,234 @@
       ]
     },
     {
+      "EventContentId": 851,
+      "CharacterId": 10129,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken1"
+      ],
+      "BonusPercentage": [
+        2500,
+        3000
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 20051,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        2500,
+        3000
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 16018,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 16003,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 10068,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken1"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 20003,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 26004,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken1"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 10035,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken1"
+      ],
+      "BonusPercentage": [
+        1500,
+        1000
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 10073,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken1"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 13003,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 10124,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1500,
+        1000
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 16011,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 20004,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1500,
+        1000
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 10013,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken1"
+      ],
+      "BonusPercentage": [
+        1500,
+        1000
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 16005,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1500,
+        1000
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 10077,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken1"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 26015,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 10020,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 851,
+      "CharacterId": 16013,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
       "EventContentId": 10803,
       "CharacterId": 10003,
       "EventContentItemType": [
@@ -21865,6 +22093,198 @@
       ],
       "BonusPercentage": [
         1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 10103,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        2500,
+        2500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 20038,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        2500,
+        2500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 10017,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 10011,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 10069,
+      "EventContentItemType": [
+        "EventToken2",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 10070,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 10050,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 20002,
+      "EventContentItemType": [
+        "EventToken2",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1500,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 20009,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 10025,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 20006,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 10037,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 16007,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 13012,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 26012,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 10839,
+      "CharacterId": 10043,
+      "EventContentItemType": [
+        "EventToken1",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1000,
         1500
       ]
     }

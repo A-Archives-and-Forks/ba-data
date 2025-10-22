@@ -1033,6 +1033,14 @@
       "MaxScale": 1.7999999523162842
     },
     {
+      "Id": 10129,
+      "CharacterBodyCenterX": 8.0600004196167,
+      "CharacterBodyCenterY": 7.480000019073486,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6000000238418579,
+      "MaxScale": 1.7999999523162842
+    },
+    {
       "Id": 13000,
       "CharacterBodyCenterX": 8.699999809265137,
       "CharacterBodyCenterY": 6.75,
@@ -1292,6 +1300,14 @@
       "Id": 16017,
       "CharacterBodyCenterX": 8.5,
       "CharacterBodyCenterY": 7.349999904632568,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6000000238418579,
+      "MaxScale": 1.7999999523162842
+    },
+    {
+      "Id": 16018,
+      "CharacterBodyCenterX": 7.559999942779541,
+      "CharacterBodyCenterY": 7.050000190734863,
       "DefaultScale": 1.0,
       "MinScale": 0.6000000238418579,
       "MaxScale": 1.7999999523162842
@@ -1700,6 +1716,14 @@
       "Id": 20050,
       "CharacterBodyCenterX": 7.940000057220459,
       "CharacterBodyCenterY": 7.269999980926514,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6000000238418579,
+      "MaxScale": 1.7999999523162842
+    },
+    {
+      "Id": 20051,
+      "CharacterBodyCenterX": 8.5600004196167,
+      "CharacterBodyCenterY": 7.320000171661377,
       "DefaultScale": 1.0,
       "MinScale": 0.6000000238418579,
       "MaxScale": 1.7999999523162842

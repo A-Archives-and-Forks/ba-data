@@ -14181,6 +14181,1700 @@
       "ClearStageRewardParcelType": "Item",
       "ClearStageRewardParcelUniqueID": 100009,
       "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111001,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111001,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61100,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111002,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 11,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111002,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61100,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111003,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 2,
+      "ClearStageRewardAmount": 25
+    },
+    {
+      "RewardGroupId": 111003,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61100,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111004,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111004,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111005,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111005,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61100,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111006,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111006,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111007,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 11,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111007,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61100,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111008,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111008,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111009,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111009,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111009,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61100,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111009,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61101,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111010,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 25
+    },
+    {
+      "RewardGroupId": 111011,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111011,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61101,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111012,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 11,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111012,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61101,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111013,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 2,
+      "ClearStageRewardAmount": 25
+    },
+    {
+      "RewardGroupId": 111013,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61101,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111014,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111014,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111015,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111015,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111016,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111016,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111017,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111017,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 81,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111017,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61101,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111017,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 11,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111018,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111018,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111019,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111019,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100008,
+      "ClearStageRewardAmount": 2
+    },
+    {
+      "RewardGroupId": 111019,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61101,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111019,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61102,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111020,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111020,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 81,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111020,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61102,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111021,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111021,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111021,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61102,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111022,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111022,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 11,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111022,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61102,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111023,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111023,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 3,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111023,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61102,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111024,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111024,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111025,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111025,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 300000
+    },
+    {
+      "RewardGroupId": 111025,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61102,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111026,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111026,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111027,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111027,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111028,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111028,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111029,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111029,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111029,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61102,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111029,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61103,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111030,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111030,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111031,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111031,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 800000
+    },
+    {
+      "RewardGroupId": 111031,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61103,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111032,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111032,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 11,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111032,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61103,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111033,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111033,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 3,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111033,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61103,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111034,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111034,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111035,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111035,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111036,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111036,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111037,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111037,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111038,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111038,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111039,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111039,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100008,
+      "ClearStageRewardAmount": 2
+    },
+    {
+      "RewardGroupId": 111039,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61103,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111039,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61104,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111040,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111040,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 81,
+      "ClearStageRewardAmount": 15
+    },
+    {
+      "RewardGroupId": 111041,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111041,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 800000
+    },
+    {
+      "RewardGroupId": 111041,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61104,
+      "ClearStageRewardAmount": 8
+    },
+    {
+      "RewardGroupId": 111042,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111042,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 11,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111042,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61104,
+      "ClearStageRewardAmount": 8
+    },
+    {
+      "RewardGroupId": 111043,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111043,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 3,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111043,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61104,
+      "ClearStageRewardAmount": 8
+    },
+    {
+      "RewardGroupId": 111044,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111044,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61002,
+      "ClearStageRewardAmount": 2
+    },
+    {
+      "RewardGroupId": 111045,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111045,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111046,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111046,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111047,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111047,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111048,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111048,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1200000
+    },
+    {
+      "RewardGroupId": 111048,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61104,
+      "ClearStageRewardAmount": 8
+    },
+    {
+      "RewardGroupId": 111049,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111049,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100009,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111049,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61104,
+      "ClearStageRewardAmount": 8
+    },
+    {
+      "RewardGroupId": 111050,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111050,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Emblem",
+      "ClearStageRewardParcelUniqueID": 7000009,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111051,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111051,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1200000
+    },
+    {
+      "RewardGroupId": 111052,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111052,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 12,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111053,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111053,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 3,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111054,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111054,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111055,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111055,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 82,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111056,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111056,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111057,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111057,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 82,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111058,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111058,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111059,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111059,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1200000
+    },
+    {
+      "RewardGroupId": 111060,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111060,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 82,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111061,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111061,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1000000
+    },
+    {
+      "RewardGroupId": 111062,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111062,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 12,
+      "ClearStageRewardAmount": 25
+    },
+    {
+      "RewardGroupId": 111063,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111063,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 3,
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "RewardGroupId": 111064,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111064,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61002,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111065,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111065,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1000000
+    },
+    {
+      "RewardGroupId": 111066,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111066,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61000,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111067,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111067,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1000000
+    },
+    {
+      "RewardGroupId": 111068,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111068,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111069,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111069,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1000000
+    },
+    {
+      "RewardGroupId": 111070,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111070,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 3,
+      "ClearStageRewardAmount": 10
+    },
+    {
+      "RewardGroupId": 111071,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111071,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1000000
+    },
+    {
+      "RewardGroupId": 111072,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111072,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 13,
+      "ClearStageRewardAmount": 6
+    },
+    {
+      "RewardGroupId": 111073,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 4
+    },
+    {
+      "RewardGroupId": 111073,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 4,
+      "ClearStageRewardAmount": 6
+    },
+    {
+      "RewardGroupId": 111074,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111074,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61003,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111075,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111075,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1000000
+    },
+    {
+      "RewardGroupId": 111076,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111076,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 83,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111077,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111077,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111078,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111078,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111079,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111079,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100008,
+      "ClearStageRewardAmount": 2
+    },
+    {
+      "RewardGroupId": 111080,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111080,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 83,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111081,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111081,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1000000
+    },
+    {
+      "RewardGroupId": 111082,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111082,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 13,
+      "ClearStageRewardAmount": 6
+    },
+    {
+      "RewardGroupId": 111083,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111083,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 4,
+      "ClearStageRewardAmount": 8
+    },
+    {
+      "RewardGroupId": 111084,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111084,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61003,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111085,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111085,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111086,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111086,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111087,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111087,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111088,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111088,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111089,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111089,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111090,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111090,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100009,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111091,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111091,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 500000
+    },
+    {
+      "RewardGroupId": 111092,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111092,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 13,
+      "ClearStageRewardAmount": 6
+    },
+    {
+      "RewardGroupId": 111093,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111093,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 4,
+      "ClearStageRewardAmount": 8
+    },
+    {
+      "RewardGroupId": 111094,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111094,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61003,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111095,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2000,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111096,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2001,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111097,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 2002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111098,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61001,
+      "ClearStageRewardAmount": 5
+    },
+    {
+      "RewardGroupId": 111098,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 61002,
+      "ClearStageRewardAmount": 3
+    },
+    {
+      "RewardGroupId": 111099,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100009,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111100,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1500000
+    },
+    {
+      "RewardGroupId": 111100,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Emblem",
+      "ClearStageRewardParcelUniqueID": 7000010,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111101,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 13,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111102,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 4,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111103,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1500000
+    },
+    {
+      "RewardGroupId": 111104,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 9998,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111105,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100008,
+      "ClearStageRewardAmount": 2
+    },
+    {
+      "RewardGroupId": 111106,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100009,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111107,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 13,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111108,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 4,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111109,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1500000
+    },
+    {
+      "RewardGroupId": 111110,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 9998,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111111,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100008,
+      "ClearStageRewardAmount": 2
+    },
+    {
+      "RewardGroupId": 111112,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100009,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111113,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 13,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111114,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 4,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111115,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1500000
+    },
+    {
+      "RewardGroupId": 111116,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 9998,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111117,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100008,
+      "ClearStageRewardAmount": 2
+    },
+    {
+      "RewardGroupId": 111118,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100009,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111119,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 13,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111120,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Equipment",
+      "ClearStageRewardParcelUniqueID": 4,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111121,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Currency",
+      "ClearStageRewardParcelUniqueID": 1,
+      "ClearStageRewardAmount": 1500000
+    },
+    {
+      "RewardGroupId": 111122,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 9998,
+      "ClearStageRewardAmount": 1
+    },
+    {
+      "RewardGroupId": 111123,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100008,
+      "ClearStageRewardAmount": 2
+    },
+    {
+      "RewardGroupId": 111124,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 100009,
+      "ClearStageRewardAmount": 1
     }
   ]
 }
