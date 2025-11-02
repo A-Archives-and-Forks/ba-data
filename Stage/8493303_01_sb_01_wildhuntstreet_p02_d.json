@@ -162,6 +162,15 @@
           ],
           "Commands": [
             {
+              "$type": "MX.Logic.Battles.GroundCommandCharacterDie, BlueArchive",
+              "CharacterCommandIdList": [
+                "BattleStop_Sweeper"
+              ],
+              "CharacterSpawnTemplateIdList": [],
+              "CommandID": "",
+              "WaitExecuteEnd": false
+            },
+            {
               "$type": "MX.Logic.Battles.GroundCommandStartSection, BlueArchive",
               "SectionID": 2,
               "SetConditionCommandOnly": false,
@@ -180,7 +189,7 @@
             },
             {
               "$type": "GroundConditionWaitForSeconds, BlueArchive",
-              "Milliseconds": 3000,
+              "Milliseconds": 4000,
               "ConditionID": ""
             }
           ],
@@ -278,10 +287,7 @@
                   "SpawnDelay": 0
                 }
               ],
-              "OnAddEntityAction": null,
               "CommandID": "11",
-              "CurWaveNum": 0,
-              "CurrProcess": null,
               "WaitExecuteEnd": false
             }
           ]
@@ -318,7 +324,7 @@
                   "TileY": 145,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": -1.65400136,
+                    "x": -1.65400159,
                     "y": 24.506
                   },
                   "Direction": {
@@ -338,7 +344,7 @@
                   "TileY": 179,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": 1.29999661,
+                    "x": 1.29999566,
                     "y": 31.2059975
                   },
                   "Direction": {
@@ -399,7 +405,7 @@
                   "TileY": 152,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": -1.61900127,
+                    "x": -1.61900151,
                     "y": 25.938
                   },
                   "Direction": {
@@ -419,7 +425,7 @@
                   "TileY": 179,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": 1.29999566,
+                    "x": 1.29999471,
                     "y": 31.2279968
                   },
                   "Direction": {
@@ -480,7 +486,7 @@
                   "TileY": 160,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": -1.60400128,
+                    "x": -1.60400152,
                     "y": 27.5239983
                   },
                   "Direction": {
@@ -500,7 +506,7 @@
                   "TileY": 179,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": 1.29999614,
+                    "x": 1.29999518,
                     "y": 31.2289963
                   },
                   "Direction": {
@@ -561,7 +567,7 @@
                   "TileY": 167,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": -1.62200129,
+                    "x": -1.62200153,
                     "y": 28.814
                   },
                   "Direction": {
@@ -581,7 +587,7 @@
                   "TileY": 179,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": 1.29999614,
+                    "x": 1.29999518,
                     "y": 31.2069988
                   },
                   "Direction": {
@@ -652,7 +658,7 @@
                 "y": 31.51
               },
               "Direction": {
-                "x": 0.124484107,
+                "x": 0.1244841,
                 "y": -0.9922216
               },
               "ConditionIdList": [
@@ -692,8 +698,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -736,7 +745,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -762,8 +770,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -806,7 +817,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -832,8 +842,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -876,7 +889,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -902,8 +914,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -946,7 +961,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -972,8 +986,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1016,7 +1033,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1042,8 +1058,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1086,7 +1105,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1112,8 +1130,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1156,7 +1177,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1182,8 +1202,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1226,7 +1249,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1252,8 +1274,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1296,7 +1321,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1322,8 +1346,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1366,7 +1393,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1392,8 +1418,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1436,7 +1465,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1507,8 +1535,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1551,7 +1582,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1622,8 +1652,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1666,7 +1699,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1737,8 +1769,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1781,7 +1816,6 @@
               "CommandIdList": [
                 "1"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1812,8 +1846,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1856,7 +1893,6 @@
               "CommandIdList": [
                 "2"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1882,8 +1918,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1926,7 +1965,6 @@
               "CommandIdList": [
                 "2"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -1952,8 +1990,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -1996,7 +2037,6 @@
               "CommandIdList": [
                 "2"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2022,8 +2062,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2066,7 +2109,6 @@
               "CommandIdList": [
                 "2"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2092,8 +2134,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2136,7 +2181,6 @@
               "CommandIdList": [
                 "2"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2207,8 +2251,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2251,7 +2298,6 @@
               "CommandIdList": [
                 "2"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2322,8 +2368,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2366,7 +2415,6 @@
               "CommandIdList": [
                 "2"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2397,8 +2445,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2441,7 +2492,6 @@
               "CommandIdList": [
                 "3"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2467,8 +2517,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2511,7 +2564,6 @@
               "CommandIdList": [
                 "3"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2537,8 +2589,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2581,7 +2636,6 @@
               "CommandIdList": [
                 "3"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2607,8 +2661,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2651,7 +2708,6 @@
               "CommandIdList": [
                 "3"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2677,8 +2733,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2721,7 +2780,6 @@
               "CommandIdList": [
                 "3"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2747,8 +2805,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2791,7 +2852,6 @@
               "CommandIdList": [
                 "3"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2817,8 +2877,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2861,7 +2924,6 @@
               "CommandIdList": [
                 "3"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -2932,8 +2994,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -2976,7 +3041,6 @@
               "CommandIdList": [
                 "3"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3047,8 +3111,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3091,7 +3158,6 @@
               "CommandIdList": [
                 "3"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3122,8 +3188,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3166,7 +3235,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3192,8 +3260,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3236,7 +3307,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3262,8 +3332,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3306,7 +3379,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3332,8 +3404,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3376,7 +3451,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3402,8 +3476,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3446,7 +3523,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3472,8 +3548,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3516,7 +3595,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3542,8 +3620,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3586,7 +3667,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3612,8 +3692,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3656,7 +3739,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3682,8 +3764,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3726,7 +3811,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3797,8 +3881,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3841,7 +3928,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3912,8 +3998,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -3956,7 +4045,6 @@
               "CommandIdList": [
                 "4"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -3987,8 +4075,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4031,7 +4122,6 @@
               "CommandIdList": [
                 "5"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4057,8 +4147,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4101,7 +4194,6 @@
               "CommandIdList": [
                 "5"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4127,8 +4219,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4171,7 +4266,6 @@
               "CommandIdList": [
                 "5"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4197,8 +4291,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4241,7 +4338,6 @@
               "CommandIdList": [
                 "5"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4267,8 +4363,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4283,7 +4382,7 @@
                     "y": 27.2002525
                   },
                   "Direction": {
-                    "x": 0.0523358025,
+                    "x": 0.0523358,
                     "y": -0.99862957
                   },
                   "ConditionIdList": [],
@@ -4302,7 +4401,7 @@
                 "y": 36.23
               },
               "Direction": {
-                "x": 0.0523358025,
+                "x": 0.0523358,
                 "y": -0.99862957
               },
               "ConditionIdList": [
@@ -4311,7 +4410,6 @@
               "CommandIdList": [
                 "5"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4337,8 +4435,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4349,7 +4450,7 @@
                   "TileY": 161,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": 0.518337,
+                    "x": 0.518336952,
                     "y": 27.6915817
                   },
                   "Direction": {
@@ -4381,7 +4482,6 @@
               "CommandIdList": [
                 "5"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4452,8 +4552,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4496,7 +4599,6 @@
               "CommandIdList": [
                 "5"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4567,8 +4669,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4611,7 +4716,6 @@
               "CommandIdList": [
                 "5"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4642,8 +4746,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4686,7 +4793,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4712,8 +4818,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4756,7 +4865,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4782,8 +4890,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4826,7 +4937,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4852,8 +4962,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4896,7 +5009,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4922,8 +5034,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -4966,7 +5081,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -4992,8 +5106,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5036,7 +5153,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5062,8 +5178,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5106,7 +5225,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5132,8 +5250,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5176,7 +5297,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5202,8 +5322,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5246,7 +5369,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5272,8 +5394,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5316,7 +5441,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5387,8 +5511,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5431,7 +5558,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5502,8 +5628,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5546,7 +5675,6 @@
               "CommandIdList": [
                 "6"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5577,8 +5705,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5621,7 +5752,6 @@
               "CommandIdList": [
                 "7"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5647,8 +5777,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5691,7 +5824,6 @@
               "CommandIdList": [
                 "7"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5717,8 +5849,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5761,7 +5896,6 @@
               "CommandIdList": [
                 "7"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5787,8 +5921,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5831,7 +5968,6 @@
               "CommandIdList": [
                 "7"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5857,8 +5993,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5901,7 +6040,6 @@
               "CommandIdList": [
                 "7"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5927,8 +6065,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -5971,7 +6112,6 @@
               "CommandIdList": [
                 "7"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -5997,8 +6137,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6041,7 +6184,6 @@
               "CommandIdList": [
                 "7"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6112,8 +6254,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6156,7 +6301,6 @@
               "CommandIdList": [
                 "7"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6227,8 +6371,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6271,7 +6418,6 @@
               "CommandIdList": [
                 "7"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6302,8 +6448,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6346,7 +6495,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6372,8 +6520,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6416,7 +6567,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6442,8 +6592,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6486,7 +6639,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6512,8 +6664,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6556,7 +6711,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6582,8 +6736,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6626,7 +6783,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6652,8 +6808,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6696,7 +6855,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6722,8 +6880,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6766,7 +6927,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6792,8 +6952,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6836,7 +6999,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6862,8 +7024,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -6906,7 +7071,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -6977,8 +7141,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7021,7 +7188,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7092,8 +7258,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7136,7 +7305,6 @@
               "CommandIdList": [
                 "8"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7167,8 +7335,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7211,7 +7382,6 @@
               "CommandIdList": [
                 "9"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7237,8 +7407,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7281,7 +7454,6 @@
               "CommandIdList": [
                 "9"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7307,8 +7479,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7351,7 +7526,6 @@
               "CommandIdList": [
                 "9"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7377,8 +7551,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7421,7 +7598,6 @@
               "CommandIdList": [
                 "9"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7447,8 +7623,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7491,7 +7670,6 @@
               "CommandIdList": [
                 "9"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7517,8 +7695,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7561,7 +7742,6 @@
               "CommandIdList": [
                 "9"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7587,8 +7767,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7631,7 +7814,6 @@
               "CommandIdList": [
                 "9"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7702,8 +7884,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7746,7 +7931,6 @@
               "CommandIdList": [
                 "9"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7817,8 +8001,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7861,7 +8048,6 @@
               "CommandIdList": [
                 "9"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7892,8 +8078,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -7936,7 +8125,6 @@
               "CommandIdList": [
                 "10"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -7962,8 +8150,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8006,7 +8197,6 @@
               "CommandIdList": [
                 "10"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8032,8 +8222,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8076,7 +8269,6 @@
               "CommandIdList": [
                 "10"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8102,8 +8294,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8146,7 +8341,6 @@
               "CommandIdList": [
                 "10"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8172,8 +8366,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8216,7 +8413,6 @@
               "CommandIdList": [
                 "10"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8242,8 +8438,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8286,7 +8485,6 @@
               "CommandIdList": [
                 "10"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8312,8 +8510,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8356,7 +8557,6 @@
               "CommandIdList": [
                 "10"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8427,8 +8627,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8471,7 +8674,6 @@
               "CommandIdList": [
                 "10"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8542,8 +8744,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8586,7 +8791,6 @@
               "CommandIdList": [
                 "10"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8617,8 +8821,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8661,7 +8868,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8687,8 +8893,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8731,7 +8940,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8757,8 +8965,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8801,7 +9012,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8827,8 +9037,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8871,7 +9084,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8897,8 +9109,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -8941,7 +9156,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -8967,8 +9181,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -9011,7 +9228,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -9037,8 +9253,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -9081,7 +9300,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -9107,8 +9325,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -9151,7 +9372,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -9177,8 +9397,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -9221,7 +9444,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -9292,8 +9514,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -9336,7 +9561,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },
@@ -9407,8 +9631,11 @@
                   }
                 }
               ],
+              "RandomAmountSum": 10000,
               "SpawnAIGroupId": "\u0000",
-              "SpawnConditionIdList": [],
+              "SpawnConditionIdList": [
+                "WaveMonster"
+              ],
               "SpawnCommandIdList": [
                 "BattleStop_Sweeper"
               ],
@@ -9451,7 +9678,6 @@
               "CommandIdList": [
                 "11"
               ],
-              "RandomAmountSum": 10000,
               "EntityId": {
                 "uniqueId": 0
               },

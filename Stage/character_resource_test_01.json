@@ -103,9 +103,9 @@
             "PlayEndPoint": 0,
             "FadeOutTime": 5000,
             "FadeInTime": 5000,
-            "CommandID": "",
             "FadeOutTimeSecond": 5.0,
             "FadeInTimeSecond": 5.0,
+            "CommandID": "",
             "WaitExecuteEnd": false
           },
           {
@@ -121,9 +121,9 @@
             "PlayEndPoint": 1,
             "FadeOutTime": 5000,
             "FadeInTime": 5000,
-            "CommandID": "",
             "FadeOutTimeSecond": 5.0,
             "FadeInTimeSecond": 5.0,
+            "CommandID": "",
             "WaitExecuteEnd": false
           },
           {
@@ -139,9 +139,9 @@
             "PlayEndPoint": 1,
             "FadeOutTime": 5000,
             "FadeInTime": 5000,
-            "CommandID": "",
             "FadeOutTimeSecond": 5.0,
             "FadeInTimeSecond": 5.0,
+            "CommandID": "",
             "WaitExecuteEnd": false
           }
         ]
