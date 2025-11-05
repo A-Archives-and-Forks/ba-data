@@ -17585,6 +17585,70 @@
       "LocalizeJP": "あら！これほしかったのよ！ありがとね、先生♪"
     },
     {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루 아카이브. 군요. 후후.",
+      "LocalizeJP": "ブルーアーカイブ、です。ふふ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "카케하시 스바루입니다.\n문제가 있으시다면, 최대한 도와드리겠습니다.\n뭐, 아리우스의 방식으로 말이죠.",
+      "LocalizeJP": "梯スバルです。\nお困りの際には、あなたの力になりましょう。\nまぁ、……あくまで、「アリウス流」ですが。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "카페…… 뭔가 비싸 보이는 곳이네요.",
+      "LocalizeJP": "カフェ……なんだか高そうな場所。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(뭔가…… 워터 타임이 생각나네.)",
+      "LocalizeJP": "（なんだか……ウォータータイムを思い出す）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저건…… 뭘까.",
+      "LocalizeJP": "あれは……なんだろう。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(이런 곳에는 잘 오지 못했었지……)",
+      "LocalizeJP": "（あまりこういうところには来られなかったなぁ……）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "카페 아르바이트……\n모집하고 있으려나?",
+      "LocalizeJP": "カフェのアルバイト……\n募集してたりするかな？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아직, 전혀 실감이 나지 않아요…….\n아침에 눈을 뜨면 전부 꿈처럼 사라질 것 같아서……\n정말 감사합니다. 선생님. 소중히 할게요.",
+      "LocalizeJP": "まだ、全然実感が湧きません……。\n朝、目が覚めるたびに夢だったんじゃないかと不安になるほどに……。\n本当に、ありがとうございます、先生。大切にします。"
+    },
+    {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
       "CharacterId": 10014,
       "Duration": 0,

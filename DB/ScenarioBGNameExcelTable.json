@@ -17337,6 +17337,83 @@
       "SpineLocalPosY": 0
     },
     {
+      "Name": 3564630407,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0309",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0309LobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3028503272,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0309",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0309LobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 941608578,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0309",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0309LobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 578018556,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0309",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0309LobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 770034093,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0309",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0309LobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 461272672,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0309",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0309LobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2767161508,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0309",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0309LobbySpine",
+      "AnimationName": "Talk_06_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
       "Name": 3740388546,
       "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_SC51000_01",
@@ -37074,6 +37151,17 @@
       "Name": 3841485707,
       "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/BG_ThemeparkTheater_Night",
+      "BGType": "Image",
+      "AnimationRoot": "",
+      "AnimationName": "",
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 428065671,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_AriusCampus_Rebuild",
       "BGType": "Image",
       "AnimationRoot": "",
       "AnimationName": "",

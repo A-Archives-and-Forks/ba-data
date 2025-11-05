@@ -24969,6 +24969,50 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_sukeban_SMG",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Sukeban_SMG1"
+    },
+    {
+      "CharacterName": 1467144584,
+      "ProductionStep": "Release",
+      "NameKR": "시비 거는 손님",
+      "NicknameKR": "",
+      "NameJP": "けんか腰の客",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2443267597,
+      "ProductionStep": "Release",
+      "NameKR": "아르바이트 중인 아리우스 학생",
+      "NicknameKR": "",
+      "NameJP": "アルバイトのアリウス生",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1293598292,
+      "ProductionStep": "Release",
+      "NameKR": "감탄한 손님 A",
+      "NicknameKR": "",
+      "NameJP": "感動した客A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1814365380,
+      "ProductionStep": "Release",
+      "NameKR": "감탄한 손님 B",
+      "NicknameKR": "",
+      "NameJP": "感動した客B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     }
   ]
 }

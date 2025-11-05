@@ -1,7 +1,7 @@
 {
   "DataList": [
     {
-      "AttackCoolTime": 60000,
+      "AttackCoolTime": 30000,
       "BattleDuration": 180000,
       "DefenseCoolTime": 0,
       "TSSStartCoolTime": 180000,

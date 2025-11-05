@@ -484,9 +484,9 @@
             "z": 45.47
           },
           "Forward": {
-            "x": 0.467681617,
+            "x": 0.467682481,
             "y": 0.0,
-            "z": -0.883897
+            "z": -0.8838965
           },
           "ActiveEnemyPointIndices": [
             0
@@ -530,7 +530,7 @@
             {
               "$type": "MX.Logic.BattleEntities.SpawnPoint, BlueArchive",
               "SpawnData": {
-                "SpawnTemplateId": "Avantgardekun_Millenium_AR_E_Mystic_TimeAttack_02",
+                "SpawnTemplateId": "Avantgardekun_Millenium_AR_E_Sonic_TimeAttack_02",
                 "CostumeId": 0,
                 "AIId": 0,
                 "AppearAction": true,
@@ -557,7 +557,7 @@
                 "y": 45.2400055
               },
               "Direction": {
-                "x": -0.07729978,
+                "x": -0.077299796,
                 "y": 0.9970079
               },
               "ConditionIdList": [],
@@ -674,7 +674,7 @@
                 "y": 50.7000046
               },
               "Direction": {
-                "x": -0.342020273,
+                "x": -0.3420203,
                 "y": -0.939692736
               },
               "ConditionIdList": [],
@@ -717,7 +717,7 @@
                 "y": 50.7000046
               },
               "Direction": {
-                "x": 0.342020273,
+                "x": 0.3420203,
                 "y": -0.939692736
               },
               "ConditionIdList": [],
@@ -883,7 +883,7 @@
                   "TileY": 283,
                   "PositionHeight": 0.0,
                   "Position": {
-                    "x": 0.7603274,
+                    "x": 0.760327339,
                     "y": 52.0870438
                   },
                   "Direction": {
@@ -926,7 +926,7 @@
             {
               "$type": "MX.Logic.BattleEntities.SpawnPoint, BlueArchive",
               "SpawnData": {
-                "SpawnTemplateId": "Avantgardekun_Millenium_AR_E_Mystic_TimeAttack_02",
+                "SpawnTemplateId": "Avantgardekun_Millenium_AR_E_Sonic_TimeAttack_02",
                 "CostumeId": 0,
                 "AIId": 0,
                 "AppearAction": true,

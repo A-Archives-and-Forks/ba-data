@@ -54055,6 +54055,270 @@
       "Separate": false,
       "LocalizeKR": "뭐야, 완전 약골들이잖아?",
       "LocalizeJP": "なにこれ、手ごたえがないわねぇ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "고마워요. 더욱 힘내겠습니다.",
+      "LocalizeJP": "ありがとうございます。精進いたします。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "엄폐합니다. 지원 부탁합니다.",
+      "LocalizeJP": "遮蔽します。支援をお願いします。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아직 멀었어요!",
+      "LocalizeJP": "まだまだです！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "돌입합니다. 잘 따라오세요.",
+      "LocalizeJP": "突入します。私に続いてください。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "괜찮아요. 저를 믿어 주세요.",
+      "LocalizeJP": "大丈夫です。私を信じて。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "클리어.",
+      "LocalizeJP": "クリア。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "전진합니다.",
+      "LocalizeJP": "前進します。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "감사합니다. 도움이 되었어요.",
+      "LocalizeJP": "ありがとうございます、助かりました。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이동하겠습니다.",
+      "LocalizeJP": "移動します。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "만족하셨나요? 다행이네요.",
+      "LocalizeJP": "ご満足いただけたでしょうか？それなら何よりです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제압 완료입니다. 이걸로 해결됐다면 좋겠는데요.",
+      "LocalizeJP": "制圧完了です。これで解決してほしいのですが。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이건 몇 점 정도일까요? 선생님.",
+      "LocalizeJP": "何点満点中、どのくらいでしょうか？先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……모두가, 기다리고 있어서요.",
+      "LocalizeJP": "……みんなが、待っているんです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……일이니까 말이죠.",
+      "LocalizeJP": "……仕事、ですから。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……빠르게 끝내 둘까요.",
+      "LocalizeJP": "……早く終わらせましょうか。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "재장전.\n완료.",
+      "LocalizeJP": "リロード、\n完了。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "전투 지속합니다.",
+      "LocalizeJP": "戦闘を続けます。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제압 사격 개시",
+      "LocalizeJP": "制圧射撃、開始。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "네. 선생님.",
+      "LocalizeJP": "はい、先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "알겠습니다. 준비할게요.",
+      "LocalizeJP": "分かりました、準備します。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우왓?!\n노, 놀란 거 아니에요…… 진짜라고요.",
+      "LocalizeJP": "わあっ！？\nお、驚いてなんかいません……ほ、本当です。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "신기한 기분이네요…….\n이게 바깥에서 말하는 '성장'인 걸까요.",
+      "LocalizeJP": "不思議な感覚がします……。\nこれが外でいうところの「成長」なのでしょうか。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이것이 성장을 실감한다는 걸까요.\n저도 이렇게 앞으로 나아갈 수 있는 거군요.",
+      "LocalizeJP": "これが成長の実感、なのでしょうか。\n私もこうして前に進むことができるのですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저, 달라지고 싶다고 생각하고 있어요.\n……다른 아이들에게는 비밀로 해주세요?",
+      "LocalizeJP": "私、変わりたいと思っているんです。\n……他のみんなには、内緒にしててくださいね？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "'나를 믿고 따라와'……?\n하아…… 그 자신은 도대체 어디에서 솟아 나오는 건가요?\n뭐, 그래도…… 한 번 정도라면 상관없지만요.",
+      "LocalizeJP": "「私を信じてついてきて」……？\nはぁ……その自信は一体どこから湧いて来るんですか？\nまぁでも……一回くらいなら、信じても構いませんが。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "말로 하려니 조금 부끄럽네요.\n어떻게 전하는 게 가장 좋을지 고민했는데……\n역시, 간단한 게 최고이지 않을까, 해서요.\n저…… 선생님이 계셔서, 정말로 다행이에요.",
+      "LocalizeJP": "改めて言葉にするのは少し照れ臭いですね。\nどう伝えるのが一番良いのか、迷ったのですが……\nやっぱり、シンプルなものが一番かな、と。\nその……先生が居てくださって、本当に良かったです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "사실 아직 선생님을 백 퍼센트 믿게 된 건 아니니까 말이죠!\n그래도…… 95퍼센트, 정도는……",
+      "LocalizeJP": "本当は、まだ先生のことを100％信用しているわけじゃないんです。\nでも……95％くらいは、信じていますよ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어떤 학생이든, 선생님에게는 소중하다고 하셨죠.\n처음에는 잘 이해가 되지 않았지만……\n지금은 그 의미를 알 것 같네요.\n그것이 약간, 아쉽게도 느껴지지만요……",
+      "LocalizeJP": "どの生徒も、先生にとっては大切な存在だと言っていましたよね。\nはじめはよく理解できてなかったのですが……最近、その意味が分かるようになったんです。\n同時に、少しだけ残念にも思ってしまうのですが……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "학생이 선생님을 의지해 주면 기쁘다고 하시지만……\n저는 그걸로는 죄송하다고 할까, 모자란다는 느낌일까요.\n벼, 별 뜻은 없어요! \n그냥, 단지…… 받은 만큼 돌려주는 게, 아리우스 식이니까요!",
+      "LocalizeJP": "よく先生は頼ってほしい、と言ってくださりますが……\n私としてはそれだけではなんだか申し訳ないというか……物足りないというか。\nふ、深い意味はないです！\nただ、その……私も恩返しがしたいな、と。助けてもらった分だけ返すのがアリウス流ですから。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어디, 어떤 곳일까요.",
+      "LocalizeJP": "さて、どのような場所なのでしょうか。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그렇군요. 이런 느낌이네요.",
+      "LocalizeJP": "なるほど、こういう感じなのですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "손맛이 있는 싸움이었습니다.",
+      "LocalizeJP": "手ごたえのある戦いでした。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 10130,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이게 아리우스 식이죠.",
+      "LocalizeJP": "これがアリウス流、です。"
     }
   ]
 }

@@ -457,11 +457,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_01",
       "TextLocalizeKey": "ArenaCombatStart_01_01",
-      "VoiceId": [],
+      "VoiceId": [
+        2740868885
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -472,11 +474,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
       "TextLocalizeKey": "ArenaCombatStart_01_02",
-      "VoiceId": [],
+      "VoiceId": [
+        2074439749
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -487,11 +491,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_02",
       "TextLocalizeKey": "ArenaCombatStart_01_03",
-      "VoiceId": [],
+      "VoiceId": [
+        1031590069
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -502,11 +508,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
       "TextLocalizeKey": "ArenaCombatStart_01_04",
-      "VoiceId": [],
+      "VoiceId": [
+        3339940403
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -517,11 +525,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
       "TextLocalizeKey": "ArenaCombatStart_01_05",
-      "VoiceId": [],
+      "VoiceId": [
+        604560538
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -532,11 +542,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
       "TextLocalizeKey": "ArenaCombatStart_01_06",
-      "VoiceId": [],
+      "VoiceId": [
+        3987903754
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -547,11 +559,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_07",
       "TextLocalizeKey": "ArenaCombatVictory_01_01",
-      "VoiceId": [],
+      "VoiceId": [
+        1204059328
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -562,11 +576,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
       "TextLocalizeKey": "ArenaCombatVictory_01_02",
-      "VoiceId": [],
+      "VoiceId": [
+        4268828093
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -577,11 +593,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_02",
       "TextLocalizeKey": "ArenaCombatVictory_02_01",
-      "VoiceId": [],
+      "VoiceId": [
+        1130118592
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -592,11 +610,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
       "TextLocalizeKey": "ArenaCombatVictory_02_02",
-      "VoiceId": [],
+      "VoiceId": [
+        1671575418
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -607,11 +627,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
       "TextLocalizeKey": "ArenaCombatVictory_02_03",
-      "VoiceId": [],
+      "VoiceId": [
+        1532110422
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -622,11 +644,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
       "TextLocalizeKey": "ArenaCombatDefeat_01_01",
-      "VoiceId": [],
+      "VoiceId": [
+        3241263001
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -637,11 +661,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_04",
       "TextLocalizeKey": "ArenaCombatDefeat_01_02",
-      "VoiceId": [],
+      "VoiceId": [
+        4190358829
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -652,11 +678,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_05",
       "TextLocalizeKey": "ArenaCombatDefeat_01_03",
-      "VoiceId": [],
+      "VoiceId": [
+        3047047509
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -667,11 +695,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_08",
       "TextLocalizeKey": "ArenaCombatDefeat_01_04",
-      "VoiceId": [],
+      "VoiceId": [
+        672518607
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },
@@ -682,11 +712,13 @@
       "OutputSequence": 1,
       "RandomWeight": 1,
       "OutputDelay": 0,
-      "Duration": 3000,
+      "Duration": 0,
       "OperatorOutputPriority": 100,
       "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_04",
       "TextLocalizeKey": "ArenaCombatDefeat_01_05",
-      "VoiceId": [],
+      "VoiceId": [
+        3634896356
+      ],
       "OperatorWaitQueue": false,
       "CharacterVoiceOverridePriority": "None"
     },

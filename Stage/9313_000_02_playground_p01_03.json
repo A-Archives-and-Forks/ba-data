@@ -484,9 +484,9 @@
             "z": 45.47
           },
           "Forward": {
-            "x": 0.4676829,
+            "x": 0.467683733,
             "y": 0.0,
-            "z": -0.883896351
+            "z": -0.8838959
           },
           "ActiveEnemyPointIndices": [
             0
@@ -530,7 +530,7 @@
             {
               "$type": "MX.Logic.BattleEntities.SpawnPoint, BlueArchive",
               "SpawnData": {
-                "SpawnTemplateId": "Avantgardekun_Millenium_AR_E_Mystic_TimeAttack_03",
+                "SpawnTemplateId": "Avantgardekun_Millenium_AR_E_Sonic_TimeAttack_03",
                 "CostumeId": 0,
                 "AIId": 0,
                 "AppearAction": true,
@@ -557,7 +557,7 @@
                 "y": 45.2400055
               },
               "Direction": {
-                "x": -0.077299796,
+                "x": -0.07729981,
                 "y": 0.9970079
               },
               "ConditionIdList": [],
@@ -674,7 +674,7 @@
                 "y": 50.7000046
               },
               "Direction": {
-                "x": -0.3420203,
+                "x": -0.342020333,
                 "y": -0.939692736
               },
               "ConditionIdList": [],
@@ -717,7 +717,7 @@
                 "y": 50.7000046
               },
               "Direction": {
-                "x": 0.3420203,
+                "x": 0.342020333,
                 "y": -0.939692736
               },
               "ConditionIdList": [],
@@ -926,7 +926,7 @@
             {
               "$type": "MX.Logic.BattleEntities.SpawnPoint, BlueArchive",
               "SpawnData": {
-                "SpawnTemplateId": "Avantgardekun_Millenium_AR_E_Mystic_TimeAttack_03",
+                "SpawnTemplateId": "Avantgardekun_Millenium_AR_E_Sonic_TimeAttack_03",
                 "CostumeId": 0,
                 "AIId": 0,
                 "AppearAction": true,

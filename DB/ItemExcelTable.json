@@ -9513,7 +9513,9 @@
         "fX",
         "fY",
         "fZ",
-        "Hd"
+        "Hd",
+        "ha",
+        "hB"
       ],
       "CraftQualityTier0": 20,
       "CraftQualityTier1": 20,
@@ -10596,7 +10598,9 @@
         "Ex",
         "EY",
         "fB",
-        "fb"
+        "fb",
+        "ha",
+        "hB"
       ],
       "CraftQualityTier0": 50,
       "CraftQualityTier1": 50,
@@ -18545,6 +18549,44 @@
       "ItemCategory": "SecretStone",
       "Quality": 9,
       "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0325",
+      "SpriteName": "",
+      "StackableMax": 999999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "J"
+      ],
+      "CraftQualityTier0": 0,
+      "CraftQualityTier1": 0,
+      "CraftQualityTier2": 0,
+      "ShiftingCraftQuality": 0,
+      "MaxGiftTags": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": "",
+      "ExpirationNotifyDateIn": 0,
+      "ShortcutTypeId": 0,
+      "GachaTicket": "None"
+    },
+    {
+      "Id": 10130,
+      "GroupId": 10130,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1851317887,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0309",
       "SpriteName": "",
       "StackableMax": 999999,
       "StackableFunction": 0,
