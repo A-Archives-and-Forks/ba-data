@@ -30577,6 +30577,58 @@
       ]
     },
     {
+      "UniqueId": 2353,
+      "Id": 653356864,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Main/Main_63000_001"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2354,
+      "Id": 121834962,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Main/Main_63000_002"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2355,
+      "Id": 1935337680,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Main/Main_63000_003"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
+      "UniqueId": 2356,
+      "Id": 1990092026,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/VOC_JP/JP_Main/Main_63000_004"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
       "UniqueId": 2357,
       "Id": 247430168,
       "Nation": [

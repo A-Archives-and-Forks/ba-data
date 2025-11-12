@@ -34,6 +34,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hihumi"
     },
     {
+      "CharacterName": 1168634647,
+      "ProductionStep": "Release",
+      "NameKR": "히후미",
+      "NicknameKR": "",
+      "NameJP": "ヒフミ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hihumi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hihumi"
+    },
+    {
       "CharacterName": 1007191014,
       "ProductionStep": "Release",
       "NameKR": "히후미",
@@ -1167,6 +1178,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hanako"
     },
     {
+      "CharacterName": 3981203562,
+      "ProductionStep": "Release",
+      "NameKR": "하나코",
+      "NicknameKR": "",
+      "NameJP": "ハナコ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hanako",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hanako"
+    },
+    {
       "CharacterName": 1994093906,
       "ProductionStep": "Release",
       "NameKR": "코하루",
@@ -1206,6 +1228,17 @@
       "NicknameKR": "보충수업부",
       "NameJP": "アズサ",
       "NicknameJP": "補習授業部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_azusa",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Azusa"
+    },
+    {
+      "CharacterName": 414417122,
+      "ProductionStep": "Release",
+      "NameKR": "아즈사",
+      "NicknameKR": "",
+      "NameJP": "アズサ",
+      "NicknameJP": "",
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_azusa",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Azusa"
@@ -5466,6 +5499,17 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0309",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0309"
+    },
+    {
+      "CharacterName": 237205934,
+      "ProductionStep": "Release",
+      "NameKR": "마이아",
+      "NicknameKR": "니코메디아 트룹",
+      "NameJP": "マイア",
+      "NicknameJP": "ニコメディアトゥループ",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0324",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0324"
     },
     {
       "CharacterName": 892825076,
@@ -24971,6 +25015,61 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Sukeban_SMG1"
     },
     {
+      "CharacterName": 4025293199,
+      "ProductionStep": "Release",
+      "NameKR": "히요리&마이아",
+      "NicknameKR": "",
+      "NameJP": "ヒヨリ&マイア",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2204114172,
+      "ProductionStep": "Release",
+      "NameKR": "나팔 부는 천사",
+      "NicknameKR": "",
+      "NameJP": "ラッパ吹きの天使",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0264",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0264"
+    },
+    {
+      "CharacterName": 883464456,
+      "ProductionStep": "Release",
+      "NameKR": "구호기사단원들",
+      "NicknameKR": "구호기사단",
+      "NameJP": "救護騎士団員",
+      "NicknameJP": "救護騎士団",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3948563806,
+      "ProductionStep": "Release",
+      "NameKR": "편입한 아리우스 학생 A",
+      "NicknameKR": "",
+      "NameJP": "編入したアリウスの生徒A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0256",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0256"
+    },
+    {
+      "CharacterName": 528015378,
+      "ProductionStep": "Release",
+      "NameKR": "편입한 아리우스 학생 B",
+      "NicknameKR": "",
+      "NameJP": "編入したアリウスの生徒B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0257",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0257"
+    },
+    {
       "CharacterName": 1467144584,
       "ProductionStep": "Release",
       "NameKR": "시비 거는 손님",
@@ -24986,7 +25085,7 @@
       "ProductionStep": "Release",
       "NameKR": "아르바이트 중인 아리우스 학생",
       "NicknameKR": "",
-      "NameJP": "アルバイトのアリウス生",
+      "NameJP": "アルバイトのアリウス生徒",
       "NicknameJP": "",
       "Shape": "None",
       "SpinePrefabName": "",
