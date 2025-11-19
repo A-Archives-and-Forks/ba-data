@@ -259,6 +259,16 @@
       "IconOffsetX": 0.0,
       "IconOffsetY": 0.0,
       "ReddotSpriteName": "Common_Icon_Reddot2"
+    },
+    {
+      "EventContentId": 852,
+      "EventContentType": "Concentration",
+      "IconSpriteName": "Event_Icon_Concentration",
+      "ButtonText": "Event_Button_Concentration",
+      "DisplayOrder": 25,
+      "IconOffsetX": 0.0,
+      "IconOffsetY": -8.0,
+      "ReddotSpriteName": "Common_Icon_Reddot2"
     }
   ]
 }

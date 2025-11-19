@@ -6064,6 +6064,24 @@
       ]
     },
     {
+      "Id": 1651,
+      "ProductId": "com.yostarjp.bluearchive.r86_202511_archive_select",
+      "StoreType": "GooglePlay",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        12000100
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
       "Id": 5000,
       "ProductId": "com.yostarjp.bluearchive.aokiseki120",
       "StoreType": "AppStore",
@@ -12124,6 +12142,24 @@
         50,
         20,
         8000000
+      ]
+    },
+    {
+      "Id": 5651,
+      "ProductId": "com.yostarjp.bluearchive.r86_202511_archive_select",
+      "StoreType": "AppStore",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        12000100
+      ],
+      "ParcelAmount": [
+        1
       ]
     },
     {

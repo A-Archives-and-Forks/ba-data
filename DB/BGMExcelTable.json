@@ -6625,6 +6625,30 @@
       ]
     },
     {
+      "Id": 317,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/BGM/Theme_317"
+      ],
+      "Volume": [
+        1.0
+      ],
+      "LoopStartTime": [
+        42.96200180053711
+      ],
+      "LoopEndTime": [
+        114.77799987792969
+      ],
+      "LoopTranstionTime": [
+        0.20000000298023224
+      ],
+      "LoopOffsetTime": [
+        0.0
+      ]
+    },
+    {
       "Id": 332,
       "Nation": [
         "All"

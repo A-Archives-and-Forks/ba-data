@@ -335,6 +335,22 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 10058,
       "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50891,
+      "RecruitSellectionShopId": 10570,
+      "PickupCharacterId": 10131,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10131,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50892,
+      "RecruitSellectionShopId": 10570,
+      "PickupCharacterId": 20052,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20052,
+      "RewardParcelAmount": 100
     }
   ]
 }

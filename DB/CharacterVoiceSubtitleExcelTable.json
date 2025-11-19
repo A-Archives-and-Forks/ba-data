@@ -12501,7 +12501,7 @@
       "CharacterVoiceGroupId": 10047,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "다음은 전차가……. 그 다음엔, 로켓이 되고 싶네~",
+      "LocalizeKR": "다음은 전차가……. 그다음엔, 로켓이 되고 싶네~",
       "LocalizeJP": "次は戦車に……\nその次は、ロケットになりたいな。"
     },
     {
@@ -31173,7 +31173,7 @@
       "CharacterVoiceGroupId": 16006,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "선생님, 잘 먹었어! 이 다음엔 같이 중화냉면 먹으러 가자!",
+      "LocalizeKR": "선생님, 잘 먹었어! 이다음엔 같이 중화냉면 먹으러 가자!",
       "LocalizeJP": "先生、ごちそうさま！\n今度はまた一緒に、冷やし中華でも食べに行こう！"
     },
     {
@@ -37797,7 +37797,7 @@
       "CharacterVoiceGroupId": 20030,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이 다음은…… 이것이야말로 탐구의 길",
+      "LocalizeKR": "이다음은…… 이것이야말로 탐구의 길",
       "LocalizeJP": "この次は……\nこれぞ探究の道。"
     },
     {
@@ -44341,7 +44341,7 @@
       "CharacterVoiceGroupId": 10105,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "반빡반짝…… 호에에-!?",
+      "LocalizeKR": "반짝반짝…… 호에에-!?",
       "LocalizeJP": "き、きらきら～……はわ……！？"
     },
     {
@@ -54181,8 +54181,8 @@
       "CharacterVoiceGroupId": 10130,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "재장전.\n완료.",
-      "LocalizeJP": "リロード、\n完了。"
+      "LocalizeKR": "재장전. 완료.",
+      "LocalizeJP": "リロード、完了。"
     },
     {
       "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
@@ -54319,6 +54319,414 @@
       "Separate": false,
       "LocalizeKR": "이게 아리우스 식이죠.",
       "LocalizeJP": "これがアリウス流、です。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "친절에 감사드립니다.",
+      "LocalizeJP": "ご厚意、感謝いたします。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "몸을 피해야겠어요.",
+      "LocalizeJP": "時には筆を置くことも肝要です。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그 정도인가요?",
+      "LocalizeJP": "その程度なのですか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "시선을 앞으로, 걸음은 당당하게.\n자세에서 인품이 드러나는 법이니까요.",
+      "LocalizeJP": "視線を前に、歩みは堂々と。\n姿勢にこそ人柄がでるものですから。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋은 시작이 좋은 끝을 맺는 법이죠.\n이야기가 그런 것처럼요.",
+      "LocalizeJP": "良い始まりは、良い結末を導くもの。\n物語がそうであるように。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "끝은 곧 새로운 시작.",
+      "LocalizeJP": "終わりとはすなわち、新たな始まりを意味します。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "단락이 끝나면, 문장이 이어지죠.",
+      "LocalizeJP": "次の段落へ進みましょう。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "감사드려요.",
+      "LocalizeJP": "感謝いたしますわ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저쪽인가요?",
+      "LocalizeJP": "あちら、でしょうか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "별점 5점에…… 최소 4점인 결말이었네요.",
+      "LocalizeJP": "ふぅ……星5……少なくとも星4のレビューは固いですわね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "최선을 다한 여러분께, 찬사와 영광을.",
+      "LocalizeJP": "最善を尽くした皆さんに、賛辞と栄光を。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자, 드리겠어요.",
+      "LocalizeJP": "こちらをお使いになって。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "정말……! 조심하셔야죠!",
+      "LocalizeJP": "まったく……！\n気をつけてください！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "잊지 마세요. 항상, 우아하게!",
+      "LocalizeJP": "いつでも余裕をお忘れなく。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "괜찮은 거죠? 언제나, 품위 있게!",
+      "LocalizeJP": "気品を胸に。\n前を向くのですわ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이걸 쓰세요.",
+      "LocalizeJP": "さあ、こちらを。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "돌려주지 않아도 돼요.",
+      "LocalizeJP": "返さなくて構いませんわ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다음에는 조심하세요.",
+      "LocalizeJP": "次からは気をつけてくださいね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "평론이란, 글의 본질을 꿰뚫어 보는 행위죠.",
+      "LocalizeJP": "評論とは――文の本質を見極める行為ですわ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "네. 제가 도울 수 있는 것이라면, 무엇이든지.",
+      "LocalizeJP": "私にできることでしたら、何なりと。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "꺄앗?! 정말…….\n나중에 제대로 책임져 주세요?",
+      "LocalizeJP": "ひゃっ……！？\nああ、もう……！\n後でお話、よろしいでしょうか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "인간이란 모름지기 더 나은 내일을 향해 나아가는 자.\n정진을 잊지 말아야 하는 이유와. 자신을 돌아봐야 하는 이유죠.",
+      "LocalizeJP": "人間とは、より良い明日へと進み続ける存在。\n私が日々研鑽を怠らず、自分自身を見つめ直す理由は……そこにこそあります。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "가능성이 남아 있는 한, 발걸음을 멈추어서는 안 되죠.\n자, 손을 주세요. 선생님. 함께 나아가도록 해요.",
+      "LocalizeJP": "可能性が残されている限り、歩みを止めるべきではありませんわ。\nさあ、お手をどうぞ、先生。共に進みましょう。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "사람은 스스로에 대해 잘 알아야 해요. 평론가라고 해서 예외는 아니죠.\n그렇게 해야만, 더 성장할 수 있으니까요.\n바로, 지금처럼요.",
+      "LocalizeJP": "案外、己の事を熟知している者は多くありません。\n評論家である私とて……。\nですが、己を知る事で、また新たな一歩を踏み出すことができるのです。\n成長とはその中にこそあるものですから。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "운명의 상대라는 표현은 조금 오래된 개념이겠지만.\n지금은 그 개념에 기대어 보고 싶네요.\n그건 분명, 우리 모두를 나아가게 하는 존재일 테니까요.",
+      "LocalizeJP": "運命の相手……いささか陳腐で使い古されたクリシェですけれど。\nその言葉に縋ってみたい気分の時だってあるのですわ。\nふふっ、それはきっと、私たちが前へと歩み続けるための道標なのですから。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "갑자기, 이런 생각을 해 봤어요. 다른 대상…… 타인을 평론하는 것에는 익숙해져 있지만.\n저 자신에 대한 평론을 듣는 것은, 매우 신선할 것 같다고요.\n그러니까…… 선생님? 선생님이시라면…… 괜찮은데요……?",
+      "LocalizeJP": "ふと、思ったのですが……\n私、こうして批評を書くことは多いですけれど、\n私の批評に対しての講評はほとんどいただいたことがないのです。\nええ、そうです。その……先生であれば、きっと素敵な講評を書いてくださる、と信じております。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "사실 살다 보면 완전히 마음에 쏙 드는 건, 찾기 힘들다는 생각이 들곤 하죠.\n하지만 역시…… 예외는 있는 것 같네요. 그게 무엇인지는……\n비밀로 하겠습니다. 네. 지금은요.",
+      "LocalizeJP": "色々目にしていると、心の底から気に入るものなんて、なかなか見つかりません。\nですが……やはり何事にも例外はあるというもので それが何かは……秘密ですわ。\nええ、今は……まだ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋은 이야기를 찾았을 때만큼 흥분되는 경우는 별로 없는 것 같아요.\n저에게는 말이죠. 그리고 저에게 있어 좋은 사람은…… 좋은 이야기와 같고요.\n무슨 말인지 잘 모르시겠다고요? 후후…… 다행이네요. 지금은요.",
+      "LocalizeJP": "素晴らしい物語に出会ったときほど\n心が躍ることはありませんわ。\n私にとっては、ですけれど。\nそして私にとって素晴らしい人とは……物語と同じようなもの。\nどういう意味か、分からない？\nふふ……今は、それで構いません。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "가끔 선생님과 만나지 못한 저에 대해 생각해 봐요.\n그건 정말 잿빛과도 같은…… 굴곡 없는 이야기였을지도 모르죠.\n무슨 뜻이냐고요? 후후. 아무 의미도 없어요.\n어쩌면요.",
+      "LocalizeJP": "時々、先生に出会わなかったら、というもしもを考える時があるのです。\nそれはきっと灰色の……\n起伏のない物語だったのかもしれませんわね。\nどういう意味か、ですって？\nふふ……特に意味などありませんわ。\n……多分、おそらく。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "한 걸음, 시작해 보죠.",
+      "LocalizeJP": "さて、踏み出すといたしましょう。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "모두, 안녕하신가요?",
+      "LocalizeJP": "ごきげんよう、皆さん。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "평론할 거리가 있는 이야기였어요.",
+      "LocalizeJP": "批評のし甲斐がある物語でしたね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 10131,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "해피 엔딩, 진부하지만 좋은 마무리죠.",
+      "LocalizeJP": "ハッピーエンド……ありきたりではありますが、誰もが望むものこそ名作足りえるのですわ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "서명만 해 주시면 된답니다.",
+      "LocalizeJP": "こちらにサインをお願いします。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "구매해 주셔서 감사합니다.\n힛. 힛. 히.",
+      "LocalizeJP": "お買い上げありがとうございますぅ。ムフフ♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자아…… 오시죠, 보시죠……",
+      "LocalizeJP": "さあ寄ってらっしゃい見てらっしゃい。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "항상 감사합니다……",
+      "LocalizeJP": "毎度ありがとうございますぅ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오세요, 오세요!\n후후후……",
+      "LocalizeJP": "はい～是非是非！\nムフフ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이거 쏠쏠하네요……",
+      "LocalizeJP": "これは儲かりますねぇ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "매출은 순조롭네요. 힛. 힛. 히.",
+      "LocalizeJP": "売上は上々……ムフフ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "새로운 유통 경로라도 찾으러 가 볼까요?",
+      "LocalizeJP": "販路の開拓と参りましょうか。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이거, 대목의 예감이……!",
+      "LocalizeJP": "これは……大儲けの予感……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어이쿠, 부르셨나요?\n계약? 사업 확대? 어느 쪽이신가요?",
+      "LocalizeJP": "おっと、お呼びですかぁ？\n契約？事業拡大？どちらでしょう？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어제보다 나은 오늘, 오늘보다 나은 내일……\n그것이 우리를 더 밝은 돈벌이……\n아뇨, 아뇨, 미래로 이끌어 주겠죠.",
+      "LocalizeJP": "昨日より今日、今日より明日……\n日々の成長が我々をより明るい稼ぎへ……おっと失礼。\n未来へと導いてくれることでしょう。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "출판부를 계속 살리기 위해서라도\n부장인 제가 더 강해져야겠죠.\n어디 좋은 계약 없나…… 자금 확보 수단이라든가……",
+      "LocalizeJP": "出版部存続のためにも、部長の私がもっと強くならなければ……\nどこかにおいしい契約が転がってたりとか……しないですかねぇ……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오, 머리가 더 잘 돌아가게 된 느낌이에요.\n자아, 선생님. 유능한 계약 대리인이 필요하시다면.\n언제든지 저를 불러 주시죠!",
+      "LocalizeJP": "あれぇ、なんだか頭の回転が速くなった気がしますねぇ。\n先生、有能な契約代理人をお探しでしたら……\nはいはい、ここにいますよぉ、ムフフ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "감사합니다, 선생님!\n스승의 은혜를 잊지 않기 위해,\n여기 특별한 계약서를 준비했는데요.\n네? 여기 작은 글씨는 뭐냐고요?\n너, 너무 신경 쓰지 않으셔도 됩니다!",
+      "LocalizeJP": "日頃の感謝を込めまして、私の気持ちをこちらの紙に綴ってみました～\nあ、ここに受け取りのハンコを押してもらいたいんですけどぉ～\n……文章が契約書風？き、気のせいですよぉ～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이른바 선생님과의 '친밀도'가 올라갔다는 것이군요.\n네? 그에 대한 감상이요?\n어…… 정량화하기 힘든 걸, 물으시네요……",
+      "LocalizeJP": "ふむ……先生と私の「好感度」が上がった、ということですかね？\n……感想？\nううん……答えにくいことを聞きますねぇ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이거…… 말로 이야기하기 힘드네요. 정말로 힘들어요.\n출판부장인 주제에 언어화가 어렵다니, \n그것도 분명히 문제이긴 한데……\n그, 이런 감정은, 익숙하지 않아서……",
+      "LocalizeJP": "出版部の部長たる者、言語化に苦しむなど……\nええと、ですから、その……\nこんな気持ちは、はじめてなんですよ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "하아……\n그냥 확실하게 말해 버리고 편해지는 게 어떨까 해서 말이죠.\n그, 그러니까 선생님!\n아, 으으…… 죄송, 합니다. 시간을 조금만 더 주세요……",
+      "LocalizeJP": "はぁ……\nいっそのこと、ズバっと言っちゃってスッキリしちゃいましょうか！\nということで、先生、ちょっと……\nあ、うぅ……なんでもありません、もう少し、時間をいただけますと……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 20052,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋아요…… \n계약에서도 피할 수 없는 순간은 다가오기 마련이죠……\n선생님이 계셔서, 정말로 좋았어요.\n선생님은 저의, 모자란 문장을 채워 주시는 분이셨거든요.\n그러니까 앞으로도 계속…… 문장 교정, 부탁드리겠습니다.",
+      "LocalizeJP": "契約書に穴は作れど虚偽は言語道断……はぁ、正直に申し上げましょう。\n先生の生徒になれて、本当によかったと思っています。\nおかげさまで、私の文は驚くほど美しくなったのです。\n……なのでこれからも……添削と校正のほど、よろしくお願いしますよ？"
     }
   ]
 }

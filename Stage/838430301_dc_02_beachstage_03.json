@@ -43,7 +43,7 @@
                 "CameraForward": {
                   "x": -0.80367136,
                   "y": -0.59506464,
-                  "z": -0.003248565
+                  "z": -0.00324854255
                 }
               }
             ],
@@ -157,11 +157,26 @@
               "CharacterLevel": 0,
               "CharacterGrade": 0,
               "Interval": 100,
-              "SkillGroupId": "DTest_GroundEx01_ConcentrateTarget01",
+              "SkillGroupId": "DTest_isOnRail",
               "SkillLevel": 1,
               "ExecuterLevel": 1,
               "CharacterGroup": 1,
               "CommandID": "UseSkill_Top",
+              "WaitExecuteEnd": false
+            },
+            {
+              "$type": "MX.Logic.Battles.GroundCommandUseSkill, BlueArchive",
+              "TargetCharacterCommandId": [],
+              "CreateCharacterStat": false,
+              "CharacterId": 0,
+              "CharacterLevel": 0,
+              "CharacterGrade": 0,
+              "Interval": 100,
+              "SkillGroupId": "DTest_isOnRail",
+              "SkillLevel": 1,
+              "ExecuterLevel": 1,
+              "CharacterGroup": 1,
+              "CommandID": "UseSkill_Bottom",
               "WaitExecuteEnd": false
             },
             {

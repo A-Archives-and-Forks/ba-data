@@ -50,6 +50,13 @@
       "EventContentId": 0
     },
     {
+      "UIPrefab": 2780629434,
+      "BGMId": 53,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 0
+    },
+    {
       "UIPrefab": 2298475138,
       "BGMId": 14,
       "BGMId2nd": 0,
@@ -603,6 +610,13 @@
       "EventContentId": 851
     },
     {
+      "UIPrefab": 4142444202,
+      "BGMId": 317,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 852
+    },
+    {
       "UIPrefab": 2024295258,
       "BGMId": 57,
       "BGMId2nd": 0,
@@ -958,6 +972,13 @@
       "BGMId2nd": 0,
       "BGMId3rd": 0,
       "EventContentId": 851
+    },
+    {
+      "UIPrefab": 2024295258,
+      "BGMId": 317,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 852
     },
     {
       "UIPrefab": 1816119473,
@@ -1322,6 +1343,13 @@
       "BGMId2nd": 0,
       "BGMId3rd": 0,
       "EventContentId": 0
+    },
+    {
+      "UIPrefab": 3217805174,
+      "BGMId": 317,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 852
     }
   ]
 }

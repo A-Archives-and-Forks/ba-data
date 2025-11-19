@@ -582,6 +582,13 @@
       "UIName": []
     },
     {
+      "GroupID": 111001,
+      "PageName": "UIInformationPopup_Campaign_11",
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
       "GroupID": 112001,
       "PageName": "UIInformationPopup_Chaser04",
       "LocalizeCodeId": "UI_Description_Warning_Sample_Image",

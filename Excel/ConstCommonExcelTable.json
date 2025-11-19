@@ -63,7 +63,6 @@
         10,
         20
       ],
-      "ScenarioAutoDelayMillisec": 1500.0,
       "JoinOrCreateClanCoolTimeFromHour": 24,
       "ClanMaxMember": 50,
       "ClanSearchResultCount": 30,
@@ -198,7 +197,15 @@
       "CafeCameraDragThreshold": 0.1,
       "CafeSummonTicketBuyLimitForValidate": 1,
       "AutoCraftPresetCountLimit": 3,
-      "AutoCraftNodeSelectCount": 5
+      "AutoCraftNodeSelectCount": 5,
+      "CraftPresetNameMaxLength": 8,
+      "SelectionWaitTime": 20000,
+      "RewardWaitTime": 40000,
+      "EpisodeContinueWaitTime": 40000,
+      "ScenarioAutoDelayMillisecLong": 3000.0,
+      "ScenarioAutoDelayMillisec": 1500.0,
+      "ScenarioAutoDelayMillisecShort": 750.0,
+      "ScenarioAutoDelayMillisecVeryShort": 375.0
     }
   ]
 }

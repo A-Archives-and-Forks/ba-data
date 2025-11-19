@@ -1149,6 +1149,20 @@
       "Mail": true
     },
     {
+      "Protocol": "Craft_SavePreset",
+      "OpenConditionContent": "Craft",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Craft_SavePresetName",
+      "OpenConditionContent": "Craft",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
       "Protocol": "Arena_EnterLobby",
       "OpenConditionContent": "Arena",
       "Currency": false,
@@ -1266,6 +1280,13 @@
       "Currency": false,
       "Inventory": false,
       "Mail": true
+    },
+    {
+      "Protocol": "Arena_SettingAnonymous",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
     },
     {
       "Protocol": "WeekDungeon_List",
