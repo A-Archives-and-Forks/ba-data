@@ -25233,6 +25233,72 @@
       "Shape": "None",
       "SpinePrefabName": "",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 405691509,
+      "ProductionStep": "Release",
+      "NameKR": "연산과학 연구부장",
+      "NicknameKR": "",
+      "NameJP": "演算科学研究部長",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0084",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0084"
+    },
+    {
+      "CharacterName": 1559217225,
+      "ProductionStep": "Release",
+      "NameKR": "SEN 9000",
+      "NicknameKR": "",
+      "NameJP": "SEN9000",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3617955346,
+      "ProductionStep": "Release",
+      "NameKR": "RFC 9001",
+      "NicknameKR": "",
+      "NameJP": "RFC9001",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1237736635,
+      "ProductionStep": "Release",
+      "NameKR": "참관객 A",
+      "NicknameKR": "",
+      "NameJP": "観客A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Justice_normal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Justice_normal1"
+    },
+    {
+      "CharacterName": 1249383929,
+      "ProductionStep": "Release",
+      "NameKR": "참관객 B",
+      "NicknameKR": "",
+      "NameJP": "観客B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0024",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0024"
+    },
+    {
+      "CharacterName": 2853596581,
+      "ProductionStep": "Release",
+      "NameKR": "친위대원",
+      "NicknameKR": "",
+      "NameJP": "親衛隊員",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_royalguard_redwinter1",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Royalguard_redwinter1"
     }
   ]
 }

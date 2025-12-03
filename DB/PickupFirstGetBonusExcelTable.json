@@ -351,6 +351,70 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 20052,
       "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50894,
+      "RecruitSellectionShopId": 10571,
+      "PickupCharacterId": 10105,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10105,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50895,
+      "RecruitSellectionShopId": 10571,
+      "PickupCharacterId": 10106,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10106,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50896,
+      "RecruitSellectionShopId": 10571,
+      "PickupCharacterId": 10065,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10065,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50897,
+      "RecruitSellectionShopId": 10571,
+      "PickupCharacterId": 10049,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10049,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50899,
+      "RecruitSellectionShopId": 10572,
+      "PickupCharacterId": 10075,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10075,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50900,
+      "RecruitSellectionShopId": 10572,
+      "PickupCharacterId": 20026,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20026,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50901,
+      "RecruitSellectionShopId": 10572,
+      "PickupCharacterId": 20031,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20031,
+      "RewardParcelAmount": 100
+    },
+    {
+      "ShopRecruitId": 50902,
+      "RecruitSellectionShopId": 10572,
+      "PickupCharacterId": 20036,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20036,
+      "RewardParcelAmount": 100
     }
   ]
 }
