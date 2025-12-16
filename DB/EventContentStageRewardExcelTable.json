@@ -142733,6 +142733,15 @@
     },
     {
       "GroupId": 9008291312,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Emblem",
+      "RewardId": 3000829,
+      "RewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 9008291312,
       "RewardTag": "Default",
       "RewardProb": 10000,
       "RewardParcelType": "GachaGroup",
