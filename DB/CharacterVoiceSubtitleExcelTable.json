@@ -53461,7 +53461,7 @@
       "CharacterVoiceGroupId": 40015,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "이걸로 끝이라고 생각마세요옷-!!",
+      "LocalizeKR": "이걸로 끝이라고 생각하지 마세요옷-!!",
       "LocalizeJP": "こ、これで終わりだと思わないでください～っ！！"
     },
     {
@@ -54727,6 +54727,414 @@
       "Separate": false,
       "LocalizeKR": "좋아요…… \n계약에서도 피할 수 없는 순간은 다가오기 마련이죠……\n선생님이 계셔서, 정말로 좋았어요.\n선생님은 저의, 모자란 문장을 채워 주시는 분이셨거든요.\n그러니까 앞으로도 계속…… 문장 교정, 부탁드리겠습니다.",
       "LocalizeJP": "契約書に穴は作れど虚偽は言語道断……はぁ、正直に申し上げましょう。\n先生の生徒になれて、本当によかったと思っています。\nおかげさまで、私の文は驚くほど美しくなったのです。\n……なのでこれからも……添削と校正のほど、よろしくお願いしますよ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "멋져요……! 고마워요!",
+      "LocalizeJP": "ありがとう、ございます……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "츠쿠요류 은신술이에요……!",
+      "LocalizeJP": "ツクヨ流、隠れ身の術……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어림없습니다!",
+      "LocalizeJP": "させま、せん……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나아가요, 승리로의 런웨이로……! ",
+      "LocalizeJP": "進み、ましょう……勝利へのランウェイを……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "모두들, 함께 가요……!",
+      "LocalizeJP": "みなさん、本番、です……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다음 무대로 넘어갈게요!",
+      "LocalizeJP": "次のステージに、進みます……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아직, 더 남았나요……?",
+      "LocalizeJP": "まだ、残ってるんですか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "힘이 나요……! 고마워요……!",
+      "LocalizeJP": "助かり、ました……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이 길이 맞나요?!",
+      "LocalizeJP": "こっちで、あってますか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "피날레까지, 모두 고생하셨어요……!",
+      "LocalizeJP": "フィナーレですね。お疲れ様でした……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다, 다 같이 라멘 먹으러 가요……! ",
+      "LocalizeJP": "打ち上げで、ラーメン、いきませんか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우으으…… 라멘이 먹고 싶어요……. ",
+      "LocalizeJP": "うぅ……ラーメンが食べたい、です……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "닌자란, 자고로 어떤 궁지에 몰리더라도……! ",
+      "LocalizeJP": "忍者は、窮地に立たされても、諦めないもの……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "닌자라면, 이런 순간에 분명……!",
+      "LocalizeJP": "こういうとき、忍者、なら……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "드, 드레스가 찢어지더라도……!",
+      "LocalizeJP": "ドレスが、破けたとしても……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제, 제가 막아내겠어요……! ",
+      "LocalizeJP": "私が、止めます……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "모, 모두 제 뒤로……!",
+      "LocalizeJP": "私の後ろに、下がってください……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "츠쿠요류, 신 변장의 술! 입니다……! ",
+      "LocalizeJP": "ツクヨ流、新・変わり身の術、です……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저, 정말로 저를 스카우트하시겠다고요……?! ",
+      "LocalizeJP": "えっ！スカウト……？私を、ですか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……한번 가볼게요. 그것이 걸어야만 할 길이라면……!",
+      "LocalizeJP": "最後まで……歩ききって、みせます……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흐으음…… 햐앗?! 우으으…….",
+      "LocalizeJP": "う～ん……ひゃっ！？うぅぅ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저, 왠지 엄청나게 주목받는 것 같은데…… \n착각이겠죠……?",
+      "LocalizeJP": "私、すごく注目されてる、ような……。\n気のせい、ですよね……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "성장했다니……\n정말로, 제게 재능이 있다고요……?",
+      "LocalizeJP": "成長……？\n本当に、私にも才能が……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제가…… 이런 과분한 것을 누려도 될까요……?",
+      "LocalizeJP": "こんなに……私には、もったいないです……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저의 쇼는, 지금부터 시작이에요.\n봐주세요, 닌자 츠쿠요의 새로운 모습을……!",
+      "LocalizeJP": "私のステージは、これから、です。\n忍者ツクヨの新しい姿を、みて、ください……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "드레스, 잘 어울린다고요? 정말요?\n에헤헤……. ",
+      "LocalizeJP": "ドレス、似合って、ますか……？本当、ですか？えへへ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님께서 바라봐주신다면, 저는, 그 어떤 길이라도…….",
+      "LocalizeJP": "先生が、見守ってくれるなら……私は、どんな道でも……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "스테이지에 홀로 서는 것보다…… \n선생님의 곁에 있는 게 더…….",
+      "LocalizeJP": "ステージに、一人で立つより……先生のおそばに……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "잘하는 것과 좋아하는 것……\n……저, 저라면 좋아하는 쪽에 남고 싶어요.",
+      "LocalizeJP": "得意、なことと、好き、なこと……\nどちらかを選ぶなら、私は……好きなこと、がいいです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "모, 모두 발밑 조심하세요……!",
+      "LocalizeJP": "足元に、気をつけて、ください……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "모델…… 아니, 닌자 츠쿠요, 갑니다! ",
+      "LocalizeJP": "モデル……いえ、忍者、ツクヨ……行きます！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "머, 멋진 클로징이었어요!",
+      "LocalizeJP": "無事に終わって、よかった、です……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "다, 다친 분은 없으시죠……?",
+      "LocalizeJP": "みなさん、お怪我は、ありませんか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "비법을 전수하도록 하지……! ",
+      "LocalizeJP": "秘儀を伝授して進ぜよう！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이것이, 미치루류…… 우냐아악?! ",
+      "LocalizeJP": "これがミチル流……うにゃああっ！？ "
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "보아라, 이것이 새로이 마련한…… 카메라아악?! ",
+      "LocalizeJP": "とくと見よ！これが最新のカメ、らぁ～～っ！？ "
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "소녀인법첩 미치룻치, 시자아아악?!",
+      "LocalizeJP": "少女忍法帖ミチルっち、スタ～とぉぉおっ！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "잡았다…… 우냐아악?! ",
+      "LocalizeJP": "キャッ、チ……うにゃああっ！？ "
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "휘유…… 내 누우우운! ",
+      "LocalizeJP": "ふぅ……めっ、目が～っ！？ "
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후아…… 지, 지금은 안 돼!",
+      "LocalizeJP": "ふぅ……オフショットはだめぇ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아 아, 여긴 언더커버 제로원…… 이거 맞나?",
+      "LocalizeJP": "あ、あー。こちらアンダーカバーゼロワン。\n……ってこれでいいんだっけ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이곳인가? 우리의 작전 지역이……!",
+      "LocalizeJP": "私たちの作戦場所は……ここだね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이 드레스는 어디까지나 임무 수행용……!  \n그래도, 어떤 것 같은가, 선생 공?",
+      "LocalizeJP": "このドレスは任務のためで……！\nで、でも……その、先生殿は、どう思う？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이것은……! 마치 딱 맞는 옷을 입은 것 같은 기분……!",
+      "LocalizeJP": "この感覚……これが、シンデレラフィット……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "새로운 옷과 함께 더 강해졌지만……! \n닌자로서의 마음가짐만큼은, 변치 않는 법! ",
+      "LocalizeJP": "服装が変わっても、心持ちまで変わるわけじゃないよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이런 귀한 걸……! 역시 나와 함께 닌자-로드를 걷고 싶다는 것인가!",
+      "LocalizeJP": "こんな珍しい物をくれるってことは……\n先生殿も、忍者の道を行きたくなったの？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후, 어떤가 선생 공? 더 귀여워졌…… 아니, 더 강해졌다고? ",
+      "LocalizeJP": "ふふっ、どう？\n私……可愛いく……いや、強くなった？  "
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이, 이거 조금 부끄러운걸, 우냐아아…….",
+      "LocalizeJP": "これはちょっと恥ずかしい、かも……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "어때, 내 새로운 헤어스타일?\n꽤 열심히 세팅했는데……. ",
+      "LocalizeJP": "この髪型、どうかな？\n結構頑張って、セットしたんだけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "귀엽다, 라……. 후, 후히, 후햐햣……",
+      "LocalizeJP": "えっ、可愛い……？\n先生殿ってば、またまたぁ……ふ、ふへへっ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이런 복장이라면, 선생 공 옆에 경호원으로 붙어 있어도,\n어, 어색하지 않겠지…?",
+      "LocalizeJP": "この格好なら、先生殿のボディガードとして……\nそばにいてもいい……？"
     }
   ]
 }

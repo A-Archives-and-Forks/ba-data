@@ -1044,6 +1044,20 @@
       "Mail": false
     },
     {
+      "Protocol": "Cafe_PresetDetail",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_UpdateCopyPresetFurniture",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
       "Protocol": "Craft_List",
       "OpenConditionContent": "None",
       "Currency": false,
@@ -2906,6 +2920,13 @@
       "Mail": true
     },
     {
+      "Protocol": "MultiFloorRaid_Login",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
       "Protocol": "BattlePass_GetInfo",
       "OpenConditionContent": "None",
       "Currency": false,
@@ -2949,6 +2970,20 @@
     },
     {
       "Protocol": "BattlePass_Check",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "DailyRecord_Reward",
+      "OpenConditionContent": "None",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Option_Save",
       "OpenConditionContent": "None",
       "Currency": false,
       "Inventory": false,

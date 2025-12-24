@@ -135,21 +135,6 @@
       "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Hod"
     },
     {
-      "Id": 10008,
-      "GroupId": 1,
-      "UnlockConditionType": "ClearSpecificScenario",
-      "UnlockConditionParameter": [],
-      "MultipleConditionCheckType": "Or",
-      "UnlockConditionCount": 1,
-      "IsObject": true,
-      "IsHorizon": false,
-      "EmblemResource": "Special_Operation_Icon_Sephira_09",
-      "ThumbResource": "",
-      "FullResource": "",
-      "LocalizeEtcId": 0,
-      "SubNameLocalizeCodeId": ""
-    },
-    {
       "Id": 10009,
       "GroupId": 1,
       "UnlockConditionType": "ClearSpecificScenario",

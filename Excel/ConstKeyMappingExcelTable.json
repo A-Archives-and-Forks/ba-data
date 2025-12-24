@@ -2,7 +2,6 @@
   "DataList": [
     {
       "DragSensitivity": 20.0,
-      "PcInformationGroupID": 900000001,
       "ScrollWheelFactor": 2.5,
       "RemoveKeycodeWord": "Left|Right|Alpha",
       "TutorialDialogTouchKey": "UI_KeyMapping_All_TouchScreen"

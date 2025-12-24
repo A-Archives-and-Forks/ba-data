@@ -3687,6 +3687,25 @@
       "PurchaseReportEventName": "purchase_complete_r86_202511_eleph_select_normal"
     },
     {
+      "Id": 1653,
+      "CashProductId": 1653,
+      "PackageType": "Product",
+      "LocalizeEtcId": 3527158827,
+      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Package_Fortune_0",
+      "DisplayOrder": 99,
+      "RenewalDisplayOrder": 0,
+      "CategoryType": "TimeLimit",
+      "DisplayTag": "New",
+      "SalePeriodFrom": "2025-12-24 11:00:00",
+      "SalePeriodTo": "2026-01-20 10:59:59",
+      "PeriodTag": true,
+      "AccountLevelLimit": 0,
+      "AccountLevelHide": false,
+      "ClearMissionLimit": 0,
+      "ClearMissionHide": false,
+      "PurchaseReportEventName": "purchase_complete_r87_newyear2025"
+    },
+    {
       "Id": 5000,
       "CashProductId": 5000,
       "PackageType": "Product",
@@ -7029,6 +7048,25 @@
       "ClearMissionLimit": 0,
       "ClearMissionHide": false,
       "PurchaseReportEventName": "purchase_complete_r86_202511_eleph_select_normal"
+    },
+    {
+      "Id": 5653,
+      "CashProductId": 5653,
+      "PackageType": "Product",
+      "LocalizeEtcId": 3527158827,
+      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Package_Fortune_0",
+      "DisplayOrder": 99,
+      "RenewalDisplayOrder": 0,
+      "CategoryType": "TimeLimit",
+      "DisplayTag": "New",
+      "SalePeriodFrom": "2025-12-24 11:00:00",
+      "SalePeriodTo": "2026-01-20 10:59:59",
+      "PeriodTag": true,
+      "AccountLevelLimit": 0,
+      "AccountLevelHide": false,
+      "ClearMissionLimit": 0,
+      "ClearMissionHide": false,
+      "PurchaseReportEventName": "purchase_complete_r87_newyear2025"
     },
     {
       "Id": 10001,

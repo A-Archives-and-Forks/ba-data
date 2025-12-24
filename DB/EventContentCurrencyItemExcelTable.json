@@ -1387,6 +1387,30 @@
       "UseShortCutContentType": "CardShop"
     },
     {
+      "EventContentId": 853,
+      "EventContentItemType": "EventPoint",
+      "ItemUniqueId": 80730,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 853,
+      "EventContentItemType": "EventToken1",
+      "ItemUniqueId": 80731,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 853,
+      "EventContentItemType": "EventToken2",
+      "ItemUniqueId": 80732,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 853,
+      "EventContentItemType": "EventToken3",
+      "ItemUniqueId": 80733,
+      "UseShortCutContentType": "FortuneGachaShop"
+    },
+    {
       "EventContentId": 80000,
       "EventContentItemType": "EventToken1",
       "ItemUniqueId": 80560,
@@ -2338,6 +2362,30 @@
       "EventContentId": 10841,
       "EventContentItemType": "EventToken3",
       "ItemUniqueId": 85353,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10840,
+      "EventContentItemType": "EventToken1",
+      "ItemUniqueId": 85360,
+      "UseShortCutContentType": "Treasure"
+    },
+    {
+      "EventContentId": 10840,
+      "EventContentItemType": "EventToken2",
+      "ItemUniqueId": 85361,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10840,
+      "EventContentItemType": "EventToken3",
+      "ItemUniqueId": 85362,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10840,
+      "EventContentItemType": "EventToken4",
+      "ItemUniqueId": 85363,
       "UseShortCutContentType": "Shop"
     },
     {

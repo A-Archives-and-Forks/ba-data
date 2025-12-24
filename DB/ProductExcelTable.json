@@ -6082,6 +6082,36 @@
       ]
     },
     {
+      "Id": 1653,
+      "ProductId": "com.yostarjp.bluearchive.r87_newyear2025",
+      "StoreType": "GooglePlay",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        "Currency",
+        "Item",
+        "Equipment",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        1,
+        6111,
+        3,
+        12,
+        100008
+      ],
+      "ParcelAmount": [
+        5000000,
+        1,
+        200,
+        200,
+        15
+      ]
+    },
+    {
       "Id": 5000,
       "ProductId": "com.yostarjp.bluearchive.aokiseki120",
       "StoreType": "AppStore",
@@ -12160,6 +12190,36 @@
       ],
       "ParcelAmount": [
         1
+      ]
+    },
+    {
+      "Id": 5653,
+      "ProductId": "com.yostarjp.bluearchive.r87_newyear2025",
+      "StoreType": "AppStore",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 1,
+      "ParcelType": [
+        "Currency",
+        "Item",
+        "Equipment",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        1,
+        6111,
+        3,
+        12,
+        100008
+      ],
+      "ParcelAmount": [
+        5000000,
+        1,
+        200,
+        200,
+        15
       ]
     },
     {

@@ -199,13 +199,15 @@
       "AutoCraftPresetCountLimit": 3,
       "AutoCraftNodeSelectCount": 5,
       "CraftPresetNameMaxLength": 8,
-      "SelectionWaitTime": 20000,
-      "RewardWaitTime": 40000,
-      "EpisodeContinueWaitTime": 40000,
+      "SelectionWaitTime": 2000,
+      "RewardWaitTime": 3000,
+      "EpisodeContinueWaitTime": 3000,
       "ScenarioAutoDelayMillisecLong": 3000.0,
       "ScenarioAutoDelayMillisec": 1500.0,
       "ScenarioAutoDelayMillisecShort": 750.0,
-      "ScenarioAutoDelayMillisecVeryShort": 375.0
+      "ScenarioAutoDelayMillisecVeryShort": 375.0,
+      "PcBuildEnterInformation": 1000001,
+      "CafeCopyPresetSlotCount": 10
     }
   ]
 }

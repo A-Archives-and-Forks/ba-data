@@ -16525,7 +16525,7 @@
       "CharacterId": 20047,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "힘을 빼고… 심호흡… 물에 뜨는 거… 어렵네…",
+      "LocalizeKR": "힘을 빼고… 심호흡… 물에 뜨는 거… 어렵네….",
       "LocalizeJP": "力を抜いて……深呼吸……水に浮くのって……難しい……。"
     },
     {
@@ -16605,7 +16605,7 @@
       "CharacterId": 13014,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "우리 조정실을…. 여기로 옮길 순 없을까…",
+      "LocalizeKR": "우리 조정실을… 여기로 옮길 순 없을까….",
       "LocalizeJP": "アタシらの調停室……\nここに引っ越せないかな……。"
     },
     {
@@ -17775,6 +17775,134 @@
       "Separate": false,
       "LocalizeKR": "도구는 쓰기 나름이라고 하잖습니까?\n이걸로 계약을 보다 \n'확실하게' 지키도록 할 수 있겠네요.",
       "LocalizeJP": "馬鹿と鋏は使いよう……。\nこれからは契約を「きちんと」守らせることが\nできそうですねぇ……ムフフ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루, 아카이브.",
+      "LocalizeJP": "ブルー、アーカイブ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이, 이런 차림이어도, 어엿한 인법연구부의 일원……! \n오노 츠쿠요입니다!",
+      "LocalizeJP": "大野ツクヨ、です！\nドレスを着てはいますが……正真正銘、忍術研究部の一員、です……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흐우우, 너무\n눈에 띄는\n복장일까요……?",
+      "LocalizeJP": "ううぅ……私、すごく見られてませんか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "커피가 옷에\n튀지 않게,\n조심, 조심…….",
+      "LocalizeJP": "服に染みがついたら、大変、ですから……慎重に……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "차라리\n저 가구에 들어가\n있고 싶어요……. ",
+      "LocalizeJP": "うぅ……いっそ、あそこの家具に、紛れて……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이 옷을 입으니,\n걷는 것도\n신경 쓰여요…….",
+      "LocalizeJP": "ドレスを着ているときは、歩き方も……気にしないと……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(정말…… 다양한\n패션들이 눈에\n들어오네요.)",
+      "LocalizeJP": "（みなさん……個性的な格好を、されていますね）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저, 최선을 다할게요.\n우리 모두의\n닌자의 길을 위해서……!",
+      "LocalizeJP": "私……これからも精一杯、頑張り、ます。\nみなさんと、立派な忍者になる、ために……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루~ 흠흠, 아카이브?",
+      "LocalizeJP": "ブルゥ～！こほん……アーカイブ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "안녕하신가, 선생 공!\n이번 임무는 무려 잠입이라고! \n그러니 잘 부탁해!",
+      "LocalizeJP": "先生殿～調子はどう？今回は潜入任務だよ！\nよろしくね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후…… 나를 알아보는\n사람이 있으면 어떡하지……?",
+      "LocalizeJP": "ふふ……私に気がつく人がいたらどうしよう……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이 드레스…… 역시 이런\n곳에서 입기에는 과한가……?",
+      "LocalizeJP": "このドレス……ここで着るのはやり過ぎ……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(드레스…… 커피……\n떠오른다! 새로운 콘텐츠가!)",
+      "LocalizeJP": "（ドレスと、コーヒー……あっ！このネタ使えるかも……！）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나중에는 꼭……! 이곳에서\n구독자들과 팬 미팅을……!",
+      "LocalizeJP": "いつか絶対……！ここでファンミーティングを……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(좋아, 일단! ……제일\n구석진 자리가 어디지?)",
+      "LocalizeJP": "（よし！とりあえず……人目につかない場所はどこだろ？）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나…… 나에게 이런……!\n하지만 선생 공의 판단이라면!\n응! 감사합니다!",
+      "LocalizeJP": "いいの……？私に、こんな……！\nでも、先生殿の判断なら！うん！ありがとう！"
     },
     {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
@@ -42677,7 +42805,7 @@
       "CharacterId": 10121,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "소녀도 알고 있사와요! 아~이 쇼핑~이라는 것이이지요?",
+      "LocalizeKR": "소녀도 알고 있사와요! 아~이 쇼핑~이라는 것이지요?",
       "LocalizeJP": "身共も知っています！\nこれがうぃんどーしょっぴんぐ、ですの！"
     },
     {
@@ -44789,7 +44917,7 @@
       "CharacterId": 20050,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "다들 너무 심각해지지\n않아도 괜찮은데…….",
+      "LocalizeKR": "다, 다들 너무 심각해지지\n않아도 괜찮은데…….",
       "LocalizeJP": "み、みんな、どんよりしないで～……。"
     },
     {
@@ -45733,7 +45861,7 @@
       "CharacterId": 16018,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "검은색이네?\n내가 좋아하는 색이야!",
+      "LocalizeKR": "어? 검은색이네?\n내가 좋아하는 색이야!",
       "LocalizeJP": "あっ、黒！うちの好きな色よ！"
     },
     {
@@ -46687,6 +46815,542 @@
       "Separate": false,
       "LocalizeKR": "그러면 내일도잘 부탁드리겠습니다.",
       "LocalizeJP": "では、明日もよろしくお願いいたしますわ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "잠입 상황에서는\n주먹밥인가,\n병량환인가…….",
+      "LocalizeJP": "潜入任務に持って行くなら、おにぎりか兵糧丸か――"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "응? 왔구나,\n선생 공!",
+      "LocalizeJP": "ん？\n先生殿！いらっしゃい！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋은 복장이군,\n선생 공.",
+      "LocalizeJP": "先生殿……良い格好じゃん。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이런 모습은\n또 새롭네…….",
+      "LocalizeJP": "こういう感じも新鮮だね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우냐악……!\n대체 왜 패션쇼장에서\n전투를 벌이는 건데?!",
+      "LocalizeJP": "だ～～っ！\nなんでファッションショーで戦い始めるのさっ！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……응, 보고 싶네,\n츠쿠요.",
+      "LocalizeJP": "ツクヨに会いたい……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "잘 지내고 있을까……\n라멘은 잘 챙겨 먹고\n있겠지?",
+      "LocalizeJP": "元気かな……ラーメン、ちゃんと食べれてるといいけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋아……! 이것으로\n인법연구부, 부활!",
+      "LocalizeJP": "忍術研究部、完全復活！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자! 선생 공도\n어서 이쪽으로!",
+      "LocalizeJP": "先生殿も！こっちこっち！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭔가 심심한데…….",
+      "LocalizeJP": "なんかヒマだなぁ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "응?\n그런 말 하면 꼭 뭔가\n일이 생긴다고?",
+      "LocalizeJP": "ん？こういうこと言うと絶対何か起きるって？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "으으으……\n이 옷 뭔가 묘하게\n끼는 것 같아…….",
+      "LocalizeJP": "うぅ……これ、キツくて動きにくい……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이런 걸 왜 좋다고\n입는 거지……!",
+      "LocalizeJP": "みんなこれの何がいいの！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "닌자를 닌자로\n만드는 것은\n무엇인가……?",
+      "LocalizeJP": "服装は忍者の条件にあらず……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "복장……은\n아닌 것 같고.",
+      "LocalizeJP": "なれば、忍者を忍者たらしめるものは何か……！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "보여주지……!\n닌자의 길에",
+      "LocalizeJP": "とくと見よ……！\nドレスごとき――"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "복장 같은 것은\n아무런 방해물도 되지\n않는다는 것을……!",
+      "LocalizeJP": "忍者にとって何の障害でもない、ということを……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "서, 선생님……?!\n이, 이 옷,\n역시 어색하죠……?",
+      "LocalizeJP": "先生……！？\nこのドレス……やっぱり、変、でしょうか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오, 오셨나요,\n선생님……?",
+      "LocalizeJP": "おかえりなさい、先生……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이, 이 옷은\n그러니까……. ",
+      "LocalizeJP": "ええと、この格好は、その……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭐, 뭐죠……? 대체\n무슨 일이 벌어지고\n있는 거죠……?",
+      "LocalizeJP": "一体……何が起きてるんですか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "무대 위는 이상해요.",
+      "LocalizeJP": "ステージの上は……不思議、です。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "분명 어느 때보다\n많은 관심을 받는데……",
+      "LocalizeJP": "たくさんの方に、見られてる、のに……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이상할 정도로\n외로워요…….",
+      "LocalizeJP": "孤独、だと思う瞬間が、あります……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "모두들……!\n저, 돌아왔어요……!",
+      "LocalizeJP": "みなさん……！\n私……帰って、きました……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저는, 정말로\n이 옷에 잘 어울리는\n사람일까요……?",
+      "LocalizeJP": "私は……この衣装に、相応しいのでしょうか……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "너, 너무 눈에 띄죠,\n선생님……?",
+      "LocalizeJP": "やっぱり、目立ってます、よね……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후으으,\n닌자가 이러면\n안 되는데…….",
+      "LocalizeJP": "うぅ……私、忍者なのに……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "예, 예, 예,\n예쁘다고요……?!",
+      "LocalizeJP": "き、き、ききキレイ、ですか……！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흐우우우…….",
+      "LocalizeJP": "ひゃうううぅ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이, 이 옷도",
+      "LocalizeJP": "この服も――"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "일종의 변장술이라\n생각한다면……\n괜찮을지도……. ",
+      "LocalizeJP": "変装の術だと、思えば……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오오 왔군, 선생 공!\n마음 편히 둘러보라고.",
+      "LocalizeJP": "いらっしゃい、先生殿！\nゆっくり見てってね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그런데 말이야,\n이 상품은 말이지…….",
+      "LocalizeJP": "あ！でも、この商品なんだけど、私が思うには―― "
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "없는 것만 빼고 전부 다\n다 준비해 뒀다고! 냐하하!",
+      "LocalizeJP": "無い物以外、ぜーんぶあるよ！ふっふっふ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후, 어서 문 닫고 같이\n신 닌자 정식이나 먹으러\n가자고, 선생 공!",
+      "LocalizeJP": "ふっふん～早く閉めて、新しい忍者定食を食べに行こーよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선택은 신중하게,\n구매는 과감하게……!",
+      "LocalizeJP": "選択は慎重に、購入は大胆に……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그것이\n굿즈 구매의 인법……!",
+      "LocalizeJP": "それがグッズを買う時の掟……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "언젠가는 이곳에,\n소녀인법첩 미치룻치의 굿즈도\n진열을……! ",
+      "LocalizeJP": "いつかここに、少女忍法帖ミチルっちのグッズを……！ "
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋군.\n좋은 선택이야.",
+      "LocalizeJP": "おぉ～それかぁ。良い選択じゃん？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그래, 닌자라면\n당연히 그렇게 선택해야지!",
+      "LocalizeJP": "そう！忍者ならそれを選ばなくっちゃね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy3",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "포장하시겠습니까,\n아니면 드시고 가시겠……",
+      "LocalizeJP": "こちら、温めま……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy3",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아, 이게 아닌가.",
+      "LocalizeJP": "あっ、間違えた。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy4",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오오……! 맞아!\n그것이 바로 우리 상점의\n추천 상품!",
+      "LocalizeJP": "おお……！それはまさに！イチオシ商品！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventShop_Buy4",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "사실 전부 다\n추천 상품이지만!",
+      "LocalizeJP": "まあ、全部イチオシなんだけど！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Enter1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후, 어서 와 선생 공.",
+      "LocalizeJP": "あ、先生殿も来たんだね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Enter1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나도 마침\n라멘을 고르던 중이었다고.",
+      "LocalizeJP": "……私？どれにするか悩んでたとこ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Enter2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "흠흠, 좋은 냄새…….",
+      "LocalizeJP": "んん～いい匂い――"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Enter2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……만 있는 건\n아닌 것 같지만! 가보자고!",
+      "LocalizeJP": "だけでもないけど！まあ、いってみよー！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Enter3",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "잘 먹었습니다……\n이제 더는 안 들어가…….",
+      "LocalizeJP": "ごちそうさまでした……もう何も入んない……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Idle1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "면과 수프…… 그것은\n마치 닌자와 인법…….",
+      "LocalizeJP": "麺とスープ……それはまさに忍者と忍術……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Idle2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생 공은\n어떤 라멘이 좋아?",
+      "LocalizeJP": "先生殿はどんなラーメンが好き？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Luck4",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "떠오른다……!",
+      "LocalizeJP": "おぉ……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Luck4",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "새로운 인법의 영감이\n떠오르는 맛이야……!",
+      "LocalizeJP": "新しい忍術をひらめけそうな味だよ……！！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Luck3",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우냐아앗……?!\n이, 이 맛은……! ",
+      "LocalizeJP": "うにゃっ……！？こ、この味は……！ "
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Luck2",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우읏, 이건 제법인데……?",
+      "LocalizeJP": "んっ、なかなかやるじゃん……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Luck1",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "나쁘지는 않은데……\n정말 나쁘지만 않아……!",
+      "LocalizeJP": "悪くないけど……悪くはない……ほんと、それだけ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventFortuneGachashop_Ramen_Luck0",
+      "CharacterId": 20053,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "윽, 이, 이게\n라멘……?",
+      "LocalizeJP": "えっ……これ、ラーメンなの……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "해, 해야 할 임무들을\n정리해 봤어요…….",
+      "LocalizeJP": "やることを、まとめて、みました……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter2",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "쉽지 않은 임무들이지만……",
+      "LocalizeJP": "どれも簡単ではない、ですが……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Enter2",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님은 할 수 있어요!",
+      "LocalizeJP": "先生なら、きっと……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제, 제가 정리한 것에\n문제라도 있나요……? ",
+      "LocalizeJP": "えっと……私のまとめたものに……問題でも、ありましたか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "예? 이, 이런 건\n임무 중에 없었는데…….",
+      "LocalizeJP": "先生……？どうか、しましたか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "여, 역시……!",
+      "LocalizeJP": "さすが、です……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님은\n해내실 줄 알았어요!",
+      "LocalizeJP": "先生ならできるって、信じてました……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Buy2",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "굉장해요! 역시 선생님에게도\n닌자의 재능이……! ",
+      "LocalizeJP": "すごいです……！\n先生にも、忍者の才能が……！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventMission_Interaction1",
+      "CharacterId": 10132,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "수, 수고하셨습니다……!\n멋진 피날레였어요!",
+      "LocalizeJP": "お疲れ様、です……！\n素晴らしいフィナーレ、でした！"
     }
   ]
 }
