@@ -8399,6 +8399,30 @@
       "LoopOffsetTime": [
         0.0
       ]
+    },
+    {
+      "Id": 90005,
+      "Nation": [
+        "All"
+      ],
+      "Path": [
+        "Audio/BGM/Theme_227_Title"
+      ],
+      "Volume": [
+        1.0
+      ],
+      "LoopStartTime": [
+        0.0
+      ],
+      "LoopEndTime": [
+        0.0
+      ],
+      "LoopTranstionTime": [
+        86.0
+      ],
+      "LoopOffsetTime": [
+        0.0
+      ]
     }
   ]
 }

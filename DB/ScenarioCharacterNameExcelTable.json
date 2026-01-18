@@ -5820,6 +5820,61 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
+      "CharacterName": 2272647969,
+      "ProductionStep": "Release",
+      "NameKR": "리오",
+      "NicknameKR": "세미나",
+      "NameJP": "リオ",
+      "NicknameJP": "セミナー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0331",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0331"
+    },
+    {
+      "CharacterName": 1423982009,
+      "ProductionStep": "Release",
+      "NameKR": "토키",
+      "NicknameKR": "C&C",
+      "NameJP": "トキ",
+      "NicknameJP": "C&C",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0333",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0333"
+    },
+    {
+      "CharacterName": 2714160656,
+      "ProductionStep": "Release",
+      "NameKR": "아리스",
+      "NicknameKR": "게임개발부",
+      "NameJP": "アリス",
+      "NicknameJP": "ゲーム開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0334",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0334"
+    },
+    {
+      "CharacterName": 2286957398,
+      "ProductionStep": "Release",
+      "NameKR": "유즈",
+      "NicknameKR": "게임개발부",
+      "NameJP": "ユズ",
+      "NicknameJP": "ゲーム開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0336",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0336"
+    },
+    {
+      "CharacterName": 1451921119,
+      "ProductionStep": "Release",
+      "NameKR": "에이미",
+      "NicknameKR": "초현상특무부",
+      "NameJP": "エイミ",
+      "NicknameJP": "特異現象捜査部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0337",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0337"
+    },
+    {
       "CharacterName": 3261875659,
       "ProductionStep": "Release",
       "NameKR": "아즈사",
@@ -8095,6 +8150,50 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0262",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0166"
+    },
+    {
+      "CharacterName": 3050021557,
+      "ProductionStep": "Release",
+      "NameKR": "모모이",
+      "NicknameKR": "게임개발부",
+      "NameJP": "モモイ",
+      "NicknameJP": "ゲーム開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0267",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0267"
+    },
+    {
+      "CharacterName": 3621431876,
+      "ProductionStep": "Release",
+      "NameKR": "미도리",
+      "NicknameKR": "게임개발부",
+      "NameJP": "ミドリ",
+      "NicknameJP": "ゲーム開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0268",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0268"
+    },
+    {
+      "CharacterName": 3721379331,
+      "ProductionStep": "Release",
+      "NameKR": "케이",
+      "NicknameKR": "",
+      "NameJP": "ケイ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0269",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0269"
+    },
+    {
+      "CharacterName": 3700647472,
+      "ProductionStep": "Release",
+      "NameKR": "히마리",
+      "NicknameKR": "초현상특무부",
+      "NameJP": "ヒマリ",
+      "NicknameJP": "特異現象捜査部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0278",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0278"
     },
     {
       "CharacterName": 1800434827,
@@ -25783,6 +25882,17 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0084",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0084"
+    },
+    {
+      "CharacterName": 1538867974,
+      "ProductionStep": "Release",
+      "NameKR": "레이버",
+      "NicknameKR": "",
+      "NameJP": "レイバー",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0282",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0282"
     }
   ]
 }
