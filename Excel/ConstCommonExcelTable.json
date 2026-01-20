@@ -207,7 +207,11 @@
       "ScenarioAutoDelayMillisecShort": 750.0,
       "ScenarioAutoDelayMillisecVeryShort": 375.0,
       "PcBuildEnterInformation": 1000001,
-      "CafeCopyPresetSlotCount": 10
+      "ComebackUserStandardDay": 28,
+      "ComebackUserLogSaveDay": 60,
+      "ComeBackActivateCooldown": 60,
+      "CafeCopyPresetSlotCount": 10,
+      "ExpiryProductDailyRecordItemReceiveDay": 7
     }
   ]
 }

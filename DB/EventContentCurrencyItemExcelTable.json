@@ -1411,6 +1411,36 @@
       "UseShortCutContentType": "FortuneGachaShop"
     },
     {
+      "EventContentId": 854,
+      "EventContentItemType": "EventToken1",
+      "ItemUniqueId": 80754,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 854,
+      "EventContentItemType": "EventToken2",
+      "ItemUniqueId": 80755,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 854,
+      "EventContentItemType": "EventToken3",
+      "ItemUniqueId": 80756,
+      "UseShortCutContentType": "MiniGameRoad"
+    },
+    {
+      "EventContentId": 854,
+      "EventContentItemType": "EventToken4",
+      "ItemUniqueId": 80757,
+      "UseShortCutContentType": "MiniGameCCG"
+    },
+    {
+      "EventContentId": 854,
+      "EventContentItemType": "EventEtcItem",
+      "ItemUniqueId": 80758,
+      "UseShortCutContentType": ""
+    },
+    {
       "EventContentId": 80000,
       "EventContentItemType": "EventToken1",
       "ItemUniqueId": 80560,

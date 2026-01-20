@@ -1364,6 +1364,27 @@
       "BGMId2nd": 0,
       "BGMId3rd": 0,
       "EventContentId": 852
+    },
+    {
+      "UIPrefab": 1409432735,
+      "BGMId": 295,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 0
+    },
+    {
+      "UIPrefab": 3066689121,
+      "BGMId": 82501,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 0
+    },
+    {
+      "UIPrefab": 590460774,
+      "BGMId": 331,
+      "BGMId2nd": 0,
+      "BGMId3rd": 0,
+      "EventContentId": 0
     }
   ]
 }

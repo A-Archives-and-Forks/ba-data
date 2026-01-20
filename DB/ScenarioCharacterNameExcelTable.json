@@ -5831,6 +5831,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0331"
     },
     {
+      "CharacterName": 74548664,
+      "ProductionStep": "Release",
+      "NameKR": "리오",
+      "NicknameKR": "세미나",
+      "NameJP": "リオ",
+      "NicknameJP": "セミナー",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0331",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0331"
+    },
+    {
       "CharacterName": 1423982009,
       "ProductionStep": "Release",
       "NameKR": "토키",
@@ -5838,6 +5849,17 @@
       "NameJP": "トキ",
       "NicknameJP": "C&C",
       "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0333",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0333"
+    },
+    {
+      "CharacterName": 3614138862,
+      "ProductionStep": "Release",
+      "NameKR": "토키",
+      "NicknameKR": "C&C",
+      "NameJP": "トキ",
+      "NicknameJP": "C&C",
+      "Shape": "Signal",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0333",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0333"
     },
@@ -5853,6 +5875,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0334"
     },
     {
+      "CharacterName": 1875765686,
+      "ProductionStep": "Release",
+      "NameKR": "아리스",
+      "NicknameKR": "게임개발부",
+      "NameJP": "アリス",
+      "NicknameJP": "ゲーム開発部",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0334",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0334"
+    },
+    {
       "CharacterName": 2286957398,
       "ProductionStep": "Release",
       "NameKR": "유즈",
@@ -5860,6 +5893,17 @@
       "NameJP": "ユズ",
       "NicknameJP": "ゲーム開発部",
       "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0336",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0336"
+    },
+    {
+      "CharacterName": 2716558319,
+      "ProductionStep": "Release",
+      "NameKR": "유즈",
+      "NicknameKR": "게임개발부",
+      "NameJP": "ユズ",
+      "NicknameJP": "ゲーム開発部",
+      "Shape": "Signal",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0336",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0336"
     },
@@ -5873,6 +5917,50 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0337",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0337"
+    },
+    {
+      "CharacterName": 520975289,
+      "ProductionStep": "Release",
+      "NameKR": "히마리",
+      "NicknameKR": "초현상특무부",
+      "NameJP": "ヒマリ",
+      "NicknameJP": "特異現象捜査部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0332",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0332"
+    },
+    {
+      "CharacterName": 173973871,
+      "ProductionStep": "Release",
+      "NameKR": "케이",
+      "NicknameKR": "",
+      "NameJP": "ケイ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0335",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0335"
+    },
+    {
+      "CharacterName": 1647715460,
+      "ProductionStep": "Release",
+      "NameKR": "케이",
+      "NicknameKR": "초현상특무부",
+      "NameJP": "ケイ",
+      "NicknameJP": "特異現象捜査部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0335",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0335"
+    },
+    {
+      "CharacterName": 830237550,
+      "ProductionStep": "Release",
+      "NameKR": "케이",
+      "NicknameKR": "",
+      "NameJP": "ケイ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0335_noweapon",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0335"
     },
     {
       "CharacterName": 3261875659,
@@ -8163,6 +8251,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0267"
     },
     {
+      "CharacterName": 588403976,
+      "ProductionStep": "Release",
+      "NameKR": "모모이",
+      "NicknameKR": "게임개발부",
+      "NameJP": "モモイ",
+      "NicknameJP": "ゲーム開発部",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0267",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0267"
+    },
+    {
       "CharacterName": 3621431876,
       "ProductionStep": "Release",
       "NameKR": "미도리",
@@ -8170,6 +8269,17 @@
       "NameJP": "ミドリ",
       "NicknameJP": "ゲーム開発部",
       "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0268",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0268"
+    },
+    {
+      "CharacterName": 3179475860,
+      "ProductionStep": "Release",
+      "NameKR": "미도리",
+      "NicknameKR": "게임개발부",
+      "NameJP": "ミドリ",
+      "NicknameJP": "ゲーム開発部",
+      "Shape": "Signal",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0268",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0268"
     },
@@ -8194,6 +8304,28 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0278",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0278"
+    },
+    {
+      "CharacterName": 510608759,
+      "ProductionStep": "Release",
+      "NameKR": "히마리",
+      "NicknameKR": "초현상특무부",
+      "NameJP": "ヒマリ",
+      "NicknameJP": "特異現象捜査部",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0278",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0278"
+    },
+    {
+      "CharacterName": 1162219369,
+      "ProductionStep": "Release",
+      "NameKR": "히마리",
+      "NicknameKR": "초현상특무부",
+      "NameJP": "ヒマリ",
+      "NicknameJP": "特異現象捜査部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0276",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0276"
     },
     {
       "CharacterName": 1800434827,
@@ -8603,6 +8735,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0129"
     },
     {
+      "CharacterName": 1806943221,
+      "ProductionStep": "Release",
+      "NameKR": "아인",
+      "NicknameKR": "",
+      "NameJP": "アイン",
+      "NicknameJP": "",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0129",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0129"
+    },
+    {
       "CharacterName": 1243424096,
       "ProductionStep": "Release",
       "NameKR": "소프",
@@ -8614,6 +8757,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0130"
     },
     {
+      "CharacterName": 854279058,
+      "ProductionStep": "Release",
+      "NameKR": "소프",
+      "NicknameKR": "",
+      "NameJP": "ソフ",
+      "NicknameJP": "",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0130",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0130"
+    },
+    {
       "CharacterName": 618443500,
       "ProductionStep": "Release",
       "NameKR": "오르",
@@ -8621,6 +8775,17 @@
       "NameJP": "オウル",
       "NicknameJP": "",
       "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0131",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0131"
+    },
+    {
+      "CharacterName": 3946031200,
+      "ProductionStep": "Release",
+      "NameKR": "오르",
+      "NicknameKR": "",
+      "NameJP": "オウル",
+      "NicknameJP": "",
+      "Shape": "Signal",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0131",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0131"
     },
@@ -25893,6 +26058,116 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0282",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0282"
+    },
+    {
+      "CharacterName": 3081901788,
+      "ProductionStep": "Release",
+      "NameKR": "사회과 강사",
+      "NicknameKR": "",
+      "NameJP": "社会科講師",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 2900052986,
+      "ProductionStep": "Release",
+      "NameKR": "수학과 강사",
+      "NicknameKR": "",
+      "NameJP": "数学講師",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot2",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot2"
+    },
+    {
+      "CharacterName": 263915734,
+      "ProductionStep": "Release",
+      "NameKR": "밀레니엄 학생 C",
+      "NicknameKR": "",
+      "NameJP": "ミレニアムの生徒C",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0084",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0084"
+    },
+    {
+      "CharacterName": 1965217876,
+      "ProductionStep": "Release",
+      "NameKR": "소프&오르",
+      "NicknameKR": "",
+      "NameJP": "ソフ&オウル",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2591057778,
+      "ProductionStep": "Release",
+      "NameKR": "밀레니엄 학생 A&B",
+      "NicknameKR": "",
+      "NameJP": "ミレニアムの生徒A&B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2160871802,
+      "ProductionStep": "Release",
+      "NameKR": "신난 구경꾼",
+      "NicknameKR": "",
+      "NameJP": "盛り上がる見物客",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal6",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal6"
+    },
+    {
+      "CharacterName": 265913969,
+      "ProductionStep": "Release",
+      "NameKR": "학구적인 구경꾼",
+      "NicknameKR": "",
+      "NameJP": "研究熱心な見物客",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0036",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0036"
+    },
+    {
+      "CharacterName": 2787578992,
+      "ProductionStep": "Release",
+      "NameKR": "게임 마니아 구경꾼",
+      "NicknameKR": "",
+      "NameJP": "ゲームマニアの見物客",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0084",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0084"
+    },
+    {
+      "CharacterName": 174228875,
+      "ProductionStep": "Release",
+      "NameKR": "흥분한 구경꾼",
+      "NicknameKR": "",
+      "NameJP": "興奮した見物客",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 164561377,
+      "ProductionStep": "Release",
+      "NameKR": "SF물 마니아 구경꾼",
+      "NicknameKR": "",
+      "NameJP": "SFマニアの見物客",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     }
   ]
 }

@@ -2213,6 +2213,42 @@
         150,
         1
       ]
+    },
+    {
+      "RankingRewardGroupId": 10000,
+      "Id": 10001,
+      "RankStart": 1,
+      "RankEnd": 0,
+      "PercentRankStart": 0,
+      "PercentRankEnd": 10000,
+      "Tier": 4,
+      "RewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Furniture",
+        "Furniture",
+        "Furniture",
+        "Furniture"
+      ],
+      "RewardParcelUniqueId": [
+        6533,
+        70,
+        71,
+        100223,
+        100222,
+        100221,
+        100220
+      ],
+      "RewardParcelAmount": [
+        1,
+        575,
+        300,
+        1,
+        1,
+        1,
+        1
+      ]
     }
   ]
 }

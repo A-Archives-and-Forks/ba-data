@@ -655,7 +655,7 @@
         "Btn_Start"
       ],
       "KeyMappingId": [
-        "UI_KeyMapping_Common_BtnOK04"
+        "UI_KeyMapping_Common_BtnOK08"
       ]
     },
     {
@@ -1702,7 +1702,7 @@
         "Btn_Enter"
       ],
       "KeyMappingId": [
-        "UI_KeyMapping_Common_BtnOK01"
+        "UI_KeyMapping_Common_BtnOK11"
       ]
     },
     {
@@ -2045,9 +2045,11 @@
       "ButtonName": [
         "Btn_NodeOpen",
         "Btn_NodeSelect",
-        "Btn_Start"
+        "Btn_Start",
+        "Btn_NodeConfirm"
       ],
       "KeyMappingId": [
+        "UI_KeyMapping_Common_BtnOK01",
         "UI_KeyMapping_Common_BtnOK01",
         "UI_KeyMapping_Common_BtnOK01",
         "UI_KeyMapping_Common_BtnOK01"
@@ -2534,6 +2536,46 @@
       "KeyMappingId": [
         "UI_KeyMapping_CardGame_Btn_Result_MyCards",
         "UI_KeyMapping_CardGame_Btn_Result_Confirm"
+      ]
+    },
+    {
+      "PrefabName": "UIPopup_System_InteractiveWorldRaid",
+      "ButtonName": [
+        "Btn_Ok",
+        "Btn_Back"
+      ],
+      "KeyMappingId": [
+        "UI_KeyMapping_Common_BtnOK12",
+        "UI_KeyMapping_Common_BtnCancel05"
+      ]
+    },
+    {
+      "PrefabName": "UIInteractiveWorldRaidDifficultyUI",
+      "ButtonName": [
+        "Btn_Ok"
+      ],
+      "KeyMappingId": [
+        "UI_KeyMapping_Common_BtnOK12"
+      ]
+    },
+    {
+      "PrefabName": "UIPopup_InteractiveWorldRaidBuyTicket",
+      "ButtonName": [
+        "Btn_Ok",
+        "Btn_Back"
+      ],
+      "KeyMappingId": [
+        "UI_KeyMapping_Common_BtnOK12",
+        "UI_KeyMapping_Common_BtnCancel05"
+      ]
+    },
+    {
+      "PrefabName": "UIPopup_InteractiveWorldRaidArcade",
+      "ButtonName": [
+        "Btn_Play"
+      ],
+      "KeyMappingId": [
+        "UI_KeyMapping_Common_BtnOK12"
       ]
     }
   ]

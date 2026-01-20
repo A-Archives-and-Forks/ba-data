@@ -76013,6 +76013,1734 @@
       "StatValue": []
     },
     {
+      "CharacterId": 10133,
+      "FavorLevel": 2,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 3,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 4,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 5,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 6,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 7,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 8,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 9,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 10,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 11,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 12,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 13,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 14,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 15,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 16,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 17,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 18,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 19,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 20,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 21,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 22,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 23,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 24,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 25,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 26,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 27,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 28,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 29,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 30,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        1,
+        13
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 31,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 32,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 33,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 34,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 35,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 36,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 37,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 38,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 39,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 40,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        19
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 41,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 42,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 43,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 44,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 45,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 46,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 47,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 48,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 49,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 50,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        32
+      ]
+    },
+    {
+      "CharacterId": 10133,
+      "FavorLevel": 100,
+      "StatType": [],
+      "StatValue": []
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 2,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 3,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 4,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 5,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 6,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 7,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 8,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 9,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 10,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 11,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        49
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 12,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        49
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 13,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        49
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 14,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        49
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 15,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        49
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 16,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        59
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 17,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        59
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 18,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        59
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 19,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        59
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 20,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        59
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 21,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 22,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 23,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 24,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 25,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 26,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 27,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 28,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 29,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 30,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        6
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 31,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 32,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 33,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 34,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 35,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 36,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 37,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 38,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 39,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 40,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 41,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 42,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 43,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 44,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 45,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 46,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 47,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 48,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 49,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 50,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        16
+      ]
+    },
+    {
+      "CharacterId": 10134,
+      "FavorLevel": 100,
+      "StatType": [],
+      "StatValue": []
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 2,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 3,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 4,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 5,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 6,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 7,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 8,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 9,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 10,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        6
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 11,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        36
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 12,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        36
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 13,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        36
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 14,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        36
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 15,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        8,
+        36
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 16,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        44
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 17,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        44
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 18,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        44
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 19,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        44
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 20,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        10,
+        44
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 21,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 22,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 23,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 24,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 25,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 26,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 27,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 28,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 29,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 30,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        2,
+        7
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 31,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 32,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 33,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 34,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 35,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 36,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 37,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 38,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 39,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 40,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        11
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 41,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 42,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 43,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 44,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 45,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 46,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 47,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 48,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 49,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 50,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        6,
+        18
+      ]
+    },
+    {
+      "CharacterId": 10135,
+      "FavorLevel": 100,
+      "StatType": [],
+      "StatValue": []
+    },
+    {
       "CharacterId": 13000,
       "FavorLevel": 2,
       "StatType": [
@@ -95592,6 +97320,582 @@
     },
     {
       "CharacterId": 16018,
+      "FavorLevel": 100,
+      "StatType": [],
+      "StatValue": []
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 2,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 3,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 4,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 5,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 6,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 7,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 8,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 9,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 10,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 11,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        4,
+        17
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 12,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        4,
+        17
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 13,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        4,
+        17
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 14,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        4,
+        17
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 15,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        4,
+        17
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 16,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        5,
+        20
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 17,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        5,
+        20
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 18,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        5,
+        20
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 19,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        5,
+        20
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 20,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        5,
+        20
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 21,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 22,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 23,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 24,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 25,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 26,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 27,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 28,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 29,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 30,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        1,
+        3
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 31,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 32,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 33,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 34,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 35,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 36,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 37,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 38,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 39,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 40,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        2,
+        5
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 41,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 42,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 43,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 44,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 45,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 46,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 47,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 48,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 49,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
+      "FavorLevel": 50,
+      "StatType": [
+        "AttackPower_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        3,
+        9
+      ]
+    },
+    {
+      "CharacterId": 16019,
       "FavorLevel": 100,
       "StatType": [],
       "StatValue": []
@@ -126696,6 +129000,582 @@
     },
     {
       "CharacterId": 20053,
+      "FavorLevel": 100,
+      "StatType": [],
+      "StatValue": []
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 2,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        21
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 3,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        21
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 4,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        21
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 5,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        21
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 6,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        32
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 7,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        32
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 8,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        32
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 9,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        32
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 10,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        32
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 11,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        42,
+        13
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 12,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        42,
+        13
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 13,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        42,
+        13
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 14,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        42,
+        13
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 15,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        42,
+        13
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 16,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        53,
+        16
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 17,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        53,
+        16
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 18,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        53,
+        16
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 19,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        53,
+        16
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 20,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        53,
+        16
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 21,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 22,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 23,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 24,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 25,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 26,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 27,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 28,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 29,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 30,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        13,
+        3
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 31,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 32,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 33,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 34,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 35,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 36,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 37,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 38,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 39,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 40,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        19,
+        4
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 41,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 42,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 43,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 44,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 45,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 46,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 47,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 48,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 49,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
+      "FavorLevel": 50,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        32,
+        6
+      ]
+    },
+    {
+      "CharacterId": 20054,
       "FavorLevel": 100,
       "StatType": [],
       "StatValue": []

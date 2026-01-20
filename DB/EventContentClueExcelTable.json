@@ -1,0 +1,123 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 99999,
+      "ClueId": 9999001,
+      "LocalizeEtcId": 2122048137,
+      "ClueImagePath": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_2",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        110000
+      ],
+      "HintUse": true,
+      "Hintlocalizeid": 1688893884
+    },
+    {
+      "EventContentId": 99999,
+      "ClueId": 9999002,
+      "LocalizeEtcId": 3996150169,
+      "ClueImagePath": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_3",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        60000
+      ],
+      "HintUse": true,
+      "Hintlocalizeid": 4263662051
+    },
+    {
+      "EventContentId": 99999,
+      "ClueId": 9999003,
+      "LocalizeEtcId": 493877113,
+      "ClueImagePath": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_4",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        25000
+      ],
+      "HintUse": true,
+      "Hintlocalizeid": 3822512093
+    },
+    {
+      "EventContentId": 99999,
+      "ClueId": 9999004,
+      "LocalizeEtcId": 2812198344,
+      "ClueImagePath": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_5",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        20000
+      ],
+      "HintUse": true,
+      "Hintlocalizeid": 1005054603
+    },
+    {
+      "EventContentId": 99999,
+      "ClueId": 9999005,
+      "LocalizeEtcId": 610304186,
+      "ClueImagePath": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_6",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        60000
+      ],
+      "HintUse": true,
+      "Hintlocalizeid": 4043317599
+    },
+    {
+      "EventContentId": 99999,
+      "ClueId": 9999006,
+      "LocalizeEtcId": 991149378,
+      "ClueImagePath": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_7",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        20000
+      ],
+      "HintUse": true,
+      "Hintlocalizeid": 403038710
+    },
+    {
+      "EventContentId": 99999,
+      "ClueId": 9999007,
+      "LocalizeEtcId": 991149378,
+      "ClueImagePath": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_8",
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        20000
+      ],
+      "HintUse": true,
+      "Hintlocalizeid": 1748745776
+    }
+  ]
+}

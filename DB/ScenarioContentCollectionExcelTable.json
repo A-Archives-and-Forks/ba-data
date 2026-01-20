@@ -103,21 +103,6 @@
       "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Tiphareth"
     },
     {
-      "Id": 10006,
-      "GroupId": 1,
-      "UnlockConditionType": "ClearSpecificScenario",
-      "UnlockConditionParameter": [],
-      "MultipleConditionCheckType": "Or",
-      "UnlockConditionCount": 1,
-      "IsObject": true,
-      "IsHorizon": false,
-      "EmblemResource": "Special_Operation_Icon_Sephira_07",
-      "ThumbResource": "",
-      "FullResource": "",
-      "LocalizeEtcId": 0,
-      "SubNameLocalizeCodeId": ""
-    },
-    {
       "Id": 10007,
       "GroupId": 1,
       "UnlockConditionType": "ClearSpecificScenario",
@@ -150,21 +135,6 @@
       "FullResource": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_Lobby",
       "LocalizeEtcId": 1862639856,
       "SubNameLocalizeCodeId": "UI_SpecialOperation_Collection_Sephira_SubName_Yesod"
-    },
-    {
-      "Id": 10009,
-      "GroupId": 1,
-      "UnlockConditionType": "ClearSpecificScenario",
-      "UnlockConditionParameter": [],
-      "MultipleConditionCheckType": "Or",
-      "UnlockConditionCount": 1,
-      "IsObject": true,
-      "IsHorizon": false,
-      "EmblemResource": "Special_Operation_Icon_Sephira_10",
-      "ThumbResource": "",
-      "FullResource": "",
-      "LocalizeEtcId": 0,
-      "SubNameLocalizeCodeId": ""
     }
   ]
 }

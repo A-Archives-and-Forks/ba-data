@@ -1824,6 +1824,74 @@
       "CharacterVoiceOverridePriority": "None"
     },
     {
+      "UniqueId": 126,
+      "GroupId": "EN0013_1PhaseStart",
+      "OperatorCondition": "None",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 1000,
+      "Duration": 8000,
+      "OperatorOutputPriority": 100,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
+      "TextLocalizeKey": "EN0013_1PhaseStart01",
+      "VoiceId": [
+        1203898256
+      ],
+      "OperatorWaitQueue": false,
+      "CharacterVoiceOverridePriority": "None"
+    },
+    {
+      "UniqueId": 127,
+      "GroupId": "EN0013_1PhaseStart",
+      "OperatorCondition": "None",
+      "OutputSequence": 2,
+      "RandomWeight": 2,
+      "OutputDelay": 1000,
+      "Duration": 10000,
+      "OperatorOutputPriority": 100,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_01",
+      "TextLocalizeKey": "EN0013_1PhaseStart02",
+      "VoiceId": [
+        1580633056
+      ],
+      "OperatorWaitQueue": false,
+      "CharacterVoiceOverridePriority": "None"
+    },
+    {
+      "UniqueId": 128,
+      "GroupId": "EN0013_1PhaseStart",
+      "OperatorCondition": "None",
+      "OutputSequence": 3,
+      "RandomWeight": 3,
+      "OutputDelay": 1000,
+      "Duration": 10000,
+      "OperatorOutputPriority": 100,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
+      "TextLocalizeKey": "EN0013_1PhaseStart03",
+      "VoiceId": [
+        1534118052
+      ],
+      "OperatorWaitQueue": false,
+      "CharacterVoiceOverridePriority": "None"
+    },
+    {
+      "UniqueId": 129,
+      "GroupId": "EN0013_1PhaseStart",
+      "OperatorCondition": "None",
+      "OutputSequence": 4,
+      "RandomWeight": 4,
+      "OutputDelay": 1000,
+      "Duration": 5000,
+      "OperatorOutputPriority": 100,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_01",
+      "TextLocalizeKey": "EN0013_1PhaseStart04",
+      "VoiceId": [
+        1336012512
+      ],
+      "OperatorWaitQueue": false,
+      "CharacterVoiceOverridePriority": "None"
+    },
+    {
       "UniqueId": 80601,
       "GroupId": "806EventCombatInfo_01_01",
       "OperatorCondition": "None",

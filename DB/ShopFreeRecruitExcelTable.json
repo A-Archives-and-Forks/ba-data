@@ -105,6 +105,19 @@
         50811,
         50812
       ]
+    },
+    {
+      "Id": 9,
+      "FreeRecruitPeriodFrom": "2026-01-20 11:00:00",
+      "FreeRecruitPeriodTo": "2026-01-29 10:59:59",
+      "FreeRecruitType": "Accumulation",
+      "FreeRecruitDecorationImagePath": "",
+      "TenRecruitCountOnly": true,
+      "ShopRecruitId": [
+        50920,
+        50921,
+        50922
+      ]
     }
   ]
 }

@@ -2323,6 +2323,123 @@
       "DialogOffsetY": -181.0
     },
     {
+      "EventContentId": 854,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900948501,
+      "SpineOffsetX": -0.11999999731779099,
+      "SpineOffsetY": -0.800000011920929,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900948301,
+      "SpineOffsetX": -0.05000000074505806,
+      "SpineOffsetY": -0.8500000238418579,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900948801,
+      "SpineOffsetX": -0.05000000074505806,
+      "SpineOffsetY": -0.8500000238418579,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900948201,
+      "SpineOffsetX": -0.11999999731779099,
+      "SpineOffsetY": -0.5299999713897705,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900948901,
+      "SpineOffsetX": -0.11999999731779099,
+      "SpineOffsetY": -0.800000011920929,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900949001,
+      "SpineOffsetX": -0.05000000074505806,
+      "SpineOffsetY": -0.8500000238418579,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900948201,
+      "SpineOffsetX": 0.05000000074505806,
+      "SpineOffsetY": -0.019999999552965164,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900948101,
+      "SpineOffsetX": 0.27000001072883606,
+      "SpineOffsetY": -0.6000000238418579,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900948601,
+      "SpineOffsetX": 0.09000000357627869,
+      "SpineOffsetY": -0.8100000023841858,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900948701,
+      "SpineOffsetX": 0.27000001072883606,
+      "SpineOffsetY": -0.6000000238418579,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900949101,
+      "SpineOffsetX": 0.05000000074505806,
+      "SpineOffsetY": -0.019999999552965164,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900949201,
+      "SpineOffsetX": 0.05000000074505806,
+      "SpineOffsetY": -0.019999999552965164,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900949301,
+      "SpineOffsetX": 0.05000000074505806,
+      "SpineOffsetY": -0.019999999552965164,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
       "EventContentId": 10801,
       "EventContentType": "Stage",
       "CostumeUniqueId": 1900900901,
@@ -5561,6 +5678,24 @@
       "SpineOffsetY": 0.36000001430511475,
       "DialogOffsetX": 26.0,
       "DialogOffsetY": -23.0
+    },
+    {
+      "EventContentId": 900830,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900918001,
+      "SpineOffsetX": 1.2599999904632568,
+      "SpineOffsetY": -1.1100000143051147,
+      "DialogOffsetX": 50.0,
+      "DialogOffsetY": -4.0
+    },
+    {
+      "EventContentId": 900830,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900918101,
+      "SpineOffsetX": 1.25,
+      "SpineOffsetY": -0.30000001192092896,
+      "DialogOffsetX": 64.0,
+      "DialogOffsetY": 0.0
     }
   ]
 }

@@ -764,6 +764,15 @@
       "ScrollTime": 0,
       "ScrollFrom": 0,
       "ScrollTo": 0
+    },
+    {
+      "Name": 4165516611,
+      "Effect": "Shader_Night_Vision",
+      "Effect2": "BG_Filter_Flashback",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     }
   ]
 }

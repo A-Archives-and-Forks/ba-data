@@ -379,6 +379,13 @@
       "Mail": false
     },
     {
+      "Protocol": "Mail_ReceiveSemiPermanent",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
       "Protocol": "Mission_Reward",
       "OpenConditionContent": "None",
       "Currency": false,
@@ -1052,7 +1059,7 @@
     },
     {
       "Protocol": "Cafe_UpdateCopyPresetFurniture",
-      "OpenConditionContent": "Shop",
+      "OpenConditionContent": "Cafe",
       "Currency": false,
       "Inventory": false,
       "Mail": false
@@ -1975,6 +1982,27 @@
       "Mail": true
     },
     {
+      "Protocol": "EventContent_ClueSearchGetInfo",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_ClueSearchSubmit",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_ClueSearchRoundComplete",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
       "Protocol": "TTS_GetFile",
       "OpenConditionContent": "None",
       "Currency": false,
@@ -2442,6 +2470,13 @@
       "Currency": true,
       "Inventory": true,
       "Mail": true
+    },
+    {
+      "Protocol": "WorldRaid_UpdateCarrierSkill",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
     },
     {
       "Protocol": "Conquest_GetInfo",
@@ -2985,6 +3020,34 @@
     {
       "Protocol": "Option_Save",
       "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "PermanentRaid_Lobby",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "PermanentRaid_EnterBattle",
+      "OpenConditionContent": "Raid",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "PermanentRaid_EndBattle",
+      "OpenConditionContent": "Raid",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "PermanentRaid_GiveUp",
+      "OpenConditionContent": "Raid",
       "Currency": false,
       "Inventory": false,
       "Mail": false
