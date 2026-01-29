@@ -17949,7 +17949,7 @@
       "CharacterId": 10133,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아방가르드군 Type.\n메이드'를 만들면,\n이쪽에 놓을까.",
+      "LocalizeKR": "'아방가르드군 Type.\n메이드'를 만들면,\n이쪽에 놓을까.",
       "LocalizeJP": "「アバンギャルド君Type.メイド」を作ったら、ここに置こうかしら。"
     },
     {
@@ -17981,7 +17981,7 @@
       "CharacterId": 20054,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "부장, 잠입, 후방지원.\n모든 것을 해내는 초천재병약만능미소녀해커, 아케보시 히마리.\n완벽하게 등장입니다.\n선생님, 기다리셨습니다.",
+      "LocalizeKR": "부장, 잠입, 후방 지원.\n모든 것을 해내는 초천재병약만능미소녀해커, 아케보시 히마리.\n완벽하게 등장입니다.\n선생님, 오래 기다리셨습니다.",
       "LocalizeJP": "部長、潜入、後方支援。\n全てをこなせる超天才清楚系病弱万能美少女ハッカーこと、\n明星ヒマリ――満を持して登場です。\n先生、お待たせいたしました。"
     },
     {
@@ -17989,7 +17989,7 @@
       "CharacterId": 20054,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "(냉방 설정 온도가,\n너무 낮은게 아닐까요.)",
+      "LocalizeKR": "(냉방 설정 온도가,\n너무 낮은 게 아닐까요.)",
       "LocalizeJP": "（冷房の設定温度が、低すぎるのではないでしょうか）"
     },
     {
@@ -18031,6 +18031,134 @@
       "Separate": false,
       "LocalizeKR": "감사합니다. 선생님.\n사실 무기는 사용되지 않는 편이 좋겠지만……\n대비는, 중요하니까요.",
       "LocalizeJP": "ありがとうございます。\n本当は、武器なんて使わずに済むのが一番なのですが……\n備えは、やはり大切ですから。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10135,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "해야 하는 거죠……?\n블루, 아카이브.",
+      "LocalizeJP": "言わなきゃいけないんですよね……？\nブルー、アーカイブ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10135,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "케이입니다.\n뭐가 기다릴 줄 알고 그렇게 서두르는지……\n뭐, 앞으로 선생님을 지켜봐 드릴 테니까요.",
+      "LocalizeJP": "こんにちは、ケイです。\n何をそんなに慌てているんですか……？\nはぁ……これから、先生のことを見守らせていただきますね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10135,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(나도…… '학생'이야. 그러니까 카페 정도는……!)",
+      "LocalizeJP": "（私だって「生徒」ですから……カフェくらい……！）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10135,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저건…… 무슨 맛일까?",
+      "LocalizeJP": "あれは……どんな味なんでしょう？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10135,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그렇구나…… 이게 나른하다는 감각……",
+      "LocalizeJP": "なるほど……これが、まったりするということ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10135,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "자신의 몸을 갖는다는 건……\n조금, 불편하기도 하네요……",
+      "LocalizeJP": "自分の身体を持つのは……。\n不便なことでもあるんですね……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10135,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "헤헤…… 그냥 서 있기만 해도, 좋네요……",
+      "LocalizeJP": "ふふ……こうして立っているだけでも、なんだか楽しいです……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10135,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "먼 곳의 별빛…… 이라는 뜻이죠. 간단히 말하자면요.\n그만큼 먼 과거의 시간을 의미하는 것이기도 하겠지만.\n좌표에 따라서, 과거와 미래는 동시에 존재한다고도 하니까요.",
+      "LocalizeJP": "遠き地の星明かり……という意味です。\nそれだけ昔のことを言っているのだと思います。\n座標によると、過去と未来は同時に存在するとも言いますから。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 10134,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루, 아카이브!",
+      "LocalizeJP": "ブルー、アーカイブ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 10134,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아리스, 갑니다!",
+      "LocalizeJP": "アリス、行きます！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 10134,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이거, 케이랑\n꼭 닮았습니다!",
+      "LocalizeJP": "これ……ケイにそっくりですね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 10134,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "아리스,\n조금 졸립니다…….",
+      "LocalizeJP": "アリス、ちょっとだけ眠くなってきました……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 10134,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "여기는 PK\n금지 구역입니다!",
+      "LocalizeJP": "ここはＰＫ禁止エリアですよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 10134,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(스캔 완료.\n적성 반응…… 없음.)",
+      "LocalizeJP": "（スキャン完了。敵性反応……無し）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 10134,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "충전기는\n어디에 있을까요?",
+      "LocalizeJP": "充電器はどこにあるんでしょう？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 10134,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "빛의 검은, 언제나\n아리스에게 나아갈 길을\n비춰 줬습니다.\n마치…… 선생님 같습니다!",
+      "LocalizeJP": "光の剣は、いつだってアリスに進む道を示してくれました。\nそう……まるで、先生みたいに！"
     },
     {
       "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
@@ -47701,7 +47829,7 @@
       "CharacterId": 20054,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "큰 일을 앞둘수록 침착해야 하는 법이죠.",
+      "LocalizeKR": "큰일을 앞둘수록 침착해야 하는 법이죠.",
       "LocalizeJP": "大事を成す時ほど、冷静さが肝要です。"
     },
     {
@@ -47717,7 +47845,7 @@
       "CharacterId": 10134,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "게임기를 가져왔습니다! ",
+      "LocalizeKR": "게임기를 가져왔습니다!",
       "LocalizeJP": "ゲーム機を持ってきました！"
     },
     {
@@ -47781,7 +47909,7 @@
       "CharacterId": 20054,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "단 것은 스트레스를 경감시켜준답니다.",
+      "LocalizeKR": "단 것은 스트레스를 경감시켜 준답니다.",
       "LocalizeJP": "甘いものはストレスを軽減してくれるんですよ。"
     },
     {
@@ -47813,7 +47941,7 @@
       "CharacterId": 20054,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "한숨 돌릴 겸…… ",
+      "LocalizeKR": "한숨 돌릴 겸……",
       "LocalizeJP": "息抜きに……。"
     },
     {
@@ -47925,7 +48053,7 @@
       "CharacterId": 10134,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "……세상을 구하는 첫걸음인 거군요. ",
+      "LocalizeKR": "……세상을 구하는 첫걸음인 거군요.",
       "LocalizeJP": "……これが、世界を救うための第一歩なんですね。"
     },
     {
@@ -47941,7 +48069,7 @@
       "CharacterId": 16019,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "퍼펙트 메이드이자 베스트 요원으로서, ",
+      "LocalizeKR": "퍼펙트 메이드이자 베스트 요원으로서,",
       "LocalizeJP": "パーフェクトメイドかつベストエージェントとして。"
     },
     {
@@ -48029,7 +48157,7 @@
       "CharacterId": 20054,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "오늘의 행운의 색과 같은 색의 음료는…....",
+      "LocalizeKR": "오늘 행운의 색과 같은 색의 음료는…....",
       "LocalizeJP": "今日のラッキーカラーと同じ色の飲み物は……。"
     },
     {
@@ -48093,7 +48221,7 @@
       "CharacterId": 16019,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "저장해 둔 인터넷 방송, ",
+      "LocalizeKR": "저장해 둔 인터넷 방송,",
       "LocalizeJP": "配信のアーカイブがあります。"
     },
     {
@@ -48109,7 +48237,7 @@
       "CharacterId": 10133,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "……난 사실, ",
+      "LocalizeKR": "……난 사실,",
       "LocalizeJP": "実は私……。"
     },
     {
@@ -48133,7 +48261,7 @@
       "CharacterId": 10134,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "힘을 내려면 역시, ",
+      "LocalizeKR": "힘을 내려면 역시,",
       "LocalizeJP": "元気を出すにはやっぱり。"
     },
     {
@@ -48157,7 +48285,7 @@
       "CharacterId": 10134,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": "아리스는…… 모두가 무사했으면 좋겠습니다. ",
+      "LocalizeKR": "아리스는…… 모두가 무사했으면 좋겠습니다.",
       "LocalizeJP": "アリスは……みんなが無事でいてくれたら。"
     },
     {
@@ -48197,7 +48325,7 @@
       "CharacterId": 10133,
       "Duration": 0,
       "Separate": false,
-      "LocalizeKR": " (역시 선생에게 상담을……)",
+      "LocalizeKR": "(역시 선생에게 상담을……)",
       "LocalizeJP": "（やはり、先生に相談を……）"
     },
     {

@@ -5963,6 +5963,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0335"
     },
     {
+      "CharacterName": 271391397,
+      "ProductionStep": "Release",
+      "NameKR": "아리스&케이",
+      "NicknameKR": "",
+      "NameJP": "アリス&ケイ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
       "CharacterName": 3261875659,
       "ProductionStep": "Release",
       "NameKR": "아즈사",
@@ -8326,6 +8337,17 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0276",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0276"
+    },
+    {
+      "CharacterName": 3287782288,
+      "ProductionStep": "Release",
+      "NameKR": "아리스",
+      "NicknameKR": "게임개발부",
+      "NameJP": "アリス",
+      "NicknameJP": "ゲーム開発部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0281",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0334"
     },
     {
       "CharacterName": 1800434827,
