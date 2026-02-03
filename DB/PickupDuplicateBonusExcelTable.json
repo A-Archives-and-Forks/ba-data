@@ -18181,6 +18181,24 @@
       "RewardParcelAmount": 70
     },
     {
+      "Id": 42184,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 10132,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 10132,
+      "RewardParcelAmount": 70
+    },
+    {
+      "Id": 42185,
+      "ShopCategoryType": "TicketGacha",
+      "ShopId": 60004,
+      "PickupCharacterId": 20053,
+      "RewardParcelType": "Item",
+      "RewardParcelId": 20053,
+      "RewardParcelAmount": 70
+    },
+    {
       "Id": 50000,
       "ShopCategoryType": "TicketGacha",
       "ShopId": 90000,
