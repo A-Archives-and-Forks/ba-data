@@ -21,7 +21,8 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
     },
     {
       "Id": 85401,
@@ -44,7 +45,8 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
     },
     {
       "Id": 85402,
@@ -67,7 +69,8 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
     },
     {
       "Id": 85403,
@@ -90,7 +93,8 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
     },
     {
       "Id": 85404,
@@ -113,7 +117,8 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
     },
     {
       "Id": 85405,
@@ -136,7 +141,8 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
     },
     {
       "Id": 85406,
@@ -159,7 +165,8 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
     },
     {
       "Id": 85407,
@@ -182,7 +189,8 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
     },
     {
       "Id": 85408,
@@ -205,7 +213,8 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioIntermissionBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioIntermissionBattle",
+      "IsSeasonFinalBoss": false
     },
     {
       "Id": 85409,
@@ -228,7 +237,58 @@
       "ExclusiveOperatorScenarioBattle": "",
       "ExclusiveOperatorBossDamaged": "",
       "BossGroupOpenCondition": 0,
-      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle"
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
+    },
+    {
+      "Id": 85410,
+      "WorldRaidBossGroupId": 8541000,
+      "WorldBossHPLinkGroup": 8541000,
+      "WorldBossName": "Character_5702001",
+      "WorldBossPopupPortrait": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Portrait_EN0020_Main",
+      "WorldBossPopupNameTexture": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_ImgFont_Popup_EN0020",
+      "WorldBossPopupBG": "",
+      "WorldBossParcelPortrait": "",
+      "WorldBossListParcel": "",
+      "WorldBossHP": 730000000000000,
+      "UIHideBeforeSpawn": false,
+      "HideAnotherBossKilled": false,
+      "WorldBossClearRewardGroupId": 0,
+      "AnotherBossKilled": [],
+      "EchelonConstraintGroupId": 0,
+      "ExclusiveOperatorBossSpawn": "",
+      "ExclusiveOperatorBossKill": "",
+      "ExclusiveOperatorScenarioBattle": "",
+      "ExclusiveOperatorBossDamaged": "",
+      "BossGroupOpenCondition": 0,
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioBattle",
+      "IsSeasonFinalBoss": false
+    },
+    {
+      "Id": 85411,
+      "WorldRaidBossGroupId": 8541100,
+      "WorldBossHPLinkGroup": 8541000,
+      "WorldBossName": "Character_5702001",
+      "WorldBossPopupPortrait": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Portrait_EN0020_Main",
+      "WorldBossPopupNameTexture": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_ImgFont_Popup_EN0020",
+      "WorldBossPopupBG": "",
+      "WorldBossParcelPortrait": "",
+      "WorldBossListParcel": "",
+      "WorldBossHP": 0,
+      "UIHideBeforeSpawn": false,
+      "HideAnotherBossKilled": false,
+      "WorldBossClearRewardGroupId": 0,
+      "AnotherBossKilled": [
+        8541000
+      ],
+      "EchelonConstraintGroupId": 0,
+      "ExclusiveOperatorBossSpawn": "",
+      "ExclusiveOperatorBossKill": "",
+      "ExclusiveOperatorScenarioBattle": "",
+      "ExclusiveOperatorBossDamaged": "",
+      "BossGroupOpenCondition": 0,
+      "RaidScenarioBattleLocalizeKey": "UI_WorldRaid_WorldMap_RaidScenarioFinalBattle",
+      "IsSeasonFinalBoss": true
     }
   ]
 }

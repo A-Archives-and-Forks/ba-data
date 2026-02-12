@@ -5449,6 +5449,22 @@
       "GoodsId": 20250
     },
     {
+      "Id": 20251,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Millennium",
+      "GoodsId": 20251
+    },
+    {
+      "Id": 20252,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Millennium",
+      "GoodsId": 20252
+    },
+    {
       "Id": 50000,
       "CategoryType": "SecretStoneGrowth",
       "ConsumeParcelType": "Item",
@@ -6935,6 +6951,22 @@
       "ConsumeParcelId": 18,
       "ShopFilterType": "Equip",
       "GoodsId": 80071
+    },
+    {
+      "Id": 80072,
+      "CategoryType": "MasterCoin",
+      "ConsumeParcelType": "Currency",
+      "ConsumeParcelId": 18,
+      "ShopFilterType": "SecretStone",
+      "GoodsId": 80072
+    },
+    {
+      "Id": 80073,
+      "CategoryType": "MasterCoin",
+      "ConsumeParcelType": "Currency",
+      "ConsumeParcelId": 18,
+      "ShopFilterType": "SecretStone",
+      "GoodsId": 80073
     },
     {
       "Id": 90000,
@@ -11551,6 +11583,38 @@
       "ConsumeParcelId": 4,
       "ShopFilterType": "Furniture",
       "GoodsId": 172217
+    },
+    {
+      "Id": 172218,
+      "CategoryType": "GemWeekly",
+      "ConsumeParcelType": "Currency",
+      "ConsumeParcelId": 4,
+      "ShopFilterType": "Furniture",
+      "GoodsId": 172218
+    },
+    {
+      "Id": 172219,
+      "CategoryType": "GemWeekly",
+      "ConsumeParcelType": "Currency",
+      "ConsumeParcelId": 4,
+      "ShopFilterType": "Furniture",
+      "GoodsId": 172219
+    },
+    {
+      "Id": 172220,
+      "CategoryType": "GemWeekly",
+      "ConsumeParcelType": "Currency",
+      "ConsumeParcelId": 4,
+      "ShopFilterType": "Furniture",
+      "GoodsId": 172220
+    },
+    {
+      "Id": 172221,
+      "CategoryType": "GemWeekly",
+      "ConsumeParcelType": "Currency",
+      "ConsumeParcelId": 4,
+      "ShopFilterType": "Furniture",
+      "GoodsId": 172221
     }
   ]
 }

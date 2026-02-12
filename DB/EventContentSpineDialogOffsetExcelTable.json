@@ -2440,6 +2440,60 @@
       "DialogOffsetY": 0.0
     },
     {
+      "EventContentId": 854,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900949401,
+      "SpineOffsetX": 0.8399999737739563,
+      "SpineOffsetY": -0.3700000047683716,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 854,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900949401,
+      "SpineOffsetX": 0.8399999737739563,
+      "SpineOffsetY": -0.30000001192092896,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 855,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900950001,
+      "SpineOffsetX": 1.5399999618530273,
+      "SpineOffsetY": -0.5299999713897705,
+      "DialogOffsetX": 77.16000366210938,
+      "DialogOffsetY": -4.71999979019165
+    },
+    {
+      "EventContentId": 855,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900950101,
+      "SpineOffsetX": 1.4500000476837158,
+      "SpineOffsetY": -0.3400000035762787,
+      "DialogOffsetX": 52.400001525878906,
+      "DialogOffsetY": -2.609999895095825
+    },
+    {
+      "EventContentId": 855,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900950001,
+      "SpineOffsetX": -0.33000001311302185,
+      "SpineOffsetY": -0.5299999713897705,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 855,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900950101,
+      "SpineOffsetX": 0.09000000357627869,
+      "SpineOffsetY": -0.3400000035762787,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
       "EventContentId": 10801,
       "EventContentType": "Stage",
       "CostumeUniqueId": 1900900901,
@@ -4283,6 +4337,60 @@
       "SpineOffsetY": 1.0199999809265137,
       "DialogOffsetX": 65.0,
       "DialogOffsetY": 7.0
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900933001,
+      "SpineOffsetX": 1.3700000047683716,
+      "SpineOffsetY": -1.0800000429153442,
+      "DialogOffsetX": 28.0,
+      "DialogOffsetY": -31.0
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900933101,
+      "SpineOffsetX": 1.3799999952316284,
+      "SpineOffsetY": -1.559999942779541,
+      "DialogOffsetX": 25.0,
+      "DialogOffsetY": 3.0
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentType": "Stage",
+      "CostumeUniqueId": 1900951001,
+      "SpineOffsetX": 1.3899999856948853,
+      "SpineOffsetY": -0.05999999865889549,
+      "DialogOffsetX": 106.4000015258789,
+      "DialogOffsetY": 12.0
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentType": "Shop",
+      "CostumeUniqueId": 1900933001,
+      "SpineOffsetX": -0.11999999731779099,
+      "SpineOffsetY": -1.1100000143051147,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentType": "Mission",
+      "CostumeUniqueId": 1900933101,
+      "SpineOffsetX": 0.019999999552965164,
+      "SpineOffsetY": -1.100000023841858,
+      "DialogOffsetX": 0.0,
+      "DialogOffsetY": 0.0
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentType": "Treasure",
+      "CostumeUniqueId": 1900933101,
+      "SpineOffsetX": 0.12999999523162842,
+      "SpineOffsetY": -0.4699999988079071,
+      "DialogOffsetX": -36.0,
+      "DialogOffsetY": 15.0
     },
     {
       "EventContentId": 50822,

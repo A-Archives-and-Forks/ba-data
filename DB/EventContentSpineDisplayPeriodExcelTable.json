@@ -34,7 +34,7 @@
       "ShowPeriodFrom": "2026-01-29 11:00:00",
       "ShowPeriodTo": "",
       "ShowWorldRaidConditionIDFrom": 854010000,
-      "ShowWorldRaidConditionIDTo": 0
+      "ShowWorldRaidConditionIDTo": 854020000
     },
     {
       "EventContentId": 854,
@@ -43,6 +43,15 @@
       "ShowPeriodFrom": "2026-01-29 11:00:00",
       "ShowPeriodTo": "",
       "ShowWorldRaidConditionIDFrom": 854010000,
+      "ShowWorldRaidConditionIDTo": 854020000
+    },
+    {
+      "EventContentId": 854,
+      "DialogCategory": "UIEventShop",
+      "CostumeUniqueId": 1900949401,
+      "ShowPeriodFrom": "2026-02-12 11:00:00",
+      "ShowPeriodTo": "",
+      "ShowWorldRaidConditionIDFrom": 854020000,
       "ShowWorldRaidConditionIDTo": 0
     },
     {
@@ -66,7 +75,7 @@
     {
       "EventContentId": 854,
       "DialogCategory": "UIEventMission",
-      "CostumeUniqueId": 1900948201,
+      "CostumeUniqueId": 1900949301,
       "ShowPeriodFrom": "2026-01-25 11:00:00",
       "ShowPeriodTo": "",
       "ShowWorldRaidConditionIDFrom": 0,
@@ -88,7 +97,7 @@
       "ShowPeriodFrom": "2026-01-29 11:00:00",
       "ShowPeriodTo": "",
       "ShowWorldRaidConditionIDFrom": 854010000,
-      "ShowWorldRaidConditionIDTo": 0
+      "ShowWorldRaidConditionIDTo": 854020000
     },
     {
       "EventContentId": 854,
@@ -97,6 +106,15 @@
       "ShowPeriodFrom": "2026-01-29 11:00:00",
       "ShowPeriodTo": "",
       "ShowWorldRaidConditionIDFrom": 854010000,
+      "ShowWorldRaidConditionIDTo": 854020000
+    },
+    {
+      "EventContentId": 854,
+      "DialogCategory": "UIEventMission",
+      "CostumeUniqueId": 1900949401,
+      "ShowPeriodFrom": "2026-02-12 11:00:00",
+      "ShowPeriodTo": "",
+      "ShowWorldRaidConditionIDFrom": 854020000,
       "ShowWorldRaidConditionIDTo": 0
     }
   ]

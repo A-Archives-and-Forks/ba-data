@@ -2153,6 +2153,14 @@
     },
     {
       "GroupID": 8540401,
+      "PageName": "UIInformationPopup_IAWRaid_07",
+      "IsPcBuild": false,
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 8540401,
       "PageName": "UIInformationPopup_IAWRaid_01",
       "IsPcBuild": false,
       "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
@@ -2216,6 +2224,14 @@
       "UIName": []
     },
     {
+      "GroupID": 8540501,
+      "PageName": "UIInformationPopup_IAWRaid_07",
+      "IsPcBuild": false,
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
       "GroupID": 8540601,
       "PageName": "UIInformationPopup_IAWRaid_05",
       "IsPcBuild": false,
@@ -2234,6 +2250,14 @@
     {
       "GroupID": 8540601,
       "PageName": "UIInformationPopup_IAWRaid_01",
+      "IsPcBuild": false,
+      "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 8540601,
+      "PageName": "UIInformationPopup_IAWRaid_07",
       "IsPcBuild": false,
       "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
       "TutorialParentName": [],

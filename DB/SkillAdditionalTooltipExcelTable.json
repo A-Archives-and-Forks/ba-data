@@ -194,6 +194,36 @@
       "GroupId": 2005420000,
       "AdditionalSkillGroupId": "SM033201Passive01",
       "ShowSkillSlot": "Passive"
+    },
+    {
+      "GroupId": 57010010340,
+      "AdditionalSkillGroupId": "EN0020Ex01",
+      "ShowSkillSlot": "Ex"
+    },
+    {
+      "GroupId": 57010010340,
+      "AdditionalSkillGroupId": "EN0020Ex02",
+      "ShowSkillSlot": "Ex"
+    },
+    {
+      "GroupId": 57010010340,
+      "AdditionalSkillGroupId": "EN0020Ex03",
+      "ShowSkillSlot": "Ex"
+    },
+    {
+      "GroupId": 57010010341,
+      "AdditionalSkillGroupId": "EN0020Ex04",
+      "ShowSkillSlot": "Ex"
+    },
+    {
+      "GroupId": 57010010341,
+      "AdditionalSkillGroupId": "EN0020Ex05",
+      "ShowSkillSlot": "Ex"
+    },
+    {
+      "GroupId": 57010010341,
+      "AdditionalSkillGroupId": "EN0020Ex06",
+      "ShowSkillSlot": "Ex"
     }
   ]
 }

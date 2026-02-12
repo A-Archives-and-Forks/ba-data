@@ -1436,9 +1436,39 @@
     },
     {
       "EventContentId": 854,
+      "EventContentItemType": "EventToken5",
+      "ItemUniqueId": 80759,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 854,
       "EventContentItemType": "EventEtcItem",
       "ItemUniqueId": 80758,
       "UseShortCutContentType": ""
+    },
+    {
+      "EventContentId": 855,
+      "EventContentItemType": "EventPoint",
+      "ItemUniqueId": 80760,
+      "UseShortCutContentType": "EventLocation"
+    },
+    {
+      "EventContentId": 855,
+      "EventContentItemType": "EventToken1",
+      "ItemUniqueId": 80761,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 855,
+      "EventContentItemType": "EventToken2",
+      "ItemUniqueId": 80762,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 855,
+      "EventContentItemType": "EventToken3",
+      "ItemUniqueId": 80763,
+      "UseShortCutContentType": "Shop"
     },
     {
       "EventContentId": 80000,
@@ -1451,6 +1481,18 @@
       "EventContentItemType": "EventMeetUpTicket",
       "ItemUniqueId": 80561,
       "UseShortCutContentType": ""
+    },
+    {
+      "EventContentId": 80001,
+      "EventContentItemType": "EventToken1",
+      "ItemUniqueId": 80770,
+      "UseShortCutContentType": "MiniShop"
+    },
+    {
+      "EventContentId": 80001,
+      "EventContentItemType": "EventMeetUpTicket",
+      "ItemUniqueId": 80771,
+      "UseShortCutContentType": "EventMeetup"
     },
     {
       "EventContentId": 70000,
@@ -2416,6 +2458,30 @@
       "EventContentId": 10840,
       "EventContentItemType": "EventToken4",
       "ItemUniqueId": 85363,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentItemType": "EventToken1",
+      "ItemUniqueId": 85370,
+      "UseShortCutContentType": "Treasure"
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentItemType": "EventToken2",
+      "ItemUniqueId": 85371,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentItemType": "EventToken3",
+      "ItemUniqueId": 85372,
+      "UseShortCutContentType": "Shop"
+    },
+    {
+      "EventContentId": 10842,
+      "EventContentItemType": "EventToken4",
+      "ItemUniqueId": 85373,
       "UseShortCutContentType": "Shop"
     },
     {

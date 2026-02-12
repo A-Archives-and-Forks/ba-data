@@ -5369,6 +5369,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
+      "CharacterName": 2552765017,
+      "ProductionStep": "Release",
+      "NameKR": "카노에",
+      "NicknameKR": "오컬트 연구회",
+      "NameJP": "カノエ",
+      "NicknameJP": "オカルト研究会",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0306",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0306"
+    },
+    {
       "CharacterName": 2104204969,
       "ProductionStep": "Release",
       "NameKR": "츠무기",
@@ -5919,6 +5930,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0337"
     },
     {
+      "CharacterName": 999629596,
+      "ProductionStep": "Release",
+      "NameKR": "에이미",
+      "NicknameKR": "초현상특무부",
+      "NameJP": "エイミ",
+      "NicknameJP": "特異現象捜査部",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0337",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0337"
+    },
+    {
       "CharacterName": 520975289,
       "ProductionStep": "Release",
       "NameKR": "히마리",
@@ -5958,6 +5980,17 @@
       "NicknameKR": "",
       "NameJP": "ケイ",
       "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0335_noweapon",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0335"
+    },
+    {
+      "CharacterName": 2064008127,
+      "ProductionStep": "Release",
+      "NameKR": "케이",
+      "NicknameKR": "초현상특무부",
+      "NameJP": "ケイ",
+      "NicknameJP": "特異現象捜査部",
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0335_noweapon",
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0335"
@@ -8350,6 +8383,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0334"
     },
     {
+      "CharacterName": 4138490498,
+      "ProductionStep": "Release",
+      "NameKR": "말쿠트",
+      "NicknameKR": "",
+      "NameJP": "マルクト",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0273",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0119"
+    },
+    {
       "CharacterName": 1800434827,
       "ProductionStep": "Release",
       "NameKR": "아로나",
@@ -8647,6 +8691,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
+      "CharacterName": 48056105,
+      "ProductionStep": "Release",
+      "NameKR": "데카그라마톤",
+      "NicknameKR": "",
+      "NameJP": "デカグラマトン",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0274",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0274"
+    },
+    {
       "CharacterName": 3521733000,
       "ProductionStep": "Release",
       "NameKR": "베아트리체",
@@ -8931,6 +8986,83 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0254",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0254"
+    },
+    {
+      "CharacterName": 542354905,
+      "ProductionStep": "Release",
+      "NameKR": "데카그라마톤",
+      "NicknameKR": "",
+      "NameJP": "デカグラマトン",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0275",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0274"
+    },
+    {
+      "CharacterName": 543508239,
+      "ProductionStep": "Release",
+      "NameKR": "소심한 목소리",
+      "NicknameKR": "",
+      "NameJP": "気弱な声",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0129",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1820392486,
+      "ProductionStep": "Release",
+      "NameKR": "차분한 목소리",
+      "NicknameKR": "",
+      "NameJP": "落ち着いた声",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0130",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2103316679,
+      "ProductionStep": "Release",
+      "NameKR": "까부는 목소리",
+      "NicknameKR": "",
+      "NameJP": "はっちゃけた声",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0131",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1319864298,
+      "ProductionStep": "Release",
+      "NameKR": "아인",
+      "NicknameKR": "",
+      "NameJP": "アイン",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0270",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0129"
+    },
+    {
+      "CharacterName": 2879153603,
+      "ProductionStep": "Release",
+      "NameKR": "소프",
+      "NicknameKR": "",
+      "NameJP": "ソフ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0271",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0130"
+    },
+    {
+      "CharacterName": 3975097123,
+      "ProductionStep": "Release",
+      "NameKR": "오르",
+      "NicknameKR": "",
+      "NameJP": "オウル",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0272",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0131"
     },
     {
       "CharacterName": 3627168694,
@@ -26186,6 +26318,116 @@
       "NameKR": "SF물 마니아 구경꾼",
       "NicknameKR": "",
       "NameJP": "SFマニアの見物客",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 409601636,
+      "ProductionStep": "Release",
+      "NameKR": "진행자",
+      "NicknameKR": "",
+      "NameJP": "大会の司会者",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal1"
+    },
+    {
+      "CharacterName": 2014783175,
+      "ProductionStep": "Release",
+      "NameKR": "방청객 A",
+      "NicknameKR": "",
+      "NameJP": "観客A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0149",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0149"
+    },
+    {
+      "CharacterName": 3747013299,
+      "ProductionStep": "Release",
+      "NameKR": "방청객 B",
+      "NicknameKR": "",
+      "NameJP": "観客B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0024",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0024"
+    },
+    {
+      "CharacterName": 2764576644,
+      "ProductionStep": "Release",
+      "NameKR": "방청객 C",
+      "NicknameKR": "",
+      "NameJP": "観客C",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0084",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0084"
+    },
+    {
+      "CharacterName": 8489425,
+      "ProductionStep": "Release",
+      "NameKR": "상대 게이머 A",
+      "NicknameKR": "",
+      "NameJP": "対戦相手A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_red1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Red1"
+    },
+    {
+      "CharacterName": 4047789016,
+      "ProductionStep": "Release",
+      "NameKR": "상대 게이머 B",
+      "NicknameKR": "",
+      "NameJP": "対戦相手B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_black1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Black1"
+    },
+    {
+      "CharacterName": 3187236889,
+      "ProductionStep": "Release",
+      "NameKR": "밀레니엄 학생 A",
+      "NicknameKR": "",
+      "NameJP": "ミレニアムの生徒A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0084",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0084"
+    },
+    {
+      "CharacterName": 629383206,
+      "ProductionStep": "Release",
+      "NameKR": "밀레니엄 학생 B",
+      "NicknameKR": "",
+      "NameJP": "ミレニアムの生徒B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0036",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0036"
+    },
+    {
+      "CharacterName": 3441854897,
+      "ProductionStep": "Release",
+      "NameKR": "목소리들",
+      "NicknameKR": "",
+      "NameJP": "声",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3374254957,
+      "ProductionStep": "Release",
+      "NameKR": "무명사제들",
+      "NicknameKR": "",
+      "NameJP": "無名の司祭たち",
       "NicknameJP": "",
       "Shape": "None",
       "SpinePrefabName": "",

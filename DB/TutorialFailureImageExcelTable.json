@@ -84,8 +84,16 @@
       "Id": 30101,
       "Contents": "Raid",
       "Type": "Binah",
-      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
-      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_02_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_02_Jp",
+      "ReplaceLocalizeKey": ""
+    },
+    {
+      "Id": 30102,
+      "Contents": "Raid",
+      "Type": "Binah",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_03_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_03_Jp",
       "ReplaceLocalizeKey": ""
     },
     {
@@ -3121,6 +3129,22 @@
       "ReplaceLocalizeKey": "TutorialFailure_854080002"
     },
     {
+      "Id": 854100000,
+      "Contents": "WorldRaid",
+      "Type": "8541000",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_EN0020_01_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_EN0020_01_Jp",
+      "ReplaceLocalizeKey": "TutorialFailure_854100000"
+    },
+    {
+      "Id": 854100001,
+      "Contents": "WorldRaid",
+      "Type": "8541000",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_EN0020_02_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_EN0020_02_Jp",
+      "ReplaceLocalizeKey": "TutorialFailure_854100001"
+    },
+    {
       "Id": 854000000,
       "Contents": "InteractiveWorldRaid",
       "Type": "8540000",
@@ -3367,6 +3391,22 @@
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0015_03_Kr",
       "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0015_03_Jp",
       "ReplaceLocalizeKey": "TutorialFailure_854080002"
+    },
+    {
+      "Id": 854100000,
+      "Contents": "InteractiveWorldRaid",
+      "Type": "8541000",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_EN0020_01_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_EN0020_01_Jp",
+      "ReplaceLocalizeKey": "TutorialFailure_854100000"
+    },
+    {
+      "Id": 854100000,
+      "Contents": "InteractiveWorldRaid",
+      "Type": "8541000",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_EN0020_02_Kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_EN0020_02_Jp",
+      "ReplaceLocalizeKey": "TutorialFailure_854100001"
     }
   ]
 }

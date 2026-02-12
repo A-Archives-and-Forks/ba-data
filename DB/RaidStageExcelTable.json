@@ -316,6 +316,51 @@
       "EchelonExtensionType": "Base"
     },
     {
+      "Id": 8,
+      "UseBossIndex": false,
+      "UseBossAIPhaseSync": false,
+      "RaidBossGroup": "Binah",
+      "PortraitPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Insane_Lobby",
+      "BGPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_LobbyBG",
+      "RaidCharacterId": 7300800,
+      "BossCharacterId": [
+        7300800
+      ],
+      "Difficulty": "Lunatic",
+      "DifficultyOpenCondition": false,
+      "MaxPlayerCount": 1,
+      "RaidRoomLifeTime": 3600000,
+      "BattleDuration": 180000,
+      "GroundId": 201200008,
+      "RaidBossGroupType": "Binah",
+      "EnterTimeLine": "",
+      "TacticEnvironment": "None",
+      "DefaultClearScore": 17710000,
+      "MaximumScore": 10368000,
+      "PerSecondMinusScore": 28800,
+      "HPPercentScore": 25525000,
+      "MinimumAcquisitionScore": 43235000,
+      "MaximumAcquisitionScore": 53603000,
+      "RaidRewardGroupId": 107,
+      "BattleReadyTimelinePath": [
+        "Timeline/Timeline_Binah_Original_Insane_OP"
+      ],
+      "BattleReadyTimelinePhaseStart": [
+        0
+      ],
+      "BattleReadyTimelinePhaseEnd": [
+        100
+      ],
+      "VictoryTimelinePath": "Timeline/Timeline_Victory",
+      "PhaseChangeTimelinePath": "Timeline/Timeline_Binah_Original_Insane_PhaseChange",
+      "TimeLinePhase": 2,
+      "EnterScenarioKey": 0,
+      "ClearScenarioKey": 0,
+      "ShowSkillCard": true,
+      "BossBGInfoKey": 3920080884,
+      "EchelonExtensionType": "Base"
+    },
+    {
       "Id": 11,
       "UseBossIndex": false,
       "UseBossAIPhaseSync": false,

@@ -121,36 +121,6 @@
       "GroupType": "Reward_General"
     },
     {
-      "ID": 90,
-      "NameKr": "페스 일반(튜토리얼 대응) 가챠",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 91,
-      "NameKr": "페스 일반(튜토리얼 대응) 가챠 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 92,
-      "NameKr": "페스 일반(튜토리얼 대응) 가챠 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 93,
-      "NameKr": "페스 일반(튜토리얼 대응) 가챠 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 99,
-      "NameKr": "페스 일반(튜토리얼 대응) 가챠 SSR + SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
       "ID": 100,
       "NameKr": "N 활동 보고서",
       "IsRecursive": false,
@@ -1526,7 +1496,7 @@
     },
     {
       "ID": 100023,
-      "NameKr": "1_1차 픽업 SSR 리오(무장)",
+      "NameKr": "1_1차 픽업 SSR 유즈(무장)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1568,7 +1538,7 @@
     },
     {
       "ID": 100043,
-      "NameKr": "1_2차 픽업 SSR 히마리(무장)",
+      "NameKr": "1_2차 픽업 SSR 에이미(무장)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1610,7 +1580,7 @@
     },
     {
       "ID": 110023,
-      "NameKr": "2_1차 픽업 SSR 이치카",
+      "NameKr": "2_1차 픽업 SSR 모모이(메이드)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1652,7 +1622,7 @@
     },
     {
       "ID": 110043,
-      "NameKr": "2_2차 픽업 SSR 카스미",
+      "NameKr": "2_2차 픽업 SSR 미도리(메이드)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1694,7 +1664,7 @@
     },
     {
       "ID": 110063,
-      "NameKr": "2_3차 픽업 SSR 사쿠라코",
+      "NameKr": "2_3차 픽업 SSR 아리스(메이드)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1736,103 +1706,7 @@
     },
     {
       "ID": 110083,
-      "NameKr": "2_4차 픽업 SSR 에이미(수영복)",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170010,
-      "NameKr": "페스 가챠",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170011,
-      "NameKr": "페스 가챠 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170012,
-      "NameKr": "페스 가챠 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170013,
-      "NameKr": "페스 가챠 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170019,
-      "NameKr": "페스 가챠 SR + SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170022,
-      "NameKr": "페스 가챠 확률업 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170023,
-      "NameKr": "페스 가챠 확률업 SSR 페스 그룹",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170029,
-      "NameKr": "페스 가챠 확률업 SSR 케이",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170030,
-      "NameKr": "페스 가챠 2",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170031,
-      "NameKr": "페스 가챠 2 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170032,
-      "NameKr": "페스 가챠 2 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170033,
-      "NameKr": "페스 가챠 2 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170039,
-      "NameKr": "페스 가챠 2 SR + SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170042,
-      "NameKr": "페스 가챠 2 확률업 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170043,
-      "NameKr": "페스 가챠 2 확률업 SSR 페스 그룹",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 170049,
-      "NameKr": "페스 가챠 2 확률업 SSR 아리스(무장)",
+      "NameKr": "2_4차 픽업 SSR 카요코(새해)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -1893,102 +1767,6 @@
     {
       "ID": 180113,
       "NameKr": "신규 유저 전용 가챠_2탄_SSR_10번째",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190010,
-      "NameKr": "복각 페스 가챠",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190011,
-      "NameKr": "복각 페스 가챠 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190012,
-      "NameKr": "복각 페스 가챠 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190013,
-      "NameKr": "복각 페스 가챠 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190019,
-      "NameKr": "복각 페스 가챠 SR + SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190022,
-      "NameKr": "복각 페스 가챠 확률업 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190023,
-      "NameKr": "복각 페스 가챠 확률업 SSR 페스 그룹",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190029,
-      "NameKr": "복각 페스 가챠 확률업 SSR 호시노(무장)",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190030,
-      "NameKr": "복각 페스 가챠 2",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190031,
-      "NameKr": "복각 페스 가챠 2 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190032,
-      "NameKr": "복각 페스 가챠 2 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190033,
-      "NameKr": "복각 페스 가챠 2 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190039,
-      "NameKr": "복각 페스 가챠 2 SR + SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190042,
-      "NameKr": "복각 페스 가챠 2 확률업 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190043,
-      "NameKr": "복각 페스 가챠 2 확률업 SSR 페스 그룹",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 190049,
-      "NameKr": "복각 페스 가챠 2 확률업 SSR 시로코 테러",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -8341,36 +8119,6 @@
       "GroupType": "Reward_General"
     },
     {
-      "ID": 700050,
-      "NameKr": "3차_3성 모집 상점 기본",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 700051,
-      "NameKr": "3차_3성 모집 상점 기본 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 700052,
-      "NameKr": "3차_3성 모집 상점 기본 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 700053,
-      "NameKr": "3차_3성 모집 상점 기본 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 700061,
-      "NameKr": "3차_3성 모집 상점 확정 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
       "ID": 800000,
       "NameKr": "제조2호기 투입용 - 기초 기술 노트 랜덤권",
       "IsRecursive": false,
@@ -8647,6 +8395,48 @@
       "GroupType": "Reward_Pack"
     },
     {
+      "ID": 7000090,
+      "NameKr": "R89 - 앙코르 모집 픽업 데이터",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 7000091,
+      "NameKr": "R89 - 앙코르 모집 픽업 데이터 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 7000092,
+      "NameKr": "R89 - 앙코르 모집 픽업 데이터 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 7000093,
+      "NameKr": "R89 - 앙코르 모집 픽업 데이터 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 7000099,
+      "NameKr": "R89 - 앙코르 모집 픽업 데이터 SR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 7000102,
+      "NameKr": "R89 - 앙코르 모집 픽업 데이터 SR 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 7000103,
+      "NameKr": "R89 - 앙코르 모집 픽업 데이터 당첨 픽업",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 8000090,
       "NameKr": "R87 - 리콜렉트 모집 픽업 데이터",
       "IsRecursive": true,
@@ -8690,43 +8480,43 @@
     },
     {
       "ID": 9000090,
-      "NameKr": "레거시 셀렉트 픽업 데이터",
+      "NameKr": "아카이브 모집 픽업 데이터",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
       "ID": 9000091,
-      "NameKr": "레거시 셀렉트 픽업 데이터 R",
+      "NameKr": "아카이브 모집 픽업 데이터 R",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 9000092,
-      "NameKr": "레거시 셀렉트 픽업 데이터 SR",
+      "NameKr": "아카이브 모집 픽업 데이터 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 9000093,
-      "NameKr": "레거시 셀렉트 픽업 데이터 SSR",
+      "NameKr": "아카이브 모집 픽업 데이터 SSR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 9000099,
-      "NameKr": "레거시 셀렉트 픽업 데이터 SR + SSR (10번째)",
+      "NameKr": "아카이브 모집 픽업 데이터 SR + SSR (10번째)",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
       "ID": 9000102,
-      "NameKr": "레거시 셀렉트 픽업 데이터 SR 더미",
+      "NameKr": "아카이브 모집 픽업 데이터 SR 더미",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 9000103,
-      "NameKr": "레거시 셀렉트 픽업 데이터 당첨 픽업",
+      "NameKr": "아카이브 모집 픽업 데이터 당첨 픽업",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     }

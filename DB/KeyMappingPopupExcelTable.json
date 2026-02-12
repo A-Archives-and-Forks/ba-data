@@ -2577,6 +2577,17 @@
       "KeyMappingId": [
         "UI_KeyMapping_Common_BtnOK12"
       ]
+    },
+    {
+      "PrefabName": "UIPopup_BattlePlayGuide",
+      "ButtonName": [
+        "Btn_Prev",
+        "Btn_Next"
+      ],
+      "KeyMappingId": [
+        "UI_KeyMapping_Common_ArrowLeft_isUsed",
+        "UI_KeyMapping_Common_ArrowRight_isUsed"
+      ]
     }
   ]
 }

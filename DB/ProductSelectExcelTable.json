@@ -22,6 +22,27 @@
       ]
     },
     {
+      "Id": 1678,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_eleph_select_normal_3000",
+      "StoreType": "GooglePlay",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 2,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        6804
+      ],
+      "ParcelAmount": [
+        1
+      ],
+      "ProductSelectionSlot": [
+        1001
+      ]
+    },
+    {
       "Id": 5652,
       "ProductId": "com.yostarjp.bluearchive.r86_202511_eleph_select_normal",
       "StoreType": "AppStore",
@@ -40,6 +61,27 @@
       ],
       "ProductSelectionSlot": [
         1000
+      ]
+    },
+    {
+      "Id": 5678,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_eleph_select_normal_3000",
+      "StoreType": "AppStore",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 2,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        6804
+      ],
+      "ParcelAmount": [
+        1
+      ],
+      "ProductSelectionSlot": [
+        1001
       ]
     }
   ]

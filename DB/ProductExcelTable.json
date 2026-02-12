@@ -6601,6 +6601,252 @@
       ]
     },
     {
+      "Id": 1673,
+      "ProductId": "com.yostarjp.bluearchive.r89renew_monthlycraft1500",
+      "StoreType": "GooglePlay",
+      "Price": 1500,
+      "PriceReference": "",
+      "PurchasePeriodType": "Month",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        100000,
+        100008,
+        100009
+      ],
+      "ParcelAmount": [
+        600,
+        68,
+        10,
+        5,
+        1
+      ]
+    },
+    {
+      "Id": 1674,
+      "ProductId": "com.yostarjp.bluearchive.r89renew_packagemonthlycraft2000",
+      "StoreType": "GooglePlay",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "Month",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        3,
+        80,
+        81,
+        82,
+        90,
+        91,
+        92,
+        100001
+      ],
+      "ParcelAmount": [
+        800,
+        108,
+        10,
+        15,
+        15,
+        15,
+        15,
+        10,
+        5,
+        1
+      ]
+    },
+    {
+      "Id": 1676,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_weapon_grow",
+      "StoreType": "GooglePlay",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Equipment",
+        "Currency"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        23,
+        43,
+        1
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        50,
+        20,
+        8000000
+      ]
+    },
+    {
+      "Id": 1677,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_millennium_3000",
+      "StoreType": "GooglePlay",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        3,
+        4050,
+        4051,
+        4052,
+        4053,
+        3050,
+        3051,
+        3052,
+        3053,
+        190,
+        191,
+        192,
+        193,
+        290,
+        291,
+        292,
+        293
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 1679,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_equipmentgrowth_3000",
+      "StoreType": "GooglePlay",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        15,
+        20,
+        30,
+        35,
+        40,
+        40,
+        40,
+        50
+      ]
+    },
+    {
+      "Id": 1680,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_report_package_2000",
+      "StoreType": "GooglePlay",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        10,
+        11,
+        12,
+        13
+      ],
+      "ParcelAmount": [
+        800,
+        500,
+        250,
+        175,
+        75
+      ]
+    },
+    {
       "Id": 5000,
       "ProductId": "com.yostarjp.bluearchive.aokiseki120",
       "StoreType": "AppStore",
@@ -13201,6 +13447,252 @@
       ]
     },
     {
+      "Id": 5673,
+      "ProductId": "com.yostarjp.bluearchive.r89renew_monthlycraft1500",
+      "StoreType": "AppStore",
+      "Price": 1500,
+      "PriceReference": "",
+      "PurchasePeriodType": "Month",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        100000,
+        100008,
+        100009
+      ],
+      "ParcelAmount": [
+        600,
+        68,
+        10,
+        5,
+        1
+      ]
+    },
+    {
+      "Id": 5674,
+      "ProductId": "com.yostarjp.bluearchive.r89renew_packagemonthlycraft2000",
+      "StoreType": "AppStore",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "Month",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        3,
+        80,
+        81,
+        82,
+        90,
+        91,
+        92,
+        100001
+      ],
+      "ParcelAmount": [
+        800,
+        108,
+        10,
+        15,
+        15,
+        15,
+        15,
+        10,
+        5,
+        1
+      ]
+    },
+    {
+      "Id": 5676,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_weapon_grow",
+      "StoreType": "AppStore",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Equipment",
+        "Currency"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        23,
+        43,
+        1
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        50,
+        20,
+        8000000
+      ]
+    },
+    {
+      "Id": 5677,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_millennium_3000",
+      "StoreType": "AppStore",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        3,
+        4050,
+        4051,
+        4052,
+        4053,
+        3050,
+        3051,
+        3052,
+        3053,
+        190,
+        191,
+        192,
+        193,
+        290,
+        291,
+        292,
+        293
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 5679,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_equipmentgrowth_3000",
+      "StoreType": "AppStore",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        15,
+        20,
+        30,
+        35,
+        40,
+        40,
+        40,
+        50
+      ]
+    },
+    {
+      "Id": 5680,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_report_package_2000",
+      "StoreType": "AppStore",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        10,
+        11,
+        12,
+        13
+      ],
+      "ParcelAmount": [
+        800,
+        500,
+        250,
+        175,
+        75
+      ]
+    },
+    {
       "Id": 101000,
       "ProductId": "com.yostarjp.bluearchive.aokiseki120",
       "StoreType": "PaymentCenter",
@@ -14494,6 +14986,252 @@
       ],
       "ParcelAmount": [
         900
+      ]
+    },
+    {
+      "Id": 100667,
+      "ProductId": "com.yostarjp.bluearchive.r89renew_monthlycraft1500",
+      "StoreType": "PaymentCenter",
+      "Price": 1500,
+      "PriceReference": "",
+      "PurchasePeriodType": "Month",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        100000,
+        100008,
+        100009
+      ],
+      "ParcelAmount": [
+        600,
+        68,
+        10,
+        5,
+        1
+      ]
+    },
+    {
+      "Id": 100668,
+      "ProductId": "com.yostarjp.bluearchive.r89renew_packagemonthlycraft2000",
+      "StoreType": "PaymentCenter",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "Month",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        3,
+        80,
+        81,
+        82,
+        90,
+        91,
+        92,
+        100001
+      ],
+      "ParcelAmount": [
+        800,
+        108,
+        10,
+        15,
+        15,
+        15,
+        15,
+        10,
+        5,
+        1
+      ]
+    },
+    {
+      "Id": 100670,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_weapon_grow",
+      "StoreType": "PaymentCenter",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Equipment",
+        "Currency"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        23,
+        43,
+        1
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        50,
+        20,
+        8000000
+      ]
+    },
+    {
+      "Id": 100671,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_millennium_3000",
+      "StoreType": "PaymentCenter",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        3,
+        4050,
+        4051,
+        4052,
+        4053,
+        3050,
+        3051,
+        3052,
+        3053,
+        190,
+        191,
+        192,
+        193,
+        290,
+        291,
+        292,
+        293
+      ],
+      "ParcelAmount": [
+        400,
+        30,
+        30,
+        30,
+        20,
+        12,
+        12,
+        12,
+        3,
+        55,
+        45,
+        40,
+        15,
+        55,
+        45,
+        40,
+        15
+      ]
+    },
+    {
+      "Id": 100672,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_equipmentgrowth_3000",
+      "StoreType": "PaymentCenter",
+      "Price": 3000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency",
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045
+      ],
+      "ParcelAmount": [
+        1200,
+        175,
+        15,
+        20,
+        30,
+        35,
+        40,
+        40,
+        40,
+        50
+      ]
+    },
+    {
+      "Id": 100673,
+      "ProductId": "com.yostarjp.bluearchive.r89_202602_report_package_2000",
+      "StoreType": "PaymentCenter",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ParcelId": [
+        2,
+        10,
+        11,
+        12,
+        13
+      ],
+      "ParcelAmount": [
+        800,
+        500,
+        250,
+        175,
+        75
       ]
     },
     {

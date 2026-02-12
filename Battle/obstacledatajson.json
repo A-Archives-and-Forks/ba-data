@@ -7833,6 +7833,8 @@
     "RetreatDuration": 2.0,
     "RemainTime": 3.0,
     "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
     "ArmorType": 3,
     "ObstacleCoverType": 1,
     "MaterialType": 3,

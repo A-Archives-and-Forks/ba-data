@@ -2,6 +2,7 @@
   "DataList": [
     {
       "Id": 854000001,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -27,6 +28,7 @@
     },
     {
       "Id": 854000002,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -52,6 +54,7 @@
     },
     {
       "Id": 854000003,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -77,6 +80,7 @@
     },
     {
       "Id": 854000004,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -102,6 +106,7 @@
     },
     {
       "Id": 854000009,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -127,6 +132,7 @@
     },
     {
       "Id": 854010001,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -152,6 +158,7 @@
     },
     {
       "Id": 854010002,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -177,6 +184,7 @@
     },
     {
       "Id": 854010003,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -202,6 +210,7 @@
     },
     {
       "Id": 854010004,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -227,6 +236,7 @@
     },
     {
       "Id": 854010009,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -252,6 +262,7 @@
     },
     {
       "Id": 854020001,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -286,6 +297,7 @@
     },
     {
       "Id": 854020002,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -320,6 +332,7 @@
     },
     {
       "Id": 854020003,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -354,6 +367,7 @@
     },
     {
       "Id": 854020004,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -388,6 +402,7 @@
     },
     {
       "Id": 854020009,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -422,6 +437,7 @@
     },
     {
       "Id": 854030001,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -462,6 +478,7 @@
     },
     {
       "Id": 854030002,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -502,6 +519,7 @@
     },
     {
       "Id": 854030003,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -542,6 +560,7 @@
     },
     {
       "Id": 854030004,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -582,6 +601,7 @@
     },
     {
       "Id": 854030009,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -622,6 +642,7 @@
     },
     {
       "Id": 854040001,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [
         "IAWorldRaidHodGlobalPassive01",
         "IAWorldRaidKetherGlobalPassive01"
@@ -671,6 +692,7 @@
     },
     {
       "Id": 854040002,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [
         "IAWorldRaidHodGlobalPassive01",
         "IAWorldRaidKetherGlobalPassive01"
@@ -726,6 +748,7 @@
     },
     {
       "Id": 854040003,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [
         "IAWorldRaidHodGlobalPassive01",
         "IAWorldRaidKetherGlobalPassive01"
@@ -781,6 +804,7 @@
     },
     {
       "Id": 854040004,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [
         "IAWorldRaidHodGlobalPassive01",
         "IAWorldRaidKetherGlobalPassive01"
@@ -836,6 +860,7 @@
     },
     {
       "Id": 854040009,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -873,6 +898,7 @@
     },
     {
       "Id": 854050001,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [
         "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidKetherGlobalPassive01"
@@ -922,6 +948,7 @@
     },
     {
       "Id": 854050002,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [
         "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidKetherGlobalPassive01"
@@ -971,6 +998,7 @@
     },
     {
       "Id": 854050003,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [
         "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidKetherGlobalPassive01"
@@ -1020,6 +1048,7 @@
     },
     {
       "Id": 854050004,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [
         "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidKetherGlobalPassive01"
@@ -1069,6 +1098,7 @@
     },
     {
       "Id": 854050009,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1106,6 +1136,7 @@
     },
     {
       "Id": 854060001,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [
         "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidHodGlobalPassive01"
@@ -1158,6 +1189,7 @@
     },
     {
       "Id": 854060002,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [
         "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidHodGlobalPassive01"
@@ -1213,6 +1245,7 @@
     },
     {
       "Id": 854060003,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [
         "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidHodGlobalPassive01"
@@ -1268,6 +1301,7 @@
     },
     {
       "Id": 854060004,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [
         "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidHodGlobalPassive01"
@@ -1323,6 +1357,7 @@
     },
     {
       "Id": 854060009,
+      "SkillParcelEchelonType": "Extension",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1363,6 +1398,7 @@
     },
     {
       "Id": 854070001,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1409,6 +1445,7 @@
     },
     {
       "Id": 854070002,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1455,6 +1492,7 @@
     },
     {
       "Id": 854070003,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1507,6 +1545,7 @@
     },
     {
       "Id": 854070004,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1559,6 +1598,7 @@
     },
     {
       "Id": 854070009,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1605,6 +1645,7 @@
     },
     {
       "Id": 854080001,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1642,6 +1683,7 @@
     },
     {
       "Id": 854080002,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1679,6 +1721,7 @@
     },
     {
       "Id": 854080003,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1716,6 +1759,7 @@
     },
     {
       "Id": 854080004,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1753,6 +1797,7 @@
     },
     {
       "Id": 854080009,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1790,6 +1835,7 @@
     },
     {
       "Id": 854090001,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1827,6 +1873,7 @@
     },
     {
       "Id": 854090002,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1864,6 +1911,7 @@
     },
     {
       "Id": 854090003,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1901,6 +1949,7 @@
     },
     {
       "Id": 854090004,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1938,6 +1987,7 @@
     },
     {
       "Id": 854090009,
+      "SkillParcelEchelonType": "Base",
       "GlobalSkillGroupId": [],
       "GlobalSkillRemoveCondition": [],
       "GlobalSkillShowSkillSlot": [],
@@ -1970,6 +2020,198 @@
         "None",
         "None",
         "None",
+        "None"
+      ]
+    },
+    {
+      "Id": 854100001,
+      "SkillParcelEchelonType": "Base",
+      "GlobalSkillGroupId": [],
+      "GlobalSkillRemoveCondition": [],
+      "GlobalSkillShowSkillSlot": [],
+      "GlobalSkillHighlightResource": [],
+      "SkillGroupId": [
+        "EN0020GroundPassive01",
+        "EN0020GroundPassive02",
+        "EN0020DummyEx01",
+        "EN0020DummyEx02",
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
+      ],
+      "ShowSkillSlot": [
+        "Ex",
+        "Ex",
+        "Ex",
+        "Ex",
+        "Passive",
+        "Passive",
+        "Passive"
+      ],
+      "HighlightResource": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ]
+    },
+    {
+      "Id": 854100002,
+      "SkillParcelEchelonType": "Base",
+      "GlobalSkillGroupId": [],
+      "GlobalSkillRemoveCondition": [],
+      "GlobalSkillShowSkillSlot": [],
+      "GlobalSkillHighlightResource": [],
+      "SkillGroupId": [
+        "EN0020GroundPassive01",
+        "EN0020GroundPassive02",
+        "EN0020DummyEx01",
+        "EN0020DummyEx02",
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
+      ],
+      "ShowSkillSlot": [
+        "Ex",
+        "Ex",
+        "Ex",
+        "Ex",
+        "Passive",
+        "Passive",
+        "Passive"
+      ],
+      "HighlightResource": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ]
+    },
+    {
+      "Id": 854100003,
+      "SkillParcelEchelonType": "Base",
+      "GlobalSkillGroupId": [],
+      "GlobalSkillRemoveCondition": [],
+      "GlobalSkillShowSkillSlot": [],
+      "GlobalSkillHighlightResource": [],
+      "SkillGroupId": [
+        "EN0020GroundPassive01",
+        "EN0020GroundPassive02",
+        "EN0020DummyEx01",
+        "EN0020DummyEx02",
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
+      ],
+      "ShowSkillSlot": [
+        "Ex",
+        "Ex",
+        "Ex",
+        "Ex",
+        "Passive",
+        "Passive",
+        "Passive"
+      ],
+      "HighlightResource": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ]
+    },
+    {
+      "Id": 854100004,
+      "SkillParcelEchelonType": "Base",
+      "GlobalSkillGroupId": [],
+      "GlobalSkillRemoveCondition": [],
+      "GlobalSkillShowSkillSlot": [],
+      "GlobalSkillHighlightResource": [],
+      "SkillGroupId": [
+        "EN0020GroundPassive01",
+        "EN0020GroundPassive02",
+        "EN0020DummyEx01",
+        "EN0020DummyEx02",
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
+      ],
+      "ShowSkillSlot": [
+        "Ex",
+        "Ex",
+        "Ex",
+        "Ex",
+        "Passive",
+        "Passive",
+        "Passive"
+      ],
+      "HighlightResource": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ]
+    },
+    {
+      "Id": 854100009,
+      "SkillParcelEchelonType": "Base",
+      "GlobalSkillGroupId": [],
+      "GlobalSkillRemoveCondition": [],
+      "GlobalSkillShowSkillSlot": [],
+      "GlobalSkillHighlightResource": [],
+      "SkillGroupId": [
+        "EN0020GroundPassive01",
+        "EN0020GroundPassive02",
+        "EN0020DummyEx01",
+        "EN0020DummyEx02",
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
+      ],
+      "ShowSkillSlot": [
+        "Ex",
+        "Ex",
+        "Ex",
+        "Ex",
+        "Passive",
+        "Passive",
+        "Passive"
+      ],
+      "HighlightResource": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ]
+    },
+    {
+      "Id": 854110009,
+      "SkillParcelEchelonType": "Base",
+      "GlobalSkillGroupId": [],
+      "GlobalSkillRemoveCondition": [],
+      "GlobalSkillShowSkillSlot": [],
+      "GlobalSkillHighlightResource": [],
+      "SkillGroupId": [
+        "M89BossEx01"
+      ],
+      "ShowSkillSlot": [
+        "Ex"
+      ],
+      "HighlightResource": [
         "None"
       ]
     }
