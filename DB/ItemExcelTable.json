@@ -8894,7 +8894,8 @@
         "cP",
         "fT",
         "Gv",
-        "gb"
+        "gb",
+        "Ia"
       ],
       "CraftQualityTier0": 20,
       "CraftQualityTier1": 20,
@@ -11393,7 +11394,9 @@
         "hq",
         "hR",
         "hs",
-        "hT"
+        "hT",
+        "Ia",
+        "IB"
       ],
       "CraftQualityTier0": 50,
       "CraftQualityTier1": 50,
@@ -24005,7 +24008,7 @@
       "LocalizeEtcId": 1519253525,
       "ItemCategory": "SecretStone",
       "Quality": 9,
-      "Icon": "",
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0310",
       "SpriteName": "",
       "StackableMax": 999999,
       "StackableFunction": 0,

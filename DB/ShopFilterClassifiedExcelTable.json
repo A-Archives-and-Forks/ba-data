@@ -5465,6 +5465,14 @@
       "GoodsId": 20252
     },
     {
+      "Id": 20253,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Millennium",
+      "GoodsId": 20253
+    },
+    {
       "Id": 50000,
       "CategoryType": "SecretStoneGrowth",
       "ConsumeParcelType": "Item",

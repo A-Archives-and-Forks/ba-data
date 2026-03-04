@@ -18290,6 +18290,70 @@
     },
     {
       "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루~ 아카이브!",
+      "LocalizeJP": "ブルー！アーカイブ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "니하하하!\n이 코유키에게 와버리셨군요! 선생님!",
+      "LocalizeJP": "に・は・は・はー！\nついにここまで来ちゃいましたね、先生！\nこの黒崎コユキの元に！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(어디 보자,\n숨을 만한\n곳이…….)",
+      "LocalizeJP": "（隠れられそうな場所は……ここ！）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(여기……\n세미나 카드로도\n결제 되려나?)",
+      "LocalizeJP": "（ここ……セミナーのカードって使えますかね？）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "설마 여기까지\n쫓아오지는\n않겠지……?",
+      "LocalizeJP": "まさかここまで追いかけてきたりなんて……ねぇ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님? 선생님!\n어디 계세요?",
+      "LocalizeJP": "先生どこいるんですか～？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오늘의 커피는……\n원두가 랜덤?! \n으으, 랜덤은\n싫은데…….",
+      "LocalizeJP": "今日のコーヒーは……ランダムブレンド！？\nうぇ……あんまり得意じゃないのに。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……분명, 저의 최고의 행운은\n선생님이겠죠!\n그러니까! 최선을 다하겠습니다!\n감사합니다!",
+      "LocalizeJP": "きっと、一番の幸運は先生に出会えたことなんでしょうね！\nだから、まぁ……全力で頑張りますよ！\nよろしくお願いしますね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
       "CharacterId": 10136,
       "Duration": 0,
       "Separate": false,
@@ -40039,6 +40103,174 @@
       "Separate": false,
       "LocalizeKR": "오늘은 이만하면 충분할 것 같네요. 도와주셔서 감사합니다.",
       "LocalizeJP": "今日はこれで十分です。\nご協力、感謝します。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "누, 누구야?!",
+      "LocalizeJP": "だ、誰！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……아,\n선생님이셨군요!!",
+      "LocalizeJP": "……あっ、\n先生だったんですね！！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오셨군요, 선생님!",
+      "LocalizeJP": "来てくれたんですね、\n先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "판 깔아놨으니,",
+      "LocalizeJP": "セッティングは\n終わってるんで、"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "일단 앉으시죠!",
+      "LocalizeJP": "とりあえず\n座ってください！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "와버리셨군요!",
+      "LocalizeJP": "来ちゃいましたね！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "역시 못 참겠죠?\n그렇죠?!",
+      "LocalizeJP": "やっぱり\n我慢できませんでしたね？\nね！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후,\n저만 믿으시라고요.",
+      "LocalizeJP": "ふふっ、\n私に任せてください。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "탈출은,\n이 쿠로사키 코유키의\n전문 영역이니까!",
+      "LocalizeJP": "脱出は\n私の十八番ですから！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭔가 많은 일이\n있었던 것 같은데……",
+      "LocalizeJP": "なんか色々あった\n気がするけど……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭐, 일단은",
+      "LocalizeJP": "ま、とりあえず今夜は"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "밤새 놀아보자……!",
+      "LocalizeJP": "朝まで\n遊び\n倒しちゃいましょう……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……고……요……",
+      "LocalizeJP": "……って、言いたいところ\n……なんですけど"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "피휴우우…….",
+      "LocalizeJP": "……にはっ"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "촉감 좋죠?\n이 옷, 제법\n보들보들 하다고요!",
+      "LocalizeJP": "どうですか？\nこの触り心地……\nふわふわでしょ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "구해주러 오셨군요,\n선생님!",
+      "LocalizeJP": "助けに\n来てくれたんですね、\n先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "에, 선생님도\n잡힌 거라고요?!",
+      "LocalizeJP": "え、先生も\n捕まっちゃったん\nですか！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이 보드게임 이상해요!",
+      "LocalizeJP": "このボードゲーム\nおかしいですよ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제 차례만 되면\n터진다니까요!!",
+      "LocalizeJP": "毎回私の番で\n爆発するんですけど！！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "북적북적한\n반성실이라니……",
+      "LocalizeJP": "うう……\nすし詰めの反省部屋……"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "뭐, 이것도\n나쁘진 않다랄까……요?",
+      "LocalizeJP": "ま、こういうのも悪く\nないかも……？"
     },
     {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",

@@ -56617,6 +56617,150 @@
       "LocalizeJP": "外はやっぱり怖いけど……\nでも、そこに先生がいるならわたし……。"
     },
     {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "니하하하! 빠앙! 빠앙!",
+      "LocalizeJP": "に・は・は・はー！！バーン！バーン！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "니하하하! ……우와아악?!",
+      "LocalizeJP": "に・は・は・は！……うわぁっ！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "놀아볼까나! ……우와아악?!",
+      "LocalizeJP": "どうしようっかな～！……ちょっ！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "코유키, 컴백! ……우와아악?!",
+      "LocalizeJP": "コユキ・イズ・バック！……うええっ！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "쌓, 쌓였다! 쌓여 버렸어!",
+      "LocalizeJP": "そ、そんなことってあるんです！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이, 이 정도면 럭키, 겠죠……?!",
+      "LocalizeJP": "ラッキー、ですかね……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "제, 제 잘못은 아닌 것 같은데!",
+      "LocalizeJP": "私のせいじゃないんですけど！？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "역시! 저밖에 없죠?!",
+      "LocalizeJP": "やっぱり！私ですよね♪"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "갑시다!!!",
+      "LocalizeJP": "いきますよ～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우왁! 아니 근데 이번에는 내가 한 거 아니라고요!",
+      "LocalizeJP": "うぎゃあっ！私じゃないですってば～！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "니하하하! 고맙습니다, 선생님!",
+      "LocalizeJP": "にははっ！ありがとうございますっ、先生！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "주신 것은! 거절하지 않는 것이 예의! 고맙습니다!",
+      "LocalizeJP": "もらっちゃっていいんですか！？ありがとうございます！\nこれぞ世の理、ですね！にはっ！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이제 아무것도 무섭지 않다고요!\n……아니, 다 그렇다는 건 아니고!",
+      "LocalizeJP": "もう怖いものなんてなーい！\nあ、いえ、全部ってわけじゃないですけど、まぁ……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이, 이렇게 다 주신다고요……?\n이, 이러면 선생님한테 대체 뭐가 남죠……?",
+      "LocalizeJP": "こ、こんなにもらっちゃって本当に大丈夫なんですか！？\nせ、先生ちゃんと手元に残ってます？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선물이라니……! \n……오늘 무슨 날인가요?",
+      "LocalizeJP": "えっ？\n今日って何かの記念日でしたっけ？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님만은 풀 수 있겠죠.\n제 마음의 비밀번호를……!",
+      "LocalizeJP": "先生は当然、私の心のパスワードなんて\n分かってると思いますけど？聞きます？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이, 이렇게까지……!\n무, 물론 당연히 좋지만요!",
+      "LocalizeJP": "こ、こんなにしてもらっていいんですか！？\nいや、すごく嬉しいですけど……！"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 20056,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "니하하하! 역시 선생님이랑 같이 있을 때가, 제일 제일 즐겁다고요?!",
+      "LocalizeJP": "にははっ！\nやっぱ先生と一緒にいるときが一番楽しいですっ！"
+    },
+    {
       "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
       "CharacterVoiceGroupId": 10136,
       "Duration": 0,

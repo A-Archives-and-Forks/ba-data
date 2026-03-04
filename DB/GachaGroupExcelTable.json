@@ -121,6 +121,36 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 70,
+      "NameKr": "3차 일반 가챠",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 71,
+      "NameKr": "3차 일반 가챠 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 72,
+      "NameKr": "3차 일반 가챠 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 73,
+      "NameKr": "3차 일반 가챠 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 79,
+      "NameKr": "3차 일반 가챠 SSR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 100,
       "NameKr": "N 활동 보고서",
       "IsRecursive": false,
@@ -1707,6 +1737,216 @@
     {
       "ID": 110083,
       "NameKr": "2_4차 픽업 SSR 카요코(새해)",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120010,
+      "NameKr": "3_1차 픽업",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120011,
+      "NameKr": "3_1차 픽업 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120012,
+      "NameKr": "3_1차 픽업 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120013,
+      "NameKr": "3_1차 픽업 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120019,
+      "NameKr": "3_1차 픽업 SR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120022,
+      "NameKr": "3_1차 픽업 SR 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120023,
+      "NameKr": "3_1차 픽업 SSR 코유키",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120030,
+      "NameKr": "3_2차 픽업",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120031,
+      "NameKr": "3_2차 픽업 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120032,
+      "NameKr": "3_2차 픽업 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120033,
+      "NameKr": "3_2차 픽업 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120039,
+      "NameKr": "3_2차 픽업 SR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120042,
+      "NameKr": "3_2차 픽업 SR 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120043,
+      "NameKr": "3_2차 픽업 SSR 유우카(파자마)",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120050,
+      "NameKr": "3_3차 픽업",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120051,
+      "NameKr": "3_3차 픽업 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120052,
+      "NameKr": "3_3차 픽업 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120053,
+      "NameKr": "3_3차 픽업 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120059,
+      "NameKr": "3_3차 픽업 SR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120062,
+      "NameKr": "3_3차 픽업 SR 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120063,
+      "NameKr": "3_3차 픽업 SSR 노아(파자마)",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120070,
+      "NameKr": "3_4차 픽업",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120071,
+      "NameKr": "3_4차 픽업 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120072,
+      "NameKr": "3_4차 픽업 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120073,
+      "NameKr": "3_4차 픽업 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120079,
+      "NameKr": "3_4차 픽업 SR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120082,
+      "NameKr": "3_4차 픽업 SR 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120083,
+      "NameKr": "3_4차 픽업 SSR 하루나(새해)",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120090,
+      "NameKr": "3_5차 픽업",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120091,
+      "NameKr": "3_5차 픽업 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120092,
+      "NameKr": "3_5차 픽업 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120093,
+      "NameKr": "3_5차 픽업 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120099,
+      "NameKr": "3_5차 픽업 SR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120102,
+      "NameKr": "3_5차 픽업 SR 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 120103,
+      "NameKr": "3_5차 픽업 후우카(새해)",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -8115,6 +8355,36 @@
     {
       "ID": 700041,
       "NameKr": "2차_3성 모집 상점 확정 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 700050,
+      "NameKr": "3차_3성 모집 상점 기본",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 700051,
+      "NameKr": "3차_3성 모집 상점 기본 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 700052,
+      "NameKr": "3차_3성 모집 상점 기본 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 700053,
+      "NameKr": "3차_3성 모집 상점 기본 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 700061,
+      "NameKr": "3차_3성 모집 상점 확정 SSR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
