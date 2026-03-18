@@ -78317,6 +78317,1158 @@
       "StatValue": []
     },
     {
+      "CharacterId": 10137,
+      "FavorLevel": 2,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        50
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 3,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        50
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 4,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        50
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 5,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        50
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 6,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        75
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 7,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        75
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 8,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        75
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 9,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        75
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 10,
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        75
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 11,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        100,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 12,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        100,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 13,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        100,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 14,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        100,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 15,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        100,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 16,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        125,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 17,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        125,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 18,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        125,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 19,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        125,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 20,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        125,
+        10
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 21,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 22,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 23,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 24,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 25,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 26,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 27,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 28,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 29,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 30,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        31,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 31,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 32,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 33,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 34,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 35,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 36,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 37,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 38,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 39,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 40,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        46,
+        2
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 41,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 42,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 43,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 44,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 45,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 46,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 47,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 48,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 49,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 50,
+      "StatType": [
+        "MaxHP_Base",
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        77,
+        4
+      ]
+    },
+    {
+      "CharacterId": 10137,
+      "FavorLevel": 100,
+      "StatType": [],
+      "StatValue": []
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 2,
+      "StatType": [
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        5
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 3,
+      "StatType": [
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        5
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 4,
+      "StatType": [
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        5
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 5,
+      "StatType": [
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        5
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 6,
+      "StatType": [
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        7
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 7,
+      "StatType": [
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        7
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 8,
+      "StatType": [
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        7
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 9,
+      "StatType": [
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        7
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 10,
+      "StatType": [
+        "HealPower_Base"
+      ],
+      "StatValue": [
+        7
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 11,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        61
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 12,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        61
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 13,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        61
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 14,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        61
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 15,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        61
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 16,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        11,
+        74
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 17,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        11,
+        74
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 18,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        11,
+        74
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 19,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        11,
+        74
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 20,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        11,
+        74
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 21,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 22,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 23,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 24,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 25,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 26,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 27,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 28,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 29,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 30,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        3,
+        8
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 31,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 32,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 33,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 34,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 35,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 36,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 37,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 38,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 39,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 40,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        12
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 41,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 42,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 43,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 44,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 45,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 46,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 47,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 48,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 49,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 50,
+      "StatType": [
+        "HealPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        20
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "FavorLevel": 100,
+      "StatType": [],
+      "StatValue": []
+    },
+    {
       "CharacterId": 13000,
       "FavorLevel": 2,
       "StatType": [

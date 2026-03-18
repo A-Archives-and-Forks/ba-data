@@ -1097,6 +1097,22 @@
       "MaxScale": 1.7999999523162842
     },
     {
+      "Id": 10137,
+      "CharacterBodyCenterX": 7.130000114440918,
+      "CharacterBodyCenterY": 7.760000228881836,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6000000238418579,
+      "MaxScale": 1.7999999523162842
+    },
+    {
+      "Id": 10138,
+      "CharacterBodyCenterX": 8.8100004196167,
+      "CharacterBodyCenterY": 7.639999866485596,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6000000238418579,
+      "MaxScale": 1.7999999523162842
+    },
+    {
       "Id": 13000,
       "CharacterBodyCenterX": 8.699999809265137,
       "CharacterBodyCenterY": 6.75,

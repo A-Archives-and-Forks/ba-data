@@ -1339,6 +1339,126 @@
       "GuideTitle": "UI_Event_PlayGuide_Title_Text",
       "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_Arcade_854_19",
       "GuideText": "MINIGAME_CCG_848_PLAYGUIDE_19"
+    },
+    {
+      "Id": 180,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 0,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_1",
+      "GuideText": "FIELD_843_PLAYGUIDE_01"
+    },
+    {
+      "Id": 181,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 1,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_2",
+      "GuideText": "FIELD_843_PLAYGUIDE_02"
+    },
+    {
+      "Id": 182,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 2,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_3",
+      "GuideText": "FIELD_843_PLAYGUIDE_03"
+    },
+    {
+      "Id": 183,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 3,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_4",
+      "GuideText": "FIELD_843_PLAYGUIDE_04"
+    },
+    {
+      "Id": 184,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 4,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_5",
+      "GuideText": "FIELD_843_PLAYGUIDE_05"
+    },
+    {
+      "Id": 185,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 5,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_6",
+      "GuideText": "FIELD_843_PLAYGUIDE_06"
+    },
+    {
+      "Id": 186,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 6,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_7",
+      "GuideText": "FIELD_843_PLAYGUIDE_07"
+    },
+    {
+      "Id": 187,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 7,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_8",
+      "GuideText": "FIELD_843_PLAYGUIDE_08"
+    },
+    {
+      "Id": 188,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 8,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_9",
+      "GuideText": "FIELD_843_PLAYGUIDE_09"
+    },
+    {
+      "Id": 189,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 9,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_10",
+      "GuideText": "FIELD_843_PLAYGUIDE_11"
+    },
+    {
+      "Id": 190,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 10,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_11",
+      "GuideText": "FIELD_843_PLAYGUIDE_12"
+    },
+    {
+      "Id": 191,
+      "EventContentId": 10843,
+      "MiniGameType": "Field",
+      "IsPcBuild": false,
+      "DisplayOrder": 11,
+      "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_12",
+      "GuideText": "FIELD_843_PLAYGUIDE_10"
     }
   ]
 }

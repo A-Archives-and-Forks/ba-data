@@ -341,7 +341,7 @@
       "TargetKeyCode": "LeftShift",
       "IsDisplay": true,
       "IsUsed": true,
-      "IsLongPress": false,
+      "IsLongPress": true,
       "IgnorePosCheck": false,
       "IconPositionX": -14.0,
       "IconPositionY": -190.0,
@@ -353,7 +353,7 @@
       "TargetKeyCode": "RightShift",
       "IsDisplay": false,
       "IsUsed": true,
-      "IsLongPress": false,
+      "IsLongPress": true,
       "IgnorePosCheck": false,
       "IconPositionX": 0.0,
       "IconPositionY": 0.0,
@@ -365,7 +365,7 @@
       "TargetKeyCode": "LeftControl",
       "IsDisplay": true,
       "IsUsed": true,
-      "IsLongPress": false,
+      "IsLongPress": true,
       "IgnorePosCheck": false,
       "IconPositionX": -14.0,
       "IconPositionY": -190.0,
@@ -377,7 +377,7 @@
       "TargetKeyCode": "RightControl",
       "IsDisplay": false,
       "IsUsed": true,
-      "IsLongPress": false,
+      "IsLongPress": true,
       "IgnorePosCheck": false,
       "IconPositionX": 0.0,
       "IconPositionY": 0.0,
@@ -385,7 +385,7 @@
       "IconScaleY": 1.0
     },
     {
-      "Id": "UI_KeyMapping_UIUndercoverMain_BtnAction",
+      "Id": "UI_KeyMapping_UIUndercoverMain_BtnAction01",
       "TargetKeyCode": "Space",
       "IsDisplay": true,
       "IsUsed": true,
@@ -393,6 +393,42 @@
       "IgnorePosCheck": false,
       "IconPositionX": -14.0,
       "IconPositionY": -190.0,
+      "IconScaleX": 1.0,
+      "IconScaleY": 1.0
+    },
+    {
+      "Id": "UI_KeyMapping_UIUndercoverMain_BtnAction02",
+      "TargetKeyCode": "F",
+      "IsDisplay": true,
+      "IsUsed": true,
+      "IsLongPress": false,
+      "IgnorePosCheck": false,
+      "IconPositionX": -14.0,
+      "IconPositionY": -190.0,
+      "IconScaleX": 1.0,
+      "IconScaleY": 1.0
+    },
+    {
+      "Id": "UI_KeyMapping_UIUndercoverMain_BtnAction03",
+      "TargetKeyCode": "F",
+      "IsDisplay": true,
+      "IsUsed": true,
+      "IsLongPress": false,
+      "IgnorePosCheck": false,
+      "IconPositionX": 87.5,
+      "IconPositionY": -123.0,
+      "IconScaleX": 0.8500000238418579,
+      "IconScaleY": 0.8500000238418579
+    },
+    {
+      "Id": "UI_KeyMapping_UIUndercoverMain_BtnInventory",
+      "TargetKeyCode": "I",
+      "IsDisplay": false,
+      "IsUsed": true,
+      "IsLongPress": false,
+      "IgnorePosCheck": false,
+      "IconPositionX": 0.0,
+      "IconPositionY": 0.0,
       "IconScaleX": 1.0,
       "IconScaleY": 1.0
     },
@@ -1535,6 +1571,42 @@
       "IconPositionY": 0.0,
       "IconScaleX": 1.0,
       "IconScaleY": 1.0
+    },
+    {
+      "Id": "UI_KeyMapping_UIScenarioNew_UIQuestionSelectionElement1",
+      "TargetKeyCode": "Alpha1",
+      "IsDisplay": true,
+      "IsUsed": true,
+      "IsLongPress": false,
+      "IgnorePosCheck": false,
+      "IconPositionX": -698.0,
+      "IconPositionY": -91.0,
+      "IconScaleX": 1.2999999523162842,
+      "IconScaleY": 1.2999999523162842
+    },
+    {
+      "Id": "UI_KeyMapping_UIScenarioNew_UIQuestionSelectionElement2",
+      "TargetKeyCode": "Alpha2",
+      "IsDisplay": true,
+      "IsUsed": true,
+      "IsLongPress": false,
+      "IgnorePosCheck": false,
+      "IconPositionX": -698.0,
+      "IconPositionY": -91.0,
+      "IconScaleX": 1.2999999523162842,
+      "IconScaleY": 1.2999999523162842
+    },
+    {
+      "Id": "UI_KeyMapping_UIScenarioNew_UIQuestionSelectionElement3",
+      "TargetKeyCode": "Alpha3",
+      "IsDisplay": true,
+      "IsUsed": true,
+      "IsLongPress": false,
+      "IgnorePosCheck": false,
+      "IconPositionX": -698.0,
+      "IconPositionY": -91.0,
+      "IconScaleX": 1.2999999523162842,
+      "IconScaleY": 1.2999999523162842
     }
   ]
 }

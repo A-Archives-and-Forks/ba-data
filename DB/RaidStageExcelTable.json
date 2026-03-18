@@ -5825,6 +5825,54 @@
       "EchelonExtensionType": "Base"
     },
     {
+      "Id": 1078,
+      "UseBossIndex": false,
+      "UseBossAIPhaseSync": false,
+      "RaidBossGroup": "Goz_Outdoor",
+      "PortraitPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Goz_Insane_Lobby",
+      "BGPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Goz_LobbyBG_Outdoor",
+      "RaidCharacterId": 7308800,
+      "BossCharacterId": [
+        7308800
+      ],
+      "Difficulty": "Lunatic",
+      "DifficultyOpenCondition": false,
+      "MaxPlayerCount": 1,
+      "RaidRoomLifeTime": 3600000,
+      "BattleDuration": 240000,
+      "GroundId": 208200008,
+      "RaidBossGroupType": "Goz",
+      "EnterTimeLine": "",
+      "TacticEnvironment": "None",
+      "DefaultClearScore": 17710000,
+      "MaximumScore": 10368000,
+      "PerSecondMinusScore": 28800,
+      "HPPercentScore": 26315000,
+      "MinimumAcquisitionScore": 44025000,
+      "MaximumAcquisitionScore": 54393000,
+      "RaidRewardGroupId": 807,
+      "BattleReadyTimelinePath": [
+        "Timeline/Timeline_Goz_Outdoor_insane_OP",
+        "Timeline/Timeline_Goz_Outdoor_Insane_PhaseChange"
+      ],
+      "BattleReadyTimelinePhaseStart": [
+        0,
+        1
+      ],
+      "BattleReadyTimelinePhaseEnd": [
+        0,
+        1
+      ],
+      "VictoryTimelinePath": "Timeline/Timeline_Victory",
+      "PhaseChangeTimelinePath": "-1",
+      "TimeLinePhase": 2,
+      "EnterScenarioKey": 0,
+      "ClearScenarioKey": 0,
+      "ShowSkillCard": true,
+      "BossBGInfoKey": 276060001,
+      "EchelonExtensionType": "Base"
+    },
+    {
       "Id": 1102201,
       "UseBossIndex": true,
       "UseBossAIPhaseSync": false,

@@ -106057,8 +106057,8 @@
       "ExternalBTTrigger": "HPUnder",
       "TriggerArgument": "65000000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200006,
@@ -106067,8 +106067,8 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "65000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200006,
@@ -106387,8 +106387,8 @@
       "ExternalBTTrigger": "HPUnder",
       "TriggerArgument": "65000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200106,
@@ -106397,8 +106397,8 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "65000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200106,
@@ -106517,8 +106517,8 @@
       "ExternalBTTrigger": "HPUnder",
       "TriggerArgument": "12350000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200206,
@@ -106527,8 +106527,8 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "45000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200206,
@@ -106647,8 +106647,8 @@
       "ExternalBTTrigger": "HPUnder",
       "TriggerArgument": "42250000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200306,
@@ -106657,8 +106657,8 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "45000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200306,
@@ -106777,8 +106777,8 @@
       "ExternalBTTrigger": "HPUnder",
       "TriggerArgument": "65000000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200406,
@@ -106787,8 +106787,8 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "45000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhaseKeepATG",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ForceChangePhaseKeepATG",
+      "BehaviorArgument": "2,1"
     },
     {
       "ExternalBTId": 570200406,

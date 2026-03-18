@@ -2669,6 +2669,27 @@
       "PresetType": [
         "AllCharacter"
       ]
+    },
+    {
+      "CharacterId": 10137,
+      "ArenaSimulatorFixed": false,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
+      "CharacterId": 10138,
+      "ArenaSimulatorFixed": false,
+      "PresetType": [
+        "AllCharacter"
+      ]
+    },
+    {
+      "CharacterId": 20057,
+      "ArenaSimulatorFixed": false,
+      "PresetType": [
+        "AllCharacter"
+      ]
     }
   ]
 }

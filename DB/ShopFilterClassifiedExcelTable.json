@@ -5473,6 +5473,22 @@
       "GoodsId": 20253
     },
     {
+      "Id": 20254,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Valkyrie",
+      "GoodsId": 20254
+    },
+    {
+      "Id": 20255,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "WildHunt",
+      "GoodsId": 20255
+    },
+    {
       "Id": 50000,
       "CategoryType": "SecretStoneGrowth",
       "ConsumeParcelType": "Item",
@@ -6975,6 +6991,14 @@
       "ConsumeParcelId": 18,
       "ShopFilterType": "SecretStone",
       "GoodsId": 80073
+    },
+    {
+      "Id": 80074,
+      "CategoryType": "MasterCoin",
+      "ConsumeParcelType": "Currency",
+      "ConsumeParcelId": 18,
+      "ShopFilterType": "SecretStone",
+      "GoodsId": 80074
     },
     {
       "Id": 90000,
@@ -11623,6 +11647,22 @@
       "ConsumeParcelId": 4,
       "ShopFilterType": "Furniture",
       "GoodsId": 172221
+    },
+    {
+      "Id": 172222,
+      "CategoryType": "GemWeekly",
+      "ConsumeParcelType": "Currency",
+      "ConsumeParcelId": 4,
+      "ShopFilterType": "Furniture",
+      "GoodsId": 172222
+    },
+    {
+      "Id": 172223,
+      "CategoryType": "GemWeekly",
+      "ConsumeParcelType": "Currency",
+      "ConsumeParcelId": 4,
+      "ShopFilterType": "Furniture",
+      "GoodsId": 172223
     }
   ]
 }
