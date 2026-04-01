@@ -49712,7 +49712,8 @@
       "Tags": [
         "Dn",
         "A",
-        "dT"
+        "dT",
+        "Id"
       ],
       "CraftQualityTier0": 100,
       "CraftQualityTier1": 100,
@@ -49724,7 +49725,9 @@
       "EventCollectionId": 0,
       "FurnitureBubbleOffsetX": 0,
       "FurnitureBubbleOffsetY": 0,
-      "CafeCharacterStateReq": [],
+      "CafeCharacterStateReq": [
+        "R1_211302"
+      ],
       "CafeCharacterStateAdd": [],
       "CafeCharacterStateMake": [],
       "CafeCharacterStateOnly": [],

@@ -18404,6 +18404,83 @@
       "SpineLocalPosY": 0
     },
     {
+      "Name": 216983805,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0307",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0307LobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3727106626,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0307",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0307LobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2354407557,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0307",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0307LobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1550572952,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0307",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0307LobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 27085192,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0307",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0307LobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3383106816,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0307",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0307LobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1061558669,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCH0307",
+      "BGType": "Spine",
+      "AnimationRoot": "CH0307LobbySpine",
+      "AnimationName": "Talk_06_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
       "Name": 3740388546,
       "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_SC51000_01",

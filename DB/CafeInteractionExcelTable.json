@@ -5030,7 +5030,9 @@
       "FavorEmoticonRewardParcelType": "FavorExp",
       "FavorEmoticonRewardId": 0,
       "FavorEmoticonRewardAmount": 15,
-      "CafeCharacterState": []
+      "CafeCharacterState": [
+        "R1_211302"
+      ]
     },
     {
       "CharacterId": 23000,

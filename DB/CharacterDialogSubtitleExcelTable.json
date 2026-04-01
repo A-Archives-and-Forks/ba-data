@@ -18545,6 +18545,70 @@
       "LocalizeJP": "ちっちゃいからってバカにしたら痛い目見るわよ。\nこう見えても、銃の扱いだって上手なんだから！\n撃った跡で絵が描けるくらい……って本当よ！？"
     },
     {
+      "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "블루, 아카이브. 우후후.",
+      "LocalizeJP": "ブルー、アーカイブ。うふふっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "밀레니엄 사이언스 스쿨, 콜 사인 03 무로카사 아카네.\n학생으로서 인사드립니다. 후훗, 원래 학생이지만요?",
+      "LocalizeJP": "ミレニアムサイエンススクール、コールサインゼロスリー室笠アカネ。\n生徒としてご挨拶申し上げます。ふふっ、もともと生徒なのですけどね？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "일단 케이크를 준비하고 싶네요.",
+      "LocalizeJP": "ひとまずケーキを用意したいところですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "기분이 포근해지는 곳이네요.",
+      "LocalizeJP": "ここはなんだか落ち着きますね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저 가구, 부실에도 두고 싶네요.",
+      "LocalizeJP": "あの家具、部室にも置きたいですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(청소가 잘 되어 있지만…… 마무리가 아쉽네요.)",
+      "LocalizeJP": "（掃除が行き届いてはいますが……詰めが甘いですね）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "(이 넓이…… 필요한 폭약량은……)",
+      "LocalizeJP": "（この広さ……必要な爆薬の量は……）"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "키보토스에 있어서, 총은 필수품이죠.\n메이드이든 학생이든, 마찬가지고요.\n선생님께 받은 이 '청소도구'와 함께, 앞으로도 정진하겠습니다.",
+      "LocalizeJP": "キヴォトスにおいて、銃は必需品です。\nそれはメイドだろうと、生徒だろうと変わりません。\n数多ある銃の中……\n先生から頂戴したこの「掃除道具」と共に、これからも精進いたしますね。"
+    },
+    {
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
       "CharacterId": 10014,
       "Duration": 0,
@@ -48750,7 +48814,7 @@
       "Duration": 0,
       "Separate": false,
       "LocalizeKR": "선생님도 휴식, 잊지 마세요.",
-      "LocalizeJP": "先生も休憩を忘れずに！"
+      "LocalizeJP": "先生も休息を忘れずに！"
     },
     {
       "LocalizeCVGroup": "CVGroup_UICarrierLobby_Idle5",
@@ -49774,7 +49838,7 @@
       "Duration": 0,
       "Separate": false,
       "LocalizeKR": "뭐라도 될 검다!\n선생님하고 함께니까!",
-      "LocalizeJP": "先生と一緒だし\nなんとかなるっす！"
+      "LocalizeJP": "先生と一緒だし、なんとかなるっす！"
     },
     {
       "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaPrize1",
@@ -50623,6 +50687,190 @@
       "Separate": false,
       "LocalizeKR": "뭐, 이것도\n나쁘진 않다랄까……요?",
       "LocalizeJP": "ま、こういうのも悪くないかも……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "기다리고 있었습니다,\n선생님.",
+      "LocalizeJP": "お待ちしておりました、先生。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "밀레니엄의 안내는\n맡겨주세요.",
+      "LocalizeJP": "ミレニアムの案内はお任せください。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "가고 싶은 곳이\n있으시다면 부담 없이\n말씀 주세요.",
+      "LocalizeJP": "行きたい場所があれば、遠慮なく仰ってくださいね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "평소에도\n북적북적하지만……",
+      "LocalizeJP": "普段から賑やかですが……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "오늘 밀레니엄은\n한층 더하네요.",
+      "LocalizeJP": "今日のミレニアムは一入ですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "활기가 있는 건,\n좋은 일이지만요.",
+      "LocalizeJP": "活気があるのは、良いことですが。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "드디어 마무리네요.",
+      "LocalizeJP": "いよいよ大詰めですね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "EXPO도,\n떠들썩한 사건도.",
+      "LocalizeJP": "EXPOも、人騒がせな事件も。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "밀레니엄 EXPO,\n즐겨주셨나요?",
+      "LocalizeJP": "ミレニアムEXPO、お楽しみいただけましたか？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저는 선생님과\n함께할 수 있어\n영광이었습니다.",
+      "LocalizeJP": "私は先生とご一緒できて光栄でした。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "……네, 정말로요.",
+      "LocalizeJP": "……ええ、とても。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "이렇게 선생님과\n시간을 보내는 것이……",
+      "LocalizeJP": "こうして先生と時間を過ごせること……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저는,\n정말로 좋네요.",
+      "LocalizeJP": "私は、それが本当に嬉しいのです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "배가 고프면\n말씀해 주세요.",
+      "LocalizeJP": "お腹が空いたら仰ってくださいね。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "좋은 학생 식당을\n알고 있답니다.",
+      "LocalizeJP": "オススメの学食があるんです。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "메이드인 저라면\n당연히 직접\n요리해 드리겠지만……",
+      "LocalizeJP": "「メイド」の私であれば手料理をご用意するところですが……。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "지금 저는,\n'학생'이니까요.",
+      "LocalizeJP": "今は、「生徒」ですから。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "부르셨나요, 선생님?",
+      "LocalizeJP": "お呼びでしょうか、先生？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "그냥 불러 보셨다고요?",
+      "LocalizeJP": "呼んだだけ、ですか……？"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "우후훗.\n어머나.",
+      "LocalizeJP": "うふふっ、あらあら。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "후후.",
+      "LocalizeJP": "ふふっ。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "저는 그렇게까지\n간지러움을\n잘 타지 않는답니다.",
+      "LocalizeJP": "私、くすぐりには強い方でして。"
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+      "CharacterId": 20057,
+      "Duration": 0,
+      "Separate": false,
+      "LocalizeKR": "선생님께서는……\n어떠신지\n알려주시겠어요?",
+      "LocalizeJP": "先生は……どうなのか教えていただけますか？"
     }
   ]
 }
