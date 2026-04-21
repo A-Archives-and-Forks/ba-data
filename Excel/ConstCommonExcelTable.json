@@ -7,7 +7,6 @@
       "HardStageCount": 3,
       "TacticRankClearTime": 120000,
       "BaseTimeScale": 10000,
-      "GachaPercentage": 2000,
       "AcademyFavorZoneId": 1,
       "CafePresetSlotCount": 10,
       "CafeMonologueIntervalMillisec": 5000,
@@ -213,7 +212,8 @@
       "CafeCopyPresetSlotCount": 10,
       "ExpiryProductDailyRecordItemReceiveDay": 7,
       "NewbieUserStandardDay": 28,
-      "NewbieStateHoldDay": 28
+      "NewbieStateHoldDay": 28,
+      "ClearDeckEchelonShowMaxCount": 20
     }
   ]
 }

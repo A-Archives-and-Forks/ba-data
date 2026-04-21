@@ -3051,6 +3051,13 @@
       "Currency": false,
       "Inventory": false,
       "Mail": false
+    },
+    {
+      "Protocol": "SNS_PostRead",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
     }
   ]
 }
