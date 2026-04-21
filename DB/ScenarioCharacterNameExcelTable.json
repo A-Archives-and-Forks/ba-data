@@ -6084,6 +6084,28 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
+      "CharacterName": 1431166182,
+      "ProductionStep": "Release",
+      "NameKR": "에리카",
+      "NicknameKR": "반짝반짝부",
+      "NameJP": "エリカ",
+      "NicknameJP": "キラキラ部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_erika",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_erika"
+    },
+    {
+      "CharacterName": 242437614,
+      "ProductionStep": "Release",
+      "NameKR": "키라라&에리카",
+      "NicknameKR": "반짝반짝부",
+      "NameJP": "キララ&エリカ",
+      "NicknameJP": "キラキラ部",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
       "CharacterName": 3261875659,
       "ProductionStep": "Release",
       "NameKR": "아즈사",
@@ -6203,6 +6225,50 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0011",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0011_1"
+    },
+    {
+      "CharacterName": 4530323,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0289",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0289"
+    },
+    {
+      "CharacterName": 3908743198,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "게마트리아",
+      "NameJP": "？？？",
+      "NicknameJP": "ゲマトリア",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0265",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 519967411,
+      "ProductionStep": "Release",
+      "NameKR": "데칼코마니",
+      "NicknameKR": "게마트리아",
+      "NameJP": "デカルコマニー",
+      "NicknameJP": "ゲマトリア",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0265",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0265"
+    },
+    {
+      "CharacterName": 298974303,
+      "ProductionStep": "Release",
+      "NameKR": "오웰",
+      "NicknameKR": "게마트리아",
+      "NameJP": "オーウェル",
+      "NicknameJP": "ゲマトリア",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0265",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0265"
     },
     {
       "CharacterName": 693860897,
@@ -8469,6 +8535,94 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0273",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0119"
+    },
+    {
+      "CharacterName": 4400972,
+      "ProductionStep": "Release",
+      "NameKR": "린",
+      "NicknameKR": "총학생회",
+      "NameJP": "リン",
+      "NicknameJP": "連邦生徒会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0291",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0291"
+    },
+    {
+      "CharacterName": 1217508420,
+      "ProductionStep": "Release",
+      "NameKR": "카야",
+      "NicknameKR": "총학생회",
+      "NameJP": "カヤ",
+      "NicknameJP": "連邦生徒会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0292",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0292"
+    },
+    {
+      "CharacterName": 1539297525,
+      "ProductionStep": "Release",
+      "NameKR": "총학생회장",
+      "NicknameKR": "총학생회",
+      "NameJP": "連邦生徒会長",
+      "NicknameJP": "連邦生徒会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0290",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0290"
+    },
+    {
+      "CharacterName": 3908733536,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0290",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2492889746,
+      "ProductionStep": "Release",
+      "NameKR": "???",
+      "NicknameKR": "",
+      "NameJP": "？？？",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0040",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1168701028,
+      "ProductionStep": "Release",
+      "NameKR": "유키노",
+      "NicknameKR": "FOX 소대",
+      "NameJP": "ユキノ",
+      "NicknameJP": "FOX小隊",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0293",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0293"
+    },
+    {
+      "CharacterName": 4197334787,
+      "ProductionStep": "Release",
+      "NameKR": "나츠키",
+      "NicknameKR": "백귀야행",
+      "NameJP": "ナツキ",
+      "NicknameJP": "百鬼夜行",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0182",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0182"
+    },
+    {
+      "CharacterName": 512282825,
+      "ProductionStep": "Release",
+      "NameKR": "린",
+      "NicknameKR": "총학생회",
+      "NameJP": "リン",
+      "NicknameJP": "連邦生徒会",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
       "CharacterName": 1800434827,
@@ -15615,6 +15769,17 @@
       "NameKR": "폭주족 B",
       "NicknameKR": "",
       "NameJP": "暴走族B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 201978790,
+      "ProductionStep": "Release",
+      "NameKR": "폭주족 C",
+      "NicknameKR": "",
+      "NameJP": "暴走族C",
       "NicknameJP": "",
       "Shape": "None",
       "SpinePrefabName": "",
@@ -25430,7 +25595,7 @@
       "NicknameJP": "",
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_sukeban_HMG",
-      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Sukeban_SR1"
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Sukeban_HMG1"
     },
     {
       "CharacterName": 1440618627,
@@ -25576,6 +25741,17 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
     },
     {
+      "CharacterName": 1569463050,
+      "ProductionStep": "Release",
+      "NameKR": "시민 B",
+      "NicknameKR": "",
+      "NameJP": "市民B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal5",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal5"
+    },
+    {
       "CharacterName": 2592658250,
       "ProductionStep": "Release",
       "NameKR": "시민 C",
@@ -25585,6 +25761,28 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0087",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0087"
+    },
+    {
+      "CharacterName": 1277668724,
+      "ProductionStep": "Release",
+      "NameKR": "시민 C",
+      "NicknameKR": "",
+      "NameJP": "市民C",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0086",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0086"
+    },
+    {
+      "CharacterName": 1665558808,
+      "ProductionStep": "Release",
+      "NameKR": "시민 D",
+      "NicknameKR": "",
+      "NameJP": "市民D",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal7",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal7"
     },
     {
       "CharacterName": 3285836043,
@@ -26291,6 +26489,28 @@
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0282"
     },
     {
+      "CharacterName": 275094093,
+      "ProductionStep": "Release",
+      "NameKR": "A",
+      "NicknameKR": "",
+      "NameJP": "",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/_Test/CharacterSpine_Test_A",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2415433654,
+      "ProductionStep": "Release",
+      "NameKR": "B",
+      "NicknameKR": "",
+      "NameJP": "",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/_Test/CharacterSpine_Test_B",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
       "CharacterName": 3081901788,
       "ProductionStep": "Release",
       "NameKR": "사회과 강사",
@@ -26945,6 +27165,237 @@
       "NameKR": "@anonymous",
       "NicknameKR": "",
       "NameJP": "@anonymous",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3372939424,
+      "ProductionStep": "Release",
+      "NameKR": "지나가던 학생",
+      "NicknameKR": "",
+      "NameJP": "通りすがりの生徒",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0026",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0026"
+    },
+    {
+      "CharacterName": 1597559175,
+      "ProductionStep": "Release",
+      "NameKR": "방송부 스태프",
+      "NicknameKR": "",
+      "NameJP": "放送部の生徒",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 4193827708,
+      "ProductionStep": "Release",
+      "NameKR": "시민",
+      "NicknameKR": "",
+      "NameJP": "市民",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 1700394502,
+      "ProductionStep": "Release",
+      "NameKR": "노점상인",
+      "NicknameKR": "",
+      "NameJP": "露天商",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_market_animal2",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal2"
+    },
+    {
+      "CharacterName": 2278394279,
+      "ProductionStep": "Release",
+      "NameKR": "육상부원 A",
+      "NicknameKR": "",
+      "NameJP": "陸上部員A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0294",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0294"
+    },
+    {
+      "CharacterName": 2513172022,
+      "ProductionStep": "Release",
+      "NameKR": "육상부원 B",
+      "NicknameKR": "",
+      "NameJP": "陸上部員B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0294",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0294"
+    },
+    {
+      "CharacterName": 1861425475,
+      "ProductionStep": "Release",
+      "NameKR": "육상부원 C",
+      "NicknameKR": "",
+      "NameJP": "陸上部員C",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0294",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0294"
+    },
+    {
+      "CharacterName": 2476084679,
+      "ProductionStep": "Release",
+      "NameKR": "육상부원 D",
+      "NicknameKR": "",
+      "NameJP": "陸上部員D",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0294",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0294"
+    },
+    {
+      "CharacterName": 1873315985,
+      "ProductionStep": "Release",
+      "NameKR": "녹음된 음성",
+      "NicknameKR": "",
+      "NameJP": "録音音声",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2643398448,
+      "ProductionStep": "Release",
+      "NameKR": "쿠네쿠네",
+      "NicknameKR": "",
+      "NameJP": "くねくね",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0295",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0295"
+    },
+    {
+      "CharacterName": 3298465086,
+      "ProductionStep": "Release",
+      "NameKR": "촬영 감독",
+      "NicknameKR": "",
+      "NameJP": "撮影監督",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 764968894,
+      "ProductionStep": "Release",
+      "NameKR": "시민",
+      "NicknameKR": "",
+      "NameJP": "市民",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0086",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0086"
+    },
+    {
+      "CharacterName": 4195990450,
+      "ProductionStep": "Release",
+      "NameKR": "폭주족 보스 A",
+      "NicknameKR": "",
+      "NameJP": "暴走族ボスA",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 660835935,
+      "ProductionStep": "Release",
+      "NameKR": "우울한 학생",
+      "NicknameKR": "",
+      "NameJP": "ダウナーな生徒",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0024",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0024"
+    },
+    {
+      "CharacterName": 2529531381,
+      "ProductionStep": "Release",
+      "NameKR": "신상품 홍보 직원",
+      "NicknameKR": "",
+      "NameJP": "広報スタッフ",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 1381013734,
+      "ProductionStep": "Release",
+      "NameKR": "학생",
+      "NicknameKR": "",
+      "NameJP": "生徒",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_Justice_normal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Justice_normal1"
+    },
+    {
+      "CharacterName": 733207445,
+      "ProductionStep": "Release",
+      "NameKR": "부장",
+      "NicknameKR": "",
+      "NameJP": "部長",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 493507490,
+      "ProductionStep": "Release",
+      "NameKR": "부원 A",
+      "NicknameKR": "",
+      "NameJP": "部員A",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 4098952175,
+      "ProductionStep": "Release",
+      "NameKR": "부원 B",
+      "NicknameKR": "",
+      "NameJP": "部員B",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2110485185,
+      "ProductionStep": "Release",
+      "NameKR": "부원 C",
+      "NicknameKR": "",
+      "NameJP": "部員C",
+      "NicknameJP": "",
+      "Shape": "None",
+      "SpinePrefabName": "",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3212826992,
+      "ProductionStep": "Release",
+      "NameKR": "부원 D",
+      "NicknameKR": "",
+      "NameJP": "部員D",
       "NicknameJP": "",
       "Shape": "None",
       "SpinePrefabName": "",

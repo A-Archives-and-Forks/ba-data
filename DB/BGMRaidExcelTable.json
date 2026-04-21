@@ -821,6 +821,16 @@
       "BGMId": 72
     },
     {
+      "StageId": 205100008,
+      "PhaseIndex": 0,
+      "BGMId": 78
+    },
+    {
+      "StageId": 205100008,
+      "PhaseIndex": 1,
+      "BGMId": 72
+    },
+    {
       "StageId": 254300001,
       "PhaseIndex": 0,
       "BGMId": 1301

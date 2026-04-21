@@ -1977,6 +1977,25 @@
       "ParticleRemovedSocket": "None"
     },
     {
+      "StringID": 3506298281,
+      "IconSpriteName": "Combat_Icon_Special_CH0242_ExtraPassive_01",
+      "IconDispelColor": [
+        1.0,
+        0.3100000023841858,
+        0.19599999487400055
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": "None"
+    },
+    {
       "StringID": 3913311100,
       "IconSpriteName": "",
       "IconDispelColor": [],
@@ -3973,6 +3992,101 @@
     {
       "StringID": 3797373190,
       "IconSpriteName": "Combat_Icon_Special_CH0337_Ex",
+      "IconDispelColor": [
+        1.0,
+        0.7839999794960022,
+        0.19599999487400055
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": "None"
+    },
+    {
+      "StringID": 3407672411,
+      "IconSpriteName": "Combat_Icon_Buff_TacticalShieldHealByHit_Damaged",
+      "IconDispelColor": [
+        1.0,
+        0.3100000023841858,
+        0.19599999487400055
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": "None"
+    },
+    {
+      "StringID": 4248089112,
+      "IconSpriteName": "Combat_Icon_Special_CH0172_Ex",
+      "IconDispelColor": [
+        1.0,
+        0.7839999794960022,
+        0.19599999487400055
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": "None"
+    },
+    {
+      "StringID": 3980410343,
+      "IconSpriteName": "Combat_Icon_Buff_TacticalShield",
+      "IconDispelColor": [
+        1.0,
+        0.3100000023841858,
+        0.19599999487400055
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": "None"
+    },
+    {
+      "StringID": 2191629894,
+      "IconSpriteName": "Combat_Icon_Special_CH0174_Ex",
+      "IconDispelColor": [
+        1.0,
+        0.7839999794960022,
+        0.19599999487400055
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": "None"
+    },
+    {
+      "StringID": 4126491961,
+      "IconSpriteName": "Combat_Icon_Special_CH0076_Ex",
       "IconDispelColor": [
         1.0,
         0.7839999794960022,

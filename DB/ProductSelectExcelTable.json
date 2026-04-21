@@ -45,6 +45,28 @@
       ]
     },
     {
+      "Id": 1690,
+      "ProductSelectSubType": "AutoSelect",
+      "ProductId": "com.yostarjp.bluearchive.r91_202604_select_presentpackage_2000",
+      "StoreType": "GooglePlay",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        800
+      ],
+      "ProductSelectionSlot": [
+        1002
+      ]
+    },
+    {
       "Id": 5652,
       "ProductSelectSubType": "Select",
       "ProductId": "com.yostarjp.bluearchive.r86_202511_eleph_select_normal",
@@ -86,6 +108,50 @@
       ],
       "ProductSelectionSlot": [
         1001
+      ]
+    },
+    {
+      "Id": 5690,
+      "ProductSelectSubType": "AutoSelect",
+      "ProductId": "com.yostarjp.bluearchive.r91_202604_select_presentpackage_2000",
+      "StoreType": "AppStore",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        800
+      ],
+      "ProductSelectionSlot": [
+        1002
+      ]
+    },
+    {
+      "Id": 105683,
+      "ProductSelectSubType": "AutoSelect",
+      "ProductId": "com.yostarjp.bluearchive.r91_202604_select_presentpackage_2000",
+      "StoreType": "PCStore",
+      "Price": 2000,
+      "PriceReference": "",
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 5,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        800
+      ],
+      "ProductSelectionSlot": [
+        1002
       ]
     }
   ]

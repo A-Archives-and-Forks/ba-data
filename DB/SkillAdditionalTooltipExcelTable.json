@@ -224,6 +224,11 @@
       "GroupId": 57010010341,
       "AdditionalSkillGroupId": "EN0020Ex06",
       "ShowSkillSlot": "Ex"
+    },
+    {
+      "GroupId": 1014020000,
+      "AdditionalSkillGroupId": "CH0173ExtraPassive02",
+      "ShowSkillSlot": "ExtraPassive"
     }
   ]
 }
