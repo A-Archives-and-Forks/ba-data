@@ -3541,6 +3541,21 @@
       ]
     },
     {
+      "Id": 6203,
+      "Nation": [
+        "All"
+      ],
+      "VideoPath": [
+        "Video/Gacha_Banner_260520_1"
+      ],
+      "SoundPath": [
+        "0"
+      ],
+      "SoundVolume": [
+        1.0
+      ]
+    },
+    {
       "Id": 7000,
       "Nation": [
         "All"

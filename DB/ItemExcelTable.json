@@ -10063,7 +10063,9 @@
         "GW",
         "Hs",
         "Ic",
-        "ID"
+        "ID",
+        "II",
+        "Ii"
       ],
       "IsCollaboration": false,
       "CraftQualityTier0": 20,
@@ -11260,7 +11262,9 @@
         "Hz",
         "hA",
         "hl",
-        "hM"
+        "hM",
+        "II",
+        "Ii"
       ],
       "IsCollaboration": false,
       "CraftQualityTier0": 50,
@@ -24963,7 +24967,7 @@
       "LocalizeEtcId": 4031209358,
       "ItemCategory": "SecretStone",
       "Quality": 9,
-      "Icon": "",
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_erika",
       "SpriteName": "",
       "StackableMax": 999999,
       "StackableFunction": 0,

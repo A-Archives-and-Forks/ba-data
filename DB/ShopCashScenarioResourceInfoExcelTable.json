@@ -177,11 +177,6 @@
     },
     {
       "ScenarioResrouceInfoId": 2,
-      "ShopCashId": 105107,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 2,
       "ShopCashId": 105113,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
@@ -372,11 +367,6 @@
     },
     {
       "ScenarioResrouceInfoId": 3,
-      "ShopCashId": 105107,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 3,
       "ShopCashId": 105113,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
@@ -567,11 +557,6 @@
     },
     {
       "ScenarioResrouceInfoId": 4,
-      "ShopCashId": 105107,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 4,
       "ShopCashId": 105113,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
@@ -762,11 +747,6 @@
     },
     {
       "ScenarioResrouceInfoId": 5,
-      "ShopCashId": 105107,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 5,
       "ShopCashId": 105113,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
@@ -957,11 +937,6 @@
     },
     {
       "ScenarioResrouceInfoId": 6,
-      "ShopCashId": 105107,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 6,
       "ShopCashId": 105113,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
@@ -1152,11 +1127,6 @@
     },
     {
       "ScenarioResrouceInfoId": 7,
-      "ShopCashId": 105107,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 7,
       "ShopCashId": 105113,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
@@ -1347,11 +1317,6 @@
     },
     {
       "ScenarioResrouceInfoId": 10,
-      "ShopCashId": 105107,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 10,
       "ShopCashId": 105113,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
@@ -1538,11 +1503,6 @@
     {
       "ScenarioResrouceInfoId": 11,
       "ShopCashId": 105006,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 11,
-      "ShopCashId": 105107,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
     {
@@ -1737,11 +1697,6 @@
     },
     {
       "ScenarioResrouceInfoId": 12,
-      "ShopCashId": 105107,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 12,
       "ShopCashId": 105113,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
@@ -1928,11 +1883,6 @@
     {
       "ScenarioResrouceInfoId": 13,
       "ShopCashId": 105006,
-      "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
-    },
-    {
-      "ScenarioResrouceInfoId": 13,
-      "ShopCashId": 105107,
       "IconPath": "UIs/01_Common/26_ShopContent/Goods_Icon_Gem_10000_Preset_2"
     },
     {

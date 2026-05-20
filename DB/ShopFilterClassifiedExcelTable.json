@@ -5529,6 +5529,14 @@
       "GoodsId": 20259
     },
     {
+      "Id": 20260,
+      "CategoryType": "SecretStone",
+      "ConsumeParcelType": "Item",
+      "ConsumeParcelId": 23,
+      "ShopFilterType": "Gehenna",
+      "GoodsId": 20260
+    },
+    {
       "Id": 50000,
       "CategoryType": "SecretStoneGrowth",
       "ConsumeParcelType": "Item",
