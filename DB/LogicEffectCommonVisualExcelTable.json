@@ -4102,6 +4102,44 @@
       "ParticleApplySocket": "None",
       "ParticleRemovedPath": "",
       "ParticleRemovedSocket": "None"
+    },
+    {
+      "StringID": 720652393,
+      "IconSpriteName": "Combat_Icon_Special_CH0247_ExtraPassive",
+      "IconDispelColor": [
+        1.0,
+        0.7839999794960022,
+        0.19599999487400055
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": "None"
+    },
+    {
+      "StringID": 2087520407,
+      "IconSpriteName": "Combat_Icon_Debuff_EN0022_Dummy",
+      "IconDispelColor": [
+        0.24699999392032623,
+        0.6190000176429749,
+        0.9300000071525574
+      ],
+      "ParticleEnterPath": "",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "",
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "",
+      "ParticleRemovedSocket": "None"
     }
   ]
 }
